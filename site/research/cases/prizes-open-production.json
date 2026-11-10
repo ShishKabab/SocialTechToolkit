@@ -1,0 +1,1671 @@
+[
+  {
+    "id": "ansari-xprize-demonstration",
+    "title": "Ansari XPRIZE: a winning flight is not an industry",
+    "question": "What can a prize accomplish when developing the winning invention costs more than the reward?",
+    "period": "1996–2004; commercialization follow-up through 2023",
+    "location": "Mojave, California, United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T230",
+      "T228"
+    ],
+    "summary": "The Ansari XPRIZE offered $10 million for a privately funded spacecraft that could reach space twice within two weeks. Paul Allen financed Burt Rutan’s team to build SpaceShipOne, which won in 2004. The reward gave the team a public target, but a wealthy backer made the attempt possible. Turning the achievement into a commercial passenger service took much longer.",
+    "outcome": "mixed",
+    "outcome_summary": "The team achieved the flight target and its technology was licensed to Virgin Galactic. The demonstration succeeded; commercial service followed in 2023, after a separate development program. The prize alone could neither pay for the winning project nor carry it through that transition.",
+    "observations": [
+      {
+        "claim": "SpaceShipOne won the $10 million competition in 2004 by completing the required repeat flights.",
+        "source_ids": [
+          "museum"
+        ]
+      },
+      {
+        "claim": "Allen put the project’s total cost at $28 million in his memoir—nearly three times the prize money. The team therefore needed substantial funding before it could collect the reward.",
+        "source_ids": [
+          "cost"
+        ]
+      },
+      {
+        "claim": "Virgin Galactic licensed the technology and began commercial service in 2023, nineteen years after the prize-winning flights.",
+        "source_ids": [
+          "organizer"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "The target and public deadline may have coordinated a well-financed team more than the purse financed its engineering.",
+        "status": "plausible",
+        "source_ids": [
+          "cost",
+          "organizer"
+        ],
+        "alternative": "Allen’s existing ambitions and Rutan’s capabilities might have produced a similar demonstration without a prize."
+      },
+      {
+        "claim": "The demonstration may have made subsequent licensing easier by reducing uncertainty about feasibility.",
+        "status": "plausible",
+        "source_ids": [
+          "museum",
+          "cost"
+        ],
+        "alternative": "The purchaser could have valued the team, intellectual property, or publicity even without the qualifying flights."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "A prize can set a clear target while leaving entrants to find the money and expertise needed to reach it. A promising team without a backer may never get to compete.",
+      "A successful demonstration leaves further work: adapting the design, operating repeatedly, finding customers, and paying for development. Those tasks need their own institutions and funding."
+    ],
+    "research_gaps": [
+      "How much extra work did the prize cause, and how much did it redirect work Allen and Rutan already wanted to do? Their ambitions and engineering capabilities predated the winning flights, so the achievement alone cannot settle that question."
+    ],
+    "sources": [
+      {
+        "id": "museum",
+        "title": "SpaceShipOne",
+        "url": "https://airandspace.si.edu/collection-objects/spaceshipone/nasm_A20050459000",
+        "publisher": "National Air and Space Museum",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Collection record supports demonstrated achievement; direct page access returned 403."
+      },
+      {
+        "id": "cost",
+        "title": "Paul Allen’s past (and future) in space",
+        "url": "https://www.thespacereview.com/archive/1829-1.html",
+        "publisher": "The Space Review",
+        "type": "review",
+        "access": "sections",
+        "note": "Reviewed cost and licensing discussion; reports Allen’s memoir rather than an independent financial audit."
+      },
+      {
+        "id": "organizer",
+        "title": "Ansari XPRIZE",
+        "url": "https://impactmaps.xprize.org/competitions/ansari",
+        "publisher": "XPRIZE Foundation",
+        "type": "participant-account",
+        "access": "search-excerpt",
+        "note": "Supports timeline and organizer claims; promotional industry attribution is not independently established."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "Honors Fuel Achievement",
+      "pages": "44–46",
+      "interpretation": "Burja hypothesizes awards build durable prestige better than inducement prizes; case outcomes do not establish this general comparison. His $100 million financing claim is not corroborated by the reviewed memoir account of $28 million project cost; the measures are not identical."
+    },
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "No matched counterfactual measures additional investment caused by the competition. Allen’s cost is reported through a memoir review, not audited accounts. No general prize-versus-award causal theory was established."
+      ],
+      "review_date": "2026-11-08"
+    }
+  },
+  {
+    "id": "google-lunar-xprize-no-winner",
+    "title": "Google Lunar XPRIZE: no winner, unfinished trajectories",
+    "question": "Can an inducement prize fail its deadline yet leave useful capabilities behind?",
+    "period": "2007–2018; SpaceIL follow-up in 2019",
+    "location": "International competition; SpaceIL in Israel",
+    "scale": "institutions",
+    "technology_ids": [
+      "T230"
+    ],
+    "summary": "Google Lunar XPRIZE challenged private teams to reach the Moon and perform specified operations. After repeated development efforts, the organizer announced that the final deadline would pass without a grand-prize winner. One continuing entrant, SpaceIL, subsequently reached lunar orbit but lost its lander during descent, separating organizational persistence from completion.",
+    "outcome": "failure",
+    "outcome_summary": "No team met the competition’s deadline. SpaceIL later reached lunar orbit but did not land successfully: a team and its capabilities survived the award, while the original objective remained unmet.",
+    "observations": [
+      {
+        "claim": "In January 2018 the organizer said no finalist would attempt launch by the March 31 deadline and the grand prize would remain unclaimed.",
+        "source_ids": [
+          "update"
+        ]
+      },
+      {
+        "claim": "The organizer attributed delay to fundraising, engineering, and regulatory difficulties; it also reported milestone payments exceeding $6 million.",
+        "source_ids": [
+          "update"
+        ]
+      },
+      {
+        "claim": "SpaceIL was established for the competition, continued after its end, and reached lunar orbit before losing its lander during the April 2019 descent.",
+        "source_ids": [
+          "nasa"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Back-loaded payment may have been poorly matched to expensive development and launch dependencies.",
+        "status": "plausible",
+        "source_ids": [
+          "update"
+        ],
+        "alternative": "Even with advance grants, the same engineering or regulatory bottlenecks might have prevented a timely landing."
+      },
+      {
+        "claim": "The competition may have helped form teams whose work outlived the cash award.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "update",
+          "nasa"
+        ],
+        "alternative": "Independent national aspirations, philanthropy, and later institutional support may explain continuation better than the prize."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Define in advance how deadline failure differs from learning, team formation, and later procurement outcomes.",
+      "Compare a final purse with staged grants when teams face large costs before demonstration."
+    ],
+    "research_gaps": [
+      "It remains unclear how much entrant investment depended on the prize. SpaceIL’s continuation also leaves open what happened to the less visible teams and their work."
+    ],
+    "sources": [
+      {
+        "id": "update",
+        "title": "An Important Update From Google Lunar XPRIZE",
+        "url": "https://www.xprize.org/news/an-important-update-from-google-lunar-xprize",
+        "publisher": "XPRIZE Foundation",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read January 2018 outcome and milestone sections; impact explanation is the organizer’s."
+      },
+      {
+        "id": "nasa",
+        "title": "Beresheet",
+        "url": "https://science.nasa.gov/mission/beresheet/",
+        "publisher": "NASA",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read mission chronology and competition connection; NASA participated through an instrument but did not run the prize."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The organizer’s investment totals do not identify how much investment was additional. SpaceIL is one visible survivor, not evidence about every entrant. No general theory comparison with alternative funding was assessed."
+      ]
+    }
+  },
+  {
+    "id": "carbon-removal-xprize-verification",
+    "title": "Carbon Removal XPRIZE: awarded, not climate-scale proof",
+    "question": "What does a judged removal demonstration establish about a proposed climate intervention?",
+    "period": "2021–2025 competition; registry follow-up June 2026",
+    "location": "International competition; Mati deployment in India",
+    "scale": "institutions",
+    "technology_ids": [
+      "T230",
+      "T272"
+    ],
+    "summary": "The $100 million Carbon Removal XPRIZE concluded in 2025 with Mati Carbon winning the grand prize for enhanced weathering. Teams had to turn proposed removal methods into evaluated demonstrations. The award made their work more visible, but expanding a demonstration into economical removal at climate-relevant scale requires further evidence about cost, production and storage.",
+    "outcome": "mixed",
+    "outcome_summary": "The competition awarded its prizes, and Mati subsequently received a verified credit issuance. Those are milestones in demonstration and certification. Deployment at gigatonne scale and storage lasting centuries remain substantially larger claims.",
+    "observations": [
+      {
+        "claim": "Mati won the grand prize; three runners-up and separate XFACTOR awards recognized other approaches.",
+        "source_ids": [
+          "prize"
+        ]
+      },
+      {
+        "claim": "Mati received the $50 million grand prize in April 2025, with scientific leadership connected to Yale.",
+        "source_ids": [
+          "yale"
+        ]
+      },
+      {
+        "claim": "Isometric records 209.08 certificates issued to Mati on June 17, 2026, naming Earthood as verifier and Enhanced Weathering in Agriculture v1.2 as protocol.",
+        "source_ids": [
+          "registry"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A common demonstration requirement may make otherwise dissimilar removal approaches easier for funders to compare.",
+        "status": "plausible",
+        "source_ids": [
+          "prize"
+        ],
+        "alternative": "Selection may mostly identify teams already advantaged by capital, research partnerships, and measurement infrastructure."
+      },
+      {
+        "claim": "Certification can create a transaction-ready signal before society can directly observe the full claimed storage period.",
+        "status": "plausible",
+        "source_ids": [
+          "registry"
+        ],
+        "alternative": "That signal depends on protocol assumptions and verification; buyers may instead rely primarily on institutional reputation or contractual protection."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Keep measured removal, modeled durability, credits issued, and credits sold as separate quantities.",
+      "Ask what follow-up evidence would change confidence after judges announce a winner."
+    ],
+    "research_gaps": [
+      "The 209.08-certificate registry transaction covers a particular issuance, not the competition’s total measured removal. Long-run costs and storage durability remain questions beyond that transaction and the award."
+    ],
+    "sources": [
+      {
+        "id": "prize",
+        "title": "XPRIZE Carbon Removal Competition",
+        "url": "https://annualreport.xprize.org/competitions/carbonremoval",
+        "publisher": "XPRIZE Foundation",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read winner and milestone sections; avoided an older carbon subdomain redirecting to a different prize."
+      },
+      {
+        "id": "yale",
+        "title": "Yale-Related Nonprofit Wins $50 Million XPRIZE Carbon Removal",
+        "url": "https://naturalcarboncapture.yale.edu/posts/2025-04-23-yale-related-nonprofit-wins-50-million-xprize-carbon-removal",
+        "publisher": "Yale Center for Natural Carbon Capture",
+        "type": "participant-account",
+        "access": "search-excerpt",
+        "note": "Award announcement also discloses scientific ties; not independent outcome validation."
+      },
+      {
+        "id": "registry",
+        "title": "209.08 certificates issued to Mati",
+        "url": "https://registry.isometric.com/issuance/iss_1KVBE2MYY1S0X84G",
+        "publisher": "Isometric",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read issuance details, verifier, protocol, and reporting period; one transaction only."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The cited registry transaction is not the competition’s complete audit and must not be substituted for its total removal figure. Yale is a participant-linked source. Independent long-run cost and durability outcomes remain unestablished here; no general certification theory was assessed."
+      ]
+    }
+  },
+  {
+    "id": "netflix-prize-production-gap",
+    "title": "Netflix Prize: winning the metric, missing production",
+    "question": "How can a competition succeed technically without its winning system being deployed?",
+    "period": "2006–2009 competition; engineering account in 2012",
+    "location": "Global entrants; Netflix, United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T230",
+      "D025"
+    ],
+    "summary": "Netflix offered $1 million for a ten-percent improvement in a movie-rating prediction metric. The challenge was won, but the final ensemble was not deployed as a complete production system. Earlier competition methods were used. Meanwhile, streaming changed the product, available behavioral data, and what a useful recommendation needed to accomplish.",
+    "outcome": "mixed",
+    "outcome_summary": "The benchmark target was met and earlier competition techniques entered production. Netflix’s engineers judged the final ensemble’s additional accuracy insufficient to justify its integration cost. Useful research emerged even though the complete winning system was not adopted.",
+    "observations": [
+      {
+        "claim": "The contest scored errors in predicted movie ratings, using that measurable task as a proxy for the broader problem of recommending something a viewer would enjoy.",
+        "source_ids": [
+          "engineering"
+        ]
+      },
+      {
+        "claim": "They reported deploying two earlier methods after adaptation, but judged the final ensemble’s additional gains insufficient for its production engineering cost.",
+        "source_ids": [
+          "engineering"
+        ]
+      },
+      {
+        "claim": "Converting viewers’ ratings into a common score let competitors optimize a technical target, while leaving other aspects of cultural preference outside the benchmark.",
+        "source_ids": [
+          "study"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A fixed benchmark can reward complexity whose integration costs are absent from the scoring rule.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "engineering"
+        ],
+        "alternative": "A simpler winning system could still have become obsolete because Netflix’s business and interaction data changed."
+      },
+      {
+        "claim": "The competition may have been valuable as distributed research even when the final artifact was unsuitable.",
+        "status": "plausible",
+        "source_ids": [
+          "engineering",
+          "study"
+        ],
+        "alternative": "Similar research might have emerged internally or publicly without the tournament; benefits must be compared with participant and organizer costs."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Algorithmic culture, Hallinan and Striphas",
+        "evidence_status": "Interpretive case analysis, not a causal experiment",
+        "source_ids": [
+          "study"
+        ],
+        "relevance": "The metric operationalized one interpretation of audience preference and success.",
+        "transfer_limit": "Predicting a rating is narrower than helping someone choose what to watch; the cultural interpretation alone cannot tell us whether a different funding method would have worked better."
+      }
+    ],
+    "lessons": [
+      "Include deployment constraints and changing product requirements in an evaluation plan.",
+      "Track intermediate knowledge transfers separately from adoption of the final winning artifact."
+    ],
+    "research_gaps": [
+      "The competition’s net value depends on organizer and entrant costs as well as useful techniques. Netflix’s engineers explained their deployment decision, but the comparable cost and output of an internal research program remain uncertain."
+    ],
+    "sources": [
+      {
+        "id": "engineering",
+        "title": "Netflix Recommendations: Beyond the 5 stars, Part 1",
+        "url": "https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429",
+        "publisher": "Netflix Technology Blog",
+        "type": "participant-account",
+        "access": "search-excerpt",
+        "note": "Direct rendering returned a shell; targeted search returned the substantive prize and streaming sections."
+      },
+      {
+        "id": "study",
+        "title": "Recommended for you: The Netflix Prize and the production of algorithmic culture",
+        "url": "https://journals.sagepub.com/doi/10.1177/1461444814538646",
+        "publisher": "New Media & Society; Hallinan and Striphas",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read framing and accessible article sections; interpretive analysis uses company and contestant accounts."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "No complete cost-benefit comparison with internal research was reviewed. Netflix’s nondeployment explanation is a participant account; the scholarly analysis is not an independent engineering audit."
+      ]
+    }
+  },
+  {
+    "id": "darpa-grand-challenge-two-rounds",
+    "title": "DARPA Grand Challenge: zero finishers, then five",
+    "question": "When should a failed challenge be repeated rather than abandoned?",
+    "period": "2004–2005",
+    "location": "Mojave Desert, United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T230"
+    ],
+    "summary": "DARPA’s first desert-driving challenge offered a public test and prize for autonomous vehicles. Nobody finished in 2004. The agency repeated the contest in 2005 with a larger purse, and five vehicles completed the course. An unsuccessful first test became a starting point for another round of engineering rather than the end of the program.",
+    "outcome": "success",
+    "outcome_summary": "The second event achieved the specified demonstration, with multiple finishers rather than a lone exceptional entrant. This is success at autonomous desert traversal; it is not evidence that the same systems were ready for unrestricted public-road service.",
+    "observations": [
+      {
+        "claim": "No vehicle finished in 2004. Five finished in 2005, when Stanford won the $2 million award.",
+        "source_ids": [
+          "record"
+        ]
+      },
+      {
+        "claim": "Registrations rose from 107 in 2004 to 195 in 2005; smaller numbers qualified for the races themselves.",
+        "source_ids": [
+          "paper"
+        ]
+      },
+      {
+        "claim": "The technical paper attributes Stanley’s performance to an integrated development effort involving perception, planning, control, machine learning, testing, and several institutional partners.",
+        "source_ids": [
+          "paper"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A repeatable public test may coordinate complementary engineering work around a shared definition of progress.",
+        "status": "plausible",
+        "source_ids": [
+          "record",
+          "paper"
+        ],
+        "alternative": "Extra development time, accumulated research, and improved hardware could explain improvement even without a competition."
+      },
+      {
+        "claim": "Retaining the challenge after failure may allow learning that a one-shot award would lose.",
+        "status": "plausible",
+        "source_ids": [
+          "paper"
+        ],
+        "alternative": "The second event changed entrants, purse, and course; it is not a controlled comparison of persistence alone."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Before repeating a challenge, ask whether the first attempt revealed tractable bottlenecks or an unrealistic target.",
+      "Preserve evaluation data and technical accounts so failure can inform the next round."
+    ],
+    "research_gaps": [
+      "The second round changed the purse, course and entrants while allowing more development time, so the improvement cannot be attributed to the larger reward alone. The costs and learning of unsuccessful entrants are also needed to assess the program’s wider value."
+    ],
+    "sources": [
+      {
+        "id": "record",
+        "title": "Grand Challenge",
+        "url": "https://www.darpa.mil/about/innovation-timeline/grand-challenge",
+        "publisher": "DARPA",
+        "type": "institutional-record",
+        "access": "full-text",
+        "note": "Read event results; discounted promotional claims about future autonomous fleets."
+      },
+      {
+        "id": "paper",
+        "title": "Stanley: The robot that won the DARPA Grand Challenge",
+        "url": "https://robots.stanford.edu/papers/thrun.stanley05.pdf",
+        "publisher": "Journal of Field Robotics; Thrun and colleagues",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read introduction and race rules; winning team’s technical account, not an independent prize evaluation."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "These two rounds do not identify the effect of doubling the purse. Entrant spending and nonfinishers’ learning are not fully measured here. No general innovation-contest theory was tested, and downstream road safety or commercial returns remain outside this outcome."
+      ]
+    }
+  },
+  {
+    "id": "longitude-prize-hybrid-funding",
+    "title": "Longitude: the prize that was also a funding institution",
+    "question": "Was the celebrated longitude breakthrough really a winner-takes-all prize?",
+    "period": "1714–nineteenth-century chronometer development",
+    "location": "Britain and maritime navigation",
+    "scale": "institutions",
+    "technology_ids": [
+      "T230",
+      "T229"
+    ],
+    "summary": "The longitude problem is often told as one outsider solving a problem and claiming a reward. The actual arrangement included a board, tests, repeated development payments, disclosure disputes, and later manufacturing improvements. Harrison’s accurate timekeeper did not automatically settle questions about practicality or the terms under which public money should be paid.",
+    "outcome": "mixed",
+    "outcome_summary": "Marine timekeeping advanced through interim funding, contested evaluation and later manufacturing improvements. Harrison’s reward remained disputed, and an accurate instrument still had to become a design others could reproduce and use.",
+    "observations": [
+      {
+        "claim": "Harrison’s H4 met the accuracy standard, but the Board questioned its practicality and withheld the full reward.",
+        "source_ids": [
+          "museum"
+        ]
+      },
+      {
+        "claim": "Substantial interim payments helped fund development, followed by a long trajectory of further chronometer invention, manufacturing improvements and patenting.",
+        "source_ids": [
+          "paper"
+        ]
+      },
+      {
+        "claim": "Their analysis finds progress payments did not predict inventor entry or patent timing, despite helping finance particular inventors.",
+        "source_ids": [
+          "paper"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "The board’s continuing finance and evaluation may have mattered as much as the headline reward.",
+        "status": "plausible",
+        "source_ids": [
+          "museum",
+          "paper"
+        ],
+        "alternative": "Private markets and naval demand could have driven cumulative improvement even with a different funding institution."
+      },
+      {
+        "claim": "Disclosure and reproducibility requirements may explain some conflict that a heroic-inventor story treats simply as obstruction.",
+        "status": "plausible",
+        "source_ids": [
+          "paper",
+          "museum"
+        ],
+        "alternative": "Officials could also have exercised inconsistent judgment or protected preferred approaches; practicality concerns do not prove neutral administration."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Complementarity of prizes, patents, and cumulative innovation",
+        "evidence_status": "Historical empirical interpretation with observational identification limits",
+        "source_ids": [
+          "paper"
+        ],
+        "relevance": "Payments, disclosure requirements and later manufacturing improvements worked together; a headline prize did not supply the whole path from invention to widespread use.",
+        "transfer_limit": "Later patent comparisons do not isolate the original 1714 reward or establish one optimal policy."
+      }
+    ],
+    "lessons": [
+      "Specify whether a reward requires a demonstration, reproducible design, economical manufacture, or all three.",
+      "Compare staged support and knowledge disclosure with a pure final-payout design."
+    ],
+    "research_gaps": [
+      "Historical records disproportionately preserve prominent inventors. Exact causal contributions of public payments, market demand, patents, and skilled craft networks remain difficult to separate."
+    ],
+    "sources": [
+      {
+        "id": "museum",
+        "title": "Board of Longitude Inventors: John Harrison",
+        "url": "https://www.rmg.co.uk/sites/default/files/import/media/pdf/John_Harrison.pdf",
+        "publisher": "Royal Museums Greenwich",
+        "type": "history",
+        "access": "full-text",
+        "note": "One-page collection interpretation of accuracy, practicality, and reward dispute."
+      },
+      {
+        "id": "paper",
+        "title": "Prizes, patents and the search for longitude",
+        "url": "https://www.hbs.edu/ris/Publication%20Files/Longitude_e207c234-9b02-4be8-b5c2-252b42c04ec7.pdf",
+        "publisher": "Explorations in Economic History; Burton and Nicholas",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read introduction and empirical summary, including null timing results for progress payments."
+      }
+    ]
+  },
+  {
+    "id": "orteig-prize-success-and-loss",
+    "title": "Orteig Prize: the famous winner and the missing entrants",
+    "question": "What disappears when a prize is remembered only through its winner?",
+    "period": "1919–1927",
+    "location": "New York–Paris transatlantic aviation",
+    "scale": "institutions",
+    "technology_ids": [
+      "T230",
+      "T228"
+    ],
+    "summary": "The Orteig offer rewarded a nonstop flight between New York and Paris. Charles Lindbergh won in 1927 with financial backing from St. Louis businessmen. The familiar story of a clear target and celebrated breakthrough also contains less visible unsuccessful attempts, including the disappearance of Charles Nungesser during his bid.",
+    "outcome": "mixed",
+    "outcome_summary": "The specified flight was achieved and publicly celebrated. Other entrants faced catastrophic losses. These outcomes establish neither that the prize alone caused aviation’s expansion nor that the benefits outweighed the costs imposed across all competing teams.",
+    "observations": [
+      {
+        "claim": "With underwriting from St. Louis businessmen, Lindbergh completed the flight in May 1927 and won the $25,000 award.",
+        "source_ids": [
+          "loc"
+        ]
+      },
+      {
+        "claim": "Charles Nungesser disappeared while attempting to win the Orteig Prize.",
+        "source_ids": [
+          "museum"
+        ]
+      },
+      {
+        "claim": "After his flight, Lindbergh became an influential spokesman for the emerging aviation industry.",
+        "source_ids": [
+          "loc"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "The prize’s legible route and public recognition may have helped a pilot mobilize backers.",
+        "status": "plausible",
+        "source_ids": [
+          "loc"
+        ],
+        "alternative": "Aircraft improvements, personal ambition, national rivalry, and commercial aviation opportunities also supplied powerful reasons to attempt the flight."
+      },
+      {
+        "claim": "A winner-focused narrative can obscure the portfolio of risk taken by unsuccessful entrants.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "museum",
+          "loc"
+        ],
+        "alternative": "Danger was already characteristic of frontier aviation; documenting a loss does not show that the prize increased risk beyond the relevant baseline."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Assess entrant losses and near misses alongside the winner’s achievement.",
+      "Distinguish the prize payment from the up-front patronage that makes an attempt feasible."
+    ],
+    "research_gaps": [
+      "The winner’s achievement does not reveal the total spending, losses or abandoned work across all entrants. Aviation was also advancing for other reasons, making the prize’s contribution to subsequent growth difficult to separate."
+    ],
+    "sources": [
+      {
+        "id": "loc",
+        "title": "Today in History: June 11, Lindbergh Honored",
+        "url": "https://www.loc.gov/item/today-in-history/june-11",
+        "publisher": "Library of Congress",
+        "type": "history",
+        "access": "search-excerpt",
+        "note": "Substantive indexed chronology and financing passage; direct access returned 403."
+      },
+      {
+        "id": "museum",
+        "title": "“Knight of Death” Airplane Insignia",
+        "url": "https://airandspace.si.edu/stories/editorial/%E2%80%9Cknight-death%E2%80%9D-airplane-insignia",
+        "publisher": "National Air and Space Museum",
+        "type": "history",
+        "access": "search-excerpt",
+        "note": "Indexed account of Nungesser and the failed prize attempt; direct access returned 403."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The reviewed museum and library records are historical summaries, not a complete dataset of entrants or spending. Direct page opens were blocked, so relevant indexed excerpts were used. No comparative prize theory or credible counterfactual estimate of aviation growth was assessed."
+      ]
+    }
+  },
+  {
+    "id": "nupedia-wikipedia-opening-and-closing",
+    "title": "Nupedia and Wikipedia: opening participation, then managing it",
+    "question": "What changes when contributors can improve a draft immediately rather than await permission?",
+    "period": "2000–2003 origins; contributor-retention evidence published 2013",
+    "location": "International online encyclopedia communities",
+    "scale": "communities",
+    "technology_ids": [
+      "T028",
+      "T161",
+      "D008"
+    ],
+    "summary": "Nupedia required articles to pass an expert review workflow; Wikipedia let contributors edit immediately. But the contrast was not simply bureaucracy versus freedom. Nupedia also lacked sustained organizing support, while the growing Wikipedia developed quality controls that made it harder for newcomers to stay. Opening the door and keeping useful participation possible became different problems.",
+    "outcome": "mixed",
+    "outcome_summary": "Wikipedia achieved extensive collaborative production while Nupedia faded. Later analysis associated Wikipedia’s restrictive quality controls with declining newcomer retention. Rapid contribution and reliable review had to coexist, and rules introduced to protect the encyclopedia could also discourage its future editors.",
+    "observations": [
+      {
+        "claim": "Sanger describes Nupedia’s seven-step process as slow, but also attributes its decline to neglect and insufficient support for paid organizing.",
+        "source_ids": [
+          "memoir"
+        ]
+      },
+      {
+        "claim": "His history describes attempts to simplify Nupedia while organizational attention shifted toward Wikipedia.",
+        "source_ids": [
+          "memoir"
+        ]
+      },
+      {
+        "claim": "Halfaker and colleagues connect Wikipedia’s newcomer-retention decline with restrictive quality controls, automated rejection, and resistance to newcomers’ proposed rule changes.",
+        "source_ids": [
+          "study"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Immediate editing may increase the number of small contributions people are willing to attempt.",
+        "status": "plausible",
+        "source_ids": [
+          "memoir"
+        ],
+        "alternative": "Search visibility, recruitment, and the distribution of organizer attention also changed; the projects were not experimentally matched."
+      },
+      {
+        "claim": "Controls introduced to preserve quality may inadvertently screen out future committed contributors.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "study"
+        ],
+        "alternative": "Changes in who arrived or in the remaining editing opportunities could also influence retention; not every rejected edit represents lost valuable participation."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Open-collaboration newcomer retention, Halfaker and colleagues",
+        "evidence_status": "Observational case analysis",
+        "source_ids": [
+          "study"
+        ],
+        "relevance": "Filtering contributions can protect the encyclopedia while making it harder to replenish the community that maintains it.",
+        "transfer_limit": "Its historical Wikipedia mechanisms are not proof that every moderation system reduces useful participation."
+      }
+    ],
+    "lessons": [
+      "Measure how often promising newcomers return after their first correction.",
+      "Budget for organizing and review instead of treating an editable website as a self-running institution."
+    ],
+    "research_gaps": [
+      "Sanger’s retrospective account combines a founder’s experience with disputed questions of credit and responsibility. The two projects differed in organizing support and attention as well as workflow, so their trajectories cannot isolate the effect of immediate editing."
+    ],
+    "sources": [
+      {
+        "id": "memoir",
+        "title": "The Early History of Nupedia and Wikipedia: A Memoir",
+        "url": "https://features.slashdot.org/story/05/04/18/164213/the-early-history-of-nupedia-and-wikipedia-a-memoir",
+        "publisher": "Larry Sanger; Slashdot",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read corrections, seven-step workflow, simplification, and organizing-capacity passages."
+      },
+      {
+        "id": "study",
+        "title": "The Rise and Decline of an Open Collaboration System",
+        "url": "https://journals.sagepub.com/doi/10.1177/0002764212469365",
+        "publisher": "American Behavioral Scientist; Halfaker and colleagues",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Abstract identifies quality-control and retention findings; no independent causal replication reviewed."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The founding account is retrospective and participates in contested attribution of credit. Later research is not a controlled Nupedia–Wikipedia comparison, and the journal access here exposed its abstract rather than the complete analysis."
+      ]
+    }
+  },
+  {
+    "id": "python-bdfl-steering-council",
+    "title": "Python: replacing a founder’s final say",
+    "question": "Can a project replace personal authority without replacing its whole working community?",
+    "period": "July 2018–February 2019",
+    "location": "International Python development community",
+    "scale": "communities",
+    "technology_ids": [
+      "T137",
+      "T138",
+      "T293"
+    ],
+    "summary": "After conflict over a language proposal, Guido van Rossum withdrew as Python’s final decision-maker and declined to appoint a successor. Core developers then selected a steering-council model and elected its first members. The transition changed the authority structure while retaining existing contributors, technical work, and even the founder’s participation in a different role.",
+    "outcome": "success",
+    "outcome_summary": "Core developers adopted a successor decision structure and elected its first council. Authority moved from one final decision-maker to an elected body, while the electorate remained the core developer community rather than every Python user.",
+    "observations": [
+      {
+        "claim": "Van Rossum’s resignation said he would leave the decision process, remain available as a core developer, and not choose a successor.",
+        "source_ids": [
+          "resignation"
+        ]
+      },
+      {
+        "claim": "The adopted proposal provided a five-member council, core-team voting and safeguards against one employer dominating the council.",
+        "source_ids": [
+          "model"
+        ]
+      },
+      {
+        "claim": "The first election drew 69 ballots from 96 eligible voters and elected five members, including van Rossum.",
+        "source_ids": [
+          "election"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "An established contributor community may be able to redistribute final authority while preserving routine production.",
+        "status": "plausible",
+        "source_ids": [
+          "resignation",
+          "election"
+        ],
+        "alternative": "Continuity may depend more on pre-existing maintainers and mature technical processes than on the council design."
+      },
+      {
+        "claim": "Keeping the founder involved without exclusive final authority may preserve knowledge while reducing dependence on one person.",
+        "status": "plausible",
+        "source_ids": [
+          "resignation",
+          "election"
+        ],
+        "alternative": "Informal influence might remain concentrated even after formal powers are redistributed; election results do not measure actual deliberative influence."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Identify which decisions truly depend on the founder before redesigning every role.",
+      "Specify electorate, replacement procedures, and employer conflicts before a vacancy becomes urgent."
+    ],
+    "research_gaps": [
+      "The transition settled who formally held final authority. How far informal influence changed, and whether contributors found later decisions better or more satisfactory, require attention to the council’s subsequent practice."
+    ],
+    "sources": [
+      {
+        "id": "resignation",
+        "title": "Transfer of power",
+        "url": "https://www.mail-archive.com/python-committers%40python.org/msg05628.html",
+        "publisher": "Guido van Rossum; python-committers",
+        "type": "participant-account",
+        "access": "full-text",
+        "note": "Original July 2018 message mirrored by a mailing-list archive."
+      },
+      {
+        "id": "model",
+        "title": "PEP 8016: The Steering Council Model",
+        "url": "https://peps.python.org/pep-8016/",
+        "publisher": "Python project",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read council, election, term, and conflict provisions of the historical proposal."
+      },
+      {
+        "id": "election",
+        "title": "PEP 8100: January 2019 Steering Council election",
+        "url": "https://peps.python.org/pep-8100/",
+        "publisher": "Python project",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read voter eligibility and results; independent document but same institutional record system."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "These institutional records establish rules and election results, not comparative decision quality or long-term participant satisfaction. No independently tested general succession theory was assessed. Later versions of Python’s governance must not be retroactively substituted for the original proposal."
+      ]
+    }
+  },
+  {
+    "id": "openssl-heartbleed-maintenance",
+    "title": "Heartbleed: widely used does not mean adequately maintained",
+    "question": "Who supplies maintenance and incident response for infrastructure everyone depends on?",
+    "period": "2014 disclosure and response",
+    "location": "Global internet infrastructure",
+    "scale": "institutions",
+    "technology_ids": [
+      "T161",
+      "T229",
+      "D017"
+    ],
+    "summary": "Heartbleed exposed a serious vulnerability in the widely used OpenSSL library. The response required more than a public patch: operators needed to identify exposure and act. Industry subsequently organized pooled support for important open-source projects. The case connects maintenance funding, distributed responsibility, and the practical work of getting a repair adopted.",
+    "outcome": "mixed",
+    "outcome_summary": "The vulnerability produced widespread exposure, followed by patching and new support arrangements. Direct notification improved patching among contacted operators. Pooled funding committed support for developers and an audit, while maintaining the code and getting repairs deployed remained continuing responsibilities.",
+    "observations": [
+      {
+        "claim": "The vulnerability exposed protected memory, and affected operators varied substantially in how quickly they patched after disclosure.",
+        "source_ids": [
+          "measurement"
+        ]
+      },
+      {
+        "claim": "Operators receiving direct notifications patched more often in a staged notification experiment.",
+        "source_ids": [
+          "measurement"
+        ]
+      },
+      {
+        "claim": "The Linux Foundation announced support for two full-time OpenSSL developers and an external security audit through the Core Infrastructure Initiative.",
+        "source_ids": [
+          "funding"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Direct notification can overcome some operational inattention after a widely publicized vulnerability.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "measurement"
+        ],
+        "alternative": "The effect could depend on identifying reachable administrators; unreachable or abandoned services may require a different response."
+      },
+      {
+        "claim": "Users who benefit from shared code may underinvest in collective maintenance until a crisis makes dependencies visible.",
+        "status": "plausible",
+        "source_ids": [
+          "funding",
+          "measurement"
+        ],
+        "alternative": "This incident could also reflect difficult code review and deployment coordination that additional funding alone would not solve."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Collective-action/free-rider problem in shared infrastructure",
+        "evidence_status": "Conceptual fit; not causally isolated by these sources",
+        "source_ids": [
+          "funding"
+        ],
+        "relevance": "Many beneficiaries and concentrated maintenance work make financing responsibility a useful question.",
+        "transfer_limit": "The case does not compare open and proprietary software security or establish that unpaid work caused this specific bug."
+      }
+    ],
+    "lessons": [
+      "Inventory critical dependencies and identify who maintains them before a crisis.",
+      "Treat publication of a fix and verified downstream adoption as different milestones."
+    ],
+    "research_gaps": [
+      "Support commitments for developers and audits did not themselves show whether long-term security improved. Successful notification addressed adoption of a repair, leaving open how to prevent similar defects during development."
+    ],
+    "sources": [
+      {
+        "id": "measurement",
+        "title": "The Matter of Heartbleed",
+        "url": "https://faculty.cc.gatech.edu/~frankli/papers/li-imc2014.pdf",
+        "publisher": "ACM Internet Measurement Conference; Durumeric and colleagues",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read background and notification-result passages; measurement and intervention are distinct evidence."
+      },
+      {
+        "id": "funding",
+        "title": "Core Infrastructure Initiative Announces First Projects to Receive Support",
+        "url": "https://www.linuxfoundation.org/press/press-release/the-linux-foundations-core-infrastructure-initiative-announces-new-backers-first-projects-to-receive-support-and-advisory-board-members",
+        "publisher": "Linux Foundation",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read funding commitments, project selection, and governance; not a subsequent effectiveness audit."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The funding announcement states commitments, not audited long-term security outcomes. The notification experiment does not identify the cause of the original vulnerability or the best maintenance-governance model."
+      ]
+    }
+  },
+  {
+    "id": "debian-devuan-init-dispute",
+    "title": "Debian and Devuan: a vote can settle a rule without settling a dispute",
+    "question": "What happens when a formal decision leaves participants with incompatible visions?",
+    "period": "2014 init-system dispute and fork announcement",
+    "location": "International Debian community",
+    "scale": "communities",
+    "technology_ids": [
+      "T184",
+      "T183",
+      "S029"
+    ],
+    "summary": "Debian debated whether packages should be required to support alternative initialization systems. Its formal resolution process produced a decision, but dissenting developers and administrators still regarded the project’s direction as unacceptable. They announced Devuan, a derivative intended to avoid systemd dependencies. Open licensing made exit with reusable code possible alongside continued disagreement.",
+    "outcome": "mixed",
+    "outcome_summary": "Debian reached a binding decision, and dissenters began a separate project. A procedure allowed the existing project to proceed without reconciling its participants’ competing priorities; open licensing gave those leaving a starting point for their own work.",
+    "observations": [
+      {
+        "claim": "“General Resolution is not required” defeated every other option in the 2014 preference vote.",
+        "source_ids": [
+          "vote"
+        ]
+      },
+      {
+        "claim": "The rejected proposals concerned package dependencies and support obligations, a different question from the earlier choice of a default initialization system.",
+        "source_ids": [
+          "vote"
+        ]
+      },
+      {
+        "claim": "Devuan’s founders described their fork as a response to disagreements about governance and mission as well as technical design.",
+        "source_ids": [
+          "fork"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A formal vote may preserve a project’s ability to proceed without making minority participants accept its priorities.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "vote",
+          "fork"
+        ],
+        "alternative": "The departure might have happened even without this vote because technical commitments had already diverged."
+      },
+      {
+        "claim": "Forkability may convert an otherwise blocked internal dispute into parallel experimentation.",
+        "status": "plausible",
+        "source_ids": [
+          "fork"
+        ],
+        "alternative": "Parallel projects may instead duplicate scarce maintenance work and retain dependencies on the upstream community they leave."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Ask whether a decision procedure promises a binding decision or genuine convergence; those are different outcomes.",
+      "Before proposing a fork, identify the maintainers, infrastructure, and continuing upstream dependencies it would need."
+    ],
+    "research_gaps": [
+      "Devuan’s founders presented their own account of the dispute, which does not establish how representative their grievances were across Debian. The fork’s longer-term value also depends on adoption, quality and the extra maintenance required."
+    ],
+    "sources": [
+      {
+        "id": "vote",
+        "title": "General Resolution: init system coupling",
+        "url": "https://www.debian.org/vote/2014/vote_003",
+        "publisher": "Debian project",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read proposals, majority requirements, and pairwise results; outcome inferred directly from the published matrix."
+      },
+      {
+        "id": "fork",
+        "title": "Announcement of the Debian Fork",
+        "url": "https://www.devuan.org/os/announce/",
+        "publisher": "Devuan founders",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read rationale and planned organization; partisan interpretation clearly distinguished from event evidence."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The fork announcement is adversarial and its claims of capture are not adopted as fact. These sources do not measure developer sentiment representatively or establish long-run outcomes. No general exit-and-voice theory was independently assessed for this case."
+      ]
+    }
+  },
+  {
+    "id": "linux-android-fragmentation-gki",
+    "title": "Linux and Android: the cost of freedom to diverge",
+    "question": "How can a shared codebase support variation without making repairs prohibitively expensive?",
+    "period": "Pre-GKI Android kernels through Android 12-era restructuring",
+    "location": "International Linux and Android ecosystems",
+    "scale": "institutions",
+    "technology_ids": [
+      "T161",
+      "T183",
+      "T184"
+    ],
+    "summary": "Linux integrates contributions through subsystem maintainers, while downstream organizations can adapt the code for particular products. Android’s device-specific kernels illustrate the maintenance cost of that variation. Google’s Generic Kernel Image project sought to reunify the core while moving vendor-specific support into modules, changing the coordination boundary instead of eliminating all specialization.",
+    "outcome": "mixed",
+    "outcome_summary": "Android introduced a shared kernel and module boundary in response to the difficulty of updating divergent device kernels. The architecture changed where customization could occur. Its practical security benefit still depends on manufacturers delivering repairs through to users’ devices.",
+    "observations": [
+      {
+        "claim": "Contributions pass through a chain of subsystem maintainers before integration into Linux’s mainline repository.",
+        "source_ids": [
+          "kernel"
+        ]
+      },
+      {
+        "claim": "Android’s account identifies custom device kernels as a source of difficult security backports, delayed upgrades, and costly upstream contribution.",
+        "source_ids": [
+          "android"
+        ]
+      },
+      {
+        "claim": "GKI moves hardware-specific support into modules around a common kernel and stable module interface, with requirements applying to relevant Android 12 launches.",
+        "source_ids": [
+          "android"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Shared integration boundaries may reduce duplicated adaptation work without removing product-specific variation.",
+        "status": "plausible",
+        "source_ids": [
+          "android",
+          "kernel"
+        ],
+        "alternative": "Benefits may depend on central platform enforcement and vendor resources rather than modularity alone."
+      },
+      {
+        "claim": "Permission to fork is valuable only when participants can sustain the integration work it creates.",
+        "status": "plausible",
+        "source_ids": [
+          "android"
+        ],
+        "alternative": "Some divergence is necessary for unsupported hardware or independent priorities; convergence could sacrifice useful autonomy."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Estimate the lifetime cost of carrying a private branch, not just the cost of making the initial modification.",
+      "Design explicit paths for downstream improvements and repairs to return to the shared core."
+    ],
+    "research_gaps": [
+      "Google’s diagnosis explains the intended benefit of GKI. Measuring its realized effect requires following update delivery across manufacturers, including differences in their resources and implementation. The Linux maintainer hierarchy and Android’s downstream requirements exercise authority at different points in that process."
+    ],
+    "sources": [
+      {
+        "id": "kernel",
+        "title": "How the development process works",
+        "url": "https://kernel.org/doc/html/latest/process/2.Process.html",
+        "publisher": "Linux Kernel documentation",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read review and chain-of-trust sections; describes upstream governance rather than Android outcomes."
+      },
+      {
+        "id": "android",
+        "title": "Generic Kernel Image project",
+        "url": "https://source.android.com/docs/core/architecture/kernel/generic-kernel-image",
+        "publisher": "Android Open Source Project",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read history, costs of fragmentation, and GKI design; claims of improvement are the platform’s account."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "Both sources describe their own systems. Android’s diagnosis is not an independent before-and-after evaluation, and published goals are not treated as measured results. No general modularity or organizational-boundary theory was empirically assessed. The upstream maintainer process and downstream GKI reform are related but distinct institutions."
+      ]
+    }
+  },
+  {
+    "id": "zano-crowdfunding-delivery-failure",
+    "title": "Zano: a funded campaign is not a delivered product",
+    "question": "What does a crowd validate when it backs an ambitious hardware demonstration?",
+    "period": "2014 campaign–2016 investigation",
+    "location": "Pembrokeshire, Wales; international backers",
+    "scale": "institutions",
+    "technology_ids": [
+      "T224",
+      "D026"
+    ],
+    "summary": "Zano’s small-drone campaign raised far more than its target while promising polished autonomous behavior. The company later pursued liquidation and most backers received nothing. A Kickstarter-commissioned investigation found gaps between the promotional demonstration, technical readiness and delivery capacity. Money had arrived before the team could reliably deliver what it had sold.",
+    "outcome": "failure",
+    "outcome_summary": "The campaign mobilized substantial money but failed to deliver the promised product to most backers. Investigation after the collapse helped explain what went wrong, without restoring the missing drones or funds.",
+    "observations": [
+      {
+        "claim": "The campaign set a £125,000 target and made strong promotional claims about readiness. According to Harris’s investigation, only four Kickstarter backers ultimately received drones.",
+        "source_ids": [
+          "investigation"
+        ]
+      },
+      {
+        "claim": "Delivered units failed to perform as the promotional video suggested. Kickstarter backers were distinct from a separate group of pre-order customers.",
+        "source_ids": [
+          "investigation"
+        ]
+      },
+      {
+        "claim": "Torquing announced that it would pursue creditors’ voluntary liquidation.",
+        "source_ids": [
+          "closure"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A compelling demonstration may attract funding without validating repeatable product performance or manufacturing readiness.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "investigation"
+        ],
+        "alternative": "Backers may knowingly accept prototype risk; the key failure could instead be inaccurate representations about how much remained unfinished."
+      },
+      {
+        "claim": "Rapidly exceeding a campaign target may increase execution demands faster than organizational capability.",
+        "status": "plausible",
+        "source_ids": [
+          "investigation",
+          "closure"
+        ],
+        "alternative": "The original technical plan may already have been infeasible; additional demand need not be the primary cause of collapse."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Ask for repeatable demonstrations and a manufacturing plan separately from attractive promotional footage.",
+      "State what platform endorsement and funding milestones do and do not verify."
+    ],
+    "research_gaps": [
+      "Kickstarter paid for the main investigation, although the reporter said the platform could not edit it. Interviews and contemporary reporting clarify the delivery failure but leave the full financial allocation less certain."
+    ],
+    "sources": [
+      {
+        "id": "investigation",
+        "title": "How Zano Raised Millions on Kickstarter and Left Most Backers with Nothing",
+        "url": "https://medium.com/kickstarter/how-zano-raised-millions-on-kickstarter-and-left-backers-with-nearly-nothing-85c0abe4a6cb",
+        "publisher": "Mark Harris; Kickstarter Magazine",
+        "type": "review",
+        "access": "sections",
+        "note": "Read commission disclosure, campaign claims, and backer-testing interviews; platform-funded investigative reporting."
+      },
+      {
+        "id": "closure",
+        "title": "BBC: Zano mini-drone project shut down by Torquing",
+        "url": "https://www.suasnews.com/2015/11/bbc-zano-mini-drone-project-shut-down-by-torquing/",
+        "publisher": "Chris Baraniuk/BBC, reproduced by sUAS News",
+        "type": "history",
+        "access": "search-excerpt",
+        "note": "Contemporaneous company liquidation statement; BBC original was blocked, reproduction identified explicitly."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The main investigation was paid for by Kickstarter, although the reporter states the platform could not edit it. The second source is a contemporary BBC report reproduced by another outlet, not an independent financial audit. No general crowdfunding theory or representative outcome distribution was assessed."
+      ]
+    }
+  },
+  {
+    "id": "fagor-mondragon-failure-and-solidarity",
+    "title": "Fagor: a cooperative can fail while its network still protects people",
+    "question": "Does institutional resilience mean saving every firm, or helping people survive a firm’s failure?",
+    "period": "2013 bankruptcy and subsequent relocation",
+    "location": "Basque Country, Spain; subsidiaries in France and Poland",
+    "scale": "institutions",
+    "technology_ids": [
+      "T251",
+      "T143",
+      "T336"
+    ],
+    "summary": "Fagor Electrodomésticos went bankrupt inside the Mondragon cooperative network. Preserving the enterprise and protecting its members proved to be different tasks. Relocation, retraining and support offered displaced workers other paths, but some placements were insecure and receiving cooperatives resisted taking workers permanently. Solidarity depended on agreements across organizations with their own pressures.",
+    "outcome": "mixed",
+    "outcome_summary": "Fagor failed, while the network helped absorb some consequences through relocation and support. Those protections depended on receiving cooperatives and workers’ circumstances; they did not erase the losses or reach everyone equally.",
+    "observations": [
+      {
+        "claim": "Fagor went bankrupt in November 2013 after international expansion and restructuring across its parent plants and European subsidiaries.",
+        "source_ids": [
+          "international"
+        ]
+      },
+      {
+        "claim": "Relocation and retraining offered displaced workers routes into other cooperatives, but some workers objected to temporary placements and receiving cooperatives resisted making them permanent.",
+        "source_ids": [
+          "response"
+        ]
+      },
+      {
+        "claim": "Mondragon and Lagun Aro could not simply impose relocations on other cooperatives.",
+        "source_ids": [
+          "response"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Federated institutions may protect members against enterprise-specific failure more effectively than an isolated cooperative could.",
+        "status": "plausible",
+        "source_ids": [
+          "response"
+        ],
+        "alternative": "A conventional group with strong employment insurance and regional support might provide similar protection; ownership is not the only mechanism."
+      },
+      {
+        "claim": "Solidarity becomes harder when helping displaced insiders competes with local hiring and another cooperative’s flexibility.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "response"
+        ],
+        "alternative": "Skills mismatch, market weakness, and existing workforce commitments can explain reluctance without assuming selfishness or ideological collapse."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Flexicurity in cooperative intercooperation",
+        "evidence_status": "Qualitative case evidence, including adverse worker experiences",
+        "source_ids": [
+          "response"
+        ],
+        "relevance": "Employment security depended partly on workers moving between cooperatives, linking protection from unemployment to flexibility about where and how they worked.",
+        "transfer_limit": "Interview evidence does not establish how a comparable conventional network would have performed."
+      }
+    ],
+    "lessons": [
+      "Define whether a mutual-support promise protects jobs, income, membership, or a particular workplace.",
+      "Ask who is excluded from protection when enterprises employ nonmembers or operate foreign subsidiaries."
+    ],
+    "research_gaps": [
+      "Workers’ accounts reveal conflicting experiences of relocation without establishing how widespread satisfaction or dissatisfaction was. Protection for cooperative members also needs to be distinguished from the experience of nonmembers and employees in foreign subsidiaries."
+    ],
+    "sources": [
+      {
+        "id": "international",
+        "title": "What Do Mondragon Coopitalist Multinationals Look Like? The Rise and Fall of Fagor",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/apce.12137",
+        "publisher": "Annals of Public and Cooperative Economics; Errasti, Bretos and Etxezarreta",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Supports bankruptcy and multinational scope; detailed subsidiary outcomes not inferred from abstract alone."
+      },
+      {
+        "id": "response",
+        "title": "Intercooperation, flexicurity and their impact on workers: The case of Fagor Electrodomésticos",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/apce.12329",
+        "publisher": "Annals of Public and Cooperative Economics; Santos-Larrazabal and Basterretxea",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read relocation barriers, worker accounts, training, and institutional-authority sections."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The international-expansion paper was accessible here at abstract level; detailed exclusion patterns need fuller examination. The relocation study provides competing accounts, not representative satisfaction estimates. This case does not quantify total welfare saved by network support."
+      ]
+    }
+  },
+  {
+    "id": "grameen-ii-rules-and-practice",
+    "title": "Grameen II: rewriting the rules did not instantly change the meetings",
+    "question": "What happens when frontline habits preserve a practice that a formal reform tries to remove?",
+    "period": "Early-2000s redesign; fieldwork through 2003",
+    "location": "Bangladesh",
+    "scale": "institutions",
+    "technology_ids": [
+      "T248",
+      "D029"
+    ],
+    "summary": "Grameen II introduced more flexible loan arrangements while retaining borrower groups and regular meetings. Its rules rejected making members repay another borrower’s debt. Yet early fieldwork found meeting practices that pressured members to cover shortfalls. Changing the written terms did not immediately change how staff secured repayment or how borrowers experienced responsibility.",
+    "outcome": "mixed",
+    "outcome_summary": "The redesigned system offered repayment flexibility, but implementation was uneven. Formal individual responsibility coexisted with collective pressure in observed branches, making staff behavior crucial to what the new rules meant for borrowers.",
+    "observations": [
+      {
+        "claim": "Under the Grameen II design, borrowers encountering difficulty could renegotiate a flexible loan with a revised repayment schedule.",
+        "source_ids": [
+          "design"
+        ]
+      },
+      {
+        "claim": "Despite the explicit no-joint-liability rule, fieldworkers observed pressure on members to cover other borrowers’ repayments.",
+        "source_ids": [
+          "field"
+        ]
+      },
+      {
+        "claim": "In observed meetings, staff delayed closing or providing other services until dues were covered; some staff also resisted offering flexible loans.",
+        "source_ids": [
+          "field"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Established routines may survive formal reform when staff believe flexibility threatens repayment discipline.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "field"
+        ],
+        "alternative": "Some staff behavior may instead reflect local repayment conditions or incentives not adequately captured in the report."
+      },
+      {
+        "claim": "Individual renegotiation could reduce the burden placed on other group members without eliminating mutual information and support.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "design"
+        ],
+        "alternative": "Flexibility may be inaccessible in practice, or merely extend indebtedness; stated intentions do not establish borrower welfare improvements."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Observe meetings and exception handling rather than inferring practice from a rulebook.",
+      "Ask whether frontline incentives and training support the discretion a reform officially permits."
+    ],
+    "research_gaps": [
+      "The observed meetings cover a limited early implementation sample. They leave open how widely these practices persisted as the reform developed, and whether accessible renegotiation improved borrowers’ welfare."
+    ],
+    "sources": [
+      {
+        "id": "design",
+        "title": "Guidelines for Establishing and Operating Grameen-style Microcredit Programs, Annex 2.1",
+        "url": "https://grameenfoundation.org/documents/GrameenGuidelines.pdf",
+        "publisher": "Grameen Foundation; Alam and Getubig",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read reproduced Yunus design, printed pages 196–197; institutional design is not outcome evidence."
+      },
+      {
+        "id": "field",
+        "title": "Grameen II at the end of 2003: A grounded view",
+        "url": "https://www.microsave.net/wp-content/uploads/2018/11/GRAMEEN_II_At_the_end_of_2003_A_grounded_view_of_how_Grameen_s_new_initiative_is_progressing_in_the_villages.pdf",
+        "publisher": "MicroSave; Stuart Rutherford and colleagues",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read group-responsibility and frontline implementation passages, especially printed pages 15 and 28–30."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The fieldwork concerns a limited early implementation sample, not all Grameen branches or present-day practice. The guidelines express the institution’s preferred model. No general theory of policy implementation was independently tested, and this case supplies no causal poverty-impact estimate."
+      ]
+    }
+  },
+  {
+    "id": "hyderabad-microcredit-randomized-evaluation",
+    "title": "Hyderabad microcredit: more borrowing, no general transformation",
+    "question": "Does expanded access to small business credit produce the broader changes its advocates expect?",
+    "period": "2005 assignment; 2006–2010 rollout and follow-up; published 2015",
+    "location": "Hyderabad, India",
+    "scale": "communities",
+    "technology_ids": [
+      "T168"
+    ],
+    "summary": "Spandana expanded group-lending services into randomly selected Hyderabad neighborhoods, allowing researchers to compare earlier access with later access. Borrowing and some business investment increased. But greater access did not produce significant average improvements in several wider measures of household welfare: the step from more credit to a transformed livelihood was far from automatic.",
+    "outcome": "mixed",
+    "outcome_summary": "Earlier access changed borrowing and some economic choices without significant average improvements in consumption, health, education, or the measured women’s-empowerment outcomes. A six-study synthesis found similarly modest rather than transformative effects across varied settings, while leaving room for heterogeneous benefits and costs.",
+    "observations": [
+      {
+        "claim": "The study randomized 52 of 104 neighborhoods to earlier Spandana access; actual borrowing increased rather than becoming universal.",
+        "source_ids": [
+          "trial"
+        ]
+      },
+      {
+        "claim": "Researchers report increased investment and profits among existing businesses, but no significant average gain in consumption or several broader social outcomes.",
+        "source_ids": [
+          "trial"
+        ]
+      },
+      {
+        "claim": "Across six randomized evaluations in varied settings, average effects were modest rather than the broad transformations often attributed to microcredit.",
+        "source_ids": [
+          "synthesis"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Credit can relax a constraint for some existing entrepreneurs without making most households successful new business owners.",
+        "status": "plausible",
+        "source_ids": [
+          "trial",
+          "synthesis"
+        ],
+        "alternative": "Demand, skills, risk, and repayment obligations may matter more than access to capital for many households."
+      },
+      {
+        "claim": "Large universal poverty-reduction expectations were not supported by the outcomes and horizons evaluated here.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "trial",
+          "synthesis"
+        ],
+        "alternative": "Longer-run effects or concentrated gains for particular borrowers may be obscured by average estimates and later control-group access."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Credit constraints and heterogeneous returns to microenterprise investment",
+        "evidence_status": "Randomized access evidence; mechanism only partly identified",
+        "source_ids": [
+          "trial",
+          "synthesis"
+        ],
+        "relevance": "Separates expanded availability from guaranteed take-up or uniform entrepreneurial returns.",
+        "transfer_limit": "Assignment estimates concern access under these conditions, not the effect of every loan or the quality of Grameen’s organizational model."
+      }
+    ],
+    "lessons": [
+      "Name the welfare outcome and time horizon before treating repayment or borrower counts as success.",
+      "Compare effects for different participants without turning subgroup anecdotes into universal promises."
+    ],
+    "research_gaps": [
+      "The synthesis includes this trial and is not a second independent replication of Hyderabad. Later control access changes the interpretation of follow-up differences. Migration exclusions and imperfect take-up narrow generalization."
+    ],
+    "sources": [
+      {
+        "id": "trial",
+        "title": "The Miracle of Microfinance? Evidence from a Randomized Evaluation",
+        "url": "https://economics.mit.edu/sites/default/files/publications/spandana_Mar14_final.pdf",
+        "publisher": "Banerjee, Duflo, Glennerster and Kinnan; author manuscript",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read design, sample, results summary, and identification caveats; March 2014 manuscript underlying 2015 publication."
+      },
+      {
+        "id": "synthesis",
+        "title": "Six Randomized Evaluations of Microcredit: Introduction and Further Steps",
+        "url": "https://www.povertyactionlab.org/sites/default/files/research-paper/AEJ%20Banerjee%20Intro.pdf",
+        "publisher": "American Economic Journal: Applied Economics; Banerjee, Karlan and Zinman",
+        "type": "review",
+        "access": "sections",
+        "note": "Read synthesis and motivation; contains Hyderabad alongside other trials, not an independent study of the same rollout."
+      }
+    ]
+  },
+  {
+    "id": "haifa-daycare-fines",
+    "title": "Haifa daycare fines: paying to be late?",
+    "question": "Can a penalty change what people think they are allowed to do?",
+    "period": "January–June 1998 field study; published 2000; later laboratory mechanism study",
+    "location": "Haifa, Israel",
+    "scale": "groups",
+    "technology_ids": [
+      "S026",
+      "D030"
+    ],
+    "summary": "Researchers introduced a small late-pickup fine at six of ten daycare centers. Lateness increased instead of falling and remained elevated during the short period after removal. A charge intended to discourage delay may have made extra care feel like something parents could buy. The behavior changed clearly; the parents’ interpretation is harder to establish.",
+    "outcome": "failure",
+    "outcome_summary": "The fine failed to reduce lateness in these centers. A later laboratory experiment explored how penalties and payment recipients could change behavior, but used a different task and could not establish what the daycare parents had believed.",
+    "observations": [
+      {
+        "claim": "The field study observed ten centers for twenty weeks and randomly selected six for a fine introduced after the initial observation period.",
+        "source_ids": [
+          "field"
+        ]
+      },
+      {
+        "claim": "The fine was NIS 10 for a qualifying late pickup; recorded lateness increased and did not return to baseline during four weeks after withdrawal.",
+        "source_ids": [
+          "field"
+        ]
+      },
+      {
+        "claim": "A later real-effort experiment varied penalties and who received payment, finding different responses by social-value orientation rather than a uniform average crowding-out effect.",
+        "source_ids": [
+          "lab"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Parents may have interpreted the fine as a defined price for extra care instead of a signal that lateness was unacceptable.",
+        "status": "plausible",
+        "source_ids": [
+          "field",
+          "lab"
+        ],
+        "alternative": "A small specified penalty could instead reduce uncertainty about previously feared consequences; these explanations overlap but are not identical."
+      },
+      {
+        "claim": "The meaning and recipient of payment can alter its effect alongside its monetary size.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "lab"
+        ],
+        "alternative": "The laboratory uses contract performance, not parents and caregivers; selection and subgroup classification constrain transfer to everyday sanctions."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Fine-is-a-price framing and motivational crowding",
+        "evidence_status": "Field outcome plus a distinct laboratory mechanism test",
+        "source_ids": [
+          "field",
+          "lab"
+        ],
+        "relevance": "Distinguishes the observed increase in lateness from a proposed change in the perceived social contract.",
+        "transfer_limit": "Neither study establishes that substantial fines, all cultural settings, or all participants respond the same way."
+      }
+    ],
+    "lessons": [
+      "Ask what a new charge communicates about permission, obligation, and who bears the harm.",
+      "Measure behavior after removing an incentive rather than assuming the previous norm returns immediately."
+    ],
+    "research_gaps": [
+      "The field sample was small and two initially observed centers were excluded for incomplete records. Post-removal observation was brief. The later laboratory study tests a related mechanism, not a direct daycare replication."
+    ],
+    "sources": [
+      {
+        "id": "field",
+        "title": "A Fine Is a Price",
+        "url": "https://www.ius.uzh.ch/dam/jcr%3Aed3f9a0b-ab68-4cf6-a18c-a480b33c9456/Gneezy%2520et%2520al%2520A%2520Fine%2520is%2520a%2520Price.pdf",
+        "publisher": "Journal of Legal Studies; Gneezy and Rustichini",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "University-hosted paper; read design, results, fine size, exclusions, and authors’ explicit limits."
+      },
+      {
+        "id": "lab",
+        "title": "Testing a Fine Is a Price in the Lab",
+        "url": "https://www.econstor.eu/bitstream/10419/335576/1/fine-is-a-price-SSRN.pdf",
+        "publisher": "NYU Law and Economics working paper; Kornhauser, Lu and Tontrup",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read working-paper design and mechanism summary; related laboratory test, not a replication of the original setting."
+      }
+    ]
+  },
+  {
+    "id": "blood-donation-incentives-context",
+    "title": "Blood donation incentives: one crowding-out story is not a universal law",
+    "question": "When do payments change participation, and when do they merely move it elsewhere?",
+    "period": "Swedish experiment published 2008; US study published 2012",
+    "location": "Sweden and United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T218",
+      "S026"
+    ],
+    "summary": "A Swedish experiment offered prospective blood donors no payment, a small payment, or payment with a charity option. The negative effect appeared among women, while differences across all participants were not statistically significant. US blood-drive research later found increased donations with incentives, partly offset by movement between drives. Payments changed participation differently across these settings and measures.",
+    "outcome": "mixed",
+    "outcome_summary": "The Swedish pooled differences were not statistically significant; the authors reported crowding out among women and reversal with the charity option. US evidence found increased donations at incentivized drives, partly offset by movement from neighboring drives. Context and the measured outcome change the conclusion.",
+    "observations": [
+      {
+        "claim": "Mellström and Johannesson report pooled participation of 43%, 33%, and 44% across treatments, with differences not statistically significant; the women’s subgroup showed a significant payment decline.",
+        "source_ids": [
+          "sweden"
+        ]
+      },
+      {
+        "claim": "Their intervention concerned agreeing to become a donor, not a demonstrated long-term change in safe blood supply.",
+        "source_ids": [
+          "sweden"
+        ]
+      },
+      {
+        "claim": "In US blood-drive data and a field experiment, incentives increased donations at participating drives, but some of that gain came from donors switching away from neighboring drives.",
+        "source_ids": [
+          "us"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A payment may alter the social meaning of an altruistic action differently for different participants.",
+        "status": "plausible",
+        "source_ids": [
+          "sweden"
+        ],
+        "alternative": "Small subgroups, pre-existing preferences, or context-specific interpretations could explain heterogeneity without implying a stable gender rule."
+      },
+      {
+        "claim": "A local participation increase can overstate a system-wide increase when people switch locations.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "us"
+        ],
+        "alternative": "Some additional attendance may represent genuinely new or better-timed donations; displacement need not eliminate all benefit."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Motivational crowding and displacement",
+        "evidence_status": "Different field designs produce conditional, not universal, findings",
+        "source_ids": [
+          "sweden",
+          "us"
+        ],
+        "relevance": "Separates reduced willingness in one setting from substitution and increased observed donations elsewhere.",
+        "transfer_limit": "Cash versus other incentives, prospective versus established donors, and outcome definitions prevent treating these as identical interventions."
+      }
+    ],
+    "lessons": [
+      "Distinguish willingness, attendance, completed donation, and total supply before comparing studies.",
+      "Track neighboring venues and later participation when evaluating a local incentive."
+    ],
+    "research_gaps": [
+      "Agreement to become a donor, completed donations and sustained safe blood supply are different outcomes. Neither a small subgroup’s response nor an increase at selected drives settles the long-term effect of a payment policy on the whole supply system."
+    ],
+    "sources": [
+      {
+        "id": "sweden",
+        "title": "Crowding Out in Blood Donation: Was Titmuss Right?",
+        "url": "https://econweb.ucsd.edu/~jandreon/PhilanthropyAndFundraising/Volume%202/32%20Mellstrom%20Johannesson%202011.pdf",
+        "publisher": "Mellström and Johannesson; university-hosted manuscript",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read intervention and results, including nonsignificant pooled effects and subgroup findings."
+      },
+      {
+        "id": "us",
+        "title": "Will There Be Blood? Incentives and Displacement Effects in Pro-social Behavior",
+        "url": "https://pubs.aeaweb.org/doi/10.1257/pol.4.1.186",
+        "publisher": "American Economic Journal: Economic Policy; Lacetera, Macis and Slonim",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Indexed publisher abstract reports positive effects and neighboring-drive displacement; direct full-text access blocked."
+      }
+    ],
+    "editorial_research_notes": {
+      "prior_research_gaps": [
+        "The US paper was reviewed at abstract level, so detailed safety and mechanism claims are deliberately omitted. The Swedish result does not establish a population-wide negative payment effect or a long-term policy recommendation. This comparison is not a systematic review of donor incentives."
+      ]
+    }
+  }
+]

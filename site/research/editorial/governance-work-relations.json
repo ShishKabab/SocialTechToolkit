@@ -1,0 +1,1924 @@
+{
+  "T101": [
+    {
+      "id": "T254",
+      "reason": "Assemblies give cooperative members a forum to exercise their ownership rights."
+    },
+    {
+      "id": "T104",
+      "reason": "Town halls can hear concerns without granting the binding authority an assembly may hold."
+    },
+    {
+      "id": "T149",
+      "reason": "Agenda rules determine which proposals members can consider."
+    },
+    {
+      "id": "T148",
+      "reason": "Quorum rules limit when those attending may decide for the whole membership."
+    }
+  ],
+  "T102": [
+    {
+      "id": "T107",
+      "reason": "Assembly recommendations can inform a subsequent public vote."
+    },
+    {
+      "id": "T095",
+      "reason": "Participation stipends help selected residents afford sustained deliberation."
+    },
+    {
+      "id": "T108",
+      "reason": "Sortition is a recruitment mechanism for a public cross-section."
+    },
+    {
+      "id": "T103",
+      "reason": "Citizens' juries offer a smaller focused deliberative format."
+    }
+  ],
+  "T103": [
+    {
+      "id": "T319",
+      "reason": "Citizens' juries borrow lay deliberation while serving a different purpose from legal verdicts."
+    },
+    {
+      "id": "T151",
+      "reason": "Structured rounds can help a small panel hear every participant."
+    },
+    {
+      "id": "T102",
+      "reason": "Citizens' assemblies provide a related public deliberation format with different scale and design."
+    }
+  ],
+  "T104": [
+    {
+      "id": "T150",
+      "reason": "Speaking queues make access to the floor less dependent on interruption."
+    },
+    {
+      "id": "T105",
+      "reason": "Consultation channels supplement a town hall for people unable to attend."
+    },
+    {
+      "id": "T101",
+      "reason": "An assembly may exercise decision authority that a town hall lacks."
+    }
+  ],
+  "T105": [
+    {
+      "id": "T115",
+      "reason": "Consultation must clarify whether authority remains with the organizer or is delegated."
+    },
+    {
+      "id": "T159",
+      "reason": "Public decision records reveal how consultation affected the result."
+    },
+    {
+      "id": "T104",
+      "reason": "Town halls are one way to collect and discuss public input."
+    }
+  ],
+  "T106": [
+    {
+      "id": "T197",
+      "reason": "A petition can reveal potential volunteers who need concrete opportunities to contribute."
+    },
+    {
+      "id": "T149",
+      "reason": "Petition rules can give supporters a route onto an institution's agenda."
+    },
+    {
+      "id": "T114",
+      "reason": "A petition can trigger a recall process rather than merely request a policy change."
+    }
+  ],
+  "T107": [
+    {
+      "id": "T109",
+      "reason": "Elections select officeholders while referendums put a specified issue to voters."
+    },
+    {
+      "id": "T149",
+      "reason": "Agenda control shapes which alternatives ever reach a referendum."
+    },
+    {
+      "id": "S032",
+      "reason": "Referendums are a component of direct democracy, not its only possible form."
+    }
+  ],
+  "T108": [
+    {
+      "id": "T109",
+      "reason": "Election and lottery allocate roles through different selection principles."
+    },
+    {
+      "id": "T110",
+      "reason": "Appointment relies on selectors' judgment rather than a lottery."
+    },
+    {
+      "id": "T102",
+      "reason": "Citizens' assemblies often use sortition to recruit participants."
+    },
+    {
+      "id": "T095",
+      "reason": "Compensation helps selected people accept the invitation."
+    }
+  ],
+  "T109": [
+    {
+      "id": "T143",
+      "reason": "Federal elections must decide how constituent units are represented."
+    },
+    {
+      "id": "T112",
+      "reason": "Term limits constrain repeated officeholding alongside electoral competition."
+    },
+    {
+      "id": "T119",
+      "reason": "A majority threshold is one possible rule for translating ballots into a winner."
+    },
+    {
+      "id": "T120",
+      "reason": "Plurality can elect a candidate without majority support."
+    }
+  ],
+  "T110": [
+    {
+      "id": "T271",
+      "reason": "Credentials can supply evidence to selectors but also restrict the candidate pool."
+    },
+    {
+      "id": "D014",
+      "reason": "Familiarity can bias appointments toward socially similar candidates."
+    },
+    {
+      "id": "T284",
+      "reason": "Merit-based selection adds explicit standards for assessing candidates."
+    },
+    {
+      "id": "T109",
+      "reason": "Elections are an alternative route into authority."
+    }
+  ],
+  "T111": [
+    {
+      "id": "T278",
+      "reason": "Contribution records can make otherwise overlooked work available to nominators."
+    },
+    {
+      "id": "T280",
+      "reason": "Peer nominations gather judgments about candidates; reasons expose the basis of those judgments."
+    },
+    {
+      "id": "T124",
+      "reason": "The sociocratic selection method checks objections before assigning the role."
+    }
+  ],
+  "T112": [
+    {
+      "id": "T295",
+      "reason": "Overlapping handovers preserve continuity when a term limit forces a change."
+    },
+    {
+      "id": "D003",
+      "reason": "Informal authority may outlast a formal term limit."
+    },
+    {
+      "id": "T293",
+      "reason": "Succession planning prepares people to assume a time-limited office."
+    },
+    {
+      "id": "T114",
+      "reason": "Recall provides a separate removal route before the term ends."
+    }
+  ],
+  "T113": [
+    {
+      "id": "T149",
+      "reason": "The chair influences the questions and time allocated to discussion."
+    },
+    {
+      "id": "T190",
+      "reason": "A structured handoff preserves continuity as the chair rotates."
+    },
+    {
+      "id": "T100",
+      "reason": "Rotating hosts distributes a related convening role, usually with less formal decision authority."
+    }
+  ],
+  "T114": [
+    {
+      "id": "T109",
+      "reason": "Recall reopens an electoral mandate before the next ordinary contest."
+    },
+    {
+      "id": "T106",
+      "reason": "A petition can initiate the recall procedure."
+    },
+    {
+      "id": "T112",
+      "reason": "Term limits require eventual departure without needing a loss of confidence."
+    }
+  ],
+  "T115": [
+    {
+      "id": "T163",
+      "reason": "Delegation gives a project team the authority needed to deliver its undertaking."
+    },
+    {
+      "id": "T190",
+      "reason": "A handoff transfers the knowledge and responsibility needed to exercise authority."
+    },
+    {
+      "id": "T134",
+      "reason": "Delegation poker exposes mismatched expectations about decision rights."
+    },
+    {
+      "id": "D028",
+      "reason": "Delegation creates a principal-agent relationship that needs intelligible accountability."
+    },
+    {
+      "id": "S027",
+      "reason": "Sociocratic domain definitions clarify the scope of delegated authority."
+    }
+  ],
+  "T116": [
+    {
+      "id": "T143",
+      "reason": "Subsidiarity helps determine which powers belong locally and which are shared."
+    },
+    {
+      "id": "T013",
+      "reason": "Cross-training can build the capacity that makes local decision authority practical."
+    },
+    {
+      "id": "S028",
+      "reason": "Polycentric governance also distributes authority across interacting centers."
+    }
+  ],
+  "T117": [
+    {
+      "id": "T119",
+      "reason": "A named decision maker differs from deciding by a majority of committee votes."
+    },
+    {
+      "id": "T118",
+      "reason": "An advice process formalizes consultation while retaining one person's decision authority."
+    },
+    {
+      "id": "T115",
+      "reason": "Responsibility requires delegated authority to act."
+    },
+    {
+      "id": "T191",
+      "reason": "A responsibility matrix can make the accountable person's scope visible."
+    }
+  ],
+  "T118": [
+    {
+      "id": "T135",
+      "reason": "Impact thresholds reserve some choices for a different approval process."
+    },
+    {
+      "id": "T034",
+      "reason": "A decision log can preserve how advice informed the final judgment."
+    },
+    {
+      "id": "T117",
+      "reason": "The advice seeker remains the accountable decision maker."
+    },
+    {
+      "id": "T115",
+      "reason": "The advice process operates within an authorized decision domain."
+    }
+  ],
+  "T119": [
+    {
+      "id": "T148",
+      "reason": "Quorum determines whether the body may act, separately from the voting threshold."
+    },
+    {
+      "id": "T149",
+      "reason": "Agenda setting influences which choice a majority gets to make."
+    },
+    {
+      "id": "T121",
+      "reason": "Supermajority voting raises the adoption threshold above a simple majority."
+    }
+  ],
+  "T120": [
+    {
+      "id": "T119",
+      "reason": "Plurality can select a winner who lacks the majority required by another rule."
+    },
+    {
+      "id": "T111",
+      "reason": "Candidate nomination shapes the field before plurality votes are counted."
+    },
+    {
+      "id": "T128",
+      "reason": "Ranked-choice voting offers a different treatment of fallback preferences and a divided field."
+    },
+    {
+      "id": "T127",
+      "reason": "Approval voting lets voters support multiple acceptable candidates."
+    }
+  ],
+  "T121": [
+    {
+      "id": "T119",
+      "reason": "A supermajority creates a larger blocking minority than ordinary majority voting."
+    },
+    {
+      "id": "T146",
+      "reason": "Foundational changes are often distinguished from ordinary business through constitutional rules."
+    },
+    {
+      "id": "T122",
+      "reason": "Unanimity gives each participant a veto, extending protection beyond supermajority thresholds."
+    }
+  ],
+  "T122": [
+    {
+      "id": "T086",
+      "reason": "Mediation can help resolve opposition when a unanimous decision stalls."
+    },
+    {
+      "id": "T123",
+      "reason": "Consensus is a deliberative process, while unanimity is a decision threshold."
+    },
+    {
+      "id": "T147",
+      "reason": "Bylaws can define how abstentions and opposition affect unanimity."
+    }
+  ],
+  "T123": [
+    {
+      "id": "T119",
+      "reason": "Majority voting can close a choice without resolving the minority's objections."
+    },
+    {
+      "id": "T124",
+      "reason": "Consent also examines objections, but uses a different threshold from building consensus."
+    },
+    {
+      "id": "T150",
+      "reason": "Speaking queues can protect access to discussion during consensus work."
+    },
+    {
+      "id": "T125",
+      "reason": "Rough consensus allows a group to proceed without treating every disagreement as a veto."
+    }
+  ],
+  "T124": [
+    {
+      "id": "T158",
+      "reason": "An agreed review makes a limited trial revisable."
+    },
+    {
+      "id": "T083",
+      "reason": "Community agreements define the boundaries of collective authority over individuals."
+    },
+    {
+      "id": "T118",
+      "reason": "Advice solicits input without requiring objections to be resolved before acting."
+    },
+    {
+      "id": "S027",
+      "reason": "Consent is a central decision procedure in sociocratic governance."
+    },
+    {
+      "id": "T126",
+      "reason": "Fist-to-five checks expose degrees of support but do not themselves resolve objections."
+    }
+  ],
+  "T125": [
+    {
+      "id": "T119",
+      "reason": "Rough consensus assesses objections rather than deciding by a majority count."
+    },
+    {
+      "id": "T159",
+      "reason": "Public records make the chair's consensus judgment open to scrutiny."
+    },
+    {
+      "id": "T122",
+      "reason": "An unresolved individual disagreement need not create the veto found in unanimity."
+    }
+  ],
+  "T126": [
+    {
+      "id": "T152",
+      "reason": "Anonymous ballots can reduce pressure to display approval publicly."
+    },
+    {
+      "id": "D021",
+      "reason": "Visible agreement can conceal a person's actual preference."
+    },
+    {
+      "id": "T124",
+      "reason": "A consent process distinguishes a reasoned objection from a low level of enthusiasm."
+    }
+  ],
+  "T127": [
+    {
+      "id": "T128",
+      "reason": "Ranked ballots preserve an ordering that approval ballots omit."
+    },
+    {
+      "id": "T129",
+      "reason": "Score voting expresses degrees of preference rather than only acceptance."
+    }
+  ],
+  "T128": [
+    {
+      "id": "S033",
+      "reason": "Ranked voting is one way to choose representatives within a wider representative system."
+    },
+    {
+      "id": "T119",
+      "reason": "The denominator determines the meaning of a ranked-vote winner's majority."
+    },
+    {
+      "id": "T120",
+      "reason": "Plurality counts first choices without transferring fallback preferences."
+    }
+  ],
+  "T129": [
+    {
+      "id": "T130",
+      "reason": "Dot voting distributes a limited budget, unlike independent scores for each option."
+    },
+    {
+      "id": "T127",
+      "reason": "Extreme score use can resemble approval voting."
+    },
+    {
+      "id": "T131",
+      "reason": "Quadratic voting adds an escalating cost to expressing stronger preferences, unlike ordinary score voting."
+    }
+  ],
+  "T130": [
+    {
+      "id": "T151",
+      "reason": "Structured rounds can surface perspectives before a workshop narrows ideas by voting."
+    },
+    {
+      "id": "T152",
+      "reason": "Private ballots reduce the social influence of visible earlier votes."
+    },
+    {
+      "id": "T129",
+      "reason": "Scores offer a different way to express support across multiple options."
+    }
+  ],
+  "T131": [
+    {
+      "id": "T119",
+      "reason": "Majority voting does not directly express differing intensity across questions."
+    },
+    {
+      "id": "T233",
+      "reason": "Quadratic funding uses a related mathematical idea for matching contributions rather than counting votes."
+    }
+  ],
+  "T132": [
+    {
+      "id": "T115",
+      "reason": "Liquid democracy distributes decision authority through revocable delegation."
+    },
+    {
+      "id": "S032",
+      "reason": "Direct voting remains an option alongside delegated representation."
+    },
+    {
+      "id": "T133",
+      "reason": "Proxy voting also authorizes another voter but need not permit topic-specific chains."
+    }
+  ],
+  "T133": [
+    {
+      "id": "T147",
+      "reason": "Organizational rules establish the scope and validity of proxy authorizations."
+    },
+    {
+      "id": "T132",
+      "reason": "Liquid democracy extends delegation beyond a single proxy appointment."
+    }
+  ],
+  "T134": [
+    {
+      "id": "T115",
+      "reason": "The exercise clarifies the decision rights that a real delegation must transfer."
+    },
+    {
+      "id": "T135",
+      "reason": "Impact thresholds can determine which delegation level applies."
+    }
+  ],
+  "T135": [
+    {
+      "id": "T158",
+      "reason": "Review dates give reversible experiments a scheduled reconsideration."
+    },
+    {
+      "id": "T119",
+      "reason": "Higher-impact decisions can be routed to collective votes rather than individual discretion."
+    },
+    {
+      "id": "T160",
+      "reason": "Emergency authority is another bounded exception to ordinary approval rules."
+    },
+    {
+      "id": "T115",
+      "reason": "Delegated authority identifies who can act within each decision threshold."
+    }
+  ],
+  "T136": [
+    {
+      "id": "T207",
+      "reason": "15% Solutions helps people identify work they already have discretion to begin."
+    },
+    {
+      "id": "D003",
+      "reason": "Practical contribution can generate informal authority outside appointed roles."
+    },
+    {
+      "id": "T183",
+      "reason": "Maintainer delegation can turn demonstrated contribution into explicit powers."
+    },
+    {
+      "id": "D019",
+      "reason": "Responsibility accumulating around active volunteers can lead to burnout."
+    }
+  ],
+  "T137": [
+    {
+      "id": "T184",
+      "reason": "A fork provides an exit from the founder's decisions, though rebuilding the community costs effort."
+    },
+    {
+      "id": "T293",
+      "reason": "Founder-centered authority needs preparation for a change of leader."
+    },
+    {
+      "id": "T138",
+      "reason": "Steering councils are a collective alternative to a single final authority."
+    },
+    {
+      "id": "D013",
+      "reason": "BDFL governance can concentrate institutional continuity in one founder."
+    }
+  ],
+  "T138": [
+    {
+      "id": "T109",
+      "reason": "Elections give a council a defined source of authority and replacement."
+    },
+    {
+      "id": "T115",
+      "reason": "A council can avoid becoming a bottleneck by assigning ordinary decisions elsewhere."
+    },
+    {
+      "id": "T137",
+      "reason": "Councils distribute final authority previously concentrated in a BDFL."
+    }
+  ],
+  "T139": [
+    {
+      "id": "T146",
+      "reason": "A charter makes the purposes trustees are expected to protect explicit."
+    },
+    {
+      "id": "T153",
+      "reason": "Disclosure reveals interests that may interfere with trustees' duties."
+    },
+    {
+      "id": "T325",
+      "reason": "Independent audits provide evidence a board can use in financial oversight."
+    }
+  ],
+  "T140": [
+    {
+      "id": "T316",
+      "reason": "Worker councils and unions can have distinct representative rights and functions."
+    },
+    {
+      "id": "T315",
+      "reason": "Consultation through a council is not automatically negotiation over binding employment terms."
+    }
+  ],
+  "T141": [
+    {
+      "id": "T115",
+      "reason": "A circle needs delegated decision rights within its domain."
+    },
+    {
+      "id": "T187",
+      "reason": "Interfaces coordinate work that crosses circle boundaries."
+    },
+    {
+      "id": "T142",
+      "reason": "Double linking gives connected circles a continuing role in each other's governance."
+    },
+    {
+      "id": "S027",
+      "reason": "Circles are an organizational component of sociocratic systems."
+    }
+  ],
+  "T142": [
+    {
+      "id": "T141",
+      "reason": "Double links connect circles whose own responsibilities still need defined domains."
+    },
+    {
+      "id": "T143",
+      "reason": "Overlapping representation can connect local units with a wider federal body."
+    },
+    {
+      "id": "S027",
+      "reason": "Double linking is a sociocratic arrangement for connecting levels of governance."
+    }
+  ],
+  "T143": [
+    {
+      "id": "T236",
+      "reason": "Pooled procurement is a concrete function a federation can centralize."
+    },
+    {
+      "id": "T146",
+      "reason": "Constitutions allocate powers between constituent units and the shared institution."
+    },
+    {
+      "id": "T116",
+      "reason": "Subsidiarity provides a principle for deciding which level should act."
+    },
+    {
+      "id": "T144",
+      "reason": "Confederations preserve a different balance between shared and member authority."
+    }
+  ],
+  "T144": [
+    {
+      "id": "T143",
+      "reason": "Federations and confederations differ in how much authority members commit to the common body."
+    },
+    {
+      "id": "D017",
+      "reason": "Members may benefit from coordination while leaving its costs to others."
+    },
+    {
+      "id": "T203",
+      "reason": "Coalitions also coordinate independent actors but may make narrower or less durable commitments."
+    }
+  ],
+  "T145": [
+    {
+      "id": "T155",
+      "reason": "An independent appeal separates review from the original exercise of authority."
+    },
+    {
+      "id": "T247",
+      "reason": "Member participation in rulemaking can be separated from executive enforcement."
+    },
+    {
+      "id": "T146",
+      "reason": "Constitutions establish the distribution of governing powers."
+    }
+  ],
+  "T146": [
+    {
+      "id": "T121",
+      "reason": "Foundational amendments can require broader support than ordinary decisions."
+    },
+    {
+      "id": "T155",
+      "reason": "Appeals make constitutional commitments usable against particular decisions."
+    },
+    {
+      "id": "T147",
+      "reason": "Bylaws translate foundational arrangements into recurring operating rules."
+    }
+  ],
+  "T147": [
+    {
+      "id": "T148",
+      "reason": "Bylaws can set the attendance required for binding decisions."
+    },
+    {
+      "id": "T109",
+      "reason": "Bylaws define the offices and processes through which members select leaders."
+    },
+    {
+      "id": "T146",
+      "reason": "A charter establishes the foundational commitments bylaws elaborate."
+    }
+  ],
+  "T148": [
+    {
+      "id": "T122",
+      "reason": "Unanimity among attendees does not substitute for meeting the quorum."
+    },
+    {
+      "id": "T096",
+      "reason": "Accessibility affects whether eligible members can meet the participation threshold."
+    },
+    {
+      "id": "T119",
+      "reason": "Quorum and a majority threshold answer different procedural questions."
+    }
+  ],
+  "T149": [
+    {
+      "id": "T115",
+      "reason": "The agenda should identify whether participants have decision authority or are only advising."
+    },
+    {
+      "id": "T320",
+      "reason": "Parliamentary procedure gives members explicit ways to revise proposed business."
+    }
+  ],
+  "T150": [
+    {
+      "id": "T240",
+      "reason": "A speaker list applies queueing to a scarce shared resource: the floor."
+    },
+    {
+      "id": "D020",
+      "reason": "Turn allocation alone cannot remove status differences in whose contribution carries weight."
+    },
+    {
+      "id": "T151",
+      "reason": "Rounds invite every participant, whereas a queue orders those who request a turn."
+    }
+  ],
+  "T151": [
+    {
+      "id": "T063",
+      "reason": "Check-in rounds use a related invitation to speak without forcing disclosure."
+    },
+    {
+      "id": "T150",
+      "reason": "A round differs from a queue by offering each participant a turn."
+    },
+    {
+      "id": "T044",
+      "reason": "Fishbowl discussion separates active discussion from observation while allowing participation to rotate."
+    }
+  ],
+  "T152": [
+    {
+      "id": "D021",
+      "reason": "Ballot secrecy can reduce pressure to display a preference one does not hold."
+    },
+    {
+      "id": "T109",
+      "reason": "Elections must authenticate voters while preserving separation from their choices."
+    }
+  ],
+  "T153": [
+    {
+      "id": "T154",
+      "reason": "Recusal changes participation after a disclosed conflict is assessed."
+    },
+    {
+      "id": "T229",
+      "reason": "Grant allocation is a setting where personal ties can conflict with stewardship of shared funds."
+    },
+    {
+      "id": "T139",
+      "reason": "Trustees need arrangements for disclosing interests affecting their decisions."
+    }
+  ],
+  "T154": [
+    {
+      "id": "T153",
+      "reason": "Disclosure identifies a conflict; recusal removes the person from the relevant decision."
+    },
+    {
+      "id": "T028",
+      "reason": "Independent review can supply judgment when local participants have overlapping interests."
+    }
+  ],
+  "T155": [
+    {
+      "id": "T145",
+      "reason": "Separating review from the original decision maker protects an appeal's credibility."
+    },
+    {
+      "id": "T318",
+      "reason": "Courts provide one institutional model of trial and appellate review."
+    },
+    {
+      "id": "T156",
+      "reason": "An ombuds helps explore options without necessarily initiating a formal appeal."
+    }
+  ],
+  "T156": [
+    {
+      "id": "T155",
+      "reason": "Exploring options informally is different from invoking an authorized review procedure."
+    },
+    {
+      "id": "T097",
+      "reason": "Confidentiality requires explicit limits and expectations, not an unlimited promise."
+    },
+    {
+      "id": "T086",
+      "reason": "Mediation is a possible informal intervention, distinct from an ombuds mandate."
+    }
+  ],
+  "T157": [
+    {
+      "id": "T158",
+      "reason": "A review date calls for reconsideration; a sunset clause changes the default to expiry."
+    },
+    {
+      "id": "T160",
+      "reason": "Expiry limits help prevent exceptional authority from becoming permanent."
+    }
+  ],
+  "T158": [
+    {
+      "id": "T157",
+      "reason": "Expiry and scheduled review impose different consequences when no action is taken."
+    },
+    {
+      "id": "T239",
+      "reason": "Booking-system records can reveal how a shared-resource policy performs."
+    },
+    {
+      "id": "T034",
+      "reason": "Decision logs can retain a policy's purpose and review commitment."
+    }
+  ],
+  "T159": [
+    {
+      "id": "T034",
+      "reason": "Decision logs preserve reasoning; public decision records add an access and disclosure choice."
+    },
+    {
+      "id": "T158",
+      "reason": "Recording review dates makes provisional decisions easier to revisit."
+    },
+    {
+      "id": "T323",
+      "reason": "Information-access processes provide another route to official records."
+    }
+  ],
+  "T160": [
+    {
+      "id": "T157",
+      "reason": "Sunset clauses require an affirmative decision to continue emergency powers."
+    },
+    {
+      "id": "T139",
+      "reason": "Trustees can review crisis decisions within an association's governing framework."
+    },
+    {
+      "id": "T194",
+      "reason": "Incident command coordinates an emergency response but does not itself grant unlimited authority."
+    }
+  ],
+  "T315": [
+    {
+      "id": "T316",
+      "reason": "Unions provide continuing representation for collective bargaining."
+    },
+    {
+      "id": "T326",
+      "reason": "Strikes are a form of organized labor pressure distinct from negotiation itself."
+    },
+    {
+      "id": "T267",
+      "reason": "The resulting agreement establishes commitments that require interpretation and enforcement."
+    }
+  ],
+  "T316": [
+    {
+      "id": "T315",
+      "reason": "Bargaining is one activity a continuing worker organization can undertake."
+    },
+    {
+      "id": "T227",
+      "reason": "Membership dues finance representation and expertise beyond volunteer time."
+    },
+    {
+      "id": "T140",
+      "reason": "Worker councils are another employee voice with potentially different rights and independence."
+    }
+  ],
+  "T317": [
+    {
+      "id": "T086",
+      "reason": "Mediators facilitate a settlement; arbitrators determine an award."
+    },
+    {
+      "id": "T267",
+      "reason": "Contract terms can define the dispute process before a conflict occurs."
+    },
+    {
+      "id": "T318",
+      "reason": "Courts are a public adjudication alternative and may have roles in enforcing awards."
+    }
+  ],
+  "T318": [
+    {
+      "id": "T267",
+      "reason": "Courts can make contractual obligations credible beyond private bargaining power."
+    },
+    {
+      "id": "T155",
+      "reason": "Appeals provide a defined form of review within judicial institutions."
+    },
+    {
+      "id": "S012",
+      "reason": "Courts apply law through institutional procedures rather than personal judgment alone."
+    },
+    {
+      "id": "T319",
+      "reason": "Juries assign specified trial judgments to lay participants."
+    }
+  ],
+  "T319": [
+    {
+      "id": "T318",
+      "reason": "Courts supply the institutional setting within which a trial jury decides."
+    },
+    {
+      "id": "S012",
+      "reason": "Jurors assess a case under legal instructions rather than deciding solely from personal preference."
+    },
+    {
+      "id": "T103",
+      "reason": "Citizens' juries adapt lay deliberation for recommendations rather than legal verdicts."
+    }
+  ],
+  "T320": [
+    {
+      "id": "T150",
+      "reason": "Speaking queues help the chair allocate access to debate."
+    },
+    {
+      "id": "T227",
+      "reason": "Membership dues are an example of substantive business decided through formal motions."
+    },
+    {
+      "id": "T149",
+      "reason": "Agenda rules determine which motions an assembly considers."
+    },
+    {
+      "id": "T148",
+      "reason": "Quorum rules establish whether the assembly may conduct binding business."
+    }
+  ],
+  "T321": [
+    {
+      "id": "T138",
+      "reason": "A steering council holds authority differently from spokes carrying local mandates."
+    },
+    {
+      "id": "T113",
+      "reason": "Rotating convening roles can reduce status concentrating around recurring delegates."
+    },
+    {
+      "id": "T123",
+      "reason": "Spokescouncils can scale consensus through smaller-group discussion."
+    },
+    {
+      "id": "T115",
+      "reason": "Mandates bound what spokes may decide on their groups' behalf."
+    }
+  ],
+  "T322": [
+    {
+      "id": "T097",
+      "reason": "Confidentiality means defined limits on disclosure, distinct from anonymity."
+    },
+    {
+      "id": "T156",
+      "reason": "An ombuds can offer an independent exploratory route, but is not automatically a formal reporting channel."
+    },
+    {
+      "id": "T325",
+      "reason": "Independent audits and protected reports can expose different forms of organizational failure."
+    }
+  ],
+  "T323": [
+    {
+      "id": "T159",
+      "reason": "An information request can seek records that were not proactively published."
+    },
+    {
+      "id": "T155",
+      "reason": "Review procedures make information-access rights contestable rather than discretionary."
+    },
+    {
+      "id": "T324",
+      "reason": "Social audits depend partly on access to official project records."
+    }
+  ],
+  "T324": [
+    {
+      "id": "T248",
+      "reason": "Community monitoring supplies observations against which official accounts can be checked."
+    },
+    {
+      "id": "T323",
+      "reason": "Information-access rights help obtain records for a social audit."
+    },
+    {
+      "id": "T325",
+      "reason": "Financial audits provide a different, professionally defined form of scrutiny."
+    }
+  ],
+  "T325": [
+    {
+      "id": "T139",
+      "reason": "Trustee or board oversight uses audit findings while retaining management's own responsibilities."
+    },
+    {
+      "id": "T153",
+      "reason": "Conflicts of interest can compromise the independence of audit judgment."
+    },
+    {
+      "id": "T324",
+      "reason": "Social audits add affected communities' experience to scrutiny beyond a financial audit's scope."
+    }
+  ],
+  "T161": [
+    {
+      "id": "T182",
+      "reason": "Practical contribution instructions turn permission to modify into an accessible participation path."
+    },
+    {
+      "id": "T184",
+      "reason": "An independent version offers an exit when contributors disagree with project direction."
+    },
+    {
+      "id": "T268",
+      "reason": "Open licenses grant reuse rights independently of project governance."
+    },
+    {
+      "id": "T183",
+      "reason": "Maintainer delegation distributes review and stewardship responsibilities."
+    },
+    {
+      "id": "T162",
+      "reason": "Commons-based peer production extends the shared-contribution model beyond software collaboration."
+    },
+    {
+      "id": "S029",
+      "reason": "Open-source ecosystems include the funding, governance, and relationships surrounding collaboration on a project."
+    }
+  ],
+  "T162": [
+    {
+      "id": "T211",
+      "reason": "Peer production is an alternative coordination arrangement to relying solely on markets."
+    },
+    {
+      "id": "D019",
+      "reason": "Unpopular stewardship work can overload a small group of contributors."
+    },
+    {
+      "id": "T245",
+      "reason": "Commons governance defines rights and responsibilities around a shared resource."
+    },
+    {
+      "id": "T161",
+      "reason": "Open-source projects are a major example of commons-based peer production."
+    }
+  ],
+  "T163": [
+    {
+      "id": "T190",
+      "reason": "A project must transfer unfinished issues and knowledge to the people operating its result."
+    },
+    {
+      "id": "T026",
+      "reason": "After-action review helps preserve learning before a temporary team disperses."
+    },
+    {
+      "id": "T166",
+      "reason": "Cross-functional composition can give a project the combined skills needed to deliver."
+    },
+    {
+      "id": "T171",
+      "reason": "Sprints provide a bounded period of focused work for a project team."
+    }
+  ],
+  "T164": [
+    {
+      "id": "T146",
+      "reason": "A working group's charter defines its remit and the authority of its outputs."
+    },
+    {
+      "id": "T180",
+      "reason": "Written proposals let a working group expose its developing work to broader scrutiny."
+    },
+    {
+      "id": "T163",
+      "reason": "Project teams focus on delivery, while a working group may primarily investigate or recommend."
+    }
+  ],
+  "T165": [
+    {
+      "id": "T117",
+      "reason": "A task force needs identifiable coordination authority over its combined resources."
+    },
+    {
+      "id": "T190",
+      "reason": "The temporary mission needs a clear transfer back to ordinary responsibility."
+    },
+    {
+      "id": "T194",
+      "reason": "Task forces are one way incident command combines operational resources."
+    }
+  ],
+  "T166": [
+    {
+      "id": "T169",
+      "reason": "Guilds connect specialists across delivery teams without dissolving the teams."
+    },
+    {
+      "id": "T115",
+      "reason": "Combined skills matter only if the team has authority to complete the outcome."
+    },
+    {
+      "id": "T163",
+      "reason": "A project team can be cross-functional when its outcome requires several disciplines."
+    }
+  ],
+  "T167": [
+    {
+      "id": "T267",
+      "reason": "Internal agreements specify relationships and commitments among autonomous units."
+    },
+    {
+      "id": "T168",
+      "reason": "Internal microenterprise units do not necessarily have the independence of separate small businesses."
+    },
+    {
+      "id": "T256",
+      "reason": "Local decision authority is distinct from employees owning the enterprise."
+    },
+    {
+      "id": "T187",
+      "reason": "Shared interfaces help autonomous units coordinate interdependent work."
+    }
+  ],
+  "T168": [
+    {
+      "id": "T236",
+      "reason": "Pooled purchasing is one support function independent small firms can organize together."
+    },
+    {
+      "id": "T167",
+      "reason": "Internal microenterprises inherit a different infrastructure and risk relationship from independent firms."
+    },
+    {
+      "id": "T253",
+      "reason": "Producer cooperatives let independent producers share selected economic functions."
+    },
+    {
+      "id": "S025",
+      "reason": "Marketing connects an independent enterprise’s offer with people who might use it."
+    }
+  ],
+  "T169": [
+    {
+      "id": "T004",
+      "reason": "Communities of practice connect a craft through shared learning beyond delivery roles."
+    },
+    {
+      "id": "T115",
+      "reason": "A guild's advice must be distinguished from delegated authority to require changes."
+    },
+    {
+      "id": "T166",
+      "reason": "Guilds reconnect specialists distributed among cross-functional teams."
+    }
+  ],
+  "T170": [
+    {
+      "id": "T163",
+      "reason": "Hackathons create temporary project teams around a concrete prototype."
+    },
+    {
+      "id": "T166",
+      "reason": "Cross-functional participation can connect user needs with the ability to build and test."
+    },
+    {
+      "id": "T198",
+      "reason": "A bounded time commitment makes intensive participation and follow-up expectations explicit."
+    },
+    {
+      "id": "T017",
+      "reason": "Demonstrations provide a way to share the resulting prototypes and learning."
+    }
+  ],
+  "T171": [
+    {
+      "id": "T027",
+      "reason": "Retrospectives examine working practices as part of a sprint's learning cycle."
+    },
+    {
+      "id": "T010",
+      "reason": "Feedback on actual use informs the next period of work."
+    },
+    {
+      "id": "T198",
+      "reason": "Sprints bound a work commitment, but also add a repeating inspection cycle."
+    },
+    {
+      "id": "T170",
+      "reason": "Hackathons concentrate effort into an event with a shared invitation, rather than a recurring work cadence."
+    }
+  ],
+  "T172": [
+    {
+      "id": "T096",
+      "reason": "Accessible tasks and arrangements affect who can join a practical work session."
+    },
+    {
+      "id": "T198",
+      "reason": "A defined ending lets volunteers contribute without accepting indefinite stewardship."
+    },
+    {
+      "id": "T173",
+      "reason": "Barn-raising concentrates community labor on a larger task within durable mutual-aid relationships."
+    }
+  ],
+  "T173": [
+    {
+      "id": "T065",
+      "reason": "Barn-raising is embedded in a continuing network of mutual help."
+    },
+    {
+      "id": "D015",
+      "reason": "Expectations of future help can sustain participation and also create felt obligations."
+    },
+    {
+      "id": "T172",
+      "reason": "A work party shares the concentrated practical format without necessarily the same enduring obligations."
+    },
+    {
+      "id": "T219",
+      "reason": "Reciprocal labor exchanges organize mutual work across several occasions."
+    }
+  ],
+  "T174": [
+    {
+      "id": "T028",
+      "reason": "Pairing incorporates review during execution instead of waiting until the work is finished."
+    },
+    {
+      "id": "D007",
+      "reason": "Working alongside another person transmits knowledge through participation."
+    },
+    {
+      "id": "T175",
+      "reason": "Ensemble work extends shared attention from two people to a whole team."
+    },
+    {
+      "id": "T201",
+      "reason": "Coworking supplies shared presence while participants pursue separate tasks."
+    }
+  ],
+  "T175": [
+    {
+      "id": "T174",
+      "reason": "Ensemble work extends collaboration on one task beyond a pair."
+    },
+    {
+      "id": "T013",
+      "reason": "Shared execution can distribute skills otherwise concentrated in one specialist."
+    },
+    {
+      "id": "T201",
+      "reason": "Coworking differs by keeping participants' tasks separate."
+    }
+  ],
+  "T176": [
+    {
+      "id": "T178",
+      "reason": "Visible blocked work helps a team decide how to use limited active-work capacity."
+    },
+    {
+      "id": "D009",
+      "reason": "Visible work traces let contributors coordinate without a separate instruction for every action."
+    },
+    {
+      "id": "T191",
+      "reason": "Responsibility matrices show ownership while boards show workflow state."
+    }
+  ],
+  "T177": [
+    {
+      "id": "T178",
+      "reason": "Work-in-progress controls create the capacity signal that permits more work to enter."
+    },
+    {
+      "id": "T176",
+      "reason": "A shared board can make queues and capacity constraints inspectable."
+    },
+    {
+      "id": "D025",
+      "reason": "Rewarding individual busyness can displace the goal of completing useful work."
+    }
+  ],
+  "T178": [
+    {
+      "id": "T176",
+      "reason": "A shared board makes active work and available slots visible."
+    },
+    {
+      "id": "T177",
+      "reason": "Pull systems admit new work when downstream capacity becomes available."
+    },
+    {
+      "id": "D026",
+      "reason": "Ignoring or disguising active work can make a numeric limit a performance game."
+    }
+  ],
+  "T179": [
+    {
+      "id": "T161",
+      "reason": "Open collaboration creates a public intake of reports and contributions that needs triage."
+    },
+    {
+      "id": "T180",
+      "reason": "Significant proposals can move from issue intake into a request-for-comments process."
+    },
+    {
+      "id": "T182",
+      "reason": "Contribution guidelines help reporters supply actionable information."
+    },
+    {
+      "id": "T183",
+      "reason": "Delegating triage spreads maintainer workload without granting every other project power."
+    }
+  ],
+  "T180": [
+    {
+      "id": "T268",
+      "reason": "An RFC can expose the consequences of changing reuse permissions before adoption."
+    },
+    {
+      "id": "T159",
+      "reason": "Published proposal decisions preserve reasoning beyond the comment period."
+    },
+    {
+      "id": "T182",
+      "reason": "Contribution guidance explains when a change needs a formal proposal."
+    }
+  ],
+  "T181": [
+    {
+      "id": "T096",
+      "reason": "Accessibility needs belong among the criteria reviewed before a design becomes costly to change."
+    },
+    {
+      "id": "T191",
+      "reason": "Responsibility mapping keeps conditional approval tied to actual follow-up work."
+    },
+    {
+      "id": "T028",
+      "reason": "Design reviews are a focused form of scrutiny against requirements."
+    },
+    {
+      "id": "T050",
+      "reason": "Premortems explore possible failure before implementation, complementing design review."
+    }
+  ],
+  "T182": [
+    {
+      "id": "T084",
+      "reason": "Behavioral expectations are distinct from instructions for submitting useful work."
+    },
+    {
+      "id": "T268",
+      "reason": "A license grants legal permissions while contribution guidelines explain the participation process."
+    },
+    {
+      "id": "T179",
+      "reason": "Clear reporting requirements make issue triage easier."
+    },
+    {
+      "id": "T196",
+      "reason": "Communities of contribution provide the continuing relationships and responsibilities around individual contributions."
+    }
+  ],
+  "T183": [
+    {
+      "id": "T115",
+      "reason": "Maintainer access is a concrete delegation of decision rights."
+    },
+    {
+      "id": "D013",
+      "reason": "Delegation reduces reliance on a single founder to approve essential work."
+    },
+    {
+      "id": "T296",
+      "reason": "Progressive responsibility lets contributors develop stewardship capability."
+    },
+    {
+      "id": "T185",
+      "reason": "Release authority is one maintenance power a project may delegate separately."
+    }
+  ],
+  "T184": [
+    {
+      "id": "T268",
+      "reason": "Reuse permissions make a legally permitted independent version possible."
+    },
+    {
+      "id": "T081",
+      "reason": "Project identity and shared symbols do not necessarily transfer with the source material."
+    },
+    {
+      "id": "T137",
+      "reason": "Forking can provide an exit from a BDFL's final authority."
+    },
+    {
+      "id": "T161",
+      "reason": "Open collaboration supplies both the shared material and relationships a fork may separate."
+    }
+  ],
+  "T185": [
+    {
+      "id": "T124",
+      "reason": "A release process needs an explicit acceptance rule; consent is one alternative to an approval vote."
+    },
+    {
+      "id": "T195",
+      "reason": "Learning from release failures can improve later release checks."
+    },
+    {
+      "id": "T183",
+      "reason": "Delegation defines who has authority to coordinate or authorize a release."
+    },
+    {
+      "id": "T189",
+      "reason": "Checklists can make the required release checks repeatable."
+    }
+  ],
+  "T186": [
+    {
+      "id": "T267",
+      "reason": "Standards can become binding through contractual commitments even when not laws."
+    },
+    {
+      "id": "T187",
+      "reason": "Standards define common interfaces that allow independent implementations to cooperate."
+    },
+    {
+      "id": "D027",
+      "reason": "Unequal participation resources can let established interests capture standard setting."
+    },
+    {
+      "id": "T164",
+      "reason": "Technical working groups develop standards within a broader institution."
+    },
+    {
+      "id": "D029",
+      "reason": "Path dependence helps explain why shared standards can remain difficult to replace after widespread adoption."
+    }
+  ],
+  "T187": [
+    {
+      "id": "T190",
+      "reason": "A handoff confirms that information and responsibility crossed the boundary."
+    },
+    {
+      "id": "D027",
+      "reason": "Control of an interface can privilege particular interests or kinds of information."
+    },
+    {
+      "id": "T186",
+      "reason": "Standards bodies negotiate common specifications for interoperable systems."
+    }
+  ],
+  "T188": [
+    {
+      "id": "T013",
+      "reason": "Cross-training gives people the competence a written procedure assumes."
+    },
+    {
+      "id": "T085",
+      "reason": "Principle-based norms are an alternative when a fixed sequence cannot cover the situation."
+    },
+    {
+      "id": "T189",
+      "reason": "A checklist highlights critical confirmations rather than describing the whole procedure."
+    }
+  ],
+  "T189": [
+    {
+      "id": "T188",
+      "reason": "Operating procedures describe work sequences; checklists select crucial confirmations."
+    },
+    {
+      "id": "T190",
+      "reason": "Checklists can support a handoff by making critical information explicit."
+    },
+    {
+      "id": "T194",
+      "reason": "Incident coordination may use checks but still requires trained roles and actual authority."
+    }
+  ],
+  "T190": [
+    {
+      "id": "T295",
+      "reason": "Overlapping handovers add shared time to a transfer of responsibility."
+    },
+    {
+      "id": "T191",
+      "reason": "Responsibility mapping makes the receiver's ownership explicit."
+    },
+    {
+      "id": "T193",
+      "reason": "Recurring shifts need a handoff at each transition."
+    }
+  ],
+  "T191": [
+    {
+      "id": "T117",
+      "reason": "An accountable owner closes the loop when several contributors are involved."
+    },
+    {
+      "id": "T115",
+      "reason": "A matrix records assignment but does not itself transfer real decision rights."
+    },
+    {
+      "id": "T176",
+      "reason": "Task boards complement ownership mapping with the current state of work."
+    }
+  ],
+  "T192": [
+    {
+      "id": "T267",
+      "reason": "An SLA's force depends on the actual agreement defining obligations and remedies."
+    },
+    {
+      "id": "D026",
+      "reason": "Participants may optimize a measured response while neglecting the service people need."
+    }
+  ],
+  "T193": [
+    {
+      "id": "T190",
+      "reason": "Duty changes require information and responsibility to move together."
+    },
+    {
+      "id": "T013",
+      "reason": "Cross-training prepares multiple people to cover the same essential duty."
+    },
+    {
+      "id": "T092",
+      "reason": "Chore rotations apply a related distribution of recurring work in shared life."
+    },
+    {
+      "id": "D019",
+      "reason": "Rosters can distribute work without solving an unsustainable total workload."
+    },
+    {
+      "id": "T285",
+      "reason": "Seniority rules offer one principle for allocating preferences within a duty roster."
+    }
+  ],
+  "T194": [
+    {
+      "id": "T190",
+      "reason": "Responsibility must transfer clearly as incident roles change."
+    },
+    {
+      "id": "T025",
+      "reason": "Simulation exercises let responders practice roles before an actual incident."
+    },
+    {
+      "id": "T160",
+      "reason": "Emergency powers define authority limits separately from the response coordination structure."
+    },
+    {
+      "id": "T165",
+      "reason": "Task forces combine different resources within an incident response."
+    }
+  ],
+  "T195": [
+    {
+      "id": "T191",
+      "reason": "Assigning owners turns postmortem findings into commitments."
+    },
+    {
+      "id": "D021",
+      "reason": "Fear of punishment can cause people to conceal what they actually saw or thought."
+    },
+    {
+      "id": "T026",
+      "reason": "After-action reviews offer a broader learning process after events, not only failures."
+    },
+    {
+      "id": "T027",
+      "reason": "Retrospectives also inspect working practices but need not center an incident."
+    }
+  ],
+  "T196": [
+    {
+      "id": "T182",
+      "reason": "Contribution guidelines make a first useful action understandable."
+    },
+    {
+      "id": "T183",
+      "reason": "Maintainer delegation creates a route from contributing to recognized stewardship."
+    },
+    {
+      "id": "D008",
+      "reason": "Communities need room for both occasional participants and a more involved core."
+    },
+    {
+      "id": "D019",
+      "reason": "Growing contributions can overwhelm the people who review and welcome them."
+    }
+  ],
+  "T197": [
+    {
+      "id": "T038",
+      "reason": "Translation networks are a setting where matching language skills to concrete needs matters."
+    },
+    {
+      "id": "T198",
+      "reason": "A time-boxed commitment makes the expected workload and endpoint easier to assess."
+    }
+  ],
+  "T198": [
+    {
+      "id": "T190",
+      "reason": "A bounded commitment needs a route for transferring unfinished work."
+    },
+    {
+      "id": "D019",
+      "reason": "Indefinite obligations can exhaust volunteers even when they willingly began a small task."
+    },
+    {
+      "id": "T197",
+      "reason": "Matching improves when the opportunity states its duration and workload."
+    }
+  ],
+  "T199": [
+    {
+      "id": "T159",
+      "reason": "A pledge can commit an organization to an observable public record."
+    },
+    {
+      "id": "T200",
+      "reason": "An accountability relationship adds recurring follow-up to a stated intention."
+    },
+    {
+      "id": "T306",
+      "reason": "Oaths attach a public commitment to a recognized office rather than an ordinary personal goal."
+    }
+  ],
+  "T200": [
+    {
+      "id": "T201",
+      "reason": "Coworking adds shared work time, while accountability check-ins review commitments and progress."
+    },
+    {
+      "id": "T199",
+      "reason": "Publicly stating an intention differs from sustaining a supportive check-in relationship."
+    }
+  ],
+  "T201": [
+    {
+      "id": "T174",
+      "reason": "Pairs jointly solve a task, whereas coworkers can work independently."
+    },
+    {
+      "id": "T200",
+      "reason": "Accountability partners offer a related social commitment with a different check-in focus."
+    }
+  ],
+  "T202": [
+    {
+      "id": "T085",
+      "reason": "Principles give local organizers boundaries without prescribing every action."
+    },
+    {
+      "id": "T081",
+      "reason": "Shared symbols make distributed actions recognizable as one campaign."
+    },
+    {
+      "id": "T203",
+      "reason": "Coalitions join distinct organizations around a common objective, potentially without a shared campaign identity."
+    }
+  ],
+  "T203": [
+    {
+      "id": "T149",
+      "reason": "Agenda-setting power affects whose priorities a coalition takes up."
+    },
+    {
+      "id": "D028",
+      "reason": "Representatives must reconcile the coalition's commitments with obligations to their own organizations."
+    },
+    {
+      "id": "T202",
+      "reason": "Distributed campaigns translate common demands into locally led action."
+    },
+    {
+      "id": "T330",
+      "reason": "Joint ventures create a shared undertaking with agreed control rather than cooperation around a campaign alone."
+    },
+    {
+      "id": "S016",
+      "reason": "Strategy helps a coalition choose coordinated actions rather than merely collecting shared aspirations."
+    }
+  ],
+  "T204": [
+    {
+      "id": "D028",
+      "reason": "A partnership can become accountable to its funder at the expense of intended beneficiaries."
+    },
+    {
+      "id": "T205",
+      "reason": "Boundary-spanning roles help maintain practical cooperation across partner organizations."
+    },
+    {
+      "id": "T203",
+      "reason": "Collective impact adds sustained coordination and shared measurement to the broader coalition pattern."
+    }
+  ],
+  "T205": [
+    {
+      "id": "D031",
+      "reason": "A bridge between groups can also control access, making brokerage a source of power."
+    },
+    {
+      "id": "T204",
+      "reason": "Cross-organization partnerships need people who maintain practical connections between institutions."
+    },
+    {
+      "id": "T187",
+      "reason": "Common interfaces can reduce dependence on one person's translation."
+    }
+  ],
+  "T206": [
+    {
+      "id": "T085",
+      "reason": "Essential principles leave room for local judgment within shared boundaries."
+    },
+    {
+      "id": "T188",
+      "reason": "Operating procedures prescribe a sequence rather than only essential constraints."
+    }
+  ],
+  "T207": [
+    {
+      "id": "T115",
+      "reason": "Existing delegated authority determines what a person can begin without asking."
+    },
+    {
+      "id": "T136",
+      "reason": "Doocracy also creates room for initiative through doing useful work."
+    },
+    {
+      "id": "T209",
+      "reason": "Requests for help clarify dependencies beyond one's own discretion."
+    }
+  ],
+  "T208": [
+    {
+      "id": "T238",
+      "reason": "A shared lending resource provides a concrete setting for discovering better local practices."
+    },
+    {
+      "id": "T042",
+      "reason": "Appreciative interviews also investigate existing success, with a different conversational structure."
+    },
+    {
+      "id": "D011",
+      "reason": "Tacit knowledge may explain why a local practice succeeds but is hard to transfer."
+    }
+  ],
+  "T209": [
+    {
+      "id": "T190",
+      "reason": "Explicit transfers can resolve dependencies previously experienced as unhelpfulness."
+    },
+    {
+      "id": "T192",
+      "reason": "Recurring requests can become defined commitments between teams."
+    },
+    {
+      "id": "T205",
+      "reason": "Boundary spanners can maintain the cross-group relationships clarified in this exercise."
+    }
+  ],
+  "T210": [
+    {
+      "id": "T085",
+      "reason": "Principles turn an initiative's purpose into practical constraints on action."
+    },
+    {
+      "id": "T115",
+      "reason": "Purpose-to-Practice explicitly connects purpose with decision rights."
+    },
+    {
+      "id": "T206",
+      "reason": "Minimum specifications can help distinguish essential principles from unnecessary rules."
+    },
+    {
+      "id": "T203",
+      "reason": "Coalition partners can use the method to design a shared undertaking."
+    }
+  ],
+  "T326": [
+    {
+      "id": "T315",
+      "reason": "Strikes exert pressure around negotiation rather than replacing the bargaining relationship."
+    },
+    {
+      "id": "T327",
+      "reason": "Boycotts withhold purchases, while strikes withhold labor."
+    },
+    {
+      "id": "T316",
+      "reason": "Unions can maintain representation and practical support through a dispute."
+    }
+  ],
+  "T327": [
+    {
+      "id": "T065",
+      "reason": "Shared support can help participants sustain refusal when alternatives are costly."
+    },
+    {
+      "id": "T202",
+      "reason": "Distributed campaigning coordinates participation across local groups."
+    },
+    {
+      "id": "T326",
+      "reason": "Strikes withhold labor, while boycotts withhold purchases or participation."
+    }
+  ],
+  "T328": [
+    {
+      "id": "T028",
+      "reason": "Independent scrutiny can help test evidence and distinctions before publication."
+    },
+    {
+      "id": "T248",
+      "reason": "Community monitoring produces local observations that can become public reporting."
+    },
+    {
+      "id": "T323",
+      "reason": "Information requests can provide documentary evidence for community reporting."
+    }
+  ],
+  "T329": [
+    {
+      "id": "T293",
+      "reason": "A durable religious community needs continuity of authority beyond particular leaders."
+    },
+    {
+      "id": "T311",
+      "reason": "Congregations organize religious belonging through a different form of participation."
+    },
+    {
+      "id": "S023",
+      "reason": "Religious rituals can connect recurring practice with shared commitment."
+    }
+  ],
+  "T330": [
+    {
+      "id": "T203",
+      "reason": "A coalition coordinates independent actors around an objective without necessarily establishing shared control of a venture."
+    },
+    {
+      "id": "T122",
+      "reason": "The cited accounting definition of joint control requires agreement among the controlling parties."
+    },
+    {
+      "id": "T267",
+      "reason": "Contracts define contributions, control, and the way a venture can change or end."
+    }
+  ],
+  "T331": [
+    {
+      "id": "T081",
+      "reason": "A common identity connects separate operators and makes their reputations interdependent."
+    },
+    {
+      "id": "T267",
+      "reason": "The franchise contract joins brand access to fees, support, and operating constraints."
+    },
+    {
+      "id": "T188",
+      "reason": "Operating procedures support replication of a recognizable service across locations."
+    },
+    {
+      "id": "T168",
+      "reason": "Franchise operators combine small-business responsibilities with constraints imposed by a wider system."
+    }
+  ]
+}

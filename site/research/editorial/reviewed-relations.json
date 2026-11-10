@@ -1,0 +1,116 @@
+{
+  "T279": [
+    {
+      "id": "T337",
+      "reason": "Peer juries supply the specialist judgment behind an award."
+    },
+    {
+      "id": "T230",
+      "reason": "Prize competitions promise a reward for a specified goal; awards recognize achievement."
+    },
+    {
+      "id": "T229",
+      "reason": "Grants can support work before there is an achievement to recognize."
+    },
+    {
+      "id": "D020",
+      "reason": "Status hierarchies help explain why recognition changes whose work gets attention."
+    }
+  ],
+  "T001": [
+    {
+      "id": "D011",
+      "reason": "Mentorship gives practical judgment a route between people when instructions alone are insufficient."
+    },
+    {
+      "id": "T062",
+      "reason": "Introductions give a mentee access to people and opportunities outside their existing network."
+    },
+    {
+      "id": "T292",
+      "reason": "Sponsorship for advancement adds advocacy and reputational backing to advice."
+    },
+    {
+      "id": "T293",
+      "reason": "Succession planning connects development to the future continuity of a project."
+    },
+    {
+      "id": "T051",
+      "reason": "Recurring gatherings create repeated opportunities for mentoring relationships to form."
+    },
+    {
+      "id": "T014",
+      "reason": "Office hours offer a bounded way to seek advice without an ongoing mentorship commitment."
+    }
+  ],
+  "S005": [
+    {
+      "id": "S007",
+      "reason": "Technocracy grounds authority in expertise, which is narrower than the classical aristocratic ideal."
+    },
+    {
+      "id": "T109",
+      "reason": "Elections give people a voice in selection without guaranteeing governing ability."
+    },
+    {
+      "id": "S009",
+      "reason": "Dynasties make family continuity a route for transferring authority."
+    },
+    {
+      "id": "S006",
+      "reason": "Meritocracy also requires a standard of ability, but addresses selection and opportunity more broadly."
+    }
+  ],
+  "T211": [
+    {
+      "id": "T340",
+      "reason": "Private ownership defines rights over resources exchanged in many markets."
+    },
+    {
+      "id": "T267",
+      "reason": "Contracts specify the commitments made in exchange."
+    },
+    {
+      "id": "T318",
+      "reason": "Courts provide one institutional route for settling disputes over exchange."
+    },
+    {
+      "id": "T270",
+      "reason": "Public provisioning can support shared benefits that are difficult to sell individually."
+    },
+    {
+      "id": "D017",
+      "reason": "Free riding helps explain difficulties funding benefits available to noncontributors."
+    },
+    {
+      "id": "T213",
+      "reason": "Double auctions are a concrete mechanism for coordinating buyers and sellers."
+    },
+    {
+      "id": "S001",
+      "reason": "Capitalism combines market exchange with private investment and control of production."
+    }
+  ],
+  "T339": [
+    {
+      "id": "T316",
+      "reason": "Trade unions pool workers’ interests and knowledge for collective representation."
+    },
+    {
+      "id": "T203",
+      "reason": "Coalitions combine separate groups around a shared public demand."
+    },
+    {
+      "id": "T106",
+      "reason": "Petitions make support for a demand visible to decision-makers."
+    },
+    {
+      "id": "D027",
+      "reason": "Capture is one possible distortion of organized influence, not a synonym for lobbying."
+    },
+    {
+      "id": "S033",
+      "reason": "Representative democracy creates ongoing relationships between constituents and officeholders."
+    }
+  ]
+}

@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "T003",
+    "title": "Peer learning circles",
+    "source_title": "Facilitating Peer Learning",
+    "url": "https://docs.p2pu.org/facilitation/facilitation-basics",
+    "publisher": "Peer 2 Peer University",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Learning circles put facilitation around shared learning rather than requiring an expert teacher to deliver every answer. P2PU describes the facilitator as a co-learner who supports conversation, keeps the group on track, and maintains the meeting structure.",
+    "limitation": "This describes a particular peer learning model; its accessibility does not establish equivalent outcomes for every subject or participant.",
+    "scenario": "Hypothetically, six neighbors could meet weekly at a library to finish an introductory statistics course, bring confusing exercises, and compare explanations before moving forward.",
+    "aliases": [
+      "learning circle",
+      "peer learning"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T005",
+    "title": "Study groups",
+    "source_title": "Supporting Student Well-Being with Peer-Led Study Groups",
+    "url": "https://teaching.cornell.edu/teaching-spotlight/provosts-working-group-innovation-assessment/supporting-student-well-being-peer",
+    "publisher": "Cornell University",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Peer-led study groups give learners a recurring setting to tackle course material together. Cornell describes undergraduate teaching assistants using relationships with students to notice confusion and adapt collaborative sessions to their needs.",
+    "limitation": "The example involves supported undergraduate teaching assistants; an informal study group may lack their preparation, supervision, and access to instructors.",
+    "scenario": "Hypothetically, students struggling with calculus could reserve a weekly room, bring problems they could not solve, and take turns explaining possible solutions together.",
+    "aliases": [
+      "study circle",
+      "peer-led study"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T006",
+    "title": "Journal clubs",
+    "source_title": "Journal Club Leader Toolkit 2024",
+    "url": "https://www.training.nih.gov/documents/31/Journal_Club_Leader_Toolkit_2024_508checked.pdf",
+    "publisher": "National Institutes of Health",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Journal clubs organize discussion around selected research papers. A leader chooses a coherent topic and guides participants through reading, presentation, and critique so that a publication becomes material for collective investigation.",
+    "limitation": "Discussing published research develops interpretation; a group discussion cannot independently establish that the paper is correct or its findings generalize.",
+    "scenario": "Hypothetically, a laboratory could discuss one paper each fortnight, assigning different members to explain the methods, question the controls, and identify a follow-up experiment.",
+    "aliases": [
+      "paper club",
+      "research reading group"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T007",
+    "title": "Socratic seminars",
+    "source_title": "Socratic Seminars",
+    "url": "https://www.readwritethink.org/professional-development/strategy-guides/socratic-seminars",
+    "publisher": "ReadWriteThink / NCTE",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "A Socratic seminar uses a shared text and open questions to organize inquiry. Participants examine interpretations through discussion, while the facilitator supports questioning and participation instead of treating the session as a lecture.",
+    "limitation": "The format depends on preparation and discussion norms; it is an inquiry practice, not a voting procedure or competitive debate.",
+    "scenario": "Hypothetically, a reading group could discuss a short essay on work, asking which assumptions support its argument and inviting competing interpretations grounded in the text.",
+    "aliases": [
+      "Socratic dialogue",
+      "text-based seminar"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T008",
+    "title": "Teach-back",
+    "source_title": "Teach-back",
+    "url": "https://www.ahrq.gov/patient-safety/reports/engage/interventions/teachback.html",
+    "publisher": "Agency for Healthcare Research and Quality",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Teach-back checks an explanation by asking the recipient to describe the information or action in their own words. The explainer uses the response to identify misunderstandings and explain again where needed.",
+    "limitation": "The source concerns healthcare communication; using the pattern elsewhere is an adaptation, and recall alone does not demonstrate practical competence.",
+    "scenario": "Hypothetically, a volunteer coordinator could explain how equipment checkout works, ask a newcomer to walk through the process, and clarify the misunderstood return step.",
+    "aliases": [
+      "teach back",
+      "check understanding"
+    ],
+    "scale": "everyday",
+    "adaptation": true
+  },
+  {
+    "id": "T009",
+    "title": "Peer instruction",
+    "source_title": "Incorporating Short Peer Discussion Activities for In-Class Collaborative Learning",
+    "url": "https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/collaborative-learning/incorporating-short-peer",
+    "publisher": "Cornell University",
+    "source_type": "institutional guide",
+    "access": "page",
+    "finding": "Peer instruction makes learners compare reasoning before an instructor resolves a concept question. Cornell describes a polling sequence in which participants answer individually, discuss with a neighbor, answer again, and then examine the reasoning behind correct answers and common misconceptions.",
+    "limitation": "Peer discussion can circulate mistakes as well as insights; question design and subsequent clarification remain important parts of the method.",
+    "scenario": "Hypothetically, a workshop leader could ask participants to predict an outcome, compare their answers in pairs, vote again, and then discuss why their reasoning changed.",
+    "aliases": [
+      "peer discussion",
+      "concept question"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T010",
+    "title": "Deliberate practice with feedback",
+    "source_title": "The Role of Deliberate Practice in the Acquisition of Expert Performance",
+    "url": "https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf",
+    "publisher": "Psychological Review / Ericsson, Krampe and Tesch-Römer",
+    "source_type": "research paper",
+    "access": "search excerpt",
+    "finding": "Deliberate practice organizes effort around improving a specific aspect of performance, with informative feedback and opportunities to correct errors. Its mechanism differs from merely accumulating time doing familiar tasks without targeted revision.",
+    "limitation": "This influential account concerns expert performance; it does not establish that practice alone explains every difference in ability or achievement.",
+    "scenario": "Hypothetically, a public speaker could rehearse only the opening minute, receive feedback on unclear sentences, revise them, and repeat before practicing the entire talk.",
+    "aliases": [
+      "deliberate practice",
+      "targeted practice"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "T011",
+    "title": "Job shadowing",
+    "source_title": "Federal Leadership Development Programs: Shadowing Assignments",
+    "url": "https://www.opm.gov/policy-data-oversight/training-and-development/federal-leadership-development-programs/",
+    "publisher": "US Office of Personnel Management",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Job shadowing places a learner alongside someone doing their usual work for a defined period. Watching real decisions and routines exposes duties and approaches that are difficult to capture in a classroom description.",
+    "limitation": "Observation provides exposure rather than independent practice; sensitive work and the observer’s limited access may conceal important parts of the role.",
+    "scenario": "Hypothetically, a new museum volunteer could follow the visitor-services coordinator for an afternoon, noting recurring questions and discussing how the coordinator handles difficult moments.",
+    "aliases": [
+      "work shadowing",
+      "shadowing"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "T012",
+    "title": "Job rotation",
+    "source_title": "Federal Supervisory and Managerial Frameworks and Guidance",
+    "url": "https://www.opm.gov/policy-data-oversight/training-and-development/training-program-management/federal-supervisory-and-managerial-frameworks-and-guidance.pdf",
+    "publisher": "US Office of Personnel Management",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Job rotation uses temporary assignments outside a person’s normal position to expose them to different responsibilities and organizational challenges. Learning comes through performing unfamiliar work, not just hearing how another department operates.",
+    "limitation": "Temporary assignments need suitable supervision and meaningful responsibilities; moving people around without learning goals can simply disrupt ongoing work.",
+    "scenario": "Hypothetically, an operations employee could spend a month with customer support, handle a defined subset of cases, and bring recurring service problems back to operations.",
+    "aliases": [
+      "rotational assignment",
+      "role rotation"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "T013",
+    "title": "Cross-training",
+    "source_title": "Creating Patient-Centered Team-Based Primary Care",
+    "url": "https://ce.effectivehealthcare.ahrq.gov/sites/default/files/wysiwyg/ncepcr/tools/PCMH/creating-patient-centered-team-based-primary-care-white-paper.pdf",
+    "publisher": "Agency for Healthcare Research and Quality",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Cross-training prepares team members to cover more than one role. In the cited care-team model, explicit responsibilities and standard work make it possible to share tasks while maintaining an understanding of who does what.",
+    "limitation": "The source concerns healthcare teams; coverage must respect competence and role boundaries rather than treating every responsibility as interchangeable.",
+    "scenario": "Hypothetically, a small nonprofit could teach two staff members its donation-recording procedure so that leave or illness does not leave incoming contributions unrecorded.",
+    "aliases": [
+      "cross training",
+      "backup training"
+    ],
+    "scale": "groups",
+    "adaptation": true
+  },
+  {
+    "id": "T014",
+    "title": "Office hours",
+    "source_title": "Universal Design for Learning: Office Hours",
+    "url": "https://teaching.cornell.edu/teaching-resources/inclusion-belonging-accessibility/universal-design-learning",
+    "publisher": "Cornell University",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Office hours create an identified opportunity to approach an instructor outside the main session. Cornell recommends explaining their purpose and offering accessible times and interaction modes so learners can bring questions and seek support.",
+    "limitation": "Availability alone does not ensure use; timing, perceived approachability, and participants’ access needs can still prevent people from attending.",
+    "scenario": "Hypothetically, a project maintainer could reserve an hour each week when contributors bring confusing design questions, reducing the need to arrange a separate meeting each time.",
+    "aliases": [
+      "drop-in hours",
+      "consultation hours"
+    ],
+    "scale": "groups",
+    "adaptation": true
+  },
+  {
+    "id": "T015",
+    "title": "Ask-me-anything sessions",
+    "source_title": "New Ways To AMA",
+    "url": "https://redditinc.com/news/new-ways-to-ama?version=published",
+    "publisher": "Reddit",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "An ask-me-anything session temporarily concentrates audience questions around an available guest or host. Reddit’s implementation adds scheduling, guest collaborators, answered-question navigation, and a clear closing point to organize that exchange.",
+    "limitation": "An open invitation to ask does not guarantee answers, representative participation, or expertise; moderation and selection still shape the discussion.",
+    "scenario": "Hypothetically, a neighborhood organizer could host a scheduled online question session before a street festival, answering practical questions while marking unresolved issues for later follow-up.",
+    "aliases": [
+      "AMA",
+      "ask me anything"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T017",
+    "title": "Show-and-tell sessions",
+    "source_title": "Agile Tools and Techniques",
+    "url": "https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques",
+    "publisher": "UK Government Digital Service",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Show-and-tell sessions make work in progress visible to people outside the immediate task. Demonstrating actual outputs and discussing learning creates an opportunity for questions and feedback before work becomes a finished announcement.",
+    "limitation": "A demonstration can hide difficult tradeoffs if it becomes performance theatre; useful feedback requires showing uncertainties as well as polished results.",
+    "scenario": "Hypothetically, a community garden team could show its first irrigation prototype at a monthly gathering and ask other gardeners which beds and routines it overlooks.",
+    "aliases": [
+      "demo session",
+      "show and tell"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T018",
+    "title": "Workshops",
+    "source_title": "Instructors Handbook",
+    "url": "https://docs.carpentries.org/handbooks/instructors.html",
+    "publisher": "The Carpentries",
+    "source_type": "institutional guide",
+    "access": "page",
+    "finding": "A workshop concentrates organized learning into a bounded event with prepared material, instructors, and participant activity. The Carpentries handbook makes preparation and instructional responsibilities explicit rather than assuming that gathering people automatically creates learning.",
+    "limitation": "The source describes a particular training organization; workshop quality varies with curriculum, facilitation, available practice, and participants’ starting knowledge.",
+    "scenario": "Hypothetically, a repair club could run a two-hour workshop where participants bring a broken zipper, observe a demonstration, and practice repairs with instructor feedback.",
+    "aliases": [
+      "hands-on workshop",
+      "skills workshop"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T019",
+    "title": "Train-the-trainer",
+    "source_title": "Understanding the Training of Trainers Model",
+    "url": "https://www.cdc.gov/healthy-schools-training/php/tot/",
+    "publisher": "US Centers for Disease Control and Prevention",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Train-the-trainer prepares participants to deliver a method to others through observation, practice teaching, and feedback. Knowledge spreads through successive trainers, while coaching helps maintain more than a superficial copy of the original presentation.",
+    "limitation": "A cascade can dilute or distort material; observing a training does not by itself establish readiness to teach it independently.",
+    "scenario": "Hypothetically, a food-sharing network could train local coordinators to run volunteer onboarding, have each rehearse a segment, and review questions arising in their first sessions.",
+    "aliases": [
+      "training of trainers",
+      "ToT"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "T020",
+    "title": "Learning cohorts",
+    "source_title": "Cohort Faculty Development",
+    "url": "https://cte.tamu.edu/programming/cohorts-faculty-dev.html",
+    "publisher": "Texas A&M University",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "A learning cohort gives a bounded group a shared curriculum and period of participation. Keeping participants together makes repeated interaction and mutual accountability possible instead of treating each learning event as an unrelated drop-in session.",
+    "limitation": "Closed membership can support continuity while limiting entry; a scheduled cohort does not automatically become a durable community of practice.",
+    "scenario": "Hypothetically, ten new cooperative treasurers could complete a six-week accounting program together, compare weekly exercises, and check one another’s progress between meetings.",
+    "aliases": [
+      "learning cohort",
+      "cohort learning"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T021",
+    "title": "Reading salons",
+    "source_title": "Shared Reading FAQs",
+    "url": "https://www.thereader.org.uk/shared-reading/shared-reading-faqs/",
+    "publisher": "The Reader",
+    "source_type": "practitioner method",
+    "access": "page",
+    "finding": "The Reader’s shared-reading format brings people together to hear stories and poems read aloud and optionally discuss their responses. A prepared leader and accessible participation reduce the need to complete reading before attending.",
+    "limitation": "This is a contemporary reading-group model, not a history of literary salons; other salons may require substantial advance reading.",
+    "scenario": "Hypothetically, a neighborhood host could invite people to a monthly evening where a short story is read aloud, followed by conversation that welcomes listeners as well as speakers.",
+    "aliases": [
+      "literary salon",
+      "shared reading"
+    ],
+    "scale": "groups",
+    "adaptation": true
+  },
+  {
+    "id": "T022",
+    "title": "Oral history",
+    "source_title": "Oral History Best Practices",
+    "url": "https://oralhistory.org/wp-content/uploads/2025/12/2025-OHA-PrinciplesBP_Best-Practices.pdf",
+    "publisher": "Oral History Association",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Oral history turns recorded interviews into a preserved account of lived experience. Preparation, consent, interviewing, preservation, and decisions about access shape whose memories enter a public record and how others can use them.",
+    "limitation": "Memories are situated interpretations rather than neutral transcripts of events; consent and access decisions can appropriately limit publication or reuse.",
+    "scenario": "Hypothetically, residents could interview longtime shopkeepers before a market closes, agree on which recordings may be shared, and deposit the approved interviews in a local archive.",
+    "aliases": [
+      "oral histories",
+      "life-history interview"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T023",
+    "title": "Storytelling",
+    "source_title": "Storytelling: Story Dialogue Technique",
+    "url": "https://www.betterevaluation.org/sites/default/files/Toolkit_2014.pdf",
+    "publisher": "BetterEvaluation (hosted toolkit)",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Story dialogue starts with someone’s concrete experience and uses structured discussion to move from description toward interpretation and possible action. Participants ask what occurred, why it matters, and what their community could do next.",
+    "limitation": "A compelling account can illuminate experience without representing everyone; the cited facilitated method is narrower than storytelling as a whole.",
+    "scenario": "Hypothetically, residents could share accounts of missing the last bus, compare the consequences, and use recurring themes to design a proposal for evening transport.",
+    "aliases": [
+      "story dialogue",
+      "narrative sharing"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T024",
+    "title": "Case-method discussion",
+    "source_title": "Teaching by the Case Method",
+    "url": "https://www.hbs.edu/teaching/case-method",
+    "publisher": "Harvard Business School",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Case-method discussion places participants inside a concrete decision situation and asks them to reason through possible choices. The instructor prepares both substantive questions and the discussion process, adapting as contrasting interpretations emerge.",
+    "limitation": "A case is a selective representation of events; strong classroom reasoning does not establish that the same decision will work elsewhere.",
+    "scenario": "Hypothetically, cooperative members could discuss a fictional café facing rising rent, compare options using the same facts, and explain what additional information would change their choices.",
+    "aliases": [
+      "case discussion",
+      "case method"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T025",
+    "title": "Simulation exercises",
+    "source_title": "WHO Simulation Exercise Manual",
+    "url": "https://www.who.int/publications/i/item/WHO-WHE-CPI-2017.10",
+    "publisher": "World Health Organization",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Simulation exercises let participants rehearse responses to a constructed situation before a real incident. Planning, conduct, and reporting make the exercise a way to examine preparedness and coordination, with different formats testing different capabilities.",
+    "limitation": "Performance in a controlled scenario does not guarantee performance in a real crisis; exercise assumptions can omit important constraints.",
+    "scenario": "Hypothetically, festival organizers could rehearse a fictional power outage, assign their actual roles, and discover which decisions lack a named owner before opening day.",
+    "aliases": [
+      "tabletop exercise",
+      "scenario exercise"
+    ],
+    "scale": "groups",
+    "adaptation": true
+  },
+  {
+    "id": "T026",
+    "title": "After-action reviews",
+    "source_title": "Guidance for After Action Review",
+    "url": "https://www.who.int/publications/i/item/WHO-WHE-CPI-2019.4",
+    "publisher": "World Health Organization",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "An after-action review structures participants’ reflection after an event to identify what happened, what helped or hindered the response, and what to change. WHO describes multiple facilitated formats and emphasizes follow-up on learning.",
+    "limitation": "A review records participants’ perspectives and learning needs; without follow-through, identified lessons may never change subsequent practice or resource allocation.",
+    "scenario": "Hypothetically, a volunteer team could meet after a neighborhood fair to compare its plans with events, identify avoidable queues, and assign two changes for next year.",
+    "aliases": [
+      "AAR",
+      "after action review"
+    ],
+    "scale": "groups",
+    "adaptation": true
+  },
+  {
+    "id": "T028",
+    "title": "Peer review of work",
+    "source_title": "Peer Assessment",
+    "url": "https://teaching.cornell.edu/teaching-resources/assessing-student-learning/peer-assessment",
+    "publisher": "Cornell University",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Peer assessment organizes people to evaluate one another’s work against shared expectations. Giving and receiving specific feedback makes quality criteria discussable and supplies perspectives beyond a single instructor or manager.",
+    "limitation": "Peers need guidance and usable criteria; agreement among reviewers does not automatically establish accuracy, fairness, or an appropriate final grade.",
+    "scenario": "Hypothetically, grant writers in a small organization could exchange drafts and use a shared checklist to identify unsupported claims before submitting their applications.",
+    "aliases": [
+      "peer assessment",
+      "peer critique"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T029",
+    "title": "Replication",
+    "source_title": "Transparency and Openness Promotion Guidelines",
+    "url": "https://www.cos.io/initiatives/top-guidelines",
+    "publisher": "Center for Open Science",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Replication asks whether a finding appears again when a study is repeated with new observations. The TOP framework distinguishes this from computational reproducibility, which examines whether available data and code regenerate reported analyses.",
+    "limitation": "A failed or successful replication needs interpretation in context; design differences, uncertainty, and measurement choices complicate simple declarations of truth.",
+    "scenario": "Hypothetically, a second laboratory could repeat a published behavioral experiment with new participants and report both the estimate and differences from the original protocol.",
+    "aliases": [
+      "replication study",
+      "independent replication"
+    ],
+    "scale": "institutions",
+    "description": "Repeat a study with new observations to examine whether its findings recur."
+  },
+  {
+    "id": "T030",
+    "title": "Preregistration",
+    "source_title": "Preregistration",
+    "url": "https://www.cos.io/initiatives/prereg",
+    "publisher": "Center for Open Science",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Preregistration records a study’s planned questions, design, and analyses before outcomes are known. This preserves a distinction between testing advance expectations and generating new explanations after inspecting the results.",
+    "limitation": "Preregistration does not forbid exploratory analysis or guarantee sound design; deviations and new analyses should be identified transparently.",
+    "scenario": "Hypothetically, a research team could register its primary outcome and analysis before collecting survey responses, then label unexpected subgroup patterns as exploratory in its report.",
+    "aliases": [
+      "pre-registration",
+      "analysis plan"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "T031",
+    "title": "Open notebooks",
+    "source_title": "Jean-Claude Bradley: Open Notebook Science",
+    "url": "https://istcolloq.gsfc.nasa.gov/jean-claude-bradley/",
+    "publisher": "NASA Goddard Space Flight Center",
+    "source_type": "research paper",
+    "access": "abstract",
+    "finding": "Open notebook science shares experimental records and raw information while research is underway. Bradley’s described solubility project uses this visibility to let geographically dispersed contributors inspect and build on ongoing experimental work.",
+    "limitation": "The source is a colloquium description, not an effectiveness evaluation; privacy, confidentiality, and sensitive research can constrain what becomes public.",
+    "scenario": "Hypothetically, a materials research group could publish dated experimental notes and failed trials so another lab can inspect procedures before deciding which experiment to extend.",
+    "aliases": [
+      "open notebook science",
+      "open lab notebook"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "T035",
+    "title": "Knowledge maps",
+    "source_title": "Understanding Knowledge Mapping",
+    "url": "https://www.apqc.org/resource-library/resource/understanding-knowledge-mapping-0",
+    "publisher": "APQC",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Knowledge mapping makes important expertise and its connections visible so an organization can identify gaps, bottlenecks, and transfer needs. The APQC overview treats mapping as a facilitated, validated activity rather than simply drawing a diagram.",
+    "limitation": "The public overview describes the approach without establishing its impact; a map becomes misleading when ownership, expertise, or workflows change.",
+    "scenario": "Hypothetically, a repair cooperative could map which members understand each machine and discover that only one person knows how to maintain its most-used tool.",
+    "aliases": [
+      "knowledge map",
+      "expertise map"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "T036",
+    "title": "Expert directories",
+    "source_title": "Understanding Expertise Location",
+    "url": "https://www.apqc.org/resource-library/resource/understanding-expertise-location-0",
+    "publisher": "APQC",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "An expert directory supports expertise location by helping people identify and contact knowledgeable colleagues. Its practical function is routing a question to a person who can help, rather than storing every answer centrally.",
+    "limitation": "Directory entries can become stale or exaggerate expertise; a successful lookup still depends on availability, willingness, and fit with the question.",
+    "scenario": "Hypothetically, a distributed nonprofit could maintain opt-in profiles listing languages, grant experience, and contact preferences so a new project can find suitable internal advisers.",
+    "aliases": [
+      "expertise directory",
+      "expertise locator"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "T037",
+    "title": "Open educational resources",
+    "source_title": "Open Educational Resources",
+    "url": "https://www.unesco.org/en/open-educational-resources?hub=370",
+    "publisher": "UNESCO",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Open educational resources combine learning material with public-domain status or permissions that allow reuse, adaptation, and redistribution. The social mechanism is shared permission to improve and circulate teaching material beyond its original classroom.",
+    "limitation": "Free access alone does not make material openly reusable; users must check the actual permissions and the suitability of its content.",
+    "scenario": "Hypothetically, a volunteer teacher could translate an openly licensed worksheet, replace unfamiliar examples with local ones, and share the adapted version with neighboring classes.",
+    "aliases": [
+      "OER",
+      "open learning materials"
+    ],
+    "scale": "societies"
+  },
+  {
+    "id": "T038",
+    "title": "Translation networks",
+    "source_title": "Join the TWB Community",
+    "url": "https://translatorswithoutborders.org/join-the-twb-community/",
+    "publisher": "Translators without Borders",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Translation networks distribute language tasks among contributors who connect otherwise separated audiences. TWB’s community includes translation, revision, voiceover, and subtitling work, showing that the network can coordinate several complementary forms of language access.",
+    "limitation": "Volunteer participation does not eliminate the need for language competence, review, and contextual understanding, especially where mistranslation carries serious consequences.",
+    "scenario": "Hypothetically, a regional community network could recruit translators and reviewers to make its meeting invitations understandable in the languages most commonly spoken by local residents.",
+    "aliases": [
+      "volunteer translation",
+      "language network"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T039",
+    "title": "Libraries",
+    "source_title": "IFLA-UNESCO Public Library Manifesto",
+    "url": "https://www.ifla.org/public-library-manifesto/",
+    "publisher": "International Federation of Library Associations and Institutions / UNESCO",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Libraries organize shared access to collections, information services, and opportunities for learning. The public-library manifesto places local access, literacy, cultural memory, and participation within a continuing institution rather than an individual purchase of resources.",
+    "limitation": "The manifesto states an institutional mission, not measured outcomes; budgets, collection choices, opening hours, and access conditions shape actual provision.",
+    "scenario": "Hypothetically, a town could use its library to provide books, internet access, and a regular room for residents learning skills they cannot afford to study privately.",
+    "aliases": [
+      "public library",
+      "community library"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "T044",
+    "title": "Fishbowl discussion",
+    "source_title": "Communities Care: Training Facilitators",
+    "url": "https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf",
+    "publisher": "UNICEF",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "A fishbowl separates active discussion or practice in an inner circle from observation in an outer circle. Rotating participation makes conversational behavior available for reflection while limiting how many people speak at once.",
+    "limitation": "The format structures attention and participation; it does not itself ensure balanced representation or supply a rule for making decisions.",
+    "scenario": "Hypothetically, facilitator trainees could observe four volunteers handling a difficult discussion, then rotate into the inner circle and compare which interventions changed the conversation.",
+    "aliases": [
+      "fishbowl",
+      "inner-outer circle"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T047",
+    "title": "Unconferences",
+    "source_title": "Unconferencing: How to Prepare to Attend an Unconference",
+    "url": "https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/",
+    "publisher": "Unconference.net / Kaliya",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "An unconference lets participants propose and organize sessions rather than receiving a fully predetermined program. A shared theme and scheduling process turn attendees’ interests into parallel conversations that can range from practical workshops to informal discussion.",
+    "limitation": "Participant control does not remove the need for facilitation and logistics; confidence and familiarity with the format can affect whose sessions happen.",
+    "scenario": "Hypothetically, local makers could gather for a day, propose the problems they want help with, assemble a session grid, and choose which conversations to join.",
+    "aliases": [
+      "participant-led conference",
+      "unconference"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T048",
+    "title": "Delphi process",
+    "source_title": "Methodological Guidance for Conducting and Critically Appraising Delphi Panels",
+    "url": "https://www.rand.org/content/dam/rand/pubs/tools/TLA3000/TLA3082-1/RAND_TLA3082-1.pdf",
+    "publisher": "RAND",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "A Delphi process gathers judgments in repeated rounds and feeds back a summary so participants can reconsider their responses. The design makes convergence, continued disagreement, and reasons for changing judgments available for systematic examination.",
+    "limitation": "Panel agreement is not empirical proof; recruitment, question wording, feedback, and the definition of consensus can materially affect the result.",
+    "scenario": "Hypothetically, a professional association could ask a panel to prioritize training needs, summarize the first round anonymously, and invite revised judgments with explanations in a second round.",
+    "aliases": [
+      "Delphi method",
+      "Delphi panel"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "T049",
+    "title": "Red teams",
+    "source_title": "A Guide to Red Teaming",
+    "url": "https://www.gov.uk/government/publications/a-guide-to-red-teaming",
+    "publisher": "UK Ministry of Defence",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Red teaming creates a deliberate role for challenging assumptions, plans, and interpretations. The handbook distinguishes adopting a questioning mindset from establishing a separate team, giving organized criticism a place inside planning rather than relying on spontaneous dissent.",
+    "limitation": "Challenge can become ritualized opposition unless decision makers engage with it; the military guide requires adaptation for other organizational settings.",
+    "scenario": "Hypothetically, a nonprofit could ask colleagues uninvolved in a campaign plan to identify its weakest assumptions and explain how the intended audience might respond differently.",
+    "aliases": [
+      "red team",
+      "adversarial review"
+    ],
+    "scale": "groups",
+    "adaptation": true
+  },
+  {
+    "id": "T050",
+    "title": "Premortems",
+    "source_title": "Premortem",
+    "url": "https://www.gary-klein.com/premortem",
+    "publisher": "Gary Klein",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "A premortem asks a team to imagine that its proposed plan has already failed and generate plausible reasons. This framing gives participants permission to surface reservations before commitments make them harder to voice.",
+    "limitation": "Imagined causes are hypotheses rather than predictions; the exercise needs follow-up to distinguish manageable risks from vivid but unlikely stories.",
+    "scenario": "Hypothetically, organizers planning a neighborhood dinner could imagine nobody enjoyed it, list possible reasons independently, and change the invitation and seating plan before sending invitations.",
+    "aliases": [
+      "pre-mortem",
+      "prospective hindsight"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T307",
+    "title": "Citizen science",
+    "source_title": "Citizen Science Toolkit: How To",
+    "url": "https://www.citizenscience.gov/toolkit/howto/",
+    "publisher": "US Federal Government CitizenScience.gov",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Citizen science organizes public participation in a research process rather than limiting research activity to professional scientists. The toolkit connects scoping, project design, community building, data management, and sustaining the effort as interdependent tasks.",
+    "limitation": "Participation alone does not ensure reliable data or shared authority; project design determines contributors’ roles, quality controls, and access to results.",
+    "scenario": "Hypothetically, residents could follow a common protocol to record local bird sightings, review uncertain identifications, and contribute observations to a shared dataset used by researchers.",
+    "aliases": [
+      "community science",
+      "public participation in research"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T308",
+    "title": "Participatory mapping",
+    "source_title": "Good Practices in Participatory Mapping",
+    "url": "https://www.ifad.org/documents/38714170/39144386/PM_web.pdf/7c1eda69-8205-4c31-8912-3c25d6f90055",
+    "publisher": "International Fund for Agricultural Development",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Participatory mapping lets community members represent places, resources, and land relationships using their own knowledge. Choices about the map’s purpose, audience, and ownership determine whether the process serves community priorities or external demands.",
+    "limitation": "A published map can expose sensitive places or disputed claims; maps remain selective representations and do not automatically settle ownership.",
+    "scenario": "Hypothetically, residents could map routes to water points and seasonal obstacles, decide which information should remain private, and use the agreed map to discuss maintenance priorities.",
+    "aliases": [
+      "community mapping",
+      "participatory GIS"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T309",
+    "title": "Deliberative polling",
+    "source_title": "What Is Deliberative Polling?",
+    "url": "https://deliberation.stanford.edu/what-deliberative-pollingr",
+    "publisher": "Stanford Deliberative Democracy Lab",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Deliberative polling brings a sampled public into informed, facilitated discussion and compares opinions before and after deliberation. Its purpose is to examine considered public judgment under specified conditions, not simply collect immediate reactions.",
+    "limitation": "A deliberative poll is not automatically a binding vote; recruitment, information balance, participation, and question design affect what the results support.",
+    "scenario": "Hypothetically, a city could recruit a representative sample to examine transport options, question competing experts, discuss tradeoffs, and compare participants’ preferences before and after the event.",
+    "aliases": [
+      "deliberative poll",
+      "informed public opinion"
+    ],
+    "scale": "societies"
+  },
+  {
+    "id": "T310",
+    "title": "Knowledge fairs",
+    "source_title": "The Art of Knowledge Exchange: Knowledge Fair",
+    "url": "https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf",
+    "publisher": "World Bank",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "A knowledge fair gathers demonstrations and accounts of participants’ work so visitors can discover practices and potential partners. The World Bank guide presents it as a way to share experience, increase visibility, and build connections across projects.",
+    "limitation": "Showcasing a practice does not establish its effectiveness; fairs need opportunities to question claims and follow up beyond an attractive presentation.",
+    "scenario": "Hypothetically, several neighborhood associations could each demonstrate one completed project at a shared fair, letting visitors compare approaches and arrange visits with relevant organizers.",
+    "aliases": [
+      "knowledge marketplace",
+      "learning fair"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T053",
+    "title": "Potlucks",
+    "source_title": "Food Safety and Service: Hosting a Potluck",
+    "url": "https://4-h-volunteer.extension.umn.edu/keep-youth-safe/policies-practices/food",
+    "publisher": "University of Minnesota Extension",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Potlucks distribute the provision of a shared meal among participants rather than placing all preparation on one host. Extension’s guidance treats them as organized food events that still require planning and safe handling.",
+    "limitation": "Sharing preparation does not eliminate dietary, cost, or access barriers; food-handling guidance in this source concerns a particular program and jurisdiction.",
+    "scenario": "Hypothetically, neighbors could each bring a labeled dish to a monthly courtyard dinner, with organizers coordinating categories so newcomers can join without hosting everyone themselves.",
+    "aliases": [
+      "bring-a-dish meal",
+      "shared meal"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "T057",
+    "title": "Hospitality hosting",
+    "source_title": "Information for Hosts",
+    "url": "https://servas.org/information-hosts",
+    "publisher": "Servas International",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Hospitality hosting creates encounters through an agreed offer of accommodation and time together. Servas makes expectations about length of stay, meals, special needs, communication, and host availability explicit so cultural exchange has a practical structure.",
+    "limitation": "Hospitality remains voluntary and capacity-limited; a host network’s stated goals do not establish that every visit produces trust or friendship.",
+    "scenario": "Hypothetically, a resident could host a visiting community organizer for two agreed nights, share meals, and compare local projects while clearly discussing privacy and household routines beforehand.",
+    "aliases": [
+      "homestay",
+      "hospitality exchange"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "T058",
+    "title": "Buddy systems",
+    "source_title": "Planning an Induction Programme",
+    "url": "https://www.acas.org.uk/inductions/planning-an-induction-programme",
+    "publisher": "Acas",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "A buddy system gives a newcomer an identified peer who helps them settle into a group. Acas places the buddy inside a planned induction that accounts for the person’s experience, work setting, and support needs.",
+    "limitation": "Assigning a name is insufficient if the buddy lacks time or clarity; the source concerns workplace induction rather than every pairing context.",
+    "scenario": "Hypothetically, a volunteer group could pair each newcomer with an experienced member for their first month, giving them someone to ask about routines before their first shift.",
+    "aliases": [
+      "onboarding buddy",
+      "buddy pairing"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T061",
+    "title": "Trial membership",
+    "source_title": "Apple Tree House: How to Join",
+    "url": "https://www.ic.org/directory/community/apple-tree-house/",
+    "publisher": "Foundation for Intentional Community / Apple Tree House",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Trial membership creates a defined period for prospective and existing members to experience living or working together before a fuller commitment. Apple Tree House describes a six-month trial with repeated membership check-ins before cooperative share purchase.",
+    "limitation": "This is one community’s reported practice, not a universal standard; unclear evaluation or exit conditions can make a trial insecure.",
+    "scenario": "Hypothetically, a shared workshop could offer prospective members a three-month trial with agreed access, dues, and check-ins before either side commits to long-term membership.",
+    "aliases": [
+      "provisional membership",
+      "probationary membership"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T062",
+    "title": "Introductions by a connector",
+    "source_title": "Organizing for Effective Advocacy: Introductions",
+    "url": "https://ctb.ku.edu/en/book/export/html/994",
+    "publisher": "University of Kansas Community Tool Box",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "A connector uses an existing relationship to introduce people who may benefit from meeting. The guide specifies checking willingness, explaining the purpose, and sharing contact details with permission, making access an agreed bridge rather than an assumed entitlement.",
+    "limitation": "A mutual contact cannot guarantee trust or cooperation; consent and a clear purpose matter more than merely possessing someone’s contact details.",
+    "scenario": "Hypothetically, a librarian could ask a new resident and a local walking-group organizer whether they would welcome an introduction, then connect them with a short explanation.",
+    "aliases": [
+      "warm introduction",
+      "network introduction"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "T064",
+    "title": "Listening pairs",
+    "source_title": "Active Listening",
+    "url": "https://www.seedsforchange.org.uk/downloads/activelistening.pdf",
+    "publisher": "Seeds for Change",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Listening pairs allocate each person a turn to speak while the other listens. The speaker can choose silence, a summary, or follow-up questions, separating attention to their experience from the listener’s impulse to contribute their own story.",
+    "limitation": "The exercise structures listening but is not therapy or compulsory disclosure; participants need permission to choose what they share.",
+    "scenario": "Hypothetically, two project partners could each take five uninterrupted minutes to explain what has frustrated them, then summarize what they heard before proposing changes.",
+    "aliases": [
+      "paired listening",
+      "listening partners"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "T065",
+    "title": "Mutual aid networks",
+    "source_title": "Solidarity Not Charity: Mutual Aid for Mobilization and Survival",
+    "url": "https://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf",
+    "publisher": "Dean Spade / Social Text",
+    "source_type": "research paper",
+    "access": "page",
+    "finding": "In Spade’s account, mutual aid organizes people to meet survival needs through collective participation while confronting shared political conditions. He distinguishes this movement-oriented approach from assistance governed by donors who determine recipients’ eligibility and acceptable behavior.",
+    "limitation": "This is a situated political account, not a neutral classification of all informal help or comparative proof of organizational effectiveness.",
+    "scenario": "Hypothetically, tenants could organize grocery delivery and an emergency fund together, with people receiving support also helping decide priorities and documenting recurring problems with their housing.",
+    "aliases": [
+      "mutual aid",
+      "solidarity network"
+    ],
+    "scale": "movements"
+  },
+  {
+    "id": "T066",
+    "title": "Care circles",
+    "source_title": "Circles of Support",
+    "url": "https://cosam.org.au/wp-content/uploads/2018/11/Circles-of-Support-brochure-for-web.pdf",
+    "publisher": "Inclusion Melbourne / National Resource Centre for Circles of Support and Microboards",
+    "source_type": "practitioner method",
+    "access": "page",
+    "finding": "A circle of support gathers people invited by a person to meet regularly around that person’s goals and relationships. The guide emphasizes a continuing, person-centered network rather than a one-off planning meeting or solely a funding arrangement.",
+    "limitation": "The source concerns disability support; broader care-circle applications are adaptations, and support should follow the person’s wishes rather than replace their agency.",
+    "scenario": "Hypothetically, someone moving into independent housing could invite trusted friends to meet monthly, coordinate practical help, and review progress on goals that the person chooses.",
+    "aliases": [
+      "circle of support",
+      "support circle"
+    ],
+    "scale": "groups",
+    "adaptation": true
+  },
+  {
+    "id": "T067",
+    "title": "Meal trains",
+    "source_title": "Meal Train Sign-Up: How It Works",
+    "url": "https://www.mealtrain.com/content/file/Meal-Train-sign-up.pdf",
+    "publisher": "Meal Train",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "A meal train coordinates food support after a significant life event through a shared calendar and recipient preferences. Volunteers choose dates, spreading contributions over time instead of independently arriving with duplicate meals on the same day.",
+    "limitation": "The calendar coordinates commitments but does not prepare or deliver food; dietary preferences, consent, and reliable follow-through still require attention.",
+    "scenario": "Hypothetically, friends of new parents could agree on meal preferences and delivery times, then claim different evenings so the household receives predictable support over two weeks.",
+    "aliases": [
+      "meal roster",
+      "meal calendar"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "T068",
+    "title": "Childcare exchanges",
+    "source_title": "Bringing Families Together: A Guide to Parent Cooperatives",
+    "url": "https://cccd.coop/sites/default/files/resources/bft_1.pdf",
+    "publisher": "California Center for Cooperative Development",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Babysitting cooperatives let parents exchange childcare using a shared accounting system rather than paying for every transaction. The guide describes parents as members and decision makers, with credits earned by providing care and spent when receiving it.",
+    "limitation": "Reciprocity does not itself establish suitable care or compliance; members need clear arrangements for trust, responsibilities, availability, and children’s needs.",
+    "scenario": "Hypothetically, five families who know one another could agree on occasional babysitting rules and record hours exchanged, allowing a parent to attend an evening class.",
+    "aliases": [
+      "babysitting cooperative",
+      "childcare swap"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T069",
+    "title": "Neighborhood associations",
+    "source_title": "How to Organize a Neighborhood Association",
+    "url": "https://www.orlando.gov/Our-Government/Get-Involved/iLead-Neighborhood-Leadership-Training/iLead-Guides/How-to-Organize-a-Neighborhood-Association",
+    "publisher": "City of Orlando",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "A voluntary neighborhood association gives residents a continuing organization for discussing shared concerns, coordinating projects, and advocating for their area. Orlando distinguishes this voluntary model from mandatory associations tied to property rules or restrictions.",
+    "limitation": "A voluntary association does not necessarily represent every resident; participation and leadership practices determine whose concerns reach its agenda.",
+    "scenario": "Hypothetically, residents could create an association that meets monthly to compare street-maintenance problems, organize a cleanup, and submit a jointly agreed request to the city.",
+    "aliases": [
+      "residents association",
+      "neighborhood organization"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T072",
+    "title": "Third places",
+    "source_title": "Third Places, True Citizen Spaces",
+    "url": "https://www.unesco.org/en/articles/third-places-true-citizen-spaces",
+    "publisher": "UNESCO / Ray Oldenburg and Karen Christensen",
+    "source_type": "reference",
+    "access": "search excerpt",
+    "finding": "Third places are settings beyond home and work where informal social interaction can recur. Oldenburg’s account emphasizes ordinary gathering places that allow conversation and repeated encounters without requiring every meeting to be separately organized.",
+    "limitation": "The category is descriptive rather than a guarantee of inclusion; price, location, social norms, and access can exclude potential regulars.",
+    "scenario": "Hypothetically, a neighborhood café could keep an affordable communal table where residents regularly linger, gradually recognizing one another and making plans beyond the café.",
+    "aliases": [
+      "third place",
+      "informal gathering place"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T073",
+    "title": "Clubs",
+    "source_title": "Writing Bylaws: Membership",
+    "url": "https://ctb.ku.edu/en/table-of-contents/structure/organizational-structure/write-bylaws/main",
+    "publisher": "University of Kansas Community Tool Box",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Clubs turn a shared interest into an ongoing membership organization. The bylaws guide explains how membership rights, requirements, dues, attendance expectations, and decision roles can be made explicit so participation continues beyond a single gathering.",
+    "limitation": "Written rules describe a more formal club model; informal clubs may need little documentation, while restrictive membership rules can exclude people.",
+    "scenario": "Hypothetically, neighbors could establish a walking club with a weekly meeting time, a simple membership agreement, and rotating responsibility for choosing accessible routes.",
+    "aliases": [
+      "interest club",
+      "membership club"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T074",
+    "title": "Affinity groups",
+    "source_title": "Affinity Groups",
+    "url": "https://seedsforchange.org.uk/affinitygroups",
+    "publisher": "Seeds for Change",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "In this organizing tradition, affinity groups are small teams with shared aims that prepare, decide, and act together. Their autonomy permits local decisions while mutual support continues before, during, and after collective action.",
+    "limitation": "The source uses the direct-action meaning; workplace identity groups also use this name but may have different purposes and authority.",
+    "scenario": "Hypothetically, friends preparing a lawful environmental demonstration could form a small affinity group, agree on roles and boundaries, and check on one another afterward.",
+    "aliases": [
+      "action group",
+      "affinity group"
+    ],
+    "scale": "movements"
+  },
+  {
+    "id": "T075",
+    "title": "Alumni networks",
+    "source_title": "Harvard Alumni Association Shared Interest Group FAQ",
+    "url": "https://www.alumni.harvard.edu/sites/default/files/page/content/HAA%20SIG%20FAQ%202023_July.pdf",
+    "publisher": "Harvard Alumni Association",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Alumni networks retain connections through a shared institutional past and give them continuing activities. Harvard’s shared-interest groups add common purposes, identities, or professions across graduation classes and locations, with alumni organizing the ongoing programming.",
+    "limitation": "This is a specific university model; selective access and unequal institutional prestige can reproduce advantages rather than distribute connections broadly.",
+    "scenario": "Hypothetically, graduates of a community training program could organize quarterly skill-sharing events and a directory so later cohorts can find people working on similar problems.",
+    "aliases": [
+      "alumni association",
+      "graduate network"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T076",
+    "title": "Festival cycles",
+    "source_title": "Maltese Village Festa, an Annual Community Celebration",
+    "url": "https://ich.unesco.org/en/RL/maltese-village-festa-an-annual-community-celebration-01871",
+    "publisher": "UNESCO Intangible Cultural Heritage",
+    "source_type": "history",
+    "access": "search excerpt",
+    "finding": "A recurring festival coordinates preparation, performance, food, and shared stories around a community calendar. UNESCO’s Maltese festa account describes year-round volunteer work and informal transmission as young people participate in both preparations and the celebrations.",
+    "limitation": "This documents a particular heritage practice; recurring celebrations can demand unequal labor and do not imply that everyone shares their meaning.",
+    "scenario": "Hypothetically, a neighborhood could establish an annual harvest celebration where residents prepare food and performances together, giving newcomers an easy opportunity to join preparations.",
+    "aliases": [
+      "annual festival",
+      "seasonal festival"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T077",
+    "title": "Rites of passage",
+    "source_title": "Rituals of Transition and Conformity",
+    "url": "https://openstax.org/books/introduction-anthropology/pages/13-4-rituals-of-transition-and-conformity",
+    "publisher": "OpenStax",
+    "source_type": "reference",
+    "access": "page",
+    "finding": "Rites of passage make a change in social status publicly recognizable. The classic analytical model distinguishes leaving an old position, a transitional period, and incorporation into a new one, connecting personal change to community acknowledgment.",
+    "limitation": "The three-stage model is an analytical framework rather than a required script; cultural meanings and participation conditions vary substantially.",
+    "scenario": "Hypothetically, a craft cooperative could mark apprentices’ completion with a demonstration and welcoming ceremony, making their new responsibilities visible to the whole membership.",
+    "aliases": [
+      "rite of passage",
+      "initiation ritual"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T078",
+    "title": "Welcoming ceremonies",
+    "source_title": "Naturalization: What to Expect",
+    "url": "https://my.uscis.gov/citizenship/what_to_expect",
+    "publisher": "US Citizenship and Immigration Services",
+    "source_type": "institutional guide",
+    "access": "page",
+    "finding": "Welcoming ceremonies publicly mark entry into a group or status. Naturalization provides a concrete example in which taking an oath at a ceremony completes a formal transition, linking symbolic recognition to an institutional membership change.",
+    "limitation": "This example has legal consequences specific to citizenship; most community welcomes are symbolic and should not imply equivalent legal authority.",
+    "scenario": "Hypothetically, a cooperative could welcome new members at its monthly gathering, introduce them by name, explain shared commitments, and invite them into the next community project.",
+    "aliases": [
+      "welcome ritual",
+      "membership ceremony"
+    ],
+    "scale": "communities",
+    "adaptation": true
+  },
+  {
+    "id": "T079",
+    "title": "Farewell rituals",
+    "source_title": "Celebrating Good-Bye: Functional Components in Farewell Parties for Retiring Employees in Israel",
+    "url": "https://cris.tau.ac.il/en/publications/celebrating-good-bye-functional-components-in-farewell-parties-fo/",
+    "publisher": "Tel Aviv University research portal",
+    "source_type": "research paper",
+    "access": "abstract",
+    "finding": "Farewell rituals make departure a shared event through which a group recognizes someone’s participation and communicates how the relationship is changing. The study examines intended messages in retirement celebrations for both departing employees and their organizations.",
+    "limitation": "The exploratory study examines intended functions, not demonstrated benefits; its authors explicitly call for research into actual and potentially negative effects.",
+    "scenario": "Hypothetically, a volunteer group could invite a departing coordinator to a small gathering, acknowledge specific contributions, and clarify how members can remain in touch afterward.",
+    "aliases": [
+      "farewell ceremony",
+      "retirement ritual"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T080",
+    "title": "Commemorations",
+    "source_title": "About the War Memorials Register",
+    "url": "https://memorials.iwm.org.uk/about-wmr",
+    "publisher": "Imperial War Museums",
+    "source_type": "history",
+    "access": "search excerpt",
+    "finding": "Commemoration anchors remembrance in a public object, place, or dedicated activity. The museum’s register shows forms ranging from names and monuments to community buildings, connecting selected people and events to an enduring shared reference.",
+    "limitation": "The source concerns war memorials; decisions about whom and what to remember are selective and can remain contested across communities.",
+    "scenario": "Hypothetically, a town could create an annual gathering and small archive honoring residents who rebuilt after a flood, inviting additional accounts as memories and participation change.",
+    "aliases": [
+      "remembrance",
+      "memorial practice"
+    ],
+    "scale": "communities",
+    "adaptation": true
+  },
+  {
+    "id": "T081",
+    "title": "Shared symbols",
+    "source_title": "Symbolic and Sacred Space",
+    "url": "https://openstax.org/books/introduction-anthropology/pages/13-2-symbolic-and-sacred-space",
+    "publisher": "OpenStax",
+    "source_type": "reference",
+    "access": "search excerpt",
+    "finding": "Shared symbols let an object, image, or gesture stand for a wider history or affiliation. Their meaning depends on use and interpretation: the same flag can communicate different things in mourning, celebration, or protest.",
+    "limitation": "A widely recognized symbol need not have a single shared meaning; recognition can coexist with disagreement, exclusion, or deliberate reinterpretation.",
+    "scenario": "Hypothetically, a neighborhood repair network could adopt a recognizable patch for volunteers, then explain its meaning so residents know whom to approach at events.",
+    "aliases": [
+      "collective symbol",
+      "group emblem"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T082",
+    "title": "Origin stories",
+    "source_title": "Narrative Memory Work of Employees in Family Businesses: How Founding Stories Shape Organizational Identification",
+    "url": "https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/27095/Baluch_2023_FBR_Narrativememory_AAM.pdf?sequence=1",
+    "publisher": "Family Business Review / Hoon, Brinkmann and Baluch; accepted manuscript at University of St Andrews",
+    "source_type": "research paper",
+    "access": "page",
+    "finding": "Origin stories connect present membership to an account of how a group began. The study describes employees sustaining founding stories through repeated narration, relationships, and material settings, turning earlier experiences into collective organizational memory.",
+    "limitation": "The evidence comes from a family-firm case; founding narratives can omit contributors or conflicts and should not be treated as complete history.",
+    "scenario": "Hypothetically, a community workshop could invite early and recent members to tell how it began, preserving competing memories alongside the familiar story told during onboarding.",
+    "aliases": [
+      "founding story",
+      "foundation narrative"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T083",
+    "title": "Community agreements",
+    "source_title": "A Consensus Handbook: Drawing Up a Group Agreement",
+    "url": "https://www.seedsforchange.org.uk/downloads/handbookweb.pdf",
+    "publisher": "Seeds for Change",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Community agreements make expectations for interaction explicit through discussion among participants. A facilitator can later refer to the jointly established agreement when problems arise, connecting intervention to a prior shared commitment rather than an improvised personal demand.",
+    "limitation": "Agreement on words does not ensure equal interpretation or enforcement; expectations need revision when participants discover conflicts or unmet needs.",
+    "scenario": "Hypothetically, a new reading group could agree on interruptions, preparation, and confidentiality, then revisit the agreement when members notice that a few voices dominate discussion.",
+    "aliases": [
+      "group agreement",
+      "working agreement"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T084",
+    "title": "Codes of conduct",
+    "source_title": "Adopt Contributor Covenant",
+    "url": "https://www.contributor-covenant.org/adopt/",
+    "publisher": "Contributor Covenant",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "A code of conduct documents expected behavior and a way to report problems. Contributor Covenant’s adoption process explicitly asks communities to specify reporting instructions and an enforcement or repair process rather than merely publishing aspirations.",
+    "limitation": "A published code cannot enforce itself; unclear authority, inaccessible reporting, or inconsistent responses can undermine the expectations it sets.",
+    "scenario": "Hypothetically, an open-source project could publish its participation rules, identify a reporting contact, and explain how moderators will respond when a contributor reports repeated harassment.",
+    "aliases": [
+      "community code",
+      "behavior policy"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T086",
+    "title": "Mediation",
+    "source_title": "How Acas Mediators Work",
+    "url": "https://www.acas.org.uk/acas-mediation-support/how-acas-mediators-work",
+    "publisher": "Acas",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Mediation brings a neutral facilitator into a disagreement while leaving participation and agreement with the people involved. Acas describes separate initial conversations followed by a joint meeting to understand concerns and work toward an agreed way forward.",
+    "limitation": "Participation is voluntary; the described workplace service has scope limits and should not be mistaken for an adjudicator imposing a ruling.",
+    "scenario": "Hypothetically, two colleagues whose scheduling dispute has stalled cooperation could meet a mediator separately, then discuss a workable arrangement together if both wish to continue.",
+    "aliases": [
+      "conflict mediation",
+      "facilitated resolution"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "T088",
+    "title": "Conflict coaching",
+    "source_title": "Conflict Coaching",
+    "url": "https://ombuds.columbia.edu/content/conflict-coaching",
+    "publisher": "Columbia University Ombuds Office",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Conflict coaching works individually with a person facing unresolved conflict. Columbia describes a voluntary, confidential, goal-oriented process for developing skills and preparing action, rather than requiring both parties to meet a mediator together.",
+    "limitation": "Coaching one participant does not resolve the whole dispute or establish what happened; confidentiality and service boundaries depend on the provider.",
+    "scenario": "Hypothetically, a team member could work with a coach to clarify what they want from a difficult conversation and rehearse how to raise it constructively.",
+    "aliases": [
+      "dispute coaching",
+      "conflict preparation"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "T089",
+    "title": "Repair conversations",
+    "source_title": "Restorative Questions",
+    "url": "https://www.iirp.edu/images/2024/K12_Resources/IIRP_Restorative_Questions.pdf",
+    "publisher": "International Institute for Restorative Practices",
+    "source_type": "practitioner method",
+    "access": "page",
+    "finding": "Repair conversations use structured questions to connect an incident with its effects and possible responses. IIRP’s prompts separately attend to those harmed and those responsible, directing attention toward impact, responsibility, and what repair might require.",
+    "limitation": "Questions alone do not make a process safe or restorative; participation and repair should not be forced or replace needed protective action.",
+    "scenario": "Hypothetically, friends could discuss a broken commitment by explaining its impact, listening to the account of what happened, and agreeing on a concrete repair they both accept.",
+    "aliases": [
+      "restorative conversation",
+      "repair dialogue"
+    ],
+    "scale": "everyday",
+    "adaptation": true
+  },
+  {
+    "id": "T090",
+    "title": "Community moderation",
+    "source_title": "Discourse Moderation Guide: Managing Content",
+    "url": "https://meta.discourse.org/t/discourse-moderation-guide-part-3-managing-content/406266?tl=en",
+    "publisher": "Discourse",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Community moderation combines participant reports with delegated decisions about discussion and content. Discourse documents flags, review queues, topic management, and slower reply settings as ways to organize responses instead of leaving every dispute to an unstructured argument.",
+    "limitation": "Platform controls do not determine fair judgment; community rules, moderator discretion, and review practices shape how the same tools affect participants.",
+    "scenario": "Hypothetically, a local forum could let members flag personal attacks, have moderators review context, and temporarily slow a heated thread while explaining the intervention publicly.",
+    "aliases": [
+      "forum moderation",
+      "content moderation"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T091",
+    "title": "Guest policies",
+    "source_title": "Common House Use Handbook",
+    "url": "https://www.cohousing.org/wp-content/uploads/2021/05/Common-House-Use-Handbook-edit-11-15-2018.pdf",
+    "publisher": "Cohousing Association of the United States (hosted community handbook)",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Guest policies specify how nonmembers may use shared space and who takes responsibility for them. The cohousing handbook connects guest-room reservations, hosting responsibilities, and cleanup arrangements so hospitality does not leave obligations undefined.",
+    "limitation": "This is one community’s policy example; restrictions must fit the actual space and should be communicated before a guest arrives.",
+    "scenario": "Hypothetically, a shared house could agree on overnight-guest limits, advance notice, and responsibility for bedding so residents can host friends without repeatedly renegotiating common-space use.",
+    "aliases": [
+      "visitor policy",
+      "hosting rules"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T092",
+    "title": "Chore rotations",
+    "source_title": "Irish House: Community Expectations",
+    "url": "https://www.ic.org/directory/community/irish-house/",
+    "publisher": "Foundation for Intentional Community / Irish House",
+    "source_type": "practitioner method",
+    "access": "search excerpt",
+    "finding": "Chore rotations distribute recurring maintenance through a predictable sequence of responsibilities. Irish House describes shared kitchen, bathroom, and common-area cleaning alongside direct communication and check-ins, making household work an explicit part of membership.",
+    "limitation": "Rotating tasks equally does not necessarily distribute effort fairly; abilities, availability, task difficulty, and standards can require negotiated adjustments.",
+    "scenario": "Hypothetically, housemates could rotate weekly responsibility for shared areas, allow agreed swaps, and use a monthly check-in to revise tasks that take substantially longer.",
+    "aliases": [
+      "chore roster",
+      "household rotation"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T095",
+    "title": "Participation stipends",
+    "source_title": "Citizens’ Assembly Frequently Asked Questions: Northern Ireland Edition",
+    "url": "https://www.involve.org.uk/resource/frequently-asked-questions-citizens-assembly-ni-edition",
+    "publisher": "Involve",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Participation stipends compensate people for time they contribute to a public process. Involve distinguishes this payment from covering travel and access needs, treating both as ways to make assembly participation possible for a wider range of people.",
+    "limitation": "Payment can reduce some barriers but cannot guarantee representative participation; care responsibilities, scheduling, and trust also affect who can attend.",
+    "scenario": "Hypothetically, a city could pay residents for a weekend planning panel and separately cover transport and childcare, making attendance more feasible for people with limited spare time.",
+    "aliases": [
+      "participant compensation",
+      "participation payment"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "T096",
+    "title": "Accessibility arrangements",
+    "source_title": "Making Events Accessible",
+    "url": "https://www.w3.org/WAI/teach-advocate/accessible-presentations/",
+    "publisher": "World Wide Web Consortium Web Accessibility Initiative",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Accessibility arrangements change an event’s venue, communication, materials, and participation options to accommodate differing needs. W3C’s checklist treats physical access, remote platforms, captions, interpretation, and advance information as planning responsibilities rather than last-minute favors.",
+    "limitation": "No single checklist anticipates every participant’s needs; organizers must communicate, provide usable information, and respond when the planned arrangements prove insufficient.",
+    "scenario": "Hypothetically, a neighborhood assembly could publish accessible materials early, arrange captions and step-free access, and ask registrants which additional participation arrangements they need.",
+    "aliases": [
+      "access accommodations",
+      "inclusive event access"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T097",
+    "title": "Confidentiality agreements",
+    "source_title": "Chatham House Rule",
+    "url": "https://www.chathamhouse.org/about-us/chatham-house-rule",
+    "publisher": "Chatham House",
+    "source_type": "practitioner method",
+    "access": "page",
+    "finding": "Confidentiality agreements specify what participants may share after a conversation. The Chatham House Rule is a particular non-attribution arrangement: participants may use information while keeping speakers’ and participants’ identities and affiliations undisclosed.",
+    "limitation": "Non-attribution differs from keeping all information secret; this rule should not be confused with a legally enforceable nondisclosure agreement.",
+    "scenario": "Hypothetically, organizers from competing organizations could agree before a meeting that lessons may be shared afterward but comments cannot be attributed to participants or their employers.",
+    "aliases": [
+      "non-attribution agreement",
+      "Chatham House Rule"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T098",
+    "title": "Cross-community exchanges",
+    "source_title": "The Art of Knowledge Exchange: Study Tour",
+    "url": "https://documents1.worldbank.org/curated/en/168121553671926460/pdf/The-Art-of-Knowledge-Exchange-A-Results-Focused-Planning-Guide-for-Climate-Change-Practitioners.pdf",
+    "publisher": "World Bank",
+    "source_type": "institutional guide",
+    "access": "search excerpt",
+    "finding": "Cross-community exchanges connect people working on related problems through visits and direct conversation. The World Bank’s study-tour model uses a specific learning goal and host coordination so participants can observe how an approach works in context.",
+    "limitation": "A successful practice may depend on conditions visitors cannot reproduce; exchange needs reflection and adaptation rather than copying visible features alone.",
+    "scenario": "Hypothetically, two tool libraries could exchange volunteer teams for a day, compare checkout routines, and identify one change each can realistically test at home.",
+    "aliases": [
+      "learning exchange",
+      "study visit",
+      "study tour"
+    ],
+    "scale": "communities",
+    "adaptation": true
+  },
+  {
+    "id": "T099",
+    "title": "Peer support groups",
+    "source_title": "Creating and Facilitating Peer Support Groups",
+    "url": "https://ctb.ku.edu/en/table-of-contents/implement/enhancing-support/peer-support-groups/main",
+    "publisher": "University of Kansas Community Tool Box",
+    "source_type": "institutional guide",
+    "access": "page",
+    "finding": "Peer support groups gather people with related experiences to offer mutual understanding, information, and encouragement. The guide distinguishes this shared-experience role from professional therapy and emphasizes facilitation appropriate to the group’s purpose and participants.",
+    "limitation": "Shared experience does not confer clinical expertise; participation should not require disclosure or be presented as a substitute for needed professional care.",
+    "scenario": "Hypothetically, people caring for aging relatives could meet monthly to compare everyday challenges, share practical resources, and listen without requiring anyone to tell their full story.",
+    "aliases": [
+      "mutual support group",
+      "self-help group"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "T311",
+    "title": "Congregations",
+    "source_title": "National Congregations Study Cumulative Codebook",
+    "url": "https://sites.duke.edu/ncsweb/files/2020/09/NCS-I-IV-Cumulative-Codebook_FINAL_8Sept2020.pdf",
+    "publisher": "Duke University National Congregations Study",
+    "source_type": "research paper",
+    "access": "search excerpt",
+    "finding": "Congregations can organize continuing mutual support alongside religious participation. The National Congregations Study explicitly examines designated people or committees helping members, as well as organized social-service and neighborhood work, making these activities distinct from merely sharing worship space.",
+    "limitation": "The codebook establishes what the study measures, not how common or effective each activity is; congregations vary greatly in organization.",
+    "scenario": "Hypothetically, a congregation could maintain a volunteer coordinator who matches members’ offers of rides and meals with requests, while keeping participation voluntary and recipients’ preferences central.",
+    "aliases": [
+      "religious congregation",
+      "faith community"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T312",
+    "title": "Pilgrimage",
+    "source_title": "Pilgrimage to the St. Thaddeus Apostle Monastery",
+    "url": "https://ich.unesco.org/en/RL/pilgrimage-to-the-st-thaddeus-apostle-monastery-01571?RL=01571",
+    "publisher": "UNESCO Intangible Cultural Heritage",
+    "source_type": "history",
+    "access": "search excerpt",
+    "finding": "Pilgrimage combines travel to a meaningful destination with shared practice and temporary proximity. UNESCO’s monastery example describes gathering, procession, worship, food, and camping, showing how a journey can also organize relationships and cultural transmission.",
+    "limitation": "This describes a specific Armenian Christian heritage practice; secular journeys are analogies, and pilgrimage meanings cannot be reduced to social bonding.",
+    "scenario": "Hypothetically, members of a faith community could travel together to an important sanctuary, prepare newcomers beforehand, and share time for reflection and community meals along the route.",
+    "aliases": [
+      "sacred journey",
+      "religious pilgrimage"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T313",
+    "title": "Mutual-benefit societies",
+    "source_title": "English Poor Laws: Friendly Societies",
+    "url": "https://eh.net/encyclopedia/english-poor-laws/",
+    "publisher": "Economic History Association / EH.net",
+    "source_type": "history",
+    "access": "search excerpt",
+    "finding": "Mutual-benefit societies pool members’ contributions to provide assistance under agreed conditions. The historical account describes friendly societies offering sickness, accident, death, and sometimes old-age benefits, turning recurring membership into a mechanism for sharing selected risks.",
+    "limitation": "The historical example does not establish present-day solvency or suitability; membership restrictions and limited reserves can leave important risks uncovered.",
+    "scenario": "Hypothetically, a professional association could explore a member-funded hardship pool with explicit contribution rules, eligibility, oversight, and limits before promising assistance to members.",
+    "aliases": [
+      "friendly society",
+      "mutual assistance society"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "T314",
+    "title": "Community sponsorship of newcomers",
+    "source_title": "Sponsorship Programmes for Refugees",
+    "url": "https://help.unhcr.org/global/sponsorship-programmes-for-refugees/",
+    "publisher": "UN Refugee Agency",
+    "source_type": "institutional guide",
+    "access": "page",
+    "finding": "Community sponsorship organizes local people to support refugees settling after admission through another pathway. UNHCR distinguishes this from private sponsorship that can involve nomination, and describes practical, social, and financial help within a defined program period.",
+    "limitation": "Program definitions and eligibility differ across countries; community support should not be presented as automatically creating a right of admission.",
+    "scenario": "Hypothetically, a local group could join an established sponsorship program, coordinate language practice and orientation, and agree with a newly arrived household which forms of help it wants.",
+    "aliases": [
+      "refugee sponsorship",
+      "settlement sponsorship"
+    ],
+    "scale": "communities"
+  }
+]

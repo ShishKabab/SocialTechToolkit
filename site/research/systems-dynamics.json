@@ -1,0 +1,409 @@
+[
+  {
+    "id": "S002",
+    "title": "Socialism",
+    "source_title": "Socialism",
+    "url": "https://plato.stanford.edu/entries/socialism/",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "source_type": "reference",
+    "access": "page sections reviewed",
+    "finding": "Socialism covers several proposals for social or worker control of production. Ownership, workplace authority, and allocation are separate design questions: some versions retain markets, while others propose central or participatory planning.",
+    "limitation": "State ownership alone does not establish worker control. This is a family of contested institutional proposals, not one uniform economic design.",
+    "scenario": "Imagine a town debating whether its energy supplier should be privately owned, municipally owned, or controlled by workers and residents. Ask who actually controls investment and receives the surplus.",
+    "aliases": [],
+    "scale": "societies",
+    "terms": [
+      "Social ownership"
+    ]
+  },
+  {
+    "id": "S003",
+    "title": "Economic planning",
+    "source_title": "Socialism, section 4.1: Central and Participatory Planning",
+    "url": "https://plato.stanford.edu/entries/socialism/#CentPartPlan",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "source_type": "reference",
+    "access": "page section reviewed",
+    "finding": "Economic planning coordinates production and resource allocation through explicit plans. Central planning concentrates decisions in an authority; participatory proposals distribute deliberation among worker and consumer councils, with repeated attempts to reconcile production and demand.",
+    "limitation": "Information, incentives, and revision matter in either design. Planning within one organization is not equivalent to planning an entire economy.",
+    "scenario": "Imagine a region coordinating housing, transport, and electricity expansion. Compare who sets priorities, how local needs enter the plan, and what happens when forecasts prove wrong.",
+    "aliases": [
+      "Planned economy"
+    ],
+    "scale": "societies"
+  },
+  {
+    "id": "S007",
+    "title": "Technocracy",
+    "source_title": "Expert Knowledge in Democracies: Promises, Limits, and Conflict",
+    "url": "https://doi.org/10.1146/annurev-polisci-033123-020420",
+    "publisher": "Annual Review of Political Science",
+    "source_type": "research review",
+    "access": "search excerpt",
+    "finding": "Technocracy gives expertise a central claim to governing authority. Distinguish experts advising elected decision makers from experts controlling decisions themselves: technical knowledge and the authority to choose public goals are different things.",
+    "limitation": "Expertise cannot by itself settle whose interests count. The source is a review of expertise and democracy, not an endorsement of expert rule.",
+    "scenario": "Imagine a transport board selecting a route. Engineers can estimate capacity and cost, but deciding which neighborhoods benefit raises questions of representation and accountability.",
+    "aliases": [
+      "Expert rule"
+    ],
+    "scale": "societies"
+  },
+  {
+    "id": "S008",
+    "title": "Monarchy",
+    "source_title": "The role of the Monarchy",
+    "url": "https://www.royal.uk/the-role-of-the-monarchy",
+    "publisher": "The Royal Household",
+    "source_type": "institutional account",
+    "access": "page reviewed",
+    "finding": "Monarchy places a monarch at the head of a state, but the office does not specify how much governing power its holder has. The British constitutional model separates the monarch’s role from parliamentary lawmaking.",
+    "limitation": "This institutional self-description concerns the United Kingdom. It cannot stand in for absolute monarchies or establish monarchy’s comparative benefits.",
+    "scenario": "Imagine comparing two constitutions that both name a king. Examine who can make laws, appoint governments, and overrule decisions before treating their political systems as equivalent.",
+    "aliases": [],
+    "scale": "societies",
+    "terms": [
+      "Constitutional monarchy",
+      "Absolute monarchy"
+    ]
+  },
+  {
+    "id": "S028",
+    "title": "Polycentric governance",
+    "source_title": "A Polycentric Approach for Coping with Climate Change",
+    "url": "https://dlc.dlib.indiana.edu/dlc/items/ce7cf738-5200-46b4-8376-921914080e19",
+    "publisher": "Elinor Ostrom / World Bank; Indiana University repository",
+    "source_type": "research working paper",
+    "access": "abstract reviewed",
+    "finding": "Polycentric governance combines multiple centers of decision making at different scales. Ostrom proposes local, regional, and national experimentation linked by information, monitoring, and learning, rather than relying entirely on one global authority.",
+    "limitation": "Multiple authorities still need coordination and accountability. The paper develops an approach to climate governance, not proof that decentralization always works.",
+    "scenario": "Imagine neighboring towns sharing a watershed. Each manages local runoff while a basin council coordinates monitoring and resolves problems that cross municipal borders.",
+    "aliases": [
+      "Polycentricity"
+    ],
+    "scale": "societies"
+  },
+  {
+    "id": "D014",
+    "title": "Homophily",
+    "source_title": "Birds of a feather: Homophily in social networks",
+    "url": "https://scholars.duke.edu/publication/652661",
+    "publisher": "McPherson, Smith-Lovin and Cook / Annual Review of Sociology",
+    "source_type": "research review",
+    "access": "abstract reviewed",
+    "finding": "Homophily is the tendency for similar people to be connected. Shared settings, geography, existing relationships, and the persistence of ties can all contribute, shaping whose information and opportunities reach whom.",
+    "limitation": "Similarity in a network does not by itself show deliberate exclusion. Opportunity to meet and preferences about relationships must be distinguished.",
+    "scenario": "Imagine recruiting a new club entirely through members’ friends. The invitations travel easily, but inspecting who hears about the club reveals whole parts of the neighborhood missing.",
+    "aliases": [
+      "Similarity in social networks"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "D015",
+    "title": "Reciprocity",
+    "source_title": "Evolution of indirect reciprocity",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16251955/",
+    "publisher": "Nowak and Sigmund / Nature",
+    "source_type": "research review",
+    "access": "abstract in search results",
+    "finding": "Reciprocity connects helping with expectations about later responses. In direct reciprocity a partner can return help; in indirect reciprocity, reputation can influence how other people treat someone who helped or refused to help.",
+    "limitation": "Theoretical mechanisms for cooperation do not guarantee that a favor will be returned. Obligations and reputations can also become unequal or coercive.",
+    "scenario": "Imagine neighbors lending tools. Some return favors directly, while others help a third neighbor because they know the original lender has been generous.",
+    "aliases": [
+      "Direct reciprocity",
+      "Indirect reciprocity"
+    ],
+    "scale": "everyday"
+  },
+  {
+    "id": "D016",
+    "title": "Trust formation and repair",
+    "source_title": "Removing the Shadow of Suspicion: The Effects of Apology Versus Denial for Repairing Competence- Versus Integrity-Based Trust Violations",
+    "url": "https://ink.library.smu.edu.sg/lkcsb_research/2368/",
+    "publisher": "Kim, Ferrin, Cooper and Dirks / Journal of Applied Psychology",
+    "source_type": "research paper",
+    "access": "abstract reviewed",
+    "finding": "A foundational model distinguishes perceived ability, benevolence, and integrity as contributors to trust. Repair then depends partly on what went wrong: two studies found that responses and later evidence affected trust differently after alleged competence and integrity violations.",
+    "limitation": "These studies do not justify dishonest denial or promise relationship repair. Trust formation and repair require more than choosing an effective statement.",
+    "scenario": "Imagine a collaborator missing a deadline. Find out whether people doubt their ability, believe they concealed a problem, or both; a new schedule alone may not address the actual concern.",
+    "aliases": [
+      "Trust repair"
+    ],
+    "scale": "everyday",
+    "additional_sources": [
+      {
+        "source_title": "An Integrative Model of Organizational Trust",
+        "url": "https://journals.aom.org/doi/10.5465/amr.1995.9508080335",
+        "publisher": "Mayer, Davis and Schoorman / Academy of Management Review",
+        "source_type": "theoretical research paper",
+        "access": "search excerpt",
+        "finding": "The model distinguishes perceived ability, benevolence, and integrity, alongside the trustor’s propensity to trust, from risk-taking behavior."
+      }
+    ]
+  },
+  {
+    "id": "D017",
+    "title": "Free riding",
+    "source_title": "Cooperation and Punishment in Public Goods Experiments",
+    "url": "https://ideas.repec.org/a/aea/aecrev/v90y2000i4p980-994.html",
+    "publisher": "Fehr and Gächter / American Economic Review; RePEc abstract",
+    "source_type": "research paper",
+    "access": "abstract reviewed",
+    "finding": "Free riding occurs when someone benefits from a shared contribution without contributing correspondingly. In public-goods experiments, participants sometimes paid to punish low contributors, and the availability of punishment changed cooperation.",
+    "limitation": "Laboratory findings do not establish that punishment is the right response in a community. Inability to contribute is different from strategic non-contribution.",
+    "scenario": "Imagine a shared garden where everyone can take vegetables but few people water it. Examine access, ability, and expectations before concluding that absent volunteers are exploiting the others.",
+    "aliases": [],
+    "scale": "communities",
+    "terms": [
+      "Public goods problem"
+    ]
+  },
+  {
+    "id": "D018",
+    "title": "Social loafing",
+    "source_title": "Many Hands Make Light the Work: The Causes and Consequences of Social Loafing",
+    "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Latane_et_al_1979_Many_hands_make_light_the_work.pdf",
+    "publisher": "Latané, Williams and Harkins / Journal of Personality and Social Psychology",
+    "source_type": "research paper",
+    "access": "PDF sections reviewed",
+    "finding": "Social loafing describes reduced individual effort when work is performed collectively. Experiments using shouting and clapping separated motivational losses from simple coordination difficulties by varying what participants believed about the group around them.",
+    "limitation": "Small laboratory tasks are not every kind of teamwork. Reduced output can also result from coordination costs, inaccessible tasks, or unclear responsibilities.",
+    "scenario": "Imagine five people assigned to prepare a meeting, with no named responsibilities. Nobody starts the agenda because each expects the others to handle it.",
+    "aliases": [
+      "Collective effort loss"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "D019",
+    "title": "Volunteer burnout",
+    "source_title": "Why People Leave Community Service Organizations: A Mixed Methods Study",
+    "url": "https://doi.org/10.1007/s11266-018-0005-z",
+    "publisher": "Milbourn, Black and Buchanan / Voluntas",
+    "source_type": "research paper",
+    "access": "abstract reviewed",
+    "finding": "Volunteer exhaustion can be connected to how participation is organized. Interviews and surveys with 64 former volunteers identified overload alongside limited voice, cliques, disconnection, and loss of confidence in leadership among reasons for leaving.",
+    "limitation": "This study reports former volunteers’ accounts in one organizational setting. It does not establish a diagnosis or a universal causal explanation for departure.",
+    "scenario": "Imagine a neighborhood organizer who increasingly covers every unfilled shift. Before asking for more commitment, examine workload, decision power, backup coverage, and whether stepping back is genuinely possible.",
+    "aliases": [
+      "Volunteer exhaustion"
+    ],
+    "scale": "communities",
+    "description": "Sustained overload and unsupportive conditions can exhaust volunteers and drive them away."
+  },
+  {
+    "id": "D020",
+    "title": "Status hierarchies",
+    "source_title": "Striving for superiority: The human desire for status",
+    "url": "https://irle.berkeley.edu/publications/working-papers/striving-for-superiority-the-human-desire-for-status/",
+    "publisher": "Anderson and Hildreth / UC Berkeley IRLE",
+    "source_type": "research working paper",
+    "access": "abstract reviewed",
+    "finding": "Status concerns the respect and deference people receive from others. A laboratory experiment and national survey in this paper suggest that people can value their relative standing, not simply the absolute amount of respect they receive.",
+    "limitation": "Status is not identical to wealth or formal office. Findings from these studies do not imply that everyone pursues rank in every setting.",
+    "scenario": "Imagine a project with equal voting rights where everyone waits for one veteran to speak. Map whose judgment carries weight alongside the formal organization chart.",
+    "aliases": [
+      "Social status",
+      "Informal rank"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "D021",
+    "title": "Preference falsification",
+    "source_title": "Rationally Speaking 198: Timur Kuran on Private Truths and Public Lies",
+    "url": "https://sites.duke.edu/timurkuran/files/2018/03/rs198transcript-Kuran-Rationall-Speaking-2017.pdf",
+    "publisher": "Timur Kuran / Rationally Speaking; Duke author archive",
+    "source_type": "author interview",
+    "access": "PDF sections reviewed",
+    "finding": "Preference falsification means publicly expressing a preference different from one’s private preference under perceived social pressure. Kuran uses the concept to explain how visible consensus can conceal dissent and sometimes change abruptly.",
+    "limitation": "This is an explanatory model, not a license to assume people are lying. Silence, uncertainty, and mistaken beliefs about others are distinct phenomena.",
+    "scenario": "Imagine every team member praising a plan in the meeting while privately wanting it changed. A confidential discussion may reveal disagreement that the public show of support concealed.",
+    "aliases": [
+      "Public and private preferences"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "D022",
+    "title": "Pluralistic ignorance",
+    "source_title": "Pluralistic Ignorance and Alcohol Use on Campus: Some Consequences of Misperceiving the Social Norm",
+    "url": "https://collaborate.princeton.edu/en/publications/pluralistic-ignorance-and-alcohol-use-on-campus-some-consequences/",
+    "publisher": "Prentice and Miller / Journal of Personality and Social Psychology",
+    "source_type": "research paper",
+    "access": "abstract in search results",
+    "finding": "Pluralistic ignorance arises when people misread others’ private views and treat the apparent group norm as real. In four campus studies, students judged other students more comfortable with drinking practices than they themselves were.",
+    "limitation": "The studies concern a particular campus context. A mistaken belief about others differs from deliberately misrepresenting one’s own preference.",
+    "scenario": "Imagine a group where everyone dislikes late-night messages but assumes everyone else expects immediate replies. Comparing private preferences could expose a norm nobody actually wants.",
+    "aliases": [
+      "Misperceived group norms"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "D023",
+    "title": "Group polarization",
+    "source_title": "On a Danger of Deliberative Democracy",
+    "url": "https://hls.harvard.edu/bibliography/on-a-danger-of-deliberative-democracy/",
+    "publisher": "Cass Sunstein / Harvard Law School bibliography",
+    "source_type": "research paper",
+    "access": "abstract in search results",
+    "finding": "Group polarization describes discussion moving a group toward a more extreme version of its initial tendency. Sunstein examines this as a risk for deliberation: agreement after talking need not mean the group considered the full range of views.",
+    "limitation": "This is a tendency under particular conditions, not an inevitable consequence of discussion or a reason to treat all agreement as suspicious.",
+    "scenario": "Imagine a campaign group whose members already favor escalation. Compare privately stated positions before and after discussion, and examine which alternatives never entered the room.",
+    "aliases": [
+      "Deliberative polarization"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "D024",
+    "title": "Groupthink",
+    "source_title": "Revisiting the Bay of Pigs and Vietnam Decisions 25 Years Later: How Well Has the Groupthink Hypothesis Stood the Test of Time?",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9705804/",
+    "publisher": "Kramer / Organizational Behavior and Human Decision Processes",
+    "source_type": "research paper",
+    "access": "abstract in search results",
+    "finding": "Groupthink is a lens for examining pressure toward agreement and failures to scrutinize decisions. A reanalysis of classic historical cases using newer records challenges parts of the original explanation, including its emphasis on group cohesion.",
+    "limitation": "A bad decision or a cohesive team is not sufficient evidence of groupthink. The causal account and retrospective diagnosis are contested.",
+    "scenario": "Imagine a committee dismissing objections as disloyalty. Investigate what happened to contrary evidence and who could challenge the proposal, rather than labeling the group from the outcome alone.",
+    "aliases": [
+      "Consensus pressure"
+    ],
+    "scale": "groups"
+  },
+  {
+    "id": "D025",
+    "title": "Goal displacement",
+    "source_title": "Bureaucratic Structure and Personality",
+    "url": "https://www.d.umn.edu/cla/faculty/jhamlin/4111/Merton/Social%20Theory%20and%20Social%20Structure%20Bureaucratic%20Structure%20a.htm",
+    "publisher": "Robert K. Merton; University of Minnesota Duluth teaching archive",
+    "source_type": "theoretical research essay",
+    "access": "page reviewed",
+    "finding": "Goal displacement happens when a means becomes an end. Merton describes how devotion to procedures can make rule-following more important than the purpose those procedures originally served, particularly when unusual cases require adaptation.",
+    "limitation": "Rules can protect consistency and restrain arbitrary power. This critique does not show that abandoning procedure will serve the original purpose better.",
+    "scenario": "Imagine an aid organization rejecting every application missing one document, even when the document cannot be obtained after a disaster. Compliance has crowded out the reason the process exists.",
+    "aliases": [
+      "Means becoming ends"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "D026",
+    "title": "Metric gaming",
+    "source_title": "Categorizing Variants of Goodhart’s Law",
+    "url": "https://arxiv.org/abs/1803.04585",
+    "publisher": "Manheim and Garrabrant / arXiv",
+    "source_type": "theoretical preprint",
+    "access": "abstract reviewed",
+    "finding": "Metric gaming is one way a measured target can diverge from the underlying goal. The paper distinguishes several failures of optimizing proxies; not every failure requires deliberate cheating, even when the measured score improves.",
+    "limitation": "This is a conceptual taxonomy, not a universal empirical law. Deliberate gaming should be distinguished from noisy measurement and unintended proxy failures.",
+    "scenario": "Imagine a help desk rewarded for closing tickets. If staff close unresolved requests to improve the count, investigate the actual customer outcome alongside the dashboard.",
+    "aliases": [
+      "Gaming the metric"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "D027",
+    "title": "Capture",
+    "source_title": "The Theory of Economic Regulation",
+    "url": "https://www.rasmusen.org/zg601/readings/Stigler.1971.pdf",
+    "publisher": "George Stigler / Bell Journal of Economics and Management Science",
+    "source_type": "theoretical research paper",
+    "access": "PDF search excerpt",
+    "finding": "Capture describes an institution being steered toward the interests it is supposed to oversee. Stigler’s theory examines how organized industries may obtain regulation that benefits them, instead of treating regulation as automatically serving a general public interest.",
+    "limitation": "This is a theory of regulatory incentives, not evidence that every regulator is captured. Consulting affected stakeholders alone does not establish capture.",
+    "scenario": "Imagine an industry helping draft licensing rules that burden new entrants while exempting established firms. Follow who shaped the rule and who gains from it.",
+    "aliases": [
+      "Regulatory capture",
+      "Institutional capture"
+    ],
+    "scale": "societies"
+  },
+  {
+    "id": "D028",
+    "title": "Principal-agent problems",
+    "source_title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
+    "url": "https://doi.org/10.1016/0304-405X(76)90026-X",
+    "publisher": "Jensen and Meckling / Journal of Financial Economics",
+    "source_type": "theoretical research paper",
+    "access": "abstract and primary-paper search excerpt",
+    "finding": "A principal-agent problem arises when someone delegates authority to another whose interests may differ. Jensen and Meckling analyze incentives, monitoring, commitments, and the remaining losses when delegation cannot perfectly align those interests.",
+    "limitation": "The model does not assume every delegate is dishonest. Monitoring has costs, and the principal’s objectives may themselves be disputed.",
+    "scenario": "Imagine members hiring a manager for a shared workspace. Members want affordable access while the manager is rewarded only for revenue; the arrangement may encourage decisions members dislike.",
+    "aliases": [
+      "Agency problem",
+      "Principal agent"
+    ],
+    "scale": "institutions"
+  },
+  {
+    "id": "D029",
+    "title": "Path dependence",
+    "source_title": "Competing Technologies, Increasing Returns, and Lock-In by Historical Events",
+    "url": "https://ideas.repec.org/a/ecj/econjl/v99y1989i394p116-31.html",
+    "publisher": "W. Brian Arthur / Economic Journal; RePEc abstract",
+    "source_type": "theoretical research paper",
+    "access": "abstract in search results",
+    "finding": "Path dependence means that the sequence of earlier events helps shape later possibilities. Arthur’s model shows how increasing returns to adoption can amplify early contingencies and make a technological path difficult to leave.",
+    "limitation": "This is a model with particular assumptions. An institution having a history does not by itself demonstrate lock-in or prove that change is impossible.",
+    "scenario": "Imagine an organization retaining awkward software because its training, archives, and partners all depend on it. The original choice now shapes the cost of every alternative.",
+    "aliases": [],
+    "scale": "institutions",
+    "terms": [
+      "Historical lock-in"
+    ]
+  },
+  {
+    "id": "D030",
+    "title": "Norm drift",
+    "source_title": "The spontaneous emergence of conventions: An experimental study of cultural evolution",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4343158/",
+    "publisher": "Centola and Baronchelli / PNAS",
+    "source_type": "research paper",
+    "access": "abstract and article sections reviewed",
+    "finding": "Norm drift is used here as an editorial label for changing informal expectations. Related experiments on convention formation show that network structure can affect how shared conventions emerge without a central organizer imposing agreement.",
+    "limitation": "The experiment concerns simple conventions, not every moral or organizational norm. It supports a related mechanism rather than validating a general theory called norm drift.",
+    "scenario": "Imagine a discussion group whose written rule promises quick replies, but whose members gradually treat a week as normal. Compare the formal rule with expectations expressed in everyday interactions.",
+    "aliases": [
+      "Changing informal norms"
+    ],
+    "scale": "communities",
+    "adaptation": true
+  },
+  {
+    "id": "D031",
+    "title": "Network brokerage",
+    "source_title": "Structural Holes and Good Ideas",
+    "url": "https://doi.org/10.1086/421787",
+    "publisher": "Ronald Burt / American Journal of Sociology",
+    "source_type": "research paper",
+    "access": "abstract in search results",
+    "finding": "Network brokers connect people across gaps between groups. Burt argues that these connections expose people to different approaches; a study of managers in an electronics company found brokerage associated with ideas judged valuable and several career advantages.",
+    "limitation": "The reported associations do not establish that brokerage alone caused better ideas. Brokers can also concentrate access and become bottlenecks.",
+    "scenario": "Imagine a librarian connecting a repair club with a school that needs equipment fixed. The useful contribution is seeing an opportunity that neither group could see from its own network.",
+    "aliases": [
+      "Structural holes",
+      "Social brokerage"
+    ],
+    "scale": "communities"
+  },
+  {
+    "id": "D032",
+    "title": "Boundary maintenance",
+    "source_title": "The Study of Boundaries in the Social Sciences",
+    "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107",
+    "publisher": "Lamont and Molnár / Annual Review of Sociology",
+    "source_type": "research review",
+    "access": "abstract reviewed",
+    "finding": "Boundary maintenance concerns how groups distinguish members, outsiders, and legitimate participation. Lamont and Molnár review boundaries across identity, inequality, professions, and communities, emphasizing relations between symbolic distinctions and social divisions.",
+    "limitation": "The review supplies an analytical lens, not a justification for exclusion. Formal access and informal recognition should be examined separately.",
+    "scenario": "Imagine a supposedly open professional meetup where only established members understand the jargon or receive introductions. The invitation is public, but everyday interactions still mark who belongs.",
+    "aliases": [
+      "Group boundaries",
+      "Symbolic boundaries"
+    ],
+    "scale": "communities"
+  }
+]

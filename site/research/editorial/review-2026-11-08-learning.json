@@ -1,0 +1,877 @@
+[
+  {
+    "id": "T002",
+    "type": "article",
+    "title": "Apprenticeship",
+    "changed": false,
+    "findings": "Apprenticeship explains supervised responsibility and the risk of cheap labor; standards citation has concrete context."
+  },
+  {
+    "id": "T003",
+    "type": "article",
+    "title": "Peer learning circles",
+    "changed": false,
+    "findings": "Learning circle explanation follows continuity, facilitation, and mistaken consensus; P2PU attribution identifies a particular approach."
+  },
+  {
+    "id": "T004",
+    "type": "article",
+    "title": "Communities of practice",
+    "changed": false,
+    "findings": "Community-of-practice definition and librarian example connect directly to peripheral participation and orthodoxy."
+  },
+  {
+    "id": "T005",
+    "type": "article",
+    "title": "Study groups",
+    "changed": false,
+    "findings": "Study group describes reasoning and the risk of copying; instructor reference supports the concrete peer-led form."
+  },
+  {
+    "id": "T006",
+    "type": "article",
+    "title": "Journal clubs",
+    "changed": false,
+    "findings": "Journal club distinguishes critical reading from replication through a coherent education-study example."
+  },
+  {
+    "id": "T007",
+    "type": "article",
+    "title": "Socratic seminars",
+    "changed": false,
+    "findings": "Seminar explains textual inquiry and unequal preparation without detached research caveats."
+  },
+  {
+    "id": "T008",
+    "type": "article",
+    "title": "Teach-back",
+    "changed": false,
+    "findings": "Teach-back identifies healthcare origins and explicitly contextualizes the volunteer adaptation."
+  },
+  {
+    "id": "T009",
+    "type": "article",
+    "title": "Peer instruction",
+    "changed": false,
+    "findings": "Peer instruction explains the voting sequence and why agreement can conceal misunderstanding."
+  },
+  {
+    "id": "T011",
+    "type": "article",
+    "title": "Job shadowing",
+    "changed": false,
+    "findings": "Shadowing explains observation, questions, privacy, and the transition to attempting work."
+  },
+  {
+    "id": "T012",
+    "type": "article",
+    "title": "Job rotation",
+    "changed": false,
+    "findings": "Rotation follows museum handoffs and host effort; no research-process language."
+  },
+  {
+    "id": "T015",
+    "type": "article",
+    "title": "Ask-me-anything sessions",
+    "changed": false,
+    "findings": "AMA explanation integrates audience control, boundaries, and selective answering."
+  },
+  {
+    "id": "T017",
+    "type": "article",
+    "title": "Show-and-tell sessions",
+    "changed": false,
+    "findings": "Show-and-tell uses an exhibition example to explain unfinished work and feedback responsibility."
+  },
+  {
+    "id": "T019",
+    "type": "article",
+    "title": "Train-the-trainer",
+    "changed": false,
+    "findings": "Trainer preparation and dilution are connected through the volunteer-network example."
+  },
+  {
+    "id": "T020",
+    "type": "article",
+    "title": "Learning cohorts",
+    "changed": false,
+    "findings": "Cohort continuity, pace, and ending are explained directly; professional-learning citation is contextual."
+  },
+  {
+    "id": "T021",
+    "type": "article",
+    "title": "Reading salons",
+    "changed": false,
+    "findings": "Salon explanation gives reading-aloud and newcomer examples; no source narration or unintroduced caveats."
+  },
+  {
+    "id": "T010",
+    "type": "article",
+    "title": "Deliberate practice with feedback",
+    "changed": true,
+    "findings": "Replaced research narration with a direct explanation of focused practice; retained citation and achievement limits."
+  },
+  {
+    "id": "T013",
+    "type": "article",
+    "title": "Cross-training",
+    "changed": true,
+    "findings": "Replaced guide narration with the practical need to define coverage boundaries."
+  },
+  {
+    "id": "T014",
+    "type": "article",
+    "title": "Office hours",
+    "changed": true,
+    "findings": "Made accessibility claim direct while preserving both citations and the concrete scheduling difficulty."
+  },
+  {
+    "id": "T016",
+    "type": "article",
+    "title": "Lightning talks",
+    "changed": true,
+    "findings": "Replaced narration of a hosting account with the social purpose of lightning talks."
+  },
+  {
+    "id": "T018",
+    "type": "article",
+    "title": "Workshops",
+    "changed": true,
+    "findings": "Replaced instructor-guide narration with the preparation work it supports."
+  },
+  {
+    "id": "T022",
+    "type": "article",
+    "title": "Oral history",
+    "changed": false,
+    "findings": "Oral-history consent, conflicting memories, and archives follow a concrete factory-history example."
+  },
+  {
+    "id": "T023",
+    "type": "article",
+    "title": "Storytelling",
+    "changed": false,
+    "findings": "Story-dialogue attribution names a method; rare-event distortion is explained as a storytelling mechanism."
+  },
+  {
+    "id": "T024",
+    "type": "article",
+    "title": "Case-method discussion",
+    "changed": false,
+    "findings": "Case method explains incomplete evidence, edited cases, and judgment without research-process narration."
+  },
+  {
+    "id": "T026",
+    "type": "article",
+    "title": "After-action reviews",
+    "changed": false,
+    "findings": "After-action review connects blame, reconstructing events, and named follow-up responsibilities."
+  },
+  {
+    "id": "T027",
+    "type": "article",
+    "title": "Retrospectives",
+    "changed": false,
+    "findings": "Retrospective limits arise from missing authority to change recurring problems."
+  },
+  {
+    "id": "T028",
+    "type": "article",
+    "title": "Peer review of work",
+    "changed": false,
+    "findings": "Peer review connects usable feedback, rivalry, and timing through grant applications."
+  },
+  {
+    "id": "T029",
+    "type": "article",
+    "title": "Replication",
+    "changed": false,
+    "findings": "Replication distinguishes reproducibility and contextual changes; transparency-standard attribution is relevant to terminology."
+  },
+  {
+    "id": "T030",
+    "type": "article",
+    "title": "Preregistration",
+    "changed": false,
+    "findings": "Preregistration explains planned versus exploratory analysis and departures through recruitment research."
+  },
+  {
+    "id": "T031",
+    "type": "article",
+    "title": "Open notebooks",
+    "changed": false,
+    "findings": "Open notebook limits concern actual confidentiality and provisional records, not the editorial research process."
+  },
+  {
+    "id": "T032",
+    "type": "article",
+    "title": "Community wikis",
+    "changed": false,
+    "findings": "Wiki explanation connects maintainers, permissions, and tacit knowledge to a shared workshop."
+  },
+  {
+    "id": "T033",
+    "type": "article",
+    "title": "Institutional archives",
+    "changed": false,
+    "findings": "Archive explanation contextualizes selection bias and document interpretation within institutional memory."
+  },
+  {
+    "id": "T034",
+    "type": "article",
+    "title": "Decision logs",
+    "changed": false,
+    "findings": "Decision log example connects authority, changed circumstances, and preserving disagreement."
+  },
+  {
+    "id": "T035",
+    "type": "article",
+    "title": "Knowledge maps",
+    "changed": false,
+    "findings": "Knowledge map explains dependencies and outdated representations through digitization work."
+  },
+  {
+    "id": "T036",
+    "type": "article",
+    "title": "Expert directories",
+    "changed": false,
+    "findings": "Expert directory explains access, availability, and specificity rather than merely listing benefits."
+  },
+  {
+    "id": "T037",
+    "type": "article",
+    "title": "Open educational resources",
+    "changed": false,
+    "findings": "Open resources explain licensing and attribution with a concrete adaptation example."
+  },
+  {
+    "id": "T039",
+    "type": "article",
+    "title": "Libraries",
+    "changed": false,
+    "findings": "Library mission attribution grounds public purpose; subsequent paragraphs explain selection and continuity."
+  },
+  {
+    "id": "T040",
+    "type": "article",
+    "title": "1-2-4-All",
+    "changed": false,
+    "findings": "1-2-4-All attribution identifies method origin and distinguishes participation from decision authority."
+  },
+  {
+    "id": "T041",
+    "type": "article",
+    "title": "Troika Consulting",
+    "changed": false,
+    "findings": "Troika names its originating format; advice boundaries follow directly from the rotating roles."
+  },
+  {
+    "id": "T025",
+    "type": "article",
+    "title": "Simulation exercises",
+    "changed": true,
+    "findings": "Replaced a detached rehearsal-evidence sentence with the concrete difference between a rehearsal and a real emergency."
+  },
+  {
+    "id": "T038",
+    "type": "article",
+    "title": "Translation networks",
+    "changed": true,
+    "findings": "Replaced narration about what a translation-community source shows with a direct explanation of complementary skills."
+  },
+  {
+    "id": "T042",
+    "type": "article",
+    "title": "Appreciative Interviews",
+    "changed": false,
+    "findings": "Appreciative interviewing explicitly examines possible causes rather than equating a shared feature with proof."
+  },
+  {
+    "id": "T043",
+    "type": "article",
+    "title": "What, So What, Now What",
+    "changed": false,
+    "findings": "Reflection stages use attendance to introduce observations, interpretations, and action coherently."
+  },
+  {
+    "id": "T044",
+    "type": "article",
+    "title": "Fishbowl discussion",
+    "changed": false,
+    "findings": "Fishbowl explains audience roles, prestige, and consent with a volunteer handoff example."
+  },
+  {
+    "id": "T045",
+    "type": "article",
+    "title": "World Café",
+    "changed": false,
+    "findings": "World Café explains how ideas move and why a synthesis is not a binding decision."
+  },
+  {
+    "id": "T046",
+    "type": "article",
+    "title": "Open Space Technology",
+    "changed": false,
+    "findings": "Owen attribution identifies the method origin; authority boundaries are introduced through the invitation."
+  },
+  {
+    "id": "T047",
+    "type": "article",
+    "title": "Unconferences",
+    "changed": false,
+    "findings": "Unconference explains participant agenda setting and infrastructure without detached source caveats."
+  },
+  {
+    "id": "T048",
+    "type": "article",
+    "title": "Delphi process",
+    "changed": false,
+    "findings": "Delphi uncertainty is intrinsic to forecasting and the panel-selection explanation."
+  },
+  {
+    "id": "T049",
+    "type": "article",
+    "title": "Red teams",
+    "changed": false,
+    "findings": "Red-team explanation connects assigned dissent to consequential responses."
+  },
+  {
+    "id": "T050",
+    "type": "article",
+    "title": "Premortems",
+    "changed": false,
+    "findings": "Premortem explains vividness versus likelihood through equipment-library failure scenarios."
+  },
+  {
+    "id": "T307",
+    "type": "article",
+    "title": "Citizen science",
+    "changed": false,
+    "findings": "Citizen science connects methods, data authority, and returning results to residents."
+  },
+  {
+    "id": "T308",
+    "type": "article",
+    "title": "Participatory mapping",
+    "changed": false,
+    "findings": "Participatory mapping connects local knowledge to sensitive information and contested boundaries."
+  },
+  {
+    "id": "T309",
+    "type": "article",
+    "title": "Deliberative polling",
+    "changed": false,
+    "findings": "Deliberative polling explains sampling and briefing limitations in the transport example."
+  },
+  {
+    "id": "T310",
+    "type": "article",
+    "title": "Knowledge fairs",
+    "changed": false,
+    "findings": "Knowledge fair explains demonstration, attention distortions, and follow-up relationships."
+  },
+  {
+    "id": "T051",
+    "type": "article",
+    "title": "Recurring open gatherings",
+    "changed": true,
+    "findings": "Changed account narration into a specific attributed Stoop Coffee example."
+  },
+  {
+    "id": "T052",
+    "type": "article",
+    "title": "Shared meals",
+    "changed": true,
+    "findings": "Explained the observational association directly and gave the causal uncertainty a concrete meaning."
+  },
+  {
+    "id": "T053",
+    "type": "article",
+    "title": "Potlucks",
+    "changed": true,
+    "findings": "Replaced potluck-guide narration with the practical coordination obligation."
+  },
+  {
+    "id": "T054",
+    "type": "article",
+    "title": "Residential retreats",
+    "changed": true,
+    "findings": "Removed a detached evidence disclaimer and described the conference example with explicit participant perspective."
+  },
+  {
+    "id": "T055",
+    "type": "article",
+    "title": "Protected unstructured time",
+    "changed": true,
+    "findings": "Replaced narration of an account with its concrete example of informal conversation."
+  },
+  {
+    "id": "T056",
+    "type": "article",
+    "title": "Shared journeys",
+    "changed": true,
+    "findings": "Introduced the conference journey as an event rather than a source description."
+  },
+  {
+    "id": "T057",
+    "type": "article",
+    "title": "Hospitality hosting",
+    "changed": true,
+    "findings": "Changed hosting-guide narration to explicit expectations in a named exchange arrangement."
+  },
+  {
+    "id": "T058",
+    "type": "article",
+    "title": "Buddy systems",
+    "changed": false,
+    "findings": "Buddy role is distinguished from mentorship through practical newcomer questions and availability."
+  },
+  {
+    "id": "T059",
+    "type": "article",
+    "title": "Cohort onboarding",
+    "changed": false,
+    "findings": "Cohort onboarding explains peer ties and the risk of becoming isolated from existing members."
+  },
+  {
+    "id": "T060",
+    "type": "article",
+    "title": "Membership curation",
+    "changed": false,
+    "findings": "Curation connects purpose-specific criteria with homophily and the experience of rejected applicants."
+  },
+  {
+    "id": "T062",
+    "type": "article",
+    "title": "Introductions by a connector",
+    "changed": false,
+    "findings": "Connector explains permission, reputation, and unequal access through a librarian introduction."
+  },
+  {
+    "id": "T063",
+    "type": "article",
+    "title": "Check-in rounds",
+    "changed": false,
+    "findings": "Check-in rounds describe passing and privacy as parts of the invitation."
+  },
+  {
+    "id": "T064",
+    "type": "article",
+    "title": "Listening pairs",
+    "changed": false,
+    "findings": "Listening pairs distinguish attentive support from agreement and clinical responsibility in context."
+  },
+  {
+    "id": "T065",
+    "type": "article",
+    "title": "Mutual aid networks",
+    "changed": false,
+    "findings": "Mutual aid makes its movement-oriented definition explicit and explains unequal needs without promising automatic solidarity."
+  },
+  {
+    "id": "T067",
+    "type": "article",
+    "title": "Meal trains",
+    "changed": false,
+    "findings": "Meal train explains schedules, preferences, and follow-through with a household example."
+  },
+  {
+    "id": "T068",
+    "type": "article",
+    "title": "Childcare exchanges",
+    "changed": false,
+    "findings": "Childcare exchange connects credits to the distinct need for confidence in actual care."
+  },
+  {
+    "id": "T069",
+    "type": "article",
+    "title": "Neighborhood associations",
+    "changed": false,
+    "findings": "Neighborhood association explains voluntary representation and excluded residents without source narration."
+  },
+  {
+    "id": "T070",
+    "type": "article",
+    "title": "Coliving households",
+    "changed": false,
+    "findings": "Coliving connects authority, chores, privacy, and exit to daily home life."
+  },
+  {
+    "id": "T071",
+    "type": "article",
+    "title": "Cohousing communities",
+    "changed": false,
+    "findings": "Cohousing distinguishes shared design from legal ownership and contextualizes capital barriers."
+  },
+  {
+    "id": "T072",
+    "type": "article",
+    "title": "Third places",
+    "changed": false,
+    "findings": "Third-place explanation focuses on repeated contact, access, and maintenance."
+  },
+  {
+    "id": "T073",
+    "type": "article",
+    "title": "Clubs",
+    "changed": false,
+    "findings": "Club explains recurring activity, dues, and newcomer barriers through bird observation."
+  },
+  {
+    "id": "T074",
+    "type": "article",
+    "title": "Affinity groups",
+    "changed": false,
+    "findings": "Affinity group distinguishes organizing usage and connects autonomy to liaison work."
+  },
+  {
+    "id": "T075",
+    "type": "article",
+    "title": "Alumni networks",
+    "changed": false,
+    "findings": "Alumni network connects shared history to opportunity and the unequal distribution of access."
+  },
+  {
+    "id": "T076",
+    "type": "article",
+    "title": "Festival cycles",
+    "changed": false,
+    "findings": "Festival cycle introduces a named Maltese example, then explains preparation and succession."
+  },
+  {
+    "id": "T077",
+    "type": "article",
+    "title": "Rites of passage",
+    "changed": false,
+    "findings": "Rites-of-passage attribution introduces an anthropological interpretation rather than editorial research notes; consequences remain concrete."
+  },
+  {
+    "id": "T061",
+    "type": "article",
+    "title": "Trial membership",
+    "changed": true,
+    "findings": "Named the community behind the provisional-membership example rather than gesturing at an unspecified source."
+  },
+  {
+    "id": "T066",
+    "type": "article",
+    "title": "Care circles",
+    "changed": true,
+    "findings": "Removed internal source-fit phrasing while preserving the disability-support context and broader adaptation distinction."
+  },
+  {
+    "id": "T078",
+    "type": "article",
+    "title": "Welcoming ceremonies",
+    "changed": false,
+    "findings": "Welcome distinguishes legal naturalization from symbolic group entry with explicit context."
+  },
+  {
+    "id": "T079",
+    "type": "article",
+    "title": "Farewell rituals",
+    "changed": false,
+    "findings": "Farewell explains intentions versus the departing person’s experience without narrating research."
+  },
+  {
+    "id": "T080",
+    "type": "article",
+    "title": "Commemorations",
+    "changed": false,
+    "findings": "Commemoration links concrete memorial forms and directly discusses selection and interpretation."
+  },
+  {
+    "id": "T081",
+    "type": "article",
+    "title": "Shared symbols",
+    "changed": false,
+    "findings": "Symbols explain learned meaning and disagreement through a volunteer patch."
+  },
+  {
+    "id": "T083",
+    "type": "article",
+    "title": "Community agreements",
+    "changed": false,
+    "findings": "Community agreement explains behavior, interpretation, and power in the reading-group example."
+  },
+  {
+    "id": "T084",
+    "type": "article",
+    "title": "Codes of conduct",
+    "changed": false,
+    "findings": "Code of conduct links expectations to actual response authority rather than promising guaranteed behavior."
+  },
+  {
+    "id": "T085",
+    "type": "article",
+    "title": "Principle-based norms",
+    "changed": false,
+    "findings": "Principles explain discretion and informal authority through reversible studio changes."
+  },
+  {
+    "id": "T086",
+    "type": "article",
+    "title": "Mediation",
+    "changed": false,
+    "findings": "Mediation names the Acas process and integrates power and alternative responses into the explanation."
+  },
+  {
+    "id": "T087",
+    "type": "article",
+    "title": "Restorative conferences",
+    "changed": false,
+    "findings": "Restorative conference explains preparation and possible harm from compulsory reconciliation; limits are directly relevant."
+  },
+  {
+    "id": "T088",
+    "type": "article",
+    "title": "Conflict coaching",
+    "changed": false,
+    "findings": "Conflict coaching explains the single-party perspective and service-specific confidentiality in context."
+  },
+  {
+    "id": "T089",
+    "type": "article",
+    "title": "Repair conversations",
+    "changed": false,
+    "findings": "Repair conversation connects concrete impact to later conduct and explains when conversation is insufficient."
+  },
+  {
+    "id": "T090",
+    "type": "article",
+    "title": "Community moderation",
+    "changed": false,
+    "findings": "Moderation links tools to judgment and invisible labor with a concrete forum dispute."
+  },
+  {
+    "id": "T091",
+    "type": "article",
+    "title": "Guest policies",
+    "changed": false,
+    "findings": "Guest policy explains hosts’ shared obligations and visitors’ opportunity to understand terms."
+  },
+  {
+    "id": "T092",
+    "type": "article",
+    "title": "Chore rotations",
+    "changed": false,
+    "findings": "Chore rotation explains unequal tasks and usable standards without source-process narration."
+  },
+  {
+    "id": "T093",
+    "type": "article",
+    "title": "Notice-and-claim protocols",
+    "changed": false,
+    "findings": "Notice-and-claim connects real notice and authority to property handling; the limitation is intrinsic to the process."
+  },
+  {
+    "id": "T094",
+    "type": "article",
+    "title": "Shared-space labeling",
+    "changed": false,
+    "findings": "Shared-space labels explain situated information and changing conditions with a workshop example."
+  },
+  {
+    "id": "T095",
+    "type": "article",
+    "title": "Participation stipends",
+    "changed": false,
+    "findings": "Stipends distinguish time from expenses and explain remaining barriers to participation."
+  },
+  {
+    "id": "T096",
+    "type": "article",
+    "title": "Accessibility arrangements",
+    "changed": false,
+    "findings": "Accessibility follows advance information through concrete requests and multiple participation routes."
+  },
+  {
+    "id": "T097",
+    "type": "article",
+    "title": "Confidentiality agreements",
+    "changed": false,
+    "findings": "Confidentiality precisely distinguishes non-attribution from secrecy and contextualizes the Chatham House Rule."
+  },
+  {
+    "id": "T098",
+    "type": "article",
+    "title": "Cross-community exchanges",
+    "changed": false,
+    "findings": "Community exchange explains inspection and adaptation through equipment sharing."
+  },
+  {
+    "id": "T099",
+    "type": "article",
+    "title": "Peer support groups",
+    "changed": false,
+    "findings": "Peer support explains shared experience, privacy, and capacity without unsupported clinical claims."
+  },
+  {
+    "id": "T312",
+    "type": "article",
+    "title": "Pilgrimage",
+    "changed": false,
+    "findings": "Pilgrimage names a specific tradition and explains why meaningful journeys differ from ordinary group travel."
+  },
+  {
+    "id": "T313",
+    "type": "article",
+    "title": "Mutual-benefit societies",
+    "changed": false,
+    "findings": "Mutual-benefit society explains pooled risks and historical limits; the contemporary product distinction has direct financial context."
+  },
+  {
+    "id": "T082",
+    "type": "article",
+    "title": "Origin stories",
+    "changed": true,
+    "findings": "Replaced narration of narrative-memory research with the actual relationships and settings that sustain origin stories."
+  },
+  {
+    "id": "T100",
+    "type": "article",
+    "title": "Rotating hosts",
+    "changed": true,
+    "findings": "Replaced narration of the Stoop Coffee account with the participants’ move into hosting."
+  },
+  {
+    "id": "T311",
+    "type": "article",
+    "title": "Congregations",
+    "changed": true,
+    "findings": "Removed narration of survey questions; explained the real organizational difference between attendance and support."
+  },
+  {
+    "id": "T314",
+    "type": "article",
+    "title": "Community sponsorship of newcomers",
+    "changed": true,
+    "findings": "Made the sponsorship-program distinction direct while retaining its source and jurisdictional scope."
+  },
+  {
+    "id": "cocoon-projects-liquido",
+    "type": "case",
+    "title": "Cocoon Projects: contribution-weighted governance with LiquidO",
+    "changed": true,
+    "findings": "Replaced source-mapping narration and research requests with the concrete ownership/governance distinction and unresolved fairness questions. Kept founder attribution for unverified assessment figures."
+  },
+  {
+    "id": "enspiral-network-care-and-control",
+    "type": "case",
+    "title": "Enspiral: support networks can develop their own forms of pressure",
+    "changed": true,
+    "findings": "Reframed the field study around experiences of support and pressure. Removed handbook-reading dates and research instructions; retained the historical and interpretive scope."
+  },
+  {
+    "id": "enspiral-cobudget-funding-rounds",
+    "type": "case",
+    "title": "Enspiral’s Cobudget: open proposals still need timing and strategy",
+    "changed": true,
+    "findings": "Kept participant attribution for claimed improvements but replaced audit-status language with the unresolved difference between allocation and project results."
+  },
+  {
+    "id": "microsolidarity-practice-programs",
+    "type": "case",
+    "title": "Microsolidarity practice programs: from strangers to small support groups",
+    "changed": true,
+    "findings": "Removed universal-blueprint and source-search disclaimers. Explained the actual program and made durability, selection, and discomfort concrete unanswered questions."
+  },
+  {
+    "id": "buurtzorg-netherlands",
+    "type": "case",
+    "title": "Buurtzorg: small nursing teams with a shared backbone",
+    "changed": true,
+    "findings": "Made managerial functions and cost comparisons direct; retained historical evaluation scope and explained why total costs differ from home-care costs."
+  },
+  {
+    "id": "east-london-buurtzorg-adaptation",
+    "type": "case",
+    "title": "East London: importing self-management into an NHS organization",
+    "changed": true,
+    "findings": "Removed exposed source-access notes and generic theory disclaimers. Connected limited autonomy, small interview coverage, and uncertain clinical outcomes directly to the NHS pilot."
+  },
+  {
+    "id": "haier-rendanheyi-microenterprises",
+    "type": "case",
+    "title": "Haier: markets and microenterprises inside a giant company",
+    "changed": true,
+    "findings": "Removed case-study narration and future-research commands; explained uneven implementation, leadership, and commercial uncertainty directly."
+  },
+  {
+    "id": "morning-star-colleague-commitments",
+    "type": "case",
+    "title": "Morning Star: negotiating responsibilities with colleagues",
+    "changed": true,
+    "findings": "Made the commitment system and negotiation costs direct; retained uncertainty about wider productivity and employee experience without source-status narration."
+  },
+  {
+    "id": "valve-flat-project-selection",
+    "type": "case",
+    "title": "Valve: choosing projects inside a company with owners",
+    "changed": true,
+    "findings": "Replaced handbook and scholarly-source narration with the historical project-selection arrangement. Preserved contested causal interpretation and uncertainty about current practice."
+  },
+  {
+    "id": "zappos-holacracy-transition",
+    "type": "case",
+    "title": "Zappos: changing the rules and offering an exit",
+    "changed": true,
+    "findings": "Removed exposed abstract-access and general-theory notes. Stated the departures and operating risks directly while keeping severance incentives distinct from dislike of Holacracy."
+  },
+  {
+    "id": "favi-customer-focused-teams",
+    "type": "case",
+    "title": "FAVI: autonomy under customers and peers",
+    "changed": true,
+    "findings": "Explained customer and peer control directly; removed research-team accounting and research requests while keeping unresolved economic effects."
+  },
+  {
+    "id": "semco-participation-and-information",
+    "type": "case",
+    "title": "Semco: participation backed by business information",
+    "changed": true,
+    "findings": "Removed profile narration and the unexplained succession-experiment disclaimer. Preserved the real distinction between temporary absence and a permanent transfer of authority."
+  },
+  {
+    "id": "gitlab-handbook-and-dri",
+    "type": "case",
+    "title": "GitLab: written context with one accountable decision-maker",
+    "changed": true,
+    "findings": "Removed public research-process notes and explained the difference between written policy and actual use through maintenance and contested decisions."
+  },
+  {
+    "id": "loomio-cooperative-decision-spaces",
+    "type": "case",
+    "title": "Loomio: different rooms have different decision rights",
+    "changed": true,
+    "findings": "Kept the essential historical-archive distinction but removed source-counting and research to-dos. Explained binding authority and advisory participation directly."
+  },
+  {
+    "id": "occupy-wall-street-assemblies",
+    "type": "case",
+    "title": "Occupy Wall Street: the assembly and the time it consumes",
+    "changed": true,
+    "findings": "Replaced historical-source narration with the assembly rules and events. Preserved eviction as a distinct cause and converted research instructions into specific questions."
+  },
+  {
+    "id": "alcoholics-anonymous-autonomous-fellowship",
+    "type": "case",
+    "title": "Alcoholics Anonymous: local groups and shared traditions",
+    "changed": true,
+    "findings": "Removed source-study narration and generic theory notes while preserving the distinction between professional Twelve-Step Facilitation outcomes and AA governance."
+  },
+  {
+    "id": "guerrilla-translation-disco-care-accounting",
+    "type": "case",
+    "title": "Guerrilla Translation and DisCO: making care visible in the accounts",
+    "changed": true,
+    "findings": "Explained the accounting prototype and its intended operation without treating documentation as proof of results. Removed research requests and retained concrete unpaid-balance and burden questions."
+  },
+  {
+    "id": "elderspirit-neighborly-support",
+    "type": "case",
+    "title": "ElderSpirit: choosing neighbors and organizing help",
+    "changed": true,
+    "findings": "Removed blocked-publisher and study-selection notes. Preserved demographic scope, researcher involvement, and unresolved departures while describing support and practical tensions directly."
+  }
+]

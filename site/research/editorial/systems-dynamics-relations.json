@@ -1,0 +1,978 @@
+{
+  "S001": [
+    {
+      "id": "T340",
+      "reason": "Private ownership assigns control over productive resources."
+    },
+    {
+      "id": "T211",
+      "reason": "Markets coordinate exchange within capitalist arrangements."
+    },
+    {
+      "id": "T251",
+      "reason": "Worker cooperatives offer a different distribution of control within market exchange."
+    },
+    {
+      "id": "T267",
+      "reason": "Contracts specify obligations between owners, workers, and trading partners."
+    }
+  ],
+  "S002": [
+    {
+      "id": "T251",
+      "reason": "Worker cooperatives place enterprise control with workers."
+    },
+    {
+      "id": "T211",
+      "reason": "Social ownership can coexist with market exchange."
+    },
+    {
+      "id": "S003",
+      "reason": "Planning offers another way to coordinate production and needs."
+    },
+    {
+      "id": "S001",
+      "reason": "Capitalism offers a contrasting allocation of ownership and control."
+    }
+  ],
+  "S003": [
+    {
+      "id": "T211",
+      "reason": "Plans can use markets to obtain inputs."
+    },
+    {
+      "id": "T116",
+      "reason": "Subsidiarity addresses which decisions should remain local."
+    },
+    {
+      "id": "S002",
+      "reason": "Socialist proposals include several forms of economic planning."
+    }
+  ],
+  "S004": [
+    {
+      "id": "S032",
+      "reason": "Direct democracy gives participants authority over the decision itself."
+    },
+    {
+      "id": "S033",
+      "reason": "Representative democracy delegates political decisions to representatives."
+    },
+    {
+      "id": "T101",
+      "reason": "Assemblies combine deliberation with a convened decision body."
+    },
+    {
+      "id": "T107",
+      "reason": "Referendums put a particular issue to a direct vote."
+    }
+  ],
+  "S006": [
+    {
+      "id": "T286",
+      "reason": "Competitive examinations are one way to operationalize selection by ability."
+    },
+    {
+      "id": "T284",
+      "reason": "Merit-based selection translates the ideal into criteria for a specific role."
+    },
+    {
+      "id": "S005",
+      "reason": "Aristocracy also asks who is best qualified, but concerns authority to govern."
+    }
+  ],
+  "S007": [
+    {
+      "id": "T028",
+      "reason": "Peer review makes expert judgments available to scrutiny by other experts."
+    },
+    {
+      "id": "S004",
+      "reason": "Democracy raises the distinct question of public authority over expert-informed decisions."
+    },
+    {
+      "id": "T271",
+      "reason": "Credentials signal expertise but do not settle the right to govern."
+    }
+  ],
+  "S008": [
+    {
+      "id": "S011",
+      "reason": "Monarchical office and the work of government need not coincide."
+    },
+    {
+      "id": "T146",
+      "reason": "Constitutions define the powers and limits of the office."
+    },
+    {
+      "id": "S009",
+      "reason": "Dynasties carry status and authority through family lines."
+    }
+  ],
+  "S009": [
+    {
+      "id": "T293",
+      "reason": "Succession planning concerns transmission of capability as well as position."
+    },
+    {
+      "id": "T340",
+      "reason": "Ownership can pass between generations without transferring practical leadership."
+    },
+    {
+      "id": "S008",
+      "reason": "Hereditary monarchy is one political expression of dynastic succession."
+    }
+  ],
+  "S010": [
+    {
+      "id": "T188",
+      "reason": "Standard operating procedures make recurring work less dependent on a particular officeholder."
+    },
+    {
+      "id": "T155",
+      "reason": "Appeals provide a way to challenge the application of rules."
+    },
+    {
+      "id": "T034",
+      "reason": "Decision logs preserve reasons and commitments across staff changes."
+    },
+    {
+      "id": "D025",
+      "reason": "Goal displacement describes procedures becoming ends in themselves."
+    }
+  ],
+  "S011": [
+    {
+      "id": "S012",
+      "reason": "Law gives public decisions recognized rules and procedures."
+    },
+    {
+      "id": "S010",
+      "reason": "Bureaucracy carries decisions through offices and continuing procedures."
+    },
+    {
+      "id": "D027",
+      "reason": "Capture can redirect public authority toward particular interests."
+    },
+    {
+      "id": "S013",
+      "reason": "Diplomacy maintains channels between governing authorities with different interests."
+    }
+  ],
+  "S012": [
+    {
+      "id": "T318",
+      "reason": "Courts provide institutional settings for adjudicating legal disputes."
+    },
+    {
+      "id": "T155",
+      "reason": "Appeals provide defined routes for challenging decisions."
+    },
+    {
+      "id": "T267",
+      "reason": "Contracts use enforceable commitments to organize cooperation."
+    },
+    {
+      "id": "S021",
+      "reason": "Marriage shows how law can give a personal relationship public rights and obligations."
+    }
+  ],
+  "S013": [
+    {
+      "id": "S011",
+      "reason": "Diplomacy maintains relations between governing authorities."
+    },
+    {
+      "id": "T115",
+      "reason": "Delegated authority sets what a representative may commit to."
+    },
+    {
+      "id": "T086",
+      "reason": "Mediation offers third-party help when direct negotiation is insufficient."
+    }
+  ],
+  "S014": [
+    {
+      "id": "S004",
+      "reason": "Democratic theory concerns the public justification and distribution of decision power."
+    },
+    {
+      "id": "T155",
+      "reason": "Appeal procedures give institutional form to the ability to challenge authority."
+    },
+    {
+      "id": "S015",
+      "reason": "Ideology concerns the shared interpretive frameworks through which political ideas gain force."
+    }
+  ],
+  "S015": [
+    {
+      "id": "T081",
+      "reason": "Shared symbols make an interpretation recognizable across a movement."
+    },
+    {
+      "id": "D024",
+      "reason": "Groupthink is one possible account of suppressed challenge, not a diagnosis of every ideology."
+    },
+    {
+      "id": "S014",
+      "reason": "Political theory examines the arguments and values within political interpretations."
+    }
+  ],
+  "S016": [
+    {
+      "id": "T069",
+      "reason": "A neighborhood association supplies an organizing body for the example."
+    },
+    {
+      "id": "T339",
+      "reason": "Lobbying addresses decisions held by public authorities."
+    },
+    {
+      "id": "T203",
+      "reason": "Coalitions combine capabilities around a shared strategic objective."
+    },
+    {
+      "id": "T210",
+      "reason": "Purpose-to-Practice connects an initiative’s aims to participants, authority, and recurring activities."
+    }
+  ],
+  "S017": [
+    {
+      "id": "T002",
+      "reason": "Apprenticeship transmits skill through work with experienced practitioners."
+    },
+    {
+      "id": "T271",
+      "reason": "Credentials recognize learning and can become signals distinct from capability."
+    },
+    {
+      "id": "T010",
+      "reason": "Deliberate practice links effort with feedback that improves performance."
+    }
+  ],
+  "S018": [
+    {
+      "id": "T340",
+      "reason": "Ownership shapes decisions about urban resources and access to them."
+    },
+    {
+      "id": "T072",
+      "reason": "Third places provide accessible settings for regular social contact."
+    },
+    {
+      "id": "T250",
+      "reason": "Community land trusts offer one arrangement for maintaining access to land as prices change."
+    }
+  ],
+  "S019": [
+    {
+      "id": "S017",
+      "reason": "Education builds the capabilities needed to provide care."
+    },
+    {
+      "id": "T190",
+      "reason": "Handoff protocols connect responsibility and information between services."
+    },
+    {
+      "id": "T222",
+      "reason": "Mutual insurance is one way to pool the financial risk of needing care."
+    }
+  ],
+  "S020": [
+    {
+      "id": "T274",
+      "reason": "Professional licensing regulates eligibility to offer professional services."
+    },
+    {
+      "id": "S019",
+      "reason": "Psychotherapy sits within the wider arrangements through which care is provided."
+    },
+    {
+      "id": "T099",
+      "reason": "Peer support offers a different relationship from professional treatment."
+    }
+  ],
+  "S021": [
+    {
+      "id": "S012",
+      "reason": "Law defines some of the recognized rights and obligations of marriage."
+    },
+    {
+      "id": "S026",
+      "reason": "Social norms influence what partners and families expect beyond formal rules."
+    },
+    {
+      "id": "S023",
+      "reason": "Ritual can publicly mark the relationship and its commitments."
+    },
+    {
+      "id": "S022",
+      "reason": "Adoption establishes another kind of recognized family relationship, with different purposes and safeguards."
+    }
+  ],
+  "S022": [
+    {
+      "id": "S012",
+      "reason": "Law gives the parent–child relationship formal standing and obligations."
+    },
+    {
+      "id": "S009",
+      "reason": "Some historical adult adoption arrangements supported continuity of family authority."
+    }
+  ],
+  "S023": [
+    {
+      "id": "T077",
+      "reason": "Rites of passage mark changes of status or life stage."
+    },
+    {
+      "id": "T078",
+      "reason": "Welcoming ceremonies give entry into a community a shared form."
+    },
+    {
+      "id": "T080",
+      "reason": "Commemorations give collective remembrance a recurring public form."
+    },
+    {
+      "id": "T076",
+      "reason": "Festival cycles give shared gathering and remembrance a recurring place in the calendar."
+    },
+    {
+      "id": "T329",
+      "reason": "Monastic orders place recurring religious practice within a continuing rule of communal life."
+    }
+  ],
+  "S024": [
+    {
+      "id": "T199",
+      "reason": "Public pledges make commitments visible; costly contributions can add consequences."
+    },
+    {
+      "id": "T227",
+      "reason": "Membership dues formalize a contribution, though equal amounts can impose unequal burdens."
+    },
+    {
+      "id": "S023",
+      "reason": "Ritual can give sacrifice a shared meaning beyond its material cost."
+    }
+  ],
+  "S025": [
+    {
+      "id": "T211",
+      "reason": "Markets connect an offer to people willing and able to exchange for it."
+    },
+    {
+      "id": "D026",
+      "reason": "Metric gaming can redirect effort toward attention counts instead of the quality of an offer."
+    }
+  ],
+  "S026": [
+    {
+      "id": "T281",
+      "reason": "Public appreciation can reinforce behavior a group values."
+    },
+    {
+      "id": "D022",
+      "reason": "Pluralistic ignorance can sustain a norm that many people privately oppose."
+    },
+    {
+      "id": "D030",
+      "reason": "Norm drift concerns gradual changes in what people expect and tolerate."
+    }
+  ],
+  "S027": [
+    {
+      "id": "T141",
+      "reason": "Circles with domains allocate responsibility within sociocratic arrangements."
+    },
+    {
+      "id": "T124",
+      "reason": "Consent decision-making works through relevant objections."
+    },
+    {
+      "id": "T142",
+      "reason": "Double linking carries information and representation between circles."
+    }
+  ],
+  "S028": [
+    {
+      "id": "T248",
+      "reason": "Community monitoring can provide information about shared-resource use."
+    },
+    {
+      "id": "T116",
+      "reason": "Subsidiarity addresses the level at which a decision should be made."
+    },
+    {
+      "id": "T245",
+      "reason": "Commons governance concerns the shared-resource problems that motivate many polycentric arrangements."
+    }
+  ],
+  "S029": [
+    {
+      "id": "T268",
+      "reason": "Open licensing establishes permissions while leaving governance to other arrangements."
+    },
+    {
+      "id": "T028",
+      "reason": "Peer review checks proposed work before it becomes part of a shared project."
+    },
+    {
+      "id": "T184",
+      "reason": "Forking provides an exit through a separate continuation of the work."
+    },
+    {
+      "id": "T183",
+      "reason": "Maintainer delegation distributes practical responsibility for a project."
+    }
+  ],
+  "S030": [
+    {
+      "id": "D001",
+      "reason": "Participation-based alignment concerns coordination emerging through shared activity."
+    },
+    {
+      "id": "D031",
+      "reason": "Network brokerage connects participants across otherwise separated groups."
+    },
+    {
+      "id": "D003",
+      "reason": "Informal authority describes influence that does not depend on an official role."
+    },
+    {
+      "id": "D002",
+      "reason": "Mutual recognition concerns how participants become visible and valued to one another."
+    }
+  ],
+  "S031": [
+    {
+      "id": "T101",
+      "reason": "Assemblies are the meetings through which assembly democracy exercises authority."
+    },
+    {
+      "id": "T148",
+      "reason": "Quorum rules set the attendance required for valid decisions."
+    },
+    {
+      "id": "S032",
+      "reason": "Assembly decisions can be a form of direct democracy."
+    },
+    {
+      "id": "T107",
+      "reason": "Referendums offer direct decisions without requiring a common meeting."
+    },
+    {
+      "id": "T149",
+      "reason": "Agenda-setting determines which proposals reach the assembly."
+    }
+  ],
+  "S032": [
+    {
+      "id": "T107",
+      "reason": "Referendums are one mechanism for direct decisions."
+    },
+    {
+      "id": "S031",
+      "reason": "Assembly democracy combines direct authority with deliberation in a meeting."
+    },
+    {
+      "id": "T149",
+      "reason": "Agenda-setting shapes a direct vote before the ballot is cast."
+    },
+    {
+      "id": "S033",
+      "reason": "Representative arrangements can prepare or complement direct decisions."
+    }
+  ],
+  "S033": [
+    {
+      "id": "T109",
+      "reason": "Elections select representatives and provide one route for replacing them."
+    },
+    {
+      "id": "T159",
+      "reason": "Public decision records make actions visible between elections."
+    },
+    {
+      "id": "T339",
+      "reason": "Lobbying creates organized routes for interests and knowledge to reach representatives."
+    },
+    {
+      "id": "D028",
+      "reason": "Principal-agent problems concern divergence between representatives and the people they act for."
+    }
+  ],
+  "D001": [
+    {
+      "id": "S030",
+      "reason": "Extitutional theory supplies the broader framework for participation-based alignment."
+    },
+    {
+      "id": "D007",
+      "reason": "Learning through participation explains how practice transmits context and judgment."
+    },
+    {
+      "id": "D002",
+      "reason": "Mutual recognition helps explain whose contributions become consequential in shared activity."
+    }
+  ],
+  "D002": [
+    {
+      "id": "T281",
+      "reason": "Public appreciation deliberately makes contributions visible."
+    },
+    {
+      "id": "D003",
+      "reason": "Recognition can develop into authority without an official appointment."
+    },
+    {
+      "id": "S030",
+      "reason": "Extitutional theory treats recognition as part of relational coordination."
+    }
+  ],
+  "D003": [
+    {
+      "id": "T036",
+      "reason": "Expert directories can make useful contacts accessible beyond a single gatekeeper."
+    },
+    {
+      "id": "D031",
+      "reason": "Network brokerage can confer influence through control over connections."
+    },
+    {
+      "id": "D004",
+      "reason": "Cliques can turn informal influence into exclusion."
+    }
+  ],
+  "D004": [
+    {
+      "id": "T159",
+      "reason": "Public decision records make consequential choices visible outside private circles."
+    },
+    {
+      "id": "T111",
+      "reason": "Nomination with reasons exposes the grounds for selecting someone."
+    },
+    {
+      "id": "D003",
+      "reason": "Informal authority explains why formal openness can coexist with concentrated influence."
+    }
+  ],
+  "D005": [
+    {
+      "id": "T267",
+      "reason": "Contracts specify commitments while relationships fill gaps in what can be written."
+    },
+    {
+      "id": "T211",
+      "reason": "Market exchange takes place within networks of trust and access."
+    },
+    {
+      "id": "T062",
+      "reason": "Introductions can open access to trading and professional networks."
+    }
+  ],
+  "D006": [
+    {
+      "id": "T098",
+      "reason": "Cross-community exchanges create settings where ties can bridge different circles."
+    },
+    {
+      "id": "D031",
+      "reason": "Network brokerage concerns the position connecting separated groups."
+    },
+    {
+      "id": "T062",
+      "reason": "Introductions by a connector make a bridging relationship actionable."
+    }
+  ],
+  "D007": [
+    {
+      "id": "T002",
+      "reason": "Apprenticeship deliberately organizes learning within practical work."
+    },
+    {
+      "id": "T296",
+      "reason": "Graduated responsibility gives learners increasing scope as their capability develops."
+    },
+    {
+      "id": "D008",
+      "reason": "Core and peripheral participation describes different levels of involvement and paths between them."
+    },
+    {
+      "id": "T004",
+      "reason": "Communities of practice provide a social setting for learning through shared work."
+    }
+  ],
+  "D008": [
+    {
+      "id": "D019",
+      "reason": "Volunteer burnout can result when core members cannot step back."
+    },
+    {
+      "id": "T296",
+      "reason": "Graduated responsibility can provide a path toward fuller participation."
+    },
+    {
+      "id": "D007",
+      "reason": "Learning through participation concerns what people acquire as their involvement develops."
+    }
+  ],
+  "D009": [
+    {
+      "id": "T176",
+      "reason": "Shared task boards provide a visible artifact through which contributions can coordinate."
+    },
+    {
+      "id": "T187",
+      "reason": "Protocols make signals in a shared artifact interpretable across participants."
+    },
+    {
+      "id": "T093",
+      "reason": "Notice-and-claim protocols let a person act on a visible need while avoiding duplication."
+    }
+  ],
+  "D010": [
+    {
+      "id": "T059",
+      "reason": "Cohort onboarding makes orientation a shared and more manageable process."
+    },
+    {
+      "id": "T019",
+      "reason": "Train-the-trainer expands the capacity to transmit a practice."
+    },
+    {
+      "id": "D011",
+      "reason": "Tacit knowledge dependence explains why a welcome document cannot transmit every aspect of a community."
+    }
+  ],
+  "D011": [
+    {
+      "id": "T188",
+      "reason": "Standard operating procedures preserve explicit steps while leaving some judgment tacit."
+    },
+    {
+      "id": "T295",
+      "reason": "Overlapping handovers let successors encounter judgment in the presence of the predecessor."
+    },
+    {
+      "id": "T001",
+      "reason": "Mentorship can transmit practical judgment through concrete experience and feedback."
+    }
+  ],
+  "D012": [
+    {
+      "id": "T028",
+      "reason": "Peer review requires actual knowledgeable judgment, not only the appearance of a review committee."
+    },
+    {
+      "id": "S023",
+      "reason": "A ritual may carry a function that is not obvious from its visible form."
+    },
+    {
+      "id": "D011",
+      "reason": "Tacit knowledge helps explain capabilities that cannot be copied from an organizational chart."
+    },
+    {
+      "id": "T331",
+      "reason": "Franchising formalizes replication through standards and support, illustrating why copying a name alone is insufficient."
+    }
+  ],
+  "D013": [
+    {
+      "id": "T293",
+      "reason": "Succession planning prepares people to carry consequential responsibilities."
+    },
+    {
+      "id": "D011",
+      "reason": "Tacit knowledge can remain concentrated in a founder despite documented procedures."
+    },
+    {
+      "id": "T115",
+      "reason": "Delegated authority must transfer decision rights, not just tasks."
+    },
+    {
+      "id": "T298",
+      "reason": "Founder transition agreements make the transfer of responsibility and authority explicit."
+    }
+  ],
+  "D014": [
+    {
+      "id": "T062",
+      "reason": "Introductions transmit opportunities through existing relationships."
+    },
+    {
+      "id": "T284",
+      "reason": "Merit-based selection cannot by itself undo unequal access before applications begin."
+    },
+    {
+      "id": "D006",
+      "reason": "Weak-tie bridges can connect circles with different backgrounds and information."
+    },
+    {
+      "id": "T074",
+      "reason": "Affinity groups deliberately gather people around a shared experience; homophily describes a wider pattern of similar ties."
+    }
+  ],
+  "D015": [
+    {
+      "id": "T267",
+      "reason": "Contracts make obligations explicit where reciprocity can leave them informal."
+    },
+    {
+      "id": "T218",
+      "reason": "Gift economies organize flows of help and resources without immediate equivalent payment."
+    },
+    {
+      "id": "T219",
+      "reason": "Reciprocal labor exchanges give ongoing mutual contributions a more explicit form."
+    }
+  ],
+  "D016": [
+    {
+      "id": "T089",
+      "reason": "Repair conversations make the harm and proposed repair discussable."
+    },
+    {
+      "id": "T088",
+      "reason": "Conflict coaching offers support in preparing for a difficult conversation without deciding its outcome."
+    }
+  ],
+  "D017": [
+    {
+      "id": "T191",
+      "reason": "Responsibility matrices distinguish who is expected to do which work."
+    },
+    {
+      "id": "T065",
+      "reason": "Mutual aid may intentionally provide benefits without requiring immediate reciprocity."
+    },
+    {
+      "id": "D018",
+      "reason": "Social loafing concerns reduced individual effort in groups and should not be assumed identical to free riding."
+    }
+  ],
+  "D018": [
+    {
+      "id": "T191",
+      "reason": "Responsibility matrices can expose ambiguities about who owns a task."
+    },
+    {
+      "id": "T209",
+      "reason": "What I Need From You makes dependencies between contributors concrete."
+    },
+    {
+      "id": "D017",
+      "reason": "Free riding concerns benefiting without contributing, a related but distinct mechanism."
+    }
+  ],
+  "D019": [
+    {
+      "id": "S024",
+      "reason": "Sacrifice can become an expectation that obscures the costs of continued participation."
+    },
+    {
+      "id": "T302",
+      "reason": "Backup ownership distributes the ability to keep essential work going."
+    },
+    {
+      "id": "T198",
+      "reason": "Time-boxed commitments make the end of a voluntary obligation explicit."
+    }
+  ],
+  "D020": [
+    {
+      "id": "D002",
+      "reason": "Mutual recognition concerns interactions through which standing is established."
+    },
+    {
+      "id": "T279",
+      "reason": "Awards deliberately select contributions and people for recognition."
+    },
+    {
+      "id": "T290",
+      "reason": "Blind review can reduce reliance on prior status when assessing a particular piece of work."
+    }
+  ],
+  "D021": [
+    {
+      "id": "T152",
+      "reason": "Anonymous ballots can reduce the exposure involved in expressing a dissenting preference."
+    },
+    {
+      "id": "D022",
+      "reason": "Pluralistic ignorance concerns misperception of others, distinct from concealing a known private preference."
+    },
+    {
+      "id": "D024",
+      "reason": "Groupthink directs attention to decision processes that suppress meaningful dissent."
+    }
+  ],
+  "D022": [
+    {
+      "id": "D021",
+      "reason": "Preference falsification concerns publicly expressing a preference different from the private one."
+    },
+    {
+      "id": "T152",
+      "reason": "Anonymous ballots provide one way to collect expressed preferences without a public show of hands."
+    },
+    {
+      "id": "S026",
+      "reason": "Social norms can persist through mistaken beliefs about others’ expectations."
+    }
+  ],
+  "D023": [
+    {
+      "id": "D014",
+      "reason": "Homophily can narrow the range of experience represented in a discussion."
+    },
+    {
+      "id": "T049",
+      "reason": "Red teams deliberately test a proposal with contrary arguments."
+    },
+    {
+      "id": "T309",
+      "reason": "Deliberative polling provides a structured setting for examining how informed discussion affects views."
+    }
+  ],
+  "D024": [
+    {
+      "id": "T034",
+      "reason": "Decision logs preserve the reasoning available before outcomes are known."
+    },
+    {
+      "id": "T049",
+      "reason": "Red teams give challenge an explicit role in a decision process."
+    },
+    {
+      "id": "T050",
+      "reason": "Premortems invite people to explain how a proposal could fail before commitment."
+    }
+  ],
+  "D025": [
+    {
+      "id": "T188",
+      "reason": "Standard operating procedures are useful means that can become ends in themselves."
+    },
+    {
+      "id": "T158",
+      "reason": "Policy review dates create a defined occasion to revisit a rule and its purpose."
+    },
+    {
+      "id": "S010",
+      "reason": "Bureaucratic arrangements illustrate both the benefits and risks of stable procedures."
+    }
+  ],
+  "D026": [
+    {
+      "id": "S010",
+      "reason": "Bureaucratic reporting can help oversight while creating costs and incentives of its own."
+    },
+    {
+      "id": "T324",
+      "reason": "Social audits bring affected people’s observations into scrutiny of reported results."
+    },
+    {
+      "id": "D025",
+      "reason": "Goal displacement describes the broader shift from an activity’s purpose to its proxy or procedure."
+    }
+  ],
+  "D027": [
+    {
+      "id": "T339",
+      "reason": "Lobbying supplies information and influence; capture is a possible distortion, not a synonym."
+    },
+    {
+      "id": "T153",
+      "reason": "Conflict-of-interest disclosure makes relevant dependencies visible."
+    },
+    {
+      "id": "T323",
+      "reason": "Freedom-of-information processes can expose records needed to scrutinize public decisions."
+    },
+    {
+      "id": "T322",
+      "reason": "Whistleblowing channels can surface internal evidence needed to investigate institutional capture."
+    }
+  ],
+  "D028": [
+    {
+      "id": "T115",
+      "reason": "Delegated authority gives someone scope to act on another’s behalf."
+    },
+    {
+      "id": "T267",
+      "reason": "Contracts specify obligations but cannot remove every unforeseen contingency."
+    },
+    {
+      "id": "S033",
+      "reason": "Representative democracy involves delegation among citizens, representatives, and officials."
+    },
+    {
+      "id": "D026",
+      "reason": "Metric gaming can arise when incentives reward a measurable proxy for the principal’s objective."
+    }
+  ],
+  "D029": [
+    {
+      "id": "T187",
+      "reason": "Protocols and interfaces can preserve compatibility during a transition."
+    },
+    {
+      "id": "T186",
+      "reason": "Standards bodies coordinate decisions whose value depends on shared adoption."
+    },
+    {
+      "id": "D012",
+      "reason": "Institutional imitation concerns copying forms; path dependence concerns how prior choices constrain change."
+    }
+  ],
+  "D030": [
+    {
+      "id": "S026",
+      "reason": "Social norms distinguish shared expectations from formal written rules."
+    },
+    {
+      "id": "T083",
+      "reason": "Community agreements state expectations that may diverge from everyday practice."
+    },
+    {
+      "id": "D010",
+      "reason": "Rapid growth can change who transmits expectations and how newcomers learn them."
+    }
+  ],
+  "D031": [
+    {
+      "id": "T062",
+      "reason": "Introductions by a connector turn a network position into a specific encounter."
+    },
+    {
+      "id": "T205",
+      "reason": "Boundary-spanning roles make translation and connection an explicit responsibility."
+    },
+    {
+      "id": "D006",
+      "reason": "Weak-tie bridges carry information between different circles."
+    }
+  ],
+  "D032": [
+    {
+      "id": "T099",
+      "reason": "Peer support groups can use boundaries to maintain a focused and safe setting."
+    },
+    {
+      "id": "T097",
+      "reason": "Confidentiality agreements make limits on sharing explicit."
+    },
+    {
+      "id": "T060",
+      "reason": "Membership curation deliberately sets and applies entry criteria."
+    },
+    {
+      "id": "D004",
+      "reason": "Cliques can make informal belonging more restrictive than the formal membership rules."
+    }
+  ]
+}

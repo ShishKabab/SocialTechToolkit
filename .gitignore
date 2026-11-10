@@ -1,0 +1,6 @@
+site/dist/
+site/.openai/
+/private
+.env
+.env.*
+!.env.example

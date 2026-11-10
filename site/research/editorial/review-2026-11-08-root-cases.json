@@ -1,0 +1,128 @@
+[
+  {
+    "id": "royal-society-journal",
+    "type": "case",
+    "title": "The Royal Society: a journal outlives its founder",
+    "changed": true,
+    "findings": "Introduced Oldenburg and the journal; removed an instruction to collect comparison cases from public gaps and explained the uncertainty about prestige."
+  },
+  {
+    "id": "lysenko-scientific-authority",
+    "type": "case",
+    "title": "Lysenkoism: when authority can overrule evidence",
+    "changed": true,
+    "findings": "Removed the unrelated famine verification note and archival-reading diary; retained the distinction between changing doctrine and rebuilding institutions."
+  },
+  {
+    "id": "manhattan-project-coordination",
+    "type": "case",
+    "title": "The Manhattan Project: coordination at enormous human cost",
+    "changed": true,
+    "findings": "Removed GFT narration and scope disclaimers; connected authority, resources, and displacement directly without treating mission achievement as public benefit."
+  },
+  {
+    "id": "apollo-coalition",
+    "type": "case",
+    "title": "Apollo: a clear goal still needed a coalition",
+    "changed": true,
+    "findings": "Replaced descriptions of historians’ arguments with the coalition and contracting arrangements; removed unintroduced later-decline dispute."
+  },
+  {
+    "id": "challenger-escalation",
+    "type": "case",
+    "title": "Challenger: warnings that did not reach the decision",
+    "changed": true,
+    "findings": "Removed GFT decline narration, generic anti-bureaucracy rebuttal, and research to-dos; kept concrete limits on causal interpretation."
+  },
+  {
+    "id": "nasa-cots-partnership",
+    "type": "case",
+    "title": "COTS: public capability helps build private capability",
+    "changed": true,
+    "findings": "Removed source-access diary and government-versus-founder rebuttal; described demonstrations, termination, and financing directly."
+  },
+  {
+    "id": "roman-adoptive-succession",
+    "type": "case",
+    "title": "Roman adoption: an heir is also a political alliance",
+    "changed": true,
+    "findings": "Removed GFT/Gibbon comparisons and an unintroduced detour into Trajan; made the restricted successor pool and political support the subject."
+  },
+  {
+    "id": "tetrarchy-succession",
+    "type": "case",
+    "title": "The Tetrarchy: a succession design that needed its designer",
+    "changed": true,
+    "findings": "Removed a GFT hypothesis presented as an observation and replaced the monograph-reading note with the unresolved succession mechanism."
+  },
+  {
+    "id": "botswana-succession-alternation",
+    "type": "case",
+    "title": "Botswana: continuity also survives an opposition victory",
+    "changed": true,
+    "findings": "Introduced the opposition handover directly; removed an argument with GFT’s monarchy analogy and vague references to a development study."
+  },
+  {
+    "id": "japanese-adopted-heirs",
+    "type": "case",
+    "title": "Japanese adopted heirs: succession beyond the bloodline",
+    "changed": true,
+    "findings": "Kept research attribution where results depend on studies, but removed caricatured universal claims and internal requests to read tables."
+  },
+  {
+    "id": "confucian-transmission",
+    "type": "case",
+    "title": "Confucian transmission: preserving a tradition by changing it",
+    "changed": true,
+    "findings": "Removed the book-summary frame and unintroduced disputed authorship claims; explained transmission, reinterpretation, and uncertainty about origins directly."
+  },
+  {
+    "id": "lds-mission-training-retention",
+    "type": "case",
+    "title": "Latter-day Saint missions: recruitment is not retention",
+    "changed": true,
+    "findings": "Removed reviewed-source narration and source-access diary; introduced centralized administration and kept retention distinct from recruitment."
+  },
+  {
+    "id": "protestant-literacy-prussia",
+    "type": "case",
+    "title": "Protestant literacy: competing explanations for prosperity",
+    "changed": true,
+    "findings": "Removed GFT narration and research-workflow instructions; retained the specific disagreement between literacy/prosperity and city-growth findings."
+  },
+  {
+    "id": "fogbank-knowledge-loss",
+    "type": "case",
+    "title": "FOGBANK: documentation is not a living capability",
+    "changed": true,
+    "findings": "Removed GFT narration, comparison to an unintroduced ten-year claim, and a duplicate report presented as a separate observation; kept the nontechnical capability-loss account."
+  },
+  {
+    "id": "bell-labs-compulsory-licensing",
+    "type": "case",
+    "title": "Bell Labs: discovery and diffusion need different arrangements",
+    "changed": true,
+    "findings": "Replaced source-description and replication-package notes with the distinction between patent access, market entry, and continuing research investment."
+  },
+  {
+    "id": "xerox-parc-spinoffs",
+    "type": "case",
+    "title": "Xerox PARC: invention needs a route into the world",
+    "changed": true,
+    "findings": "Removed a rebuttal to the unintroduced myth that Xerox commercialized nothing and the source-shopping instructions; kept retrospective uncertainty relevant to the business decisions."
+  },
+  {
+    "id": "nummi-learning-transfer",
+    "type": "case",
+    "title": "NUMMI: changing the work changed the culture",
+    "changed": true,
+    "findings": "Kept participant attribution for performance reports, but removed abstract-access commentary and the generic demand for more sources."
+  },
+  {
+    "id": "surgical-checklists-implementation",
+    "type": "case",
+    "title": "Surgical checklists: a form is not an implementation",
+    "changed": true,
+    "findings": "Retained the differing study outcomes and design limits; removed clinical-scope boilerplate and instructions to conduct another literature review."
+  }
+]

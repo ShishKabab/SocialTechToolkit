@@ -1,0 +1,10 @@
+{
+  "name": "social-tech-toolkit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "test": "node --test tests/search.test.mjs && python3 -m unittest discover -s tests -p \"test_*.py\" && python3 scripts/check.py",
+    "dev": "python3 -m http.server 4173 --directory dist"
+  }
+}

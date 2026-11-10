@@ -1,0 +1,3122 @@
+{
+  "GFT": {
+    "text": "**GFT — Samo Burja, Great Founder Theory (2020 manuscript).** User-supplied PDF, read as extracted text. Original page outlines retain chapter and page references. [Author's manuscript page](https://samoburja.com/gft/). Theory and historical argument; illustrative applications here are editorial.",
+    "links": [
+      {
+        "title": "Author's manuscript page",
+        "url": "https://samoburja.com/gft/"
+      }
+    ]
+  },
+  "EXT": {
+    "text": "**EXT — Extitutional theory.** [Project's explanation](https://extitutions.org/about); [Schingler and De Filippi's introduction](https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53); [De Filippi and Santolini paper abstract](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4001721). The full paper was not accessible in this research pass; claims here are limited to the introduction and abstract. Do not portray extitutions as inherently egalitarian or as the opposite of institutions.",
+    "links": [
+      {
+        "title": "Project's explanation",
+        "url": "https://extitutions.org/about"
+      },
+      {
+        "title": "Schingler and De Filippi's introduction",
+        "url": "https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53"
+      },
+      {
+        "title": "De Filippi and Santolini paper abstract",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4001721"
+      }
+    ]
+  },
+  "SN-D": {
+    "text": "**SN-D — Supernuclear, [Group Decision Making in Coliving](https://supernuclear.substack.com/p/group-decision-making-in-coliving).** Practitioner comparison of authority and agreement requirements. Detailed definitions of decision rules need their own references.",
+    "links": [
+      {
+        "title": "Group Decision Making in Coliving",
+        "url": "https://supernuclear.substack.com/p/group-decision-making-in-coliving"
+      }
+    ]
+  },
+  "SN-P": {
+    "text": "**SN-P — Supernuclear, [Rules vs. Principles](https://supernuclear.substack.com/p/rules-vs-principles).** Practitioner discussion of principles, initiative, and shared living.",
+    "links": [
+      {
+        "title": "Rules vs. Principles",
+        "url": "https://supernuclear.substack.com/p/rules-vs-principles"
+      }
+    ]
+  },
+  "SN-S": {
+    "text": "**SN-S — Supernuclear, [Stoop Coffee](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed).** A recurring neighborhood gathering and relationship-building account.",
+    "links": [
+      {
+        "title": "Stoop Coffee",
+        "url": "https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed"
+      }
+    ]
+  },
+  "SN-C": {
+    "text": "**SN-C — Supernuclear, [11 Strategies for Keeping Your Coliving Space Clean](https://supernuclear.substack.com/p/11-strategies-for-keeping-your-coliving).** Household experiments concerning objects, chores, and recognition.",
+    "links": [
+      {
+        "title": "11 Strategies for Keeping Your Coliving Space Clean",
+        "url": "https://supernuclear.substack.com/p/11-strategies-for-keeping-your-coliving"
+      }
+    ]
+  },
+  "SN-W": {
+    "text": "**SN-W — Supernuclear, [Why It's Worth Having a Community Wiki](https://supernuclear.substack.com/p/why-its-worth-having-a-community).** Documentation and onboarding practices; distinguish public information from private resident records.",
+    "links": [
+      {
+        "title": "Why It's Worth Having a Community Wiki",
+        "url": "https://supernuclear.substack.com/p/why-its-worth-having-a-community"
+      }
+    ]
+  },
+  "SN-L": {
+    "text": "**SN-L — Supernuclear, [How to Host Lightning Talks](https://supernuclear.substack.com/p/how-to-host-lightning-talks).** Practical hosting account.",
+    "links": [
+      {
+        "title": "How to Host Lightning Talks",
+        "url": "https://supernuclear.substack.com/p/how-to-host-lightning-talks"
+      }
+    ]
+  },
+  "BSC": {
+    "text": "**BSC — Ryan Fleury, [The Magic of the Better Software Conference](https://www.dgtlgrove.com/p/the-magic-of-the-better-software), January 2026.** First-person account of a 2025 event. The inventory abstracts event-design possibilities; the article does not establish a universal law of inevitable institutional decline.",
+    "links": [
+      {
+        "title": "The Magic of the Better Software Conference",
+        "url": "https://www.dgtlgrove.com/p/the-magic-of-the-better-software"
+      }
+    ]
+  },
+  "COP": {
+    "text": "**COP — Wenger-Trayner, [Introduction to communities of practice](https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf), and [forms of participation](https://blogarchive.wenger-trayner.com/2011/12/29/slide-forms-of-participation/).** Conceptual resources on shared practice and varying involvement.",
+    "links": [
+      {
+        "title": "Introduction to communities of practice",
+        "url": "https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf"
+      },
+      {
+        "title": "forms of participation",
+        "url": "https://blogarchive.wenger-trayner.com/2011/12/29/slide-forms-of-participation/"
+      }
+    ]
+  },
+  "S3": {
+    "text": "**S3 — [Sociocracy 3.0 pattern index](https://patterns.sociocracy30.org/pattern-index.html).** Practitioner collection. Links to individual patterns are the next source layer for page drafting; preserve distinctions between consent, voting, and consensus. Pattern names and brief summaries here are discovery aids, not a reproduction of the guide.",
+    "links": [
+      {
+        "title": "Sociocracy 3.0 pattern index",
+        "url": "https://patterns.sociocracy30.org/pattern-index.html"
+      }
+    ]
+  },
+  "LS": {
+    "text": "**LS — [Liberating Structures menu](https://www.liberatingstructures.com/ls-menu-1).** Named facilitation methods. Consult the individual protocols for steps, timing, and attribution before publishing instructions. The live menu includes additions beyond the original repertoire.",
+    "links": [
+      {
+        "title": "Liberating Structures menu",
+        "url": "https://www.liberatingstructures.com/ls-menu-1"
+      }
+    ]
+  },
+  "WC": {
+    "text": "**WC — [The World Café method](https://theworldcafe.com/key-concepts-resources/world-cafe-method/).** Originating community's description of rotating small-group dialogue and shared harvesting.",
+    "links": [
+      {
+        "title": "The World Café method",
+        "url": "https://theworldcafe.com/key-concepts-resources/world-cafe-method/"
+      }
+    ]
+  },
+  "OS": {
+    "text": "**OS — Open Space World, [brief user's guide](https://openspaceworld.org/wp2/hho/papers/brief-users-guide-open-space-technology/).** Participant-generated agendas and freedom to move between sessions.",
+    "links": [
+      {
+        "title": "brief user's guide",
+        "url": "https://openspaceworld.org/wp2/hho/papers/brief-users-guide-open-space-technology/"
+      }
+    ]
+  },
+  "ADV": {
+    "text": "**ADV — Reinventing Organizations Wiki, [decision making](https://reinventingorganizationswiki.com/en/theory/decision-making/).** Practitioner description of the advice process. Using the process does not require accepting the site's broader developmental theory.",
+    "links": [
+      {
+        "title": "decision making",
+        "url": "https://reinventingorganizationswiki.com/en/theory/decision-making/"
+      }
+    ]
+  },
+  "IETF": {
+    "text": "**IETF — [RFC 7282: On Consensus and Humming in the IETF](https://datatracker.ietf.org/doc/html/rfc7282).** Explains why rough consensus concerns substantive issues rather than simple vote counting.",
+    "links": [
+      {
+        "title": "RFC 7282: On Consensus and Humming in the IETF",
+        "url": "https://datatracker.ietf.org/doc/html/rfc7282"
+      }
+    ]
+  },
+  "OSS": {
+    "text": "**OSS — [Open Source Guides: Leadership and Governance](https://opensource.guide/leadership-and-governance/).** Contributor roles and governance models. Roles and actual powers vary by project.",
+    "links": [
+      {
+        "title": "Open Source Guides: Leadership and Governance",
+        "url": "https://opensource.guide/leadership-and-governance/"
+      }
+    ]
+  },
+  "OSI": {
+    "text": "**OSI — [Open Source Definition](https://opensource.org/osd).** Primary definition of software licensing requirements. Open-source licensing alone does not entail participatory project governance. Open licensing beyond software needs domain-specific references.",
+    "links": [
+      {
+        "title": "Open Source Definition",
+        "url": "https://opensource.org/osd"
+      }
+    ]
+  },
+  "PY": {
+    "text": "**PY — [Python PEP 13](https://peps.python.org/pep-0013/).** Primary governance specification. Python is a steering-council example; its BDFL era is historical.",
+    "links": [
+      {
+        "title": "Python PEP 13",
+        "url": "https://peps.python.org/pep-0013/"
+      }
+    ]
+  },
+  "OECD": {
+    "text": "**OECD — [Innovative Citizen Participation and New Democratic Institutions](https://www.oecd.org/en/publications/2020/06/innovative-citizen-participation-and-new-democratic-institutions_11aa2baf.html), and [Guidelines for Citizen Participation Processes](https://doi.org/10.1787/f765caf6-en).** Comparative models and participation guidance. Recruitment, authority, and decision rules must be specified separately.",
+    "links": [
+      {
+        "title": "Innovative Citizen Participation and New Democratic Institutions",
+        "url": "https://www.oecd.org/en/publications/2020/06/innovative-citizen-participation-and-new-democratic-institutions_11aa2baf.html"
+      },
+      {
+        "title": "Guidelines for Citizen Participation Processes",
+        "url": "https://doi.org/10.1787/f765caf6-en"
+      }
+    ]
+  },
+  "PB": {
+    "text": "**PB — [Participatory Budgeting Project](https://www.participatorybudgeting.org/), with its [implementation handbook](https://pbhandbook.participatorybudgeting.org/).** Practitioner resources on community involvement in public budget allocation.",
+    "links": [
+      {
+        "title": "Participatory Budgeting Project",
+        "url": "https://www.participatorybudgeting.org/"
+      },
+      {
+        "title": "implementation handbook",
+        "url": "https://pbhandbook.participatorybudgeting.org/"
+      }
+    ]
+  },
+  "ECON": {
+    "text": "**ECON — IMF, [What Is Capitalism?](https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/capitalism).** Introductory economic account, useful for separating markets from the wider system. Broader comparisons require additional perspectives.",
+    "links": [
+      {
+        "title": "What Is Capitalism?",
+        "url": "https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/capitalism"
+      }
+    ]
+  },
+  "HAIER": {
+    "text": "**HAIER — London Business School, [The Haier Cases (C)](https://publishing.london.edu/cases/the-haier-cases-c/).** Published case overview concerning Haier's internal microenterprises. Only the public overview was used, not the full teaching case; avoid unsupported performance claims.",
+    "links": [
+      {
+        "title": "The Haier Cases (C)",
+        "url": "https://publishing.london.edu/cases/the-haier-cases-c/"
+      }
+    ]
+  },
+  "ICA": {
+    "text": "**ICA — International Cooperative Alliance, [cooperative identity, values and principles](https://www.ica.coop/en/cooperatives/cooperative-identity/).** Supports the shared ownership and democratic-control baseline. Individual cooperative forms need more detailed case sources.",
+    "links": [
+      {
+        "title": "cooperative identity, values and principles",
+        "url": "https://www.ica.coop/en/cooperatives/cooperative-identity/"
+      }
+    ]
+  },
+  "OST": {
+    "text": "**OST — Elinor Ostrom, [Nobel lecture landing page](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/) and [interview on commons research](https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/164465-ostrom-williamson-interview-transcript/).** The interview emphasizes contextual variation. The lecture PDF could not be fetched; the decomposed commons patterns remain research leads, not a fully verified summary of that lecture.",
+    "links": [
+      {
+        "title": "Nobel lecture landing page",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/lecture/"
+      },
+      {
+        "title": "interview on commons research",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/164465-ostrom-williamson-interview-transcript/"
+      }
+    ]
+  },
+  "CLT": {
+    "text": "**CLT — Community Land Trust Network, [What is a Community Land Trust?](https://www.communitylandtrusts.org.uk/about-clts/what-is-a-community-land-trust-clt/).** Practitioner definition and related community-led housing forms. Specific legal arrangements vary by jurisdiction.",
+    "links": [
+      {
+        "title": "What is a Community Land Trust?",
+        "url": "https://www.communitylandtrusts.org.uk/about-clts/what-is-a-community-land-trust-clt/"
+      }
+    ]
+  },
+  "TIME": {
+    "text": "**TIME — [TimeBanks.org](https://www.timebanks.org/).** Practitioner network and discovery source; detailed accounting, reciprocity, and governance rules require a specific timebank's documentation.",
+    "links": [
+      {
+        "title": "TimeBanks.org",
+        "url": "https://www.timebanks.org/"
+      }
+    ]
+  },
+  "RJC": {
+    "text": "**RJC — Restorative Justice Council, [what restorative justice is](https://restorativejustice.org.uk/what-restorative-justice) and [principles of restorative practice](https://restorativejustice.org.uk/sites/default/files/resources/files/Principles%20of%20restorative%20practice%20-%20FINAL%2012.11.15.pdf).** Voluntary participation, preparation, and participant safety are integral, not optional add-ons.",
+    "links": [
+      {
+        "title": "what restorative justice is",
+        "url": "https://restorativejustice.org.uk/what-restorative-justice"
+      },
+      {
+        "title": "principles of restorative practice",
+        "url": "https://restorativejustice.org.uk/sites/default/files/resources/files/Principles%20of%20restorative%20practice%20-%20FINAL%2012.11.15.pdf"
+      }
+    ]
+  },
+  "ARC": {
+    "text": "**ARC — International Council on Archives, [What are archives?](https://www.ica.org/discover-archives/what-are-archives/).** Records, provenance, context, and interpretation.",
+    "links": [
+      {
+        "title": "What are archives?",
+        "url": "https://www.ica.org/discover-archives/what-are-archives/"
+      }
+    ]
+  },
+  "FREEMAN": {
+    "text": "**FREEMAN — Jo Freeman, [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm).** Analysis of informal power and accountability; an argument to examine, not a guarantee that formal structure solves exclusion.",
+    "links": [
+      {
+        "title": "The Tyranny of Structurelessness",
+        "url": "https://www.jofreeman.com/joreen/tyranny.htm"
+      }
+    ]
+  },
+  "EMBED": {
+    "text": "**EMBED — Mark Granovetter, [Economic Action and Social Structure: The Problem of Embeddedness](https://sociology.stanford.edu/publications/economic-action-and-social-structure-problem-embeddedness).** Research publication record and abstract.",
+    "links": [
+      {
+        "title": "Economic Action and Social Structure: The Problem of Embeddedness",
+        "url": "https://sociology.stanford.edu/publications/economic-action-and-social-structure-problem-embeddedness"
+      }
+    ]
+  },
+  "TIES": {
+    "text": "**TIES — Mark Granovetter, [The Strength of Weak Ties](https://sociology.stanford.edu/publications/strength-weak-ties).** Research publication record and abstract; avoid interpreting every weak tie as a useful bridge.",
+    "links": [
+      {
+        "title": "The Strength of Weak Ties",
+        "url": "https://sociology.stanford.edu/publications/strength-weak-ties"
+      }
+    ]
+  },
+  "STIG": {
+    "text": "**STIG — [Stigmergy in Open Collaboration](https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2229119).** Research on coordination through shared artifacts; abstract/excerpts used, not a full evidence review.",
+    "links": [
+      {
+        "title": "Stigmergy in Open Collaboration",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2229119"
+      }
+    ]
+  },
+  "ILO": {
+    "text": "**ILO — International Labour Organization, [What is collective bargaining?](https://www.ilo.org/resource/what-collective-bargaining) and [business and collective bargaining](https://www.ilo.org/resource/other/ilo-helpdesk-business-and-collective-bargaining).** Institutional definitions of worker representation and negotiated employment conditions. The entries explain mechanisms, not jurisdiction-specific legal advice.",
+    "links": [
+      {
+        "title": "What is collective bargaining?",
+        "url": "https://www.ilo.org/resource/what-collective-bargaining"
+      },
+      {
+        "title": "business and collective bargaining",
+        "url": "https://www.ilo.org/resource/other/ilo-helpdesk-business-and-collective-bargaining"
+      }
+    ]
+  },
+  "ILO-A": {
+    "text": "**ILO-A — [Quality Apprenticeships Recommendation, 2023 (No. 208)](https://www.ilo.org/resource/other/ilc/111/recommendation-concerning-quality-apprenticeships) and [policymaker guide](https://www.ilo.org/publications/guide-policymakers-quality-apprenticeships-recommendation-2023-no-208).** Adds a contemporary institutional definition to the broader historical concept: structured learning, agreed responsibilities, compensation, and recognized qualifications.",
+    "links": [
+      {
+        "title": "Quality Apprenticeships Recommendation, 2023 (No. 208)",
+        "url": "https://www.ilo.org/resource/other/ilc/111/recommendation-concerning-quality-apprenticeships"
+      },
+      {
+        "title": "policymaker guide",
+        "url": "https://www.ilo.org/publications/guide-policymakers-quality-apprenticeships-recommendation-2023-no-208"
+      }
+    ]
+  },
+  "SEEDS": {
+    "text": "**SEEDS — Seeds for Change, [Consensus Decision Making](https://www.seedsforchange.org.uk/consensus).** Practitioner guide distinguishing support, reservations, standing aside, and blocking. Different groups adopt different rules; consensus is not automatically identical to unanimity.",
+    "links": [
+      {
+        "title": "Consensus Decision Making",
+        "url": "https://www.seedsforchange.org.uk/consensus"
+      }
+    ]
+  },
+  "DEM": {
+    "text": "**DEM — UK Parliament, [Referendum](https://www.parliament.uk/site-information/glossary/referendum/) and [How it works: Types of Democracy](https://www.parliament.uk/globalassets/about-parliament/how-parliament-works/accessible-resources/how-it-works-e-text-accessible.pdf).** Institutional explanations of direct and representative decision-making. Assembly democracy is an editorial navigation category for the convened, collectively authoritative arrangement; it is not presented as a third mutually exclusive constitutional type.",
+    "links": [
+      {
+        "title": "Referendum",
+        "url": "https://www.parliament.uk/site-information/glossary/referendum/"
+      },
+      {
+        "title": "How it works: Types of Democracy",
+        "url": "https://www.parliament.uk/globalassets/about-parliament/how-parliament-works/accessible-resources/how-it-works-e-text-accessible.pdf"
+      }
+    ]
+  },
+  "ATH": {
+    "text": "**ATH — [Democracy and Participation in Athens](https://www.cambridge.org/core/books/democracy-and-participation-in-athens/087DFD98C944977C46BD9416AED9BA3E/listing); [From the Whole Citizen Body? The Sociology of Election and Lot in the Athenian Democracy](https://www.ascsa.edu.gr/uploads/media/hesperia/25068022.pdf); and [UK Parliament research briefing, introductory democracy discussion](https://researchbriefings.files.parliament.uk/documents/RP14-25/RP14-25.pdf).** Public summaries and indexed excerpts used for this outline, not a full reading of the book or papers. Full historical pages need period-specific primary passages and scholarship, especially for eligibility, attendance, and the distribution of authority.",
+    "links": [
+      {
+        "title": "Democracy and Participation in Athens",
+        "url": "https://www.cambridge.org/core/books/democracy-and-participation-in-athens/087DFD98C944977C46BD9416AED9BA3E/listing"
+      },
+      {
+        "title": "From the Whole Citizen Body? The Sociology of Election and Lot in the Athenian Democracy",
+        "url": "https://www.ascsa.edu.gr/uploads/media/hesperia/25068022.pdf"
+      },
+      {
+        "title": "UK Parliament research briefing, introductory democracy discussion",
+        "url": "https://researchbriefings.files.parliament.uk/documents/RP14-25/RP14-25.pdf"
+      }
+    ]
+  },
+  "NIH-M": {
+    "text": "**NIH-M — NIH Office of Intramural Research, [Guidelines for Mentors at NIH](https://oir.nih.gov/sourcebook/mentoring-training/guidelines-mentors-nih).** Institutional guidance on regular interaction, feedback, development, and introductions. Organizational applications outside research are illustrative adaptations, not evaluated outcomes.",
+    "links": [
+      {
+        "title": "Guidelines for Mentors at NIH",
+        "url": "https://oir.nih.gov/sourcebook/mentoring-training/guidelines-mentors-nih"
+      }
+    ]
+  },
+  "ARIST": {
+    "text": "**ARIST — Stanford Encyclopedia of Philosophy, [Aristotle’s Political Theory](https://plato.stanford.edu/entries/aristotle-politics/).** Explains the classical distinction between rule by a few for the common advantage and rule for their own advantage. Historical institutions and modern uses of the term require contextual distinctions.",
+    "links": [
+      {
+        "title": "Aristotle’s Political Theory",
+        "url": "https://plato.stanford.edu/entries/aristotle-politics/"
+      }
+    ]
+  },
+  "MERIT": {
+    "text": "**MERIT — Stanford Encyclopedia of Philosophy, [Meritocracy](https://plato.stanford.edu/entries/meritocracy/) and [Equality of Opportunity](https://plato.stanford.edu/entries/equal-opportunity/).** Discusses merit as a principle of allocation, its relationship to opportunity, and competing interpretations.",
+    "links": [
+      {
+        "title": "Meritocracy",
+        "url": "https://plato.stanford.edu/entries/meritocracy/"
+      },
+      {
+        "title": "Equality of Opportunity",
+        "url": "https://plato.stanford.edu/entries/equal-opportunity/"
+      }
+    ]
+  },
+  "R-T003": {
+    "text": "**R-T003 — Peer learning circles.** [Facilitating Peer Learning](https://docs.p2pu.org/facilitation/facilitation-basics) — Peer 2 Peer University. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Facilitating Peer Learning",
+        "url": "https://docs.p2pu.org/facilitation/facilitation-basics"
+      }
+    ]
+  },
+  "R-T005": {
+    "text": "**R-T005 — Study groups.** [Supporting Student Well-Being with Peer-Led Study Groups](https://teaching.cornell.edu/teaching-spotlight/provosts-working-group-innovation-assessment/supporting-student-well-being-peer) — Cornell University. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Supporting Student Well-Being with Peer-Led Study Groups",
+        "url": "https://teaching.cornell.edu/teaching-spotlight/provosts-working-group-innovation-assessment/supporting-student-well-being-peer"
+      }
+    ]
+  },
+  "R-T006": {
+    "text": "**R-T006 — Journal clubs.** [Journal Club Leader Toolkit 2024](https://www.training.nih.gov/documents/31/Journal_Club_Leader_Toolkit_2024_508checked.pdf) — National Institutes of Health. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Journal Club Leader Toolkit 2024",
+        "url": "https://www.training.nih.gov/documents/31/Journal_Club_Leader_Toolkit_2024_508checked.pdf"
+      }
+    ]
+  },
+  "R-T007": {
+    "text": "**R-T007 — Socratic seminars.** [Socratic Seminars](https://www.readwritethink.org/professional-development/strategy-guides/socratic-seminars) — ReadWriteThink / NCTE. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Socratic Seminars",
+        "url": "https://www.readwritethink.org/professional-development/strategy-guides/socratic-seminars"
+      }
+    ]
+  },
+  "R-T008": {
+    "text": "**R-T008 — Teach-back.** [Teach-back](https://www.ahrq.gov/patient-safety/reports/engage/interventions/teachback.html) — Agency for Healthcare Research and Quality. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Teach-back",
+        "url": "https://www.ahrq.gov/patient-safety/reports/engage/interventions/teachback.html"
+      }
+    ]
+  },
+  "R-T009": {
+    "text": "**R-T009 — Peer instruction.** [Incorporating Short Peer Discussion Activities for In-Class Collaborative Learning](https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/collaborative-learning/incorporating-short-peer) — Cornell University. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "Incorporating Short Peer Discussion Activities for In-Class Collaborative Learning",
+        "url": "https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/collaborative-learning/incorporating-short-peer"
+      }
+    ]
+  },
+  "R-T010": {
+    "text": "**R-T010 — Deliberate practice with feedback.** [The Role of Deliberate Practice in the Acquisition of Expert Performance](https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf) — Psychological Review / Ericsson, Krampe and Tesch-Römer. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Role of Deliberate Practice in the Acquisition of Expert Performance",
+        "url": "https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf"
+      }
+    ]
+  },
+  "R-T011": {
+    "text": "**R-T011 — Job shadowing.** [Federal Leadership Development Programs: Shadowing Assignments](https://www.opm.gov/policy-data-oversight/training-and-development/federal-leadership-development-programs/) — US Office of Personnel Management. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Federal Leadership Development Programs: Shadowing Assignments",
+        "url": "https://www.opm.gov/policy-data-oversight/training-and-development/federal-leadership-development-programs/"
+      }
+    ]
+  },
+  "R-T012": {
+    "text": "**R-T012 — Job rotation.** [Federal Supervisory and Managerial Frameworks and Guidance](https://www.opm.gov/policy-data-oversight/training-and-development/training-program-management/federal-supervisory-and-managerial-frameworks-and-guidance.pdf) — US Office of Personnel Management. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Federal Supervisory and Managerial Frameworks and Guidance",
+        "url": "https://www.opm.gov/policy-data-oversight/training-and-development/training-program-management/federal-supervisory-and-managerial-frameworks-and-guidance.pdf"
+      }
+    ]
+  },
+  "R-T013": {
+    "text": "**R-T013 — Cross-training.** [Creating Patient-Centered Team-Based Primary Care](https://ce.effectivehealthcare.ahrq.gov/sites/default/files/wysiwyg/ncepcr/tools/PCMH/creating-patient-centered-team-based-primary-care-white-paper.pdf) — Agency for Healthcare Research and Quality. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Creating Patient-Centered Team-Based Primary Care",
+        "url": "https://ce.effectivehealthcare.ahrq.gov/sites/default/files/wysiwyg/ncepcr/tools/PCMH/creating-patient-centered-team-based-primary-care-white-paper.pdf"
+      }
+    ]
+  },
+  "R-T014": {
+    "text": "**R-T014 — Office hours.** [Universal Design for Learning: Office Hours](https://teaching.cornell.edu/teaching-resources/inclusion-belonging-accessibility/universal-design-learning) — Cornell University. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Universal Design for Learning: Office Hours",
+        "url": "https://teaching.cornell.edu/teaching-resources/inclusion-belonging-accessibility/universal-design-learning"
+      }
+    ]
+  },
+  "R-T015": {
+    "text": "**R-T015 — Ask-me-anything sessions.** [New Ways To AMA](https://redditinc.com/news/new-ways-to-ama?version=published) — Reddit. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "New Ways To AMA",
+        "url": "https://redditinc.com/news/new-ways-to-ama?version=published"
+      }
+    ]
+  },
+  "R-T017": {
+    "text": "**R-T017 — Show-and-tell sessions.** [Agile Tools and Techniques](https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques) — UK Government Digital Service. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Agile Tools and Techniques",
+        "url": "https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques"
+      }
+    ]
+  },
+  "R-T018": {
+    "text": "**R-T018 — Workshops.** [Instructors Handbook](https://docs.carpentries.org/handbooks/instructors.html) — The Carpentries. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "Instructors Handbook",
+        "url": "https://docs.carpentries.org/handbooks/instructors.html"
+      }
+    ]
+  },
+  "R-T019": {
+    "text": "**R-T019 — Train-the-trainer.** [Understanding the Training of Trainers Model](https://www.cdc.gov/healthy-schools-training/php/tot/) — US Centers for Disease Control and Prevention. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Understanding the Training of Trainers Model",
+        "url": "https://www.cdc.gov/healthy-schools-training/php/tot/"
+      }
+    ]
+  },
+  "R-T020": {
+    "text": "**R-T020 — Learning cohorts.** [Cohort Faculty Development](https://cte.tamu.edu/programming/cohorts-faculty-dev.html) — Texas A&M University. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Cohort Faculty Development",
+        "url": "https://cte.tamu.edu/programming/cohorts-faculty-dev.html"
+      }
+    ]
+  },
+  "R-T021": {
+    "text": "**R-T021 — Reading salons.** [Shared Reading FAQs](https://www.thereader.org.uk/shared-reading/shared-reading-faqs/) — The Reader. practitioner method; access: page.",
+    "links": [
+      {
+        "title": "Shared Reading FAQs",
+        "url": "https://www.thereader.org.uk/shared-reading/shared-reading-faqs/"
+      }
+    ]
+  },
+  "R-T022": {
+    "text": "**R-T022 — Oral history.** [Oral History Best Practices](https://oralhistory.org/wp-content/uploads/2025/12/2025-OHA-PrinciplesBP_Best-Practices.pdf) — Oral History Association. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Oral History Best Practices",
+        "url": "https://oralhistory.org/wp-content/uploads/2025/12/2025-OHA-PrinciplesBP_Best-Practices.pdf"
+      }
+    ]
+  },
+  "R-T023": {
+    "text": "**R-T023 — Storytelling.** [Storytelling: Story Dialogue Technique](https://www.betterevaluation.org/sites/default/files/Toolkit_2014.pdf) — BetterEvaluation (hosted toolkit). practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Storytelling: Story Dialogue Technique",
+        "url": "https://www.betterevaluation.org/sites/default/files/Toolkit_2014.pdf"
+      }
+    ]
+  },
+  "R-T024": {
+    "text": "**R-T024 — Case-method discussion.** [Teaching by the Case Method](https://www.hbs.edu/teaching/case-method) — Harvard Business School. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Teaching by the Case Method",
+        "url": "https://www.hbs.edu/teaching/case-method"
+      }
+    ]
+  },
+  "R-T025": {
+    "text": "**R-T025 — Simulation exercises.** [WHO Simulation Exercise Manual](https://www.who.int/publications/i/item/WHO-WHE-CPI-2017.10) — World Health Organization. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "WHO Simulation Exercise Manual",
+        "url": "https://www.who.int/publications/i/item/WHO-WHE-CPI-2017.10"
+      }
+    ]
+  },
+  "R-T026": {
+    "text": "**R-T026 — After-action reviews.** [Guidance for After Action Review](https://www.who.int/publications/i/item/WHO-WHE-CPI-2019.4) — World Health Organization. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Guidance for After Action Review",
+        "url": "https://www.who.int/publications/i/item/WHO-WHE-CPI-2019.4"
+      }
+    ]
+  },
+  "R-T028": {
+    "text": "**R-T028 — Peer review of work.** [Peer Assessment](https://teaching.cornell.edu/teaching-resources/assessing-student-learning/peer-assessment) — Cornell University. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Peer Assessment",
+        "url": "https://teaching.cornell.edu/teaching-resources/assessing-student-learning/peer-assessment"
+      }
+    ]
+  },
+  "R-T029": {
+    "text": "**R-T029 — Replication.** [Transparency and Openness Promotion Guidelines](https://www.cos.io/initiatives/top-guidelines) — Center for Open Science. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Transparency and Openness Promotion Guidelines",
+        "url": "https://www.cos.io/initiatives/top-guidelines"
+      }
+    ]
+  },
+  "R-T030": {
+    "text": "**R-T030 — Preregistration.** [Preregistration](https://www.cos.io/initiatives/prereg) — Center for Open Science. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Preregistration",
+        "url": "https://www.cos.io/initiatives/prereg"
+      }
+    ]
+  },
+  "R-T031": {
+    "text": "**R-T031 — Open notebooks.** [Jean-Claude Bradley: Open Notebook Science](https://istcolloq.gsfc.nasa.gov/jean-claude-bradley/) — NASA Goddard Space Flight Center. research paper; access: abstract.",
+    "links": [
+      {
+        "title": "Jean-Claude Bradley: Open Notebook Science",
+        "url": "https://istcolloq.gsfc.nasa.gov/jean-claude-bradley/"
+      }
+    ]
+  },
+  "R-T035": {
+    "text": "**R-T035 — Knowledge maps.** [Understanding Knowledge Mapping](https://www.apqc.org/resource-library/resource/understanding-knowledge-mapping-0) — APQC. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Understanding Knowledge Mapping",
+        "url": "https://www.apqc.org/resource-library/resource/understanding-knowledge-mapping-0"
+      }
+    ]
+  },
+  "R-T036": {
+    "text": "**R-T036 — Expert directories.** [Understanding Expertise Location](https://www.apqc.org/resource-library/resource/understanding-expertise-location-0) — APQC. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Understanding Expertise Location",
+        "url": "https://www.apqc.org/resource-library/resource/understanding-expertise-location-0"
+      }
+    ]
+  },
+  "R-T037": {
+    "text": "**R-T037 — Open educational resources.** [Open Educational Resources](https://www.unesco.org/en/open-educational-resources?hub=370) — UNESCO. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Open Educational Resources",
+        "url": "https://www.unesco.org/en/open-educational-resources?hub=370"
+      }
+    ]
+  },
+  "R-T038": {
+    "text": "**R-T038 — Translation networks.** [Join the TWB Community](https://translatorswithoutborders.org/join-the-twb-community/) — Translators without Borders. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Join the TWB Community",
+        "url": "https://translatorswithoutborders.org/join-the-twb-community/"
+      }
+    ]
+  },
+  "R-T039": {
+    "text": "**R-T039 — Libraries.** [IFLA-UNESCO Public Library Manifesto](https://www.ifla.org/public-library-manifesto/) — International Federation of Library Associations and Institutions / UNESCO. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "IFLA-UNESCO Public Library Manifesto",
+        "url": "https://www.ifla.org/public-library-manifesto/"
+      }
+    ]
+  },
+  "R-T044": {
+    "text": "**R-T044 — Fishbowl discussion.** [Communities Care: Training Facilitators](https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf) — UNICEF. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Communities Care: Training Facilitators",
+        "url": "https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf"
+      }
+    ]
+  },
+  "R-T047": {
+    "text": "**R-T047 — Unconferences.** [Unconferencing: How to Prepare to Attend an Unconference](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/) — Unconference.net / Kaliya. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Unconferencing: How to Prepare to Attend an Unconference",
+        "url": "https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/"
+      }
+    ]
+  },
+  "R-T048": {
+    "text": "**R-T048 — Delphi process.** [Methodological Guidance for Conducting and Critically Appraising Delphi Panels](https://www.rand.org/content/dam/rand/pubs/tools/TLA3000/TLA3082-1/RAND_TLA3082-1.pdf) — RAND. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Methodological Guidance for Conducting and Critically Appraising Delphi Panels",
+        "url": "https://www.rand.org/content/dam/rand/pubs/tools/TLA3000/TLA3082-1/RAND_TLA3082-1.pdf"
+      }
+    ]
+  },
+  "R-T049": {
+    "text": "**R-T049 — Red teams.** [A Guide to Red Teaming](https://www.gov.uk/government/publications/a-guide-to-red-teaming) — UK Ministry of Defence. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "A Guide to Red Teaming",
+        "url": "https://www.gov.uk/government/publications/a-guide-to-red-teaming"
+      }
+    ]
+  },
+  "R-T050": {
+    "text": "**R-T050 — Premortems.** [Premortem](https://www.gary-klein.com/premortem) — Gary Klein. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Premortem",
+        "url": "https://www.gary-klein.com/premortem"
+      }
+    ]
+  },
+  "R-T307": {
+    "text": "**R-T307 — Citizen science.** [Citizen Science Toolkit: How To](https://www.citizenscience.gov/toolkit/howto/) — US Federal Government CitizenScience.gov. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Citizen Science Toolkit: How To",
+        "url": "https://www.citizenscience.gov/toolkit/howto/"
+      }
+    ]
+  },
+  "R-T308": {
+    "text": "**R-T308 — Participatory mapping.** [Good Practices in Participatory Mapping](https://www.ifad.org/documents/38714170/39144386/PM_web.pdf/7c1eda69-8205-4c31-8912-3c25d6f90055) — International Fund for Agricultural Development. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Good Practices in Participatory Mapping",
+        "url": "https://www.ifad.org/documents/38714170/39144386/PM_web.pdf/7c1eda69-8205-4c31-8912-3c25d6f90055"
+      }
+    ]
+  },
+  "R-T309": {
+    "text": "**R-T309 — Deliberative polling.** [What Is Deliberative Polling?](https://deliberation.stanford.edu/what-deliberative-pollingr) — Stanford Deliberative Democracy Lab. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "What Is Deliberative Polling?",
+        "url": "https://deliberation.stanford.edu/what-deliberative-pollingr"
+      }
+    ]
+  },
+  "R-T310": {
+    "text": "**R-T310 — Knowledge fairs.** [The Art of Knowledge Exchange: Knowledge Fair](https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf) — World Bank. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Art of Knowledge Exchange: Knowledge Fair",
+        "url": "https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf"
+      }
+    ]
+  },
+  "R-T053": {
+    "text": "**R-T053 — Potlucks.** [Food Safety and Service: Hosting a Potluck](https://4-h-volunteer.extension.umn.edu/keep-youth-safe/policies-practices/food) — University of Minnesota Extension. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Food Safety and Service: Hosting a Potluck",
+        "url": "https://4-h-volunteer.extension.umn.edu/keep-youth-safe/policies-practices/food"
+      }
+    ]
+  },
+  "R-T057": {
+    "text": "**R-T057 — Hospitality hosting.** [Information for Hosts](https://servas.org/information-hosts) — Servas International. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Information for Hosts",
+        "url": "https://servas.org/information-hosts"
+      }
+    ]
+  },
+  "R-T058": {
+    "text": "**R-T058 — Buddy systems.** [Planning an Induction Programme](https://www.acas.org.uk/inductions/planning-an-induction-programme) — Acas. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Planning an Induction Programme",
+        "url": "https://www.acas.org.uk/inductions/planning-an-induction-programme"
+      }
+    ]
+  },
+  "R-T061": {
+    "text": "**R-T061 — Trial membership.** [Apple Tree House: How to Join](https://www.ic.org/directory/community/apple-tree-house/) — Foundation for Intentional Community / Apple Tree House. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Apple Tree House: How to Join",
+        "url": "https://www.ic.org/directory/community/apple-tree-house/"
+      }
+    ]
+  },
+  "R-T062": {
+    "text": "**R-T062 — Introductions by a connector.** [Organizing for Effective Advocacy: Introductions](https://ctb.ku.edu/en/book/export/html/994) — University of Kansas Community Tool Box. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Organizing for Effective Advocacy: Introductions",
+        "url": "https://ctb.ku.edu/en/book/export/html/994"
+      }
+    ]
+  },
+  "R-T064": {
+    "text": "**R-T064 — Listening pairs.** [Active Listening](https://www.seedsforchange.org.uk/downloads/activelistening.pdf) — Seeds for Change. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Active Listening",
+        "url": "https://www.seedsforchange.org.uk/downloads/activelistening.pdf"
+      }
+    ]
+  },
+  "R-T065": {
+    "text": "**R-T065 — Mutual aid networks.** [Solidarity Not Charity: Mutual Aid for Mobilization and Survival](https://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf) — Dean Spade / Social Text. research paper; access: page.",
+    "links": [
+      {
+        "title": "Solidarity Not Charity: Mutual Aid for Mobilization and Survival",
+        "url": "https://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf"
+      }
+    ]
+  },
+  "R-T066": {
+    "text": "**R-T066 — Care circles.** [Circles of Support](https://cosam.org.au/wp-content/uploads/2018/11/Circles-of-Support-brochure-for-web.pdf) — Inclusion Melbourne / National Resource Centre for Circles of Support and Microboards. practitioner method; access: page.",
+    "links": [
+      {
+        "title": "Circles of Support",
+        "url": "https://cosam.org.au/wp-content/uploads/2018/11/Circles-of-Support-brochure-for-web.pdf"
+      }
+    ]
+  },
+  "R-T067": {
+    "text": "**R-T067 — Meal trains.** [Meal Train Sign-Up: How It Works](https://www.mealtrain.com/content/file/Meal-Train-sign-up.pdf) — Meal Train. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Meal Train Sign-Up: How It Works",
+        "url": "https://www.mealtrain.com/content/file/Meal-Train-sign-up.pdf"
+      }
+    ]
+  },
+  "R-T068": {
+    "text": "**R-T068 — Childcare exchanges.** [Bringing Families Together: A Guide to Parent Cooperatives](https://cccd.coop/sites/default/files/resources/bft_1.pdf) — California Center for Cooperative Development. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Bringing Families Together: A Guide to Parent Cooperatives",
+        "url": "https://cccd.coop/sites/default/files/resources/bft_1.pdf"
+      }
+    ]
+  },
+  "R-T069": {
+    "text": "**R-T069 — Neighborhood associations.** [How to Organize a Neighborhood Association](https://www.orlando.gov/Our-Government/Get-Involved/iLead-Neighborhood-Leadership-Training/iLead-Guides/How-to-Organize-a-Neighborhood-Association) — City of Orlando. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "How to Organize a Neighborhood Association",
+        "url": "https://www.orlando.gov/Our-Government/Get-Involved/iLead-Neighborhood-Leadership-Training/iLead-Guides/How-to-Organize-a-Neighborhood-Association"
+      }
+    ]
+  },
+  "R-T072": {
+    "text": "**R-T072 — Third places.** [Third Places, True Citizen Spaces](https://www.unesco.org/en/articles/third-places-true-citizen-spaces) — UNESCO / Ray Oldenburg and Karen Christensen. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Third Places, True Citizen Spaces",
+        "url": "https://www.unesco.org/en/articles/third-places-true-citizen-spaces"
+      }
+    ]
+  },
+  "R-T073": {
+    "text": "**R-T073 — Clubs.** [Writing Bylaws: Membership](https://ctb.ku.edu/en/table-of-contents/structure/organizational-structure/write-bylaws/main) — University of Kansas Community Tool Box. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Writing Bylaws: Membership",
+        "url": "https://ctb.ku.edu/en/table-of-contents/structure/organizational-structure/write-bylaws/main"
+      }
+    ]
+  },
+  "R-T074": {
+    "text": "**R-T074 — Affinity groups.** [Affinity Groups](https://seedsforchange.org.uk/affinitygroups) — Seeds for Change. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Affinity Groups",
+        "url": "https://seedsforchange.org.uk/affinitygroups"
+      }
+    ]
+  },
+  "R-T075": {
+    "text": "**R-T075 — Alumni networks.** [Harvard Alumni Association Shared Interest Group FAQ](https://www.alumni.harvard.edu/sites/default/files/page/content/HAA%20SIG%20FAQ%202023_July.pdf) — Harvard Alumni Association. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Harvard Alumni Association Shared Interest Group FAQ",
+        "url": "https://www.alumni.harvard.edu/sites/default/files/page/content/HAA%20SIG%20FAQ%202023_July.pdf"
+      }
+    ]
+  },
+  "R-T076": {
+    "text": "**R-T076 — Festival cycles.** [Maltese Village Festa, an Annual Community Celebration](https://ich.unesco.org/en/RL/maltese-village-festa-an-annual-community-celebration-01871) — UNESCO Intangible Cultural Heritage. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "Maltese Village Festa, an Annual Community Celebration",
+        "url": "https://ich.unesco.org/en/RL/maltese-village-festa-an-annual-community-celebration-01871"
+      }
+    ]
+  },
+  "R-T077": {
+    "text": "**R-T077 — Rites of passage.** [Rituals of Transition and Conformity](https://openstax.org/books/introduction-anthropology/pages/13-4-rituals-of-transition-and-conformity) — OpenStax. reference; access: page.",
+    "links": [
+      {
+        "title": "Rituals of Transition and Conformity",
+        "url": "https://openstax.org/books/introduction-anthropology/pages/13-4-rituals-of-transition-and-conformity"
+      }
+    ]
+  },
+  "R-T078": {
+    "text": "**R-T078 — Welcoming ceremonies.** [Naturalization: What to Expect](https://my.uscis.gov/citizenship/what_to_expect) — US Citizenship and Immigration Services. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "Naturalization: What to Expect",
+        "url": "https://my.uscis.gov/citizenship/what_to_expect"
+      }
+    ]
+  },
+  "R-T079": {
+    "text": "**R-T079 — Farewell rituals.** [Celebrating Good-Bye: Functional Components in Farewell Parties for Retiring Employees in Israel](https://cris.tau.ac.il/en/publications/celebrating-good-bye-functional-components-in-farewell-parties-fo/) — Tel Aviv University research portal. research paper; access: abstract.",
+    "links": [
+      {
+        "title": "Celebrating Good-Bye: Functional Components in Farewell Parties for Retiring Employees in Israel",
+        "url": "https://cris.tau.ac.il/en/publications/celebrating-good-bye-functional-components-in-farewell-parties-fo/"
+      }
+    ]
+  },
+  "R-T080": {
+    "text": "**R-T080 — Commemorations.** [About the War Memorials Register](https://memorials.iwm.org.uk/about-wmr) — Imperial War Museums. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "About the War Memorials Register",
+        "url": "https://memorials.iwm.org.uk/about-wmr"
+      }
+    ]
+  },
+  "R-T081": {
+    "text": "**R-T081 — Shared symbols.** [Symbolic and Sacred Space](https://openstax.org/books/introduction-anthropology/pages/13-2-symbolic-and-sacred-space) — OpenStax. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Symbolic and Sacred Space",
+        "url": "https://openstax.org/books/introduction-anthropology/pages/13-2-symbolic-and-sacred-space"
+      }
+    ]
+  },
+  "R-T082": {
+    "text": "**R-T082 — Origin stories.** [Narrative Memory Work of Employees in Family Businesses: How Founding Stories Shape Organizational Identification](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/27095/Baluch_2023_FBR_Narrativememory_AAM.pdf?sequence=1) — Family Business Review / Hoon, Brinkmann and Baluch; accepted manuscript at University of St Andrews. research paper; access: page.",
+    "links": [
+      {
+        "title": "Narrative Memory Work of Employees in Family Businesses: How Founding Stories Shape Organizational Identification",
+        "url": "https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/27095/Baluch_2023_FBR_Narrativememory_AAM.pdf?sequence=1"
+      }
+    ]
+  },
+  "R-T083": {
+    "text": "**R-T083 — Community agreements.** [A Consensus Handbook: Drawing Up a Group Agreement](https://www.seedsforchange.org.uk/downloads/handbookweb.pdf) — Seeds for Change. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "A Consensus Handbook: Drawing Up a Group Agreement",
+        "url": "https://www.seedsforchange.org.uk/downloads/handbookweb.pdf"
+      }
+    ]
+  },
+  "R-T084": {
+    "text": "**R-T084 — Codes of conduct.** [Adopt Contributor Covenant](https://www.contributor-covenant.org/adopt/) — Contributor Covenant. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Adopt Contributor Covenant",
+        "url": "https://www.contributor-covenant.org/adopt/"
+      }
+    ]
+  },
+  "R-T086": {
+    "text": "**R-T086 — Mediation.** [How Acas Mediators Work](https://www.acas.org.uk/acas-mediation-support/how-acas-mediators-work) — Acas. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "How Acas Mediators Work",
+        "url": "https://www.acas.org.uk/acas-mediation-support/how-acas-mediators-work"
+      }
+    ]
+  },
+  "R-T088": {
+    "text": "**R-T088 — Conflict coaching.** [Conflict Coaching](https://ombuds.columbia.edu/content/conflict-coaching) — Columbia University Ombuds Office. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Conflict Coaching",
+        "url": "https://ombuds.columbia.edu/content/conflict-coaching"
+      }
+    ]
+  },
+  "R-T089": {
+    "text": "**R-T089 — Repair conversations.** [Restorative Questions](https://www.iirp.edu/images/2024/K12_Resources/IIRP_Restorative_Questions.pdf) — International Institute for Restorative Practices. practitioner method; access: page.",
+    "links": [
+      {
+        "title": "Restorative Questions",
+        "url": "https://www.iirp.edu/images/2024/K12_Resources/IIRP_Restorative_Questions.pdf"
+      }
+    ]
+  },
+  "R-T090": {
+    "text": "**R-T090 — Community moderation.** [Discourse Moderation Guide: Managing Content](https://meta.discourse.org/t/discourse-moderation-guide-part-3-managing-content/406266?tl=en) — Discourse. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Discourse Moderation Guide: Managing Content",
+        "url": "https://meta.discourse.org/t/discourse-moderation-guide-part-3-managing-content/406266?tl=en"
+      }
+    ]
+  },
+  "R-T091": {
+    "text": "**R-T091 — Guest policies.** [Common House Use Handbook](https://www.cohousing.org/wp-content/uploads/2021/05/Common-House-Use-Handbook-edit-11-15-2018.pdf) — Cohousing Association of the United States (hosted community handbook). practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Common House Use Handbook",
+        "url": "https://www.cohousing.org/wp-content/uploads/2021/05/Common-House-Use-Handbook-edit-11-15-2018.pdf"
+      }
+    ]
+  },
+  "R-T092": {
+    "text": "**R-T092 — Chore rotations.** [Irish House: Community Expectations](https://www.ic.org/directory/community/irish-house/) — Foundation for Intentional Community / Irish House. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Irish House: Community Expectations",
+        "url": "https://www.ic.org/directory/community/irish-house/"
+      }
+    ]
+  },
+  "R-T095": {
+    "text": "**R-T095 — Participation stipends.** [Citizens’ Assembly Frequently Asked Questions: Northern Ireland Edition](https://www.involve.org.uk/resource/frequently-asked-questions-citizens-assembly-ni-edition) — Involve. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Citizens’ Assembly Frequently Asked Questions: Northern Ireland Edition",
+        "url": "https://www.involve.org.uk/resource/frequently-asked-questions-citizens-assembly-ni-edition"
+      }
+    ]
+  },
+  "R-T096": {
+    "text": "**R-T096 — Accessibility arrangements.** [Making Events Accessible](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) — World Wide Web Consortium Web Accessibility Initiative. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Making Events Accessible",
+        "url": "https://www.w3.org/WAI/teach-advocate/accessible-presentations/"
+      }
+    ]
+  },
+  "R-T097": {
+    "text": "**R-T097 — Confidentiality agreements.** [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) — Chatham House. practitioner method; access: page.",
+    "links": [
+      {
+        "title": "Chatham House Rule",
+        "url": "https://www.chathamhouse.org/about-us/chatham-house-rule"
+      }
+    ]
+  },
+  "R-T098": {
+    "text": "**R-T098 — Cross-community exchanges.** [The Art of Knowledge Exchange: Study Tour](https://documents1.worldbank.org/curated/en/168121553671926460/pdf/The-Art-of-Knowledge-Exchange-A-Results-Focused-Planning-Guide-for-Climate-Change-Practitioners.pdf) — World Bank. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Art of Knowledge Exchange: Study Tour",
+        "url": "https://documents1.worldbank.org/curated/en/168121553671926460/pdf/The-Art-of-Knowledge-Exchange-A-Results-Focused-Planning-Guide-for-Climate-Change-Practitioners.pdf"
+      }
+    ]
+  },
+  "R-T099": {
+    "text": "**R-T099 — Peer support groups.** [Creating and Facilitating Peer Support Groups](https://ctb.ku.edu/en/table-of-contents/implement/enhancing-support/peer-support-groups/main) — University of Kansas Community Tool Box. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "Creating and Facilitating Peer Support Groups",
+        "url": "https://ctb.ku.edu/en/table-of-contents/implement/enhancing-support/peer-support-groups/main"
+      }
+    ]
+  },
+  "R-T311": {
+    "text": "**R-T311 — Congregations.** [National Congregations Study Cumulative Codebook](https://sites.duke.edu/ncsweb/files/2020/09/NCS-I-IV-Cumulative-Codebook_FINAL_8Sept2020.pdf) — Duke University National Congregations Study. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "National Congregations Study Cumulative Codebook",
+        "url": "https://sites.duke.edu/ncsweb/files/2020/09/NCS-I-IV-Cumulative-Codebook_FINAL_8Sept2020.pdf"
+      }
+    ]
+  },
+  "R-T312": {
+    "text": "**R-T312 — Pilgrimage.** [Pilgrimage to the St. Thaddeus Apostle Monastery](https://ich.unesco.org/en/RL/pilgrimage-to-the-st-thaddeus-apostle-monastery-01571?RL=01571) — UNESCO Intangible Cultural Heritage. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "Pilgrimage to the St. Thaddeus Apostle Monastery",
+        "url": "https://ich.unesco.org/en/RL/pilgrimage-to-the-st-thaddeus-apostle-monastery-01571?RL=01571"
+      }
+    ]
+  },
+  "R-T313": {
+    "text": "**R-T313 — Mutual-benefit societies.** [English Poor Laws: Friendly Societies](https://eh.net/encyclopedia/english-poor-laws/) — Economic History Association / EH.net. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "English Poor Laws: Friendly Societies",
+        "url": "https://eh.net/encyclopedia/english-poor-laws/"
+      }
+    ]
+  },
+  "R-T314": {
+    "text": "**R-T314 — Community sponsorship of newcomers.** [Sponsorship Programmes for Refugees](https://help.unhcr.org/global/sponsorship-programmes-for-refugees/) — UN Refugee Agency. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "Sponsorship Programmes for Refugees",
+        "url": "https://help.unhcr.org/global/sponsorship-programmes-for-refugees/"
+      }
+    ]
+  },
+  "R-T104": {
+    "text": "**R-T104 — Town halls.** [Conducting Public Forums and Listening Sessions](https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-public-forums/main) — University of Kansas Community Tool Box. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Conducting Public Forums and Listening Sessions",
+        "url": "https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-public-forums/main"
+      }
+    ]
+  },
+  "R-T106": {
+    "text": "**R-T106 — Petitions.** [How petitions work](https://petition.parliament.uk/help) — UK Parliament. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "How petitions work",
+        "url": "https://petition.parliament.uk/help"
+      }
+    ]
+  },
+  "R-T107": {
+    "text": "**R-T107 — Referendums.** [Referendum](https://www.parliament.uk/site-information/glossary/referendum/) — UK Parliament. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Referendum",
+        "url": "https://www.parliament.uk/site-information/glossary/referendum/"
+      }
+    ]
+  },
+  "R-T109": {
+    "text": "**R-T109 — Elections.** [Electoral Systems](https://aceproject.org/ero-en/misc/idea-2018international-obligations-for-elections) — International IDEA / ACE Electoral Knowledge Network. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Electoral Systems",
+        "url": "https://aceproject.org/ero-en/misc/idea-2018international-obligations-for-elections"
+      }
+    ]
+  },
+  "R-T110": {
+    "text": "**R-T110 — Appointment.** [Governance Code on Public Appointments](https://www.gov.uk/government/publications/governance-code-for-public-appointments/governance-code-on-public-appointments-html) — UK Cabinet Office. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Governance Code on Public Appointments",
+        "url": "https://www.gov.uk/government/publications/governance-code-for-public-appointments/governance-code-on-public-appointments-html"
+      }
+    ]
+  },
+  "R-T112": {
+    "text": "**R-T112 — Term limits.** [Constitution Annotated: Twenty-Second Amendment](https://constitution.congress.gov/static/files/GPO-CONAN-2024-SUPP.pdf) — Library of Congress. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Constitution Annotated: Twenty-Second Amendment",
+        "url": "https://constitution.congress.gov/static/files/GPO-CONAN-2024-SUPP.pdf"
+      }
+    ]
+  },
+  "R-T113": {
+    "text": "**R-T113 — Rotating chairmanship.** [The presidency of the Council of the EU](https://www.consilium.europa.eu/en/council-eu/presidency-council-eu/) — Council of the European Union. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "The presidency of the Council of the EU",
+        "url": "https://www.consilium.europa.eu/en/council-eu/presidency-council-eu/"
+      }
+    ]
+  },
+  "R-T114": {
+    "text": "**R-T114 — Recall procedures.** [Recall of State Officials](https://www.ncsl.org/elections-and-campaigns/recall-of-state-officials) — National Conference of State Legislatures. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Recall of State Officials",
+        "url": "https://www.ncsl.org/elections-and-campaigns/recall-of-state-officials"
+      }
+    ]
+  },
+  "R-T115": {
+    "text": "**R-T115 — Delegated authority.** [Domains and Delegation](https://patterns.sociocracy30.org/domain.html) — Sociocracy 3.0. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Domains and Delegation",
+        "url": "https://patterns.sociocracy30.org/domain.html"
+      }
+    ]
+  },
+  "R-T116": {
+    "text": "**R-T116 — Subsidiarity.** [Principle of subsidiarity](https://eur-lex.europa.eu/EN/legal-content/glossary/principle-of-subsidiarity.html) — European Union EUR-Lex. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Principle of subsidiarity",
+        "url": "https://eur-lex.europa.eu/EN/legal-content/glossary/principle-of-subsidiarity.html"
+      }
+    ]
+  },
+  "R-T119": {
+    "text": "**R-T119 — Majority voting.** [Frequently Asked Questions](https://robertsrules.com/frequently-asked-questions/) — Robert's Rules Association. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Frequently Asked Questions",
+        "url": "https://robertsrules.com/frequently-asked-questions/"
+      }
+    ]
+  },
+  "R-T120": {
+    "text": "**R-T120 — Plurality voting.** [First Past the Post](https://aceproject.org/ace-en/topics/es/ese/ese01/ese01a) — ACE Electoral Knowledge Network. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "First Past the Post",
+        "url": "https://aceproject.org/ace-en/topics/es/ese/ese01/ese01a"
+      }
+    ]
+  },
+  "R-T121": {
+    "text": "**R-T121 — Supermajority voting.** [About Voting](https://www.senate.gov/about/powers-procedures/voting.htm) — United States Senate. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "About Voting",
+        "url": "https://www.senate.gov/about/powers-procedures/voting.htm"
+      }
+    ]
+  },
+  "R-T122": {
+    "text": "**R-T122 — Unanimity.** [How does the Council vote?](https://www.consilium.europa.eu/en/council-eu/how-does-the-council-vote/) — Council of the European Union. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "How does the Council vote?",
+        "url": "https://www.consilium.europa.eu/en/council-eu/how-does-the-council-vote/"
+      }
+    ]
+  },
+  "R-T127": {
+    "text": "**R-T127 — Approval voting.** [What is Approval Voting?](https://electionscience.org/education/approval-voting) — Center for Election Science. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "What is Approval Voting?",
+        "url": "https://electionscience.org/education/approval-voting"
+      }
+    ]
+  },
+  "R-T128": {
+    "text": "**R-T128 — Ranked-choice voting.** [Ranked Choice Voting](https://portal.311.nyc.gov/article/?kanumber=KA-03692) — New York City 311. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Ranked Choice Voting",
+        "url": "https://portal.311.nyc.gov/article/?kanumber=KA-03692"
+      }
+    ]
+  },
+  "R-T129": {
+    "text": "**R-T129 — Score voting.** [A proposal for British Columbia](https://rangevoting.org/BC2018.html) — Center for Range Voting. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "A proposal for British Columbia",
+        "url": "https://rangevoting.org/BC2018.html"
+      }
+    ]
+  },
+  "R-T130": {
+    "text": "**R-T130 — Dot voting.** [Dot Voting](https://gamestorming.com/dot-voting/) — Gamestorming. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Dot Voting",
+        "url": "https://gamestorming.com/dot-voting/"
+      }
+    ]
+  },
+  "R-T131": {
+    "text": "**R-T131 — Quadratic voting.** [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](https://www.aeaweb.org/articles?id=10.1257/pandp.20181002) — American Economic Association. research paper; access: abstract.",
+    "links": [
+      {
+        "title": "Quadratic Voting: How Mechanism Design Can Radicalize Democracy",
+        "url": "https://www.aeaweb.org/articles?id=10.1257/pandp.20181002"
+      }
+    ]
+  },
+  "R-T132": {
+    "text": "**R-T132 — Liquid democracy.** [Power in Liquid Democracy: A Network Centrality Approach](https://arxiv.org/abs/2608.13188) — arXiv / Grossi and colleagues. research paper; access: abstract.",
+    "links": [
+      {
+        "title": "Power in Liquid Democracy: A Network Centrality Approach",
+        "url": "https://arxiv.org/abs/2608.13188"
+      }
+    ]
+  },
+  "R-T133": {
+    "text": "**R-T133 — Proxy voting.** [Apply for a proxy vote](https://www.gov.uk/apply-proxy-vote) — UK Government. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Apply for a proxy vote",
+        "url": "https://www.gov.uk/apply-proxy-vote"
+      }
+    ]
+  },
+  "R-T134": {
+    "text": "**R-T134 — Delegation poker.** [Delegation Poker](https://management30.com/practice/delegation-poker/) — Management 3.0. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Delegation Poker",
+        "url": "https://management30.com/practice/delegation-poker/"
+      }
+    ]
+  },
+  "R-T139": {
+    "text": "**R-T139 — Boards of trustees.** [The essential trustee](https://www.gov.uk/government/publications/the-essential-trustee-what-you-need-to-know-what-you-need-to-do-cc3/the-essential-trustee-what-you-need-to-know-what-you-need-to-do) — Charity Commission for England and Wales. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "The essential trustee",
+        "url": "https://www.gov.uk/government/publications/the-essential-trustee-what-you-need-to-know-what-you-need-to-do-cc3/the-essential-trustee-what-you-need-to-know-what-you-need-to-do"
+      }
+    ]
+  },
+  "R-T140": {
+    "text": "**R-T140 — Worker councils.** [Greece: Actors and institutions](https://www.eurofound.europa.eu/en/countries/greece/actors-and-institutions) — Eurofound. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Greece: Actors and institutions",
+        "url": "https://www.eurofound.europa.eu/en/countries/greece/actors-and-institutions"
+      }
+    ]
+  },
+  "R-T143": {
+    "text": "**R-T143 — Federations.** [What is Federalism?](https://www.forumfed.org/what-is-federalism/) — Forum of Federations. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "What is Federalism?",
+        "url": "https://www.forumfed.org/what-is-federalism/"
+      }
+    ]
+  },
+  "R-T144": {
+    "text": "**R-T144 — Confederations.** [Articles of Confederation (1777)](https://www.archives.gov/milestone-documents/articles-of-confederation) — United States National Archives. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "Articles of Confederation (1777)",
+        "url": "https://www.archives.gov/milestone-documents/articles-of-confederation"
+      }
+    ]
+  },
+  "R-T145": {
+    "text": "**R-T145 — Separation of powers.** [Understanding Federal Courts: The Basics](https://ord.uscourts.gov/index.php/court-info/about-the-judiciary) — US District Court for the District of Oregon. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Understanding Federal Courts: The Basics",
+        "url": "https://ord.uscourts.gov/index.php/court-info/about-the-judiciary"
+      }
+    ]
+  },
+  "R-T146": {
+    "text": "**R-T146 — Constitutions and charters.** [What is a Constitution? Principles and Concepts](https://www.idea.int/publications/catalogue/what-is-a-constitution) — International IDEA. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "What is a Constitution? Principles and Concepts",
+        "url": "https://www.idea.int/publications/catalogue/what-is-a-constitution"
+      }
+    ]
+  },
+  "R-T148": {
+    "text": "**R-T148 — Quorum rules.** [Frequently Asked Questions](https://robertsrules.com/frequently-asked-questions/) — Robert's Rules Association. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Frequently Asked Questions",
+        "url": "https://robertsrules.com/frequently-asked-questions/"
+      }
+    ]
+  },
+  "R-T149": {
+    "text": "**R-T149 — Agenda-setting procedures.** [Facilitating Meetings](https://seedsforchange.org.uk/downloads/facilitationmeeting.pdf) — Seeds for Change. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Facilitating Meetings",
+        "url": "https://seedsforchange.org.uk/downloads/facilitationmeeting.pdf"
+      }
+    ]
+  },
+  "R-T150": {
+    "text": "**R-T150 — Speaking queues.** [Facilitation Tools for meetings and workshops](https://www.seedsforchange.org.uk/tools) — Seeds for Change. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Facilitation Tools for meetings and workshops",
+        "url": "https://www.seedsforchange.org.uk/tools"
+      }
+    ]
+  },
+  "R-T152": {
+    "text": "**R-T152 — Anonymous ballots.** [Secrecy of the Vote](https://aceproject.org/ace-es/topics/ei_new/eif/eif09/eif09a?set_language=en) — ACE Electoral Knowledge Network. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Secrecy of the Vote",
+        "url": "https://aceproject.org/ace-es/topics/ei_new/eif/eif09/eif09a?set_language=en"
+      }
+    ]
+  },
+  "R-T153": {
+    "text": "**R-T153 — Conflict-of-interest disclosure.** [Identifying and managing conflicts of interest in a charity](https://www.gov.uk/government/publications/identifying-and-managing-conflicts-of-interest-in-a-charity-cc29) — Charity Commission for England and Wales. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Identifying and managing conflicts of interest in a charity",
+        "url": "https://www.gov.uk/government/publications/identifying-and-managing-conflicts-of-interest-in-a-charity-cc29"
+      }
+    ]
+  },
+  "R-T154": {
+    "text": "**R-T154 — Recusal.** [28 U.S. Code § 455: Disqualification of justice, judge, or magistrate judge](https://www.law.cornell.edu/uscode/text/28/455) — Cornell Legal Information Institute / US Code. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "28 U.S. Code § 455: Disqualification of justice, judge, or magistrate judge",
+        "url": "https://www.law.cornell.edu/uscode/text/28/455"
+      }
+    ]
+  },
+  "R-T155": {
+    "text": "**R-T155 — Appeals procedures.** [Appeals](https://www.uscourts.gov/about-federal-courts/types-cases/appeals) — Administrative Office of the US Courts. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Appeals",
+        "url": "https://www.uscourts.gov/about-federal-courts/types-cases/appeals"
+      }
+    ]
+  },
+  "R-T156": {
+    "text": "**R-T156 — Ombuds offices.** [Comparison Table for IOA Standards of Practice](https://www.ombudsassociation.org/assets/docs/docs_2022/2022-03_IOA_Comparison_Table_for_IOA_Standards_of_Practice.pdf) — International Ombuds Association. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Comparison Table for IOA Standards of Practice",
+        "url": "https://www.ombudsassociation.org/assets/docs/docs_2022/2022-03_IOA_Comparison_Table_for_IOA_Standards_of_Practice.pdf"
+      }
+    ]
+  },
+  "R-T157": {
+    "text": "**R-T157 — Sunset clauses.** [Explanatory Memorandum: Product Safety and Metrology amendment regulations](https://www.legislation.gov.uk/ukdsi/2020/9780348213393/pdfs/ukdsiem_9780348213393_en.pdf) — UK Government / legislation.gov.uk. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Explanatory Memorandum: Product Safety and Metrology amendment regulations",
+        "url": "https://www.legislation.gov.uk/ukdsi/2020/9780348213393/pdfs/ukdsiem_9780348213393_en.pdf"
+      }
+    ]
+  },
+  "R-T159": {
+    "text": "**R-T159 — Public decision records.** [Charity meetings](https://www.gov.uk/government/publications/charities-and-meetings-cc48/charities-and-meetings) — Charity Commission for England and Wales. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Charity meetings",
+        "url": "https://www.gov.uk/government/publications/charities-and-meetings-cc48/charities-and-meetings"
+      }
+    ]
+  },
+  "R-T160": {
+    "text": "**R-T160 — Emergency authority with limits.** [France: Final Opinion on Article 49.3 of the Constitution](https://docs-venice.coe.int/api/Document?pdffile=CDL-AD%282025%29025-e) — Venice Commission. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "France: Final Opinion on Article 49.3 of the Constitution",
+        "url": "https://docs-venice.coe.int/api/Document?pdffile=CDL-AD%282025%29025-e"
+      }
+    ]
+  },
+  "R-T317": {
+    "text": "**R-T317 — Arbitration.** [Your Questions About Arbitration, Answered](https://www.adr.org/news-and-insights/your-questions-about-arbitration-answered/) — American Arbitration Association. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Your Questions About Arbitration, Answered",
+        "url": "https://www.adr.org/news-and-insights/your-questions-about-arbitration-answered/"
+      }
+    ]
+  },
+  "R-T318": {
+    "text": "**R-T318 — Courts.** [Court Role and Structure](https://www.uscourts.gov/about-federal-courts/court-role-and-structure) — Administrative Office of the US Courts. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Court Role and Structure",
+        "url": "https://www.uscourts.gov/about-federal-courts/court-role-and-structure"
+      }
+    ]
+  },
+  "R-T319": {
+    "text": "**R-T319 — Jury trials.** [Types of Juries](https://www.uscourts.gov/court-programs/jury-service/types-juries) — Administrative Office of the US Courts. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Types of Juries",
+        "url": "https://www.uscourts.gov/court-programs/jury-service/types-juries"
+      }
+    ]
+  },
+  "R-T320": {
+    "text": "**R-T320 — Parliamentary procedure.** [Sample Rules for Electronic Meetings](https://robertsrules.com/wp-content/uploads/2020/08/electronic-meeting-sample-rules.pdf) — Robert's Rules Association. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Sample Rules for Electronic Meetings",
+        "url": "https://robertsrules.com/wp-content/uploads/2020/08/electronic-meeting-sample-rules.pdf"
+      }
+    ]
+  },
+  "R-T321": {
+    "text": "**R-T321 — Spokescouncils.** [The Spokescouncil](https://www.seedsforchange.org.uk/spokescouncil) — Seeds for Change. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Spokescouncil",
+        "url": "https://www.seedsforchange.org.uk/spokescouncil"
+      }
+    ]
+  },
+  "R-T322": {
+    "text": "**R-T322 — Whistleblowing channels.** [How to File a Whistleblower Complaint](https://www.whistleblowers.gov/complaint_page) — US Occupational Safety and Health Administration. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "How to File a Whistleblower Complaint",
+        "url": "https://www.whistleblowers.gov/complaint_page"
+      }
+    ]
+  },
+  "R-T323": {
+    "text": "**R-T323 — Freedom-of-information processes.** [Request handling, Freedom of Information: Frequently Asked Questions](https://ico.org.uk/for-organisations/foi/freedom-of-information-and-environmental-information-regulations/request-handling-freedom-of-information/) — UK Information Commissioner's Office. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Request handling, Freedom of Information: Frequently Asked Questions",
+        "url": "https://ico.org.uk/for-organisations/foi/freedom-of-information-and-environmental-information-regulations/request-handling-freedom-of-information/"
+      }
+    ]
+  },
+  "R-T324": {
+    "text": "**R-T324 — Social audits.** [The CDF Social Audit Guide: A Handbook for Communities](https://connect4impact.worldbank.org/system/files/2025-12/Social%20Audit%20Handbook%20for%20Constituency%20Devt%20Fund%20-%20Kenya.pdf) — Open Society Initiative of East Africa (World Bank-hosted copy). institutional guide; access: page.",
+    "links": [
+      {
+        "title": "The CDF Social Audit Guide: A Handbook for Communities",
+        "url": "https://connect4impact.worldbank.org/system/files/2025-12/Social%20Audit%20Handbook%20for%20Constituency%20Devt%20Fund%20-%20Kenya.pdf"
+      }
+    ]
+  },
+  "R-T325": {
+    "text": "**R-T325 — Independent audits.** [AS 1000: General Responsibilities of the Auditor in Conducting an Audit](https://pcaobus.org/oversight/standards/auditing-standards/details/as-1000--general-responsibilities-of-the-auditor-in-conducting-an-audit) — Public Company Accounting Oversight Board. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "AS 1000: General Responsibilities of the Auditor in Conducting an Audit",
+        "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/as-1000--general-responsibilities-of-the-auditor-in-conducting-an-audit"
+      }
+    ]
+  },
+  "R-T162": {
+    "text": "**R-T162 — Commons-based peer production.** [Coase's Penguin, or, Linux and the Nature of the Firm](https://www.benkler.org/CoasesPenguin.PDF) — Yochai Benkler. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "Coase's Penguin, or, Linux and the Nature of the Firm",
+        "url": "https://www.benkler.org/CoasesPenguin.PDF"
+      }
+    ]
+  },
+  "R-T163": {
+    "text": "**R-T163 — Project teams.** [Project teams as learning entities](https://www.pmi.org/learning/library/project-teams-learning-entities-9015) — Project Management Institute. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "Project teams as learning entities",
+        "url": "https://www.pmi.org/learning/library/project-teams-learning-entities-9015"
+      }
+    ]
+  },
+  "R-T164": {
+    "text": "**R-T164 — Working groups.** [Guide to IETF Working Groups](https://www.ietf.org/process/wgs/) — Internet Engineering Task Force. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Guide to IETF Working Groups",
+        "url": "https://www.ietf.org/process/wgs/"
+      }
+    ]
+  },
+  "R-T165": {
+    "text": "**R-T165 — Task forces.** [ICS Position Training: Foundations Course Reference Guide](https://training.fema.gov/emiweb/is/icsresource/assets/ics_training_reference_guide.pdf) — Federal Emergency Management Agency. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "ICS Position Training: Foundations Course Reference Guide",
+        "url": "https://training.fema.gov/emiweb/is/icsresource/assets/ics_training_reference_guide.pdf"
+      }
+    ]
+  },
+  "R-T166": {
+    "text": "**R-T166 — Cross-functional teams.** [The Scrum Guide (2020)](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf) — Ken Schwaber and Jeff Sutherland. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Scrum Guide (2020)",
+        "url": "https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf"
+      }
+    ]
+  },
+  "R-T168": {
+    "text": "**R-T168 — Independent microenterprises.** [Extending social security to workers in micro and small enterprises](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf) — International Labour Organization. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Extending social security to workers in micro and small enterprises",
+        "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf"
+      }
+    ]
+  },
+  "R-T169": {
+    "text": "**R-T169 — Guilds across teams.** [Scaling Agile at Spotify](https://scrummaster.dk/lib/AgileLeanLibrary/People/HenrikKniberg/SpotifyScaling.pdf) — Henrik Kniberg and Anders Ivarsson. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Scaling Agile at Spotify",
+        "url": "https://scrummaster.dk/lib/AgileLeanLibrary/People/HenrikKniberg/SpotifyScaling.pdf"
+      }
+    ]
+  },
+  "R-T170": {
+    "text": "**R-T170 — Hackathons.** [Run an AI hackathon](https://academy.openai.com/public/clubs/champions-ecqup/resources/hackathon-playbook-2025-09-15) — OpenAI Academy. practitioner method; access: page.",
+    "links": [
+      {
+        "title": "Run an AI hackathon",
+        "url": "https://academy.openai.com/public/clubs/champions-ecqup/resources/hackathon-playbook-2025-09-15"
+      }
+    ]
+  },
+  "R-T171": {
+    "text": "**R-T171 — Sprints.** [The Scrum Guide: The Sprint](https://scrumguides.org/scrum-guide.html) — Ken Schwaber and Jeff Sutherland. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Scrum Guide: The Sprint",
+        "url": "https://scrumguides.org/scrum-guide.html"
+      }
+    ]
+  },
+  "R-T172": {
+    "text": "**R-T172 — Work parties.** [Practical Conservation: Leeds Midweek Practical Team](https://www2.tcv.org.uk/cgi-bin/volunteer/activity-details?id=42637%3Bdate%3D20261112) — The Conservation Volunteers. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Practical Conservation: Leeds Midweek Practical Team",
+        "url": "https://www2.tcv.org.uk/cgi-bin/volunteer/activity-details?id=42637%3Bdate%3D20261112"
+      }
+    ]
+  },
+  "R-T173": {
+    "text": "**R-T173 — Barn-raising.** [Mutual Aid](https://groups.etown.edu/amishstudies/cultural-practices/mutual-aid/) — Elizabethtown College Young Center for Anabaptist and Pietist Studies. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Mutual Aid",
+        "url": "https://groups.etown.edu/amishstudies/cultural-practices/mutual-aid/"
+      }
+    ]
+  },
+  "R-T174": {
+    "text": "**R-T174 — Pair work.** [On Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) — Birgitta Böckeler and Nina Siessegger / MartinFowler.com. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "On Pair Programming",
+        "url": "https://martinfowler.com/articles/on-pair-programming.html"
+      }
+    ]
+  },
+  "R-T175": {
+    "text": "**R-T175 — Mob or ensemble work.** [Mob Programming](https://agilealliance.org/glossary/mob-programming/) — Agile Alliance. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Mob Programming",
+        "url": "https://agilealliance.org/glossary/mob-programming/"
+      }
+    ]
+  },
+  "R-T176": {
+    "text": "**R-T176 — Shared task boards.** [The Kanban Guide (May 2025)](https://kanbanguides.org/the-kanban-guide/2025.5/) — Kanban Guides. practitioner method; access: page.",
+    "links": [
+      {
+        "title": "The Kanban Guide (May 2025)",
+        "url": "https://kanbanguides.org/the-kanban-guide/2025.5/"
+      }
+    ]
+  },
+  "R-T178": {
+    "text": "**R-T178 — Work-in-progress limits.** [The Kanban Guide (May 2025)](https://kanbanguides.org/the-kanban-guide/2025.5/) — Kanban Guides. practitioner method; access: page.",
+    "links": [
+      {
+        "title": "The Kanban Guide (May 2025)",
+        "url": "https://kanbanguides.org/the-kanban-guide/2025.5/"
+      }
+    ]
+  },
+  "R-T179": {
+    "text": "**R-T179 — Issue triage.** [Triaging an issue with AI](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/triaging-an-issue-with-ai) — GitHub Docs. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Triaging an issue with AI",
+        "url": "https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/triaging-an-issue-with-ai"
+      }
+    ]
+  },
+  "R-T180": {
+    "text": "**R-T180 — Request-for-comments processes.** [Introduction: The Rust RFC Book](https://rust-lang.github.io/rfcs/introduction.html) — Rust Project. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Introduction: The Rust RFC Book",
+        "url": "https://rust-lang.github.io/rfcs/introduction.html"
+      }
+    ]
+  },
+  "R-T181": {
+    "text": "**R-T181 — Design reviews.** [NASA Systems Engineering Handbook: Life-Cycle Reviews](https://science.nasa.gov/wp-content/uploads/2023/04/nasa_systems_engineering_handbook_0.pdf) — NASA. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "NASA Systems Engineering Handbook: Life-Cycle Reviews",
+        "url": "https://science.nasa.gov/wp-content/uploads/2023/04/nasa_systems_engineering_handbook_0.pdf"
+      }
+    ]
+  },
+  "R-T185": {
+    "text": "**R-T185 — Release governance.** [Apache HTTP Server Release Guidelines](https://httpd.apache.org/dev/release.html) — Apache HTTP Server Project. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Apache HTTP Server Release Guidelines",
+        "url": "https://httpd.apache.org/dev/release.html"
+      }
+    ]
+  },
+  "R-T186": {
+    "text": "**R-T186 — Standards bodies.** [Developing standards](https://committee.iso.org/developing-standards.html) — International Organization for Standardization. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Developing standards",
+        "url": "https://committee.iso.org/developing-standards.html"
+      }
+    ]
+  },
+  "R-T187": {
+    "text": "**R-T187 — Protocols and interfaces.** [RFC 1958: Architectural Principles of the Internet](https://www.rfc-editor.org/rfc/rfc1958.html) — Internet Architecture Board / RFC Editor. reference; access: page.",
+    "links": [
+      {
+        "title": "RFC 1958: Architectural Principles of the Internet",
+        "url": "https://www.rfc-editor.org/rfc/rfc1958.html"
+      }
+    ]
+  },
+  "R-T188": {
+    "text": "**R-T188 — Standard operating procedures.** [Guidance for Preparing Standard Operating Procedures](https://www.epa.gov/sites/default/files/2015-06/documents/g6-final.pdf) — US Environmental Protection Agency. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Guidance for Preparing Standard Operating Procedures",
+        "url": "https://www.epa.gov/sites/default/files/2015-06/documents/g6-final.pdf"
+      }
+    ]
+  },
+  "R-T189": {
+    "text": "**R-T189 — Checklists.** [WHO Surgical Safety Checklist: Tools and resources](https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources) — World Health Organization. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "WHO Surgical Safety Checklist: Tools and resources",
+        "url": "https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources"
+      }
+    ]
+  },
+  "R-T190": {
+    "text": "**R-T190 — Handoff protocols.** [Tool: Handoff](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/handoff.html) — Agency for Healthcare Research and Quality. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Tool: Handoff",
+        "url": "https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/handoff.html"
+      }
+    ]
+  },
+  "R-T191": {
+    "text": "**R-T191 — Responsibility matrices.** [PMI Lexicon of Project Management Terms](https://www.pmi.org/-/media/pmi/documents/registered/pdf/pmbok-standards/pmi-lexicon-pm-terms.pdf?rev=447328d841c249af985d14177ddd5f95) — Project Management Institute. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "PMI Lexicon of Project Management Terms",
+        "url": "https://www.pmi.org/-/media/pmi/documents/registered/pdf/pmbok-standards/pmi-lexicon-pm-terms.pdf?rev=447328d841c249af985d14177ddd5f95"
+      }
+    ]
+  },
+  "R-T192": {
+    "text": "**R-T192 — Service-level agreements.** [What is an SLA?](https://aws.amazon.com/what-is/sla/) — Amazon Web Services. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "What is an SLA?",
+        "url": "https://aws.amazon.com/what-is/sla/"
+      }
+    ]
+  },
+  "R-T193": {
+    "text": "**R-T193 — Rotating duty rosters.** [On-Call](https://sre.google/workbook/on-call/) — Google Site Reliability Engineering. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "On-Call",
+        "url": "https://sre.google/workbook/on-call/"
+      }
+    ]
+  },
+  "R-T194": {
+    "text": "**R-T194 — Incident command.** [NIMS Overview for Senior Officials: Instructor Guide](https://training.fema.gov/gstate/xcr3wnlp/g0402%20-%20ics-402%20-%20incident%20command%20system%20%28ics%29%20overview%20for%20executives%20and%20senior%20officials/04%20ig/g402_complete_ig.pdf) — Federal Emergency Management Agency. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "NIMS Overview for Senior Officials: Instructor Guide",
+        "url": "https://training.fema.gov/gstate/xcr3wnlp/g0402%20-%20ics-402%20-%20incident%20command%20system%20%28ics%29%20overview%20for%20executives%20and%20senior%20officials/04%20ig/g402_complete_ig.pdf"
+      }
+    ]
+  },
+  "R-T195": {
+    "text": "**R-T195 — Blameless postmortems.** [Lessons Learned from Other Industries: Postmortem Culture](https://sre.google/sre-book/lessons-learned/) — Google Site Reliability Engineering. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Lessons Learned from Other Industries: Postmortem Culture",
+        "url": "https://sre.google/sre-book/lessons-learned/"
+      }
+    ]
+  },
+  "R-T196": {
+    "text": "**R-T196 — Communities of contribution.** [Building Welcoming Communities](https://opensource.guide/building-community/) — GitHub Open Source Guides. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Building Welcoming Communities",
+        "url": "https://opensource.guide/building-community/"
+      }
+    ]
+  },
+  "R-T197": {
+    "text": "**R-T197 — Volunteer matching.** [Your next steps to apply for a UN Volunteer assignment](https://learning.unv.org/local/uvp_user_sync/candidate_learning.php) — United Nations Volunteers. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Your next steps to apply for a UN Volunteer assignment",
+        "url": "https://learning.unv.org/local/uvp_user_sync/candidate_learning.php"
+      }
+    ]
+  },
+  "R-T198": {
+    "text": "**R-T198 — Time-boxed commitments.** [Engage an Online Volunteer](https://www.unv.org/engage-online-volunteers) — United Nations Volunteers. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Engage an Online Volunteer",
+        "url": "https://www.unv.org/engage-online-volunteers"
+      }
+    ]
+  },
+  "R-T199": {
+    "text": "**R-T199 — Public pledges.** [Committed (dis)honesty: A systematic meta-analytic review](https://pubmed.ncbi.nlm.nih.gov/38619478/) — Psychological Bulletin / PubMed. research paper; access: abstract.",
+    "links": [
+      {
+        "title": "Committed (dis)honesty: A systematic meta-analytic review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38619478/"
+      }
+    ]
+  },
+  "R-T200": {
+    "text": "**R-T200 — Accountability partners.** [Accountability Partners: A Short Guide](https://www.gsas.columbia.edu/sites/default/files/content/docs/Accountability%20Partners%20%28updated%20April%202023%29.pdf) — Columbia University GSAS Writing Studio. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Accountability Partners: A Short Guide",
+        "url": "https://www.gsas.columbia.edu/sites/default/files/content/docs/Accountability%20Partners%20%28updated%20April%202023%29.pdf"
+      }
+    ]
+  },
+  "R-T201": {
+    "text": "**R-T201 — Coworking sessions.** [Getting started](https://support.focusmate.com/en/articles/9110188-getting-started) — Focusmate. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Getting started",
+        "url": "https://support.focusmate.com/en/articles/9110188-getting-started"
+      }
+    ]
+  },
+  "R-T202": {
+    "text": "**R-T202 — Distributed campaigns.** [Register Your Local Group](https://350.org/register-a-local-group/) — 350.org. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Register Your Local Group",
+        "url": "https://350.org/register-a-local-group/"
+      }
+    ]
+  },
+  "R-T203": {
+    "text": "**R-T203 — Coalitions.** [Coalition Building I: Starting a Coalition](https://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/checklist) — University of Kansas Community Tool Box. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Coalition Building I: Starting a Coalition",
+        "url": "https://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/checklist"
+      }
+    ]
+  },
+  "R-T204": {
+    "text": "**R-T204 — Collective impact partnerships.** [Collective Impact](https://www.fsg.org/resource/collective-impact/) — FSG / John Kania and Mark Kramer. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Collective Impact",
+        "url": "https://www.fsg.org/resource/collective-impact/"
+      }
+    ]
+  },
+  "R-T205": {
+    "text": "**R-T205 — Boundary-spanning roles.** [The active client: The boundary-spanning roles of internal consultants](https://journals.sagepub.com/doi/10.1177/1350507611401536) — Organization / Andrew Sturdy and Christopher Wright. research paper; access: abstract.",
+    "links": [
+      {
+        "title": "The active client: The boundary-spanning roles of internal consultants",
+        "url": "https://journals.sagepub.com/doi/10.1177/1350507611401536"
+      }
+    ]
+  },
+  "R-T326": {
+    "text": "**R-T326 — Strikes.** [ILO Helpdesk: Questions and answers on business and collective bargaining](https://www.ilo.org/ilo-helpdesk-questions-and-answers-business-and-collective-bargaining) — International Labour Organization. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "ILO Helpdesk: Questions and answers on business and collective bargaining",
+        "url": "https://www.ilo.org/ilo-helpdesk-questions-and-answers-business-and-collective-bargaining"
+      }
+    ]
+  },
+  "R-T327": {
+    "text": "**R-T327 — Boycotts.** [The Montgomery Bus Boycott](https://www.nps.gov/articles/montgomery-bus-boycott.htm) — US National Park Service. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Montgomery Bus Boycott",
+        "url": "https://www.nps.gov/articles/montgomery-bus-boycott.htm"
+      }
+    ]
+  },
+  "R-T328": {
+    "text": "**R-T328 — Citizen journalism.** [Global Media and Information Literacy Assessment Framework](https://uis.unesco.org/sites/default/files/documents/global-media-and-information-literacy-assessment-framework-country-readiness-and-competencies-2013-en.pdf) — UNESCO. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Global Media and Information Literacy Assessment Framework",
+        "url": "https://uis.unesco.org/sites/default/files/documents/global-media-and-information-literacy-assessment-framework-country-readiness-and-competencies-2013-en.pdf"
+      }
+    ]
+  },
+  "R-T329": {
+    "text": "**R-T329 — Monastic orders.** [The Rule of Benedict: Chapter 1, On the Kinds of Monks](https://archive.osb.org/rb/text/rbejms1.html) — Order of Saint Benedict archive. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Rule of Benedict: Chapter 1, On the Kinds of Monks",
+        "url": "https://archive.osb.org/rb/text/rbejms1.html"
+      }
+    ]
+  },
+  "R-T330": {
+    "text": "**R-T330 — Joint ventures.** [IFRS 11 Joint Arrangements](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-11-joint-arrangements/) — IFRS Foundation. issued standard overview; access: page.",
+    "links": [
+      {
+        "title": "IFRS 11 Joint Arrangements",
+        "url": "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-11-joint-arrangements/"
+      }
+    ]
+  },
+  "R-T331": {
+    "text": "**R-T331 — Franchising.** [A Consumer's Guide to Buying a Franchise](https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise) — US Federal Trade Commission. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "A Consumer's Guide to Buying a Franchise",
+        "url": "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise"
+      }
+    ]
+  },
+  "R-T212": {
+    "text": "**R-T212 — Auctions.** [Popular science background: Auction theory](https://www.nobelprize.org/uploads/2020/09/popular-economicsciencesprize2020.pdf) — Nobel Prize. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Popular science background: Auction theory",
+        "url": "https://www.nobelprize.org/uploads/2020/09/popular-economicsciencesprize2020.pdf"
+      }
+    ]
+  },
+  "R-T213": {
+    "text": "**R-T213 — Double auctions.** [Constructivist and Ecological Rationality in Economics](https://www.nobelprize.org/uploads/2017/05/vernon-smith-lecture.pdf) — Nobel Prize; Vernon Smith. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "Constructivist and Ecological Rationality in Economics",
+        "url": "https://www.nobelprize.org/uploads/2017/05/vernon-smith-lecture.pdf"
+      }
+    ]
+  },
+  "R-T214": {
+    "text": "**R-T214 — Barter.** [Publication 525: Bartering](https://www.irs.gov/publications/p525) — Internal Revenue Service. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Publication 525: Bartering",
+        "url": "https://www.irs.gov/publications/p525"
+      }
+    ]
+  },
+  "R-T215": {
+    "text": "**R-T215 — Mutual credit.** [From an idea to a scalable working model: Sardex](https://www.ijccr.net/article/view/9213) — International Journal of Community Currency Research. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "From an idea to a scalable working model: Sardex",
+        "url": "https://www.ijccr.net/article/view/9213"
+      }
+    ]
+  },
+  "R-T217": {
+    "text": "**R-T217 — Local currencies.** [About BerkShares](https://berkshares.org/about/) — BerkShares. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "About BerkShares",
+        "url": "https://berkshares.org/about/"
+      }
+    ]
+  },
+  "R-T218": {
+    "text": "**R-T218 — Gift economies.** [Exchange, Value, and Consumption](https://openstax.org/books/introduction-anthropology/pages/7-6-exchange-value-and-consumption) — OpenStax. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Exchange, Value, and Consumption",
+        "url": "https://openstax.org/books/introduction-anthropology/pages/7-6-exchange-value-and-consumption"
+      }
+    ]
+  },
+  "R-T219": {
+    "text": "**R-T219 — Reciprocal labor exchanges.** [Pro-Actively Coping with Climate Change](https://www.fao.org/climatechange/27003-0ca48ac78232e712dc17f10f6c19e5576.pdf) — Food and Agriculture Organization. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Pro-Actively Coping with Climate Change",
+        "url": "https://www.fao.org/climatechange/27003-0ca48ac78232e712dc17f10f6c19e5576.pdf"
+      }
+    ]
+  },
+  "R-T220": {
+    "text": "**R-T220 — Rotating savings groups.** [Indigenous Savings and Credit Societies in the Developing World](https://documents1.worldbank.org/curated/en/255821468766493886/pdf/multi-page.pdf) — World Bank; F. J. A. Bouman. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "Indigenous Savings and Credit Societies in the Developing World",
+        "url": "https://documents1.worldbank.org/curated/en/255821468766493886/pdf/multi-page.pdf"
+      }
+    ]
+  },
+  "R-T221": {
+    "text": "**R-T221 — Credit unions.** [What Is a Credit Union?](https://mycreditunion.gov/brochure-publications/brochure/what-credit-union) — National Credit Union Administration. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "What Is a Credit Union?",
+        "url": "https://mycreditunion.gov/brochure-publications/brochure/what-credit-union"
+      }
+    ]
+  },
+  "R-T222": {
+    "text": "**R-T222 — Mutual insurance.** [Microinsurance: Collective gains](https://www.icmif.org/blog_articles/microinsurance-collective-gains/) — International Cooperative and Mutual Insurance Federation. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Microinsurance: Collective gains",
+        "url": "https://www.icmif.org/blog_articles/microinsurance-collective-gains/"
+      }
+    ]
+  },
+  "R-T223": {
+    "text": "**R-T223 — Emergency mutual-aid funds.** [Elswick Solidarity Fund](https://opencollective.com/elswicksolidarityfund) — Elswick Solidarity Fund. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Elswick Solidarity Fund",
+        "url": "https://opencollective.com/elswicksolidarityfund"
+      }
+    ]
+  },
+  "R-T224": {
+    "text": "**R-T224 — Crowdfunding.** [Understanding crowdfunding](https://www.fca.org.uk/investsmart/understanding-crowdfunding) — Financial Conduct Authority. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Understanding crowdfunding",
+        "url": "https://www.fca.org.uk/investsmart/understanding-crowdfunding"
+      }
+    ]
+  },
+  "R-T225": {
+    "text": "**R-T225 — Crowdlending.** [Understanding crowdfunding](https://www.fca.org.uk/investsmart/understanding-crowdfunding) — Financial Conduct Authority. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Understanding crowdfunding",
+        "url": "https://www.fca.org.uk/investsmart/understanding-crowdfunding"
+      }
+    ]
+  },
+  "R-T226": {
+    "text": "**R-T226 — Subscriptions.** [Subscription pricing models: A guide for businesses](https://stripe.com/resources/more/subscription-pricing-models-a-guide-for-businesses) — Stripe. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Subscription pricing models: A guide for businesses",
+        "url": "https://stripe.com/resources/more/subscription-pricing-models-a-guide-for-businesses"
+      }
+    ]
+  },
+  "R-T227": {
+    "text": "**R-T227 — Membership dues.** [Our clubs](https://www.rotary.org/en/get-involved/our-clubs) — Rotary International. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Our clubs",
+        "url": "https://www.rotary.org/en/get-involved/our-clubs"
+      }
+    ]
+  },
+  "R-T228": {
+    "text": "**R-T228 — Patronage.** [Looking to Connect with European Paintings: The Role of the Patron](https://resources.metmuseum.org/resources/metpublications/pdf/looking_to_connect_with_european_paintings_visual_approaches_for_teaching_in_the_galleries.pdf) — Metropolitan Museum of Art. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "Looking to Connect with European Paintings: The Role of the Patron",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/looking_to_connect_with_european_paintings_visual_approaches_for_teaching_in_the_galleries.pdf"
+      }
+    ]
+  },
+  "R-T229": {
+    "text": "**R-T229 — Grants.** [Grants for Arts Projects](https://www.arts.gov/grants/grants-for-arts-projects) — National Endowment for the Arts. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Grants for Arts Projects",
+        "url": "https://www.arts.gov/grants/grants-for-arts-projects"
+      }
+    ]
+  },
+  "R-T230": {
+    "text": "**R-T230 — Prize competitions.** [Prize competitions](https://www.gsa.gov/technology/government-it-initiatives/prize-competitions) — U.S. General Services Administration. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Prize competitions",
+        "url": "https://www.gsa.gov/technology/government-it-initiatives/prize-competitions"
+      }
+    ]
+  },
+  "R-T231": {
+    "text": "**R-T231 — Bounties.** [Google Open Source Software Vulnerability Reward Program Rules](https://github.com/google/bughunters/blob/main/bughunters/articles/about/rules/open-source/google-open-source-software-vulnerability-reward-program-rules.md) — Google Bug Hunters. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Google Open Source Software Vulnerability Reward Program Rules",
+        "url": "https://github.com/google/bughunters/blob/main/bughunters/articles/about/rules/open-source/google-open-source-software-vulnerability-reward-program-rules.md"
+      }
+    ]
+  },
+  "R-T233": {
+    "text": "**R-T233 — Quadratic funding.** [A Flexible Design for Funding Public Goods](https://www.microsoft.com/en-us/research/publication/a-flexible-design-for-funding-public-goods/) — Microsoft Research; Buterin, Hitzig, Weyl. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "A Flexible Design for Funding Public Goods",
+        "url": "https://www.microsoft.com/en-us/research/publication/a-flexible-design-for-funding-public-goods/"
+      }
+    ]
+  },
+  "R-T234": {
+    "text": "**R-T234 — Matching grants.** [Challenge America: Grant Program Details](https://www.arts.gov/sites/default/files/FY26-CA-Grant-Program-Details-FINAL.pdf) — National Endowment for the Arts. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Challenge America: Grant Program Details",
+        "url": "https://www.arts.gov/sites/default/files/FY26-CA-Grant-Program-Details-FINAL.pdf"
+      }
+    ]
+  },
+  "R-T235": {
+    "text": "**R-T235 — Endowments.** [Harvard's Endowment](https://finance.harvard.edu/endowment) — Harvard University Financial Administration. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Harvard's Endowment",
+        "url": "https://finance.harvard.edu/endowment"
+      }
+    ]
+  },
+  "R-T236": {
+    "text": "**R-T236 — Pooled procurement.** [Pooled Procurement Mechanism: Operational Procedures](https://resources.theglobalfund.org/media/klkdheja/cr_pooled-procurement-mechanism_op_en.pdf) — The Global Fund. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Pooled Procurement Mechanism: Operational Procedures",
+        "url": "https://resources.theglobalfund.org/media/klkdheja/cr_pooled-procurement-mechanism_op_en.pdf"
+      }
+    ]
+  },
+  "R-T237": {
+    "text": "**R-T237 — Buying clubs.** [America's Farms and Ranches at a Glance: 2022 Edition](https://www.ers.usda.gov/sites/default/files/_laserfiche/publications/105388/EIB-247.pdf) — USDA Economic Research Service. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "America's Farms and Ranches at a Glance: 2022 Edition",
+        "url": "https://www.ers.usda.gov/sites/default/files/_laserfiche/publications/105388/EIB-247.pdf"
+      }
+    ]
+  },
+  "R-T238": {
+    "text": "**R-T238 — Tool libraries.** [How It Works](https://seattlereconomy.org/how-it-works/) — Seattle REconomy. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "How It Works",
+        "url": "https://seattlereconomy.org/how-it-works/"
+      }
+    ]
+  },
+  "R-T239": {
+    "text": "**R-T239 — Resource booking systems.** [Flight simulator reservations](https://mtsu.libcal.com/reserve/sim) — Middle Tennessee State University. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Flight simulator reservations",
+        "url": "https://mtsu.libcal.com/reserve/sim"
+      }
+    ]
+  },
+  "R-T240": {
+    "text": "**R-T240 — Queues.** [The Championships Queue Guide 2025](https://www.wimbledon.com/pdf/The_Championships_Queue_Guide_2025.pdf) — Wimbledon. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Championships Queue Guide 2025",
+        "url": "https://www.wimbledon.com/pdf/The_Championships_Queue_Guide_2025.pdf"
+      }
+    ]
+  },
+  "R-T241": {
+    "text": "**R-T241 — Allocation lotteries.** [Secondary School Admissions Brochure 2025](https://www.rbkc.gov.uk/media/document/rbkc-secondary-school-admissions-brochure-2025) — Royal Borough of Kensington and Chelsea. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Secondary School Admissions Brochure 2025",
+        "url": "https://www.rbkc.gov.uk/media/document/rbkc-secondary-school-admissions-brochure-2025"
+      }
+    ]
+  },
+  "R-T242": {
+    "text": "**R-T242 — Needs-based allocation.** [Humanitarian principles](https://emergency.unhcr.org/protection/protection-principles/humanitarian-principles) — UNHCR. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Humanitarian principles",
+        "url": "https://emergency.unhcr.org/protection/protection-principles/humanitarian-principles"
+      }
+    ]
+  },
+  "R-T243": {
+    "text": "**R-T243 — Rationing.** [Connecting, Sharing, Learning: Second World War](https://www.iwm.org.uk/sites/default/files/fies/2021-07/connecting_sharing_learning_second_world_war.pdf) — Imperial War Museums. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "Connecting, Sharing, Learning: Second World War",
+        "url": "https://www.iwm.org.uk/sites/default/files/fies/2021-07/connecting_sharing_learning_second_world_war.pdf"
+      }
+    ]
+  },
+  "R-T244": {
+    "text": "**R-T244 — Tradable quotas.** [Glossary: Catch Shares](https://www.fisheries.noaa.gov/national/sustainable-fisheries/glossary-catch-shares) — NOAA Fisheries. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Glossary: Catch Shares",
+        "url": "https://www.fisheries.noaa.gov/national/sustainable-fisheries/glossary-catch-shares"
+      }
+    ]
+  },
+  "R-T246": {
+    "text": "**R-T246 — Resource boundaries.** [Beyond Markets and States: Polycentric Governance of Complex Economic Systems](https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf) — Nobel Prize; Elinor Ostrom. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+        "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+      }
+    ]
+  },
+  "R-T247": {
+    "text": "**R-T247 — User participation in rulemaking.** [How to Use the IAD Framework](https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf) — Ostrom Workshop, Indiana University. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "How to Use the IAD Framework",
+        "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf"
+      }
+    ]
+  },
+  "R-T248": {
+    "text": "**R-T248 — Community monitoring.** [How to Use the IAD Framework](https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf) — Ostrom Workshop, Indiana University. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "How to Use the IAD Framework",
+        "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf"
+      }
+    ]
+  },
+  "R-T249": {
+    "text": "**R-T249 — Graduated sanctions.** [Beyond Markets and States: Polycentric Governance of Complex Economic Systems](https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf) — Nobel Prize; Elinor Ostrom. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+        "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+      }
+    ]
+  },
+  "R-T256": {
+    "text": "**R-T256 — Employee ownership.** [An Introduction to ESOPs](https://www.nceo.org/hubfs/assets/pdf/samples/An-Introduction-to-ESOPs-21st-full-cover-preview.pdf) — National Center for Employee Ownership. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "An Introduction to ESOPs",
+        "url": "https://www.nceo.org/hubfs/assets/pdf/samples/An-Introduction-to-ESOPs-21st-full-cover-preview.pdf"
+      }
+    ]
+  },
+  "R-T257": {
+    "text": "**R-T257 — Steward ownership.** [Steward-Ownership](https://purpose-economy.org/content/uploads/purposebooklet_en.pdf) — Purpose Foundation. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Steward-Ownership",
+        "url": "https://purpose-economy.org/content/uploads/purposebooklet_en.pdf"
+      }
+    ]
+  },
+  "R-T258": {
+    "text": "**R-T258 — Revenue sharing.** [Fair Trade Music Policy](https://bandcamp.com/fair_trade_music_policy) — Bandcamp. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Fair Trade Music Policy",
+        "url": "https://bandcamp.com/fair_trade_music_policy"
+      }
+    ]
+  },
+  "R-T259": {
+    "text": "**R-T259 — Profit sharing.** [Our Profit-Sharing and Charitable Contributions Formula](https://buffer.com/resources/profit-sharing/) — Buffer. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Our Profit-Sharing and Charitable Contributions Formula",
+        "url": "https://buffer.com/resources/profit-sharing/"
+      }
+    ]
+  },
+  "R-T260": {
+    "text": "**R-T260 — Transparent compensation formulas.** [The Next Evolution of Transparent Salaries](https://buffer.com/resources/salary-formula/) — Buffer. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "The Next Evolution of Transparent Salaries",
+        "url": "https://buffer.com/resources/salary-formula/"
+      }
+    ]
+  },
+  "R-T261": {
+    "text": "**R-T261 — Rent allocation formulas.** [Spliddit: Unleashing Fair Division Algorithms](https://www.sigecom.org/exchanges/volume_13/2/GOLDMAN.pdf) — ACM SIGecom; Goldman and Procaccia. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "Spliddit: Unleashing Fair Division Algorithms",
+        "url": "https://www.sigecom.org/exchanges/volume_13/2/GOLDMAN.pdf"
+      }
+    ]
+  },
+  "R-T262": {
+    "text": "**R-T262 — Fiscal sponsorship.** [About Fiscal Sponsorship](https://www.fiscalsponsors.org/about-fiscal-sponsorship) — National Network of Fiscal Sponsors. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "About Fiscal Sponsorship",
+        "url": "https://www.fiscalsponsors.org/about-fiscal-sponsorship"
+      }
+    ]
+  },
+  "R-T263": {
+    "text": "**R-T263 — Community-supported agriculture.** [Community Supported Agriculture](https://www.nal.usda.gov/farms-and-agricultural-production-systems/community-supported-agriculture) — USDA National Agricultural Library. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Community Supported Agriculture",
+        "url": "https://www.nal.usda.gov/farms-and-agricultural-production-systems/community-supported-agriculture"
+      }
+    ]
+  },
+  "R-T264": {
+    "text": "**R-T264 — Repair cafés.** [About Repair Café](https://www.repaircafe.org/en/about/) — Repair Café International. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "About Repair Café",
+        "url": "https://www.repaircafe.org/en/about/"
+      }
+    ]
+  },
+  "R-T265": {
+    "text": "**R-T265 — Swap events.** [What you buy, use and dispose of](https://www.westminster.gov.uk/environment-hub/take-environmental-action-resident/what-you-buy-use-and-dispose) — Westminster City Council. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "What you buy, use and dispose of",
+        "url": "https://www.westminster.gov.uk/environment-hub/take-environmental-action-resident/what-you-buy-use-and-dispose"
+      }
+    ]
+  },
+  "R-T266": {
+    "text": "**R-T266 — Escrow.** [Escrow](https://www.law.cornell.edu/wex/escrow) — Cornell Legal Information Institute. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Escrow",
+        "url": "https://www.law.cornell.edu/wex/escrow"
+      }
+    ]
+  },
+  "R-T267": {
+    "text": "**R-T267 — Contracts.** [Contract](https://www.law.cornell.edu/wex/contract) — Cornell Legal Information Institute. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Contract",
+        "url": "https://www.law.cornell.edu/wex/contract"
+      }
+    ]
+  },
+  "R-T269": {
+    "text": "**R-T269 — Copyleft.** [What Is Copyleft?](https://www.gnu.org/licenses/copyleft.html) — GNU Project; Free Software Foundation. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "What Is Copyleft?",
+        "url": "https://www.gnu.org/licenses/copyleft.html"
+      }
+    ]
+  },
+  "R-T270": {
+    "text": "**R-T270 — Public provisioning.** [What Goals Should We Seek in Politics?](https://openstax.org/books/introduction-political-science/pages/2-1-what-goals-should-we-seek-in-politics) — OpenStax. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "What Goals Should We Seek in Politics?",
+        "url": "https://openstax.org/books/introduction-political-science/pages/2-1-what-goals-should-we-seek-in-politics"
+      }
+    ]
+  },
+  "R-T332": {
+    "text": "**R-T332 — Taxation.** [Taxes](https://www.oecd.org/en/data/dashboards/ifcma-climate-policy-dashboard/instruments/taxes.html) — Organisation for Economic Co-operation and Development. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Taxes",
+        "url": "https://www.oecd.org/en/data/dashboards/ifcma-climate-policy-dashboard/instruments/taxes.html"
+      }
+    ]
+  },
+  "R-T333": {
+    "text": "**R-T333 — Double-entry accounting.** [Principles of Accounting: Chapter 3 Key Terms](https://openstax.org/books/principles-financial-accounting/pages/3-key-terms) — OpenStax. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Principles of Accounting: Chapter 3 Key Terms",
+        "url": "https://openstax.org/books/principles-financial-accounting/pages/3-key-terms"
+      }
+    ]
+  },
+  "R-T334": {
+    "text": "**R-T334 — Public asset registers.** [Strengthening Fixed Asset Management through Public Sector Accounting: Recording Assets](https://documents1.worldbank.org/curated/en/099032824083534274/pdf/P1650951b227e508a1babd150c2484b04a4.pdf) — World Bank. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Strengthening Fixed Asset Management through Public Sector Accounting: Recording Assets",
+        "url": "https://documents1.worldbank.org/curated/en/099032824083534274/pdf/P1650951b227e508a1babd150c2484b04a4.pdf"
+      }
+    ]
+  },
+  "R-T335": {
+    "text": "**R-T335 — Assurance contracts.** [Intelligent Cooperation: Dominant Assurance Contracts](https://foresight.org/wp-content/uploads/2021/12/Intelligent-Cooperation-2021-12-06.pdf) — Foresight Institute; Alex Tabarrok. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "Intelligent Cooperation: Dominant Assurance Contracts",
+        "url": "https://foresight.org/wp-content/uploads/2021/12/Intelligent-Cooperation-2021-12-06.pdf"
+      }
+    ]
+  },
+  "R-T336": {
+    "text": "**R-T336 — Risk-sharing pools.** [Strengthening Disaster Resilience and Response in Latin America and the Caribbean](https://www.worldbank.org/en/results/2025/06/30/strengthening-disaster-resilience-and-response-in-lac) — World Bank. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Strengthening Disaster Resilience and Response in Latin America and the Caribbean",
+        "url": "https://www.worldbank.org/en/results/2025/06/30/strengthening-disaster-resilience-and-response-in-lac"
+      }
+    ]
+  },
+  "R-T272": {
+    "text": "**R-T272 — Certification.** [Certification](https://www.iso.org/certification.html) — International Organization for Standardization. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "Certification",
+        "url": "https://www.iso.org/certification.html"
+      }
+    ]
+  },
+  "R-T273": {
+    "text": "**R-T273 — Accreditation.** [Certification: Accreditation](https://www.iso.org/certification.html) — International Organization for Standardization. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "Certification: Accreditation",
+        "url": "https://www.iso.org/certification.html"
+      }
+    ]
+  },
+  "R-T274": {
+    "text": "**R-T274 — Professional licensing.** [License Finder Help](https://cloudfront.careeronestop.org/toolkit/Training/find-licenses-help.aspx) — CareerOneStop; U.S. Department of Labor. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "License Finder Help",
+        "url": "https://cloudfront.careeronestop.org/toolkit/Training/find-licenses-help.aspx"
+      }
+    ]
+  },
+  "R-T275": {
+    "text": "**R-T275 — Portfolios.** [Types of Interview: Portfolio-based interviews](https://www.careers.ox.ac.uk/types-of-interview/) — University of Oxford Careers Service. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Types of Interview: Portfolio-based interviews",
+        "url": "https://www.careers.ox.ac.uk/types-of-interview/"
+      }
+    ]
+  },
+  "R-T276": {
+    "text": "**R-T276 — References.** [Reference Checking](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/reference-checking/) — U.S. Office of Personnel Management. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Reference Checking",
+        "url": "https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/reference-checking/"
+      }
+    ]
+  },
+  "R-T277": {
+    "text": "**R-T277 — Reputation systems.** [Reputation Systems](https://cs.uwaterloo.ca/~klarson/teaching/F04-886/papers/p45-resnick.pdf) — Communications of the ACM; Resnick, Zeckhauser, Friedman, Kuwabara. research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "Reputation Systems",
+        "url": "https://cs.uwaterloo.ca/~klarson/teaching/F04-886/papers/p45-resnick.pdf"
+      }
+    ]
+  },
+  "R-T278": {
+    "text": "**R-T278 — Contribution records.** [Contributions on your profile](https://docs.github.com/en/account-and-profile/concepts/contributions-on-your-profile) — GitHub Docs. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Contributions on your profile",
+        "url": "https://docs.github.com/en/account-and-profile/concepts/contributions-on-your-profile"
+      }
+    ]
+  },
+  "R-T280": {
+    "text": "**R-T280 — Peer nominations.** [Advice for Award Nominators and Endorsers](https://awards.acm.org/binaries/content/assets/awards/advice-for-award-nominators-and-endorsers_07-2025.pdf) — Association for Computing Machinery. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Advice for Award Nominators and Endorsers",
+        "url": "https://awards.acm.org/binaries/content/assets/awards/advice-for-award-nominators-and-endorsers_07-2025.pdf"
+      }
+    ]
+  },
+  "R-T282": {
+    "text": "**R-T282 — Contributor credits.** [All Contributors Specification](https://allcontributors.org/en/reference/specification/) — All Contributors. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "All Contributors Specification",
+        "url": "https://allcontributors.org/en/reference/specification/"
+      }
+    ]
+  },
+  "R-T283": {
+    "text": "**R-T283 — Authorship conventions.** [Defining the Role of Authors and Contributors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) — International Committee of Medical Journal Editors. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Defining the Role of Authors and Contributors",
+        "url": "https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html"
+      }
+    ]
+  },
+  "R-T284": {
+    "text": "**R-T284 — Merit-based selection.** [Merit System Principles](https://www.opm.gov/chcoc/transmittals/2020/attachments/2020%20Appointments%20and%20Awards%20Guidance%20Attachments.pdf) — U.S. Office of Personnel Management. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Merit System Principles",
+        "url": "https://www.opm.gov/chcoc/transmittals/2020/attachments/2020%20Appointments%20and%20Awards%20Guidance%20Attachments.pdf"
+      }
+    ]
+  },
+  "R-T285": {
+    "text": "**R-T285 — Seniority rules.** [Public Service Orders: Seniority on Promotion](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/86499/SYC86499.pdf) — Government of Seychelles; ILO NATLEX archive. reference; access: search excerpt.",
+    "links": [
+      {
+        "title": "Public Service Orders: Seniority on Promotion",
+        "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/86499/SYC86499.pdf"
+      }
+    ]
+  },
+  "R-T286": {
+    "text": "**R-T286 — Competitive examinations.** [Young Professionals Programme](https://careers.un.org/ypp) — United Nations Careers. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Young Professionals Programme",
+        "url": "https://careers.un.org/ypp"
+      }
+    ]
+  },
+  "R-T287": {
+    "text": "**R-T287 — Work-sample assessments.** [Work Samples and Simulations](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/work-samples-and-simulations/) — U.S. Office of Personnel Management. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Work Samples and Simulations",
+        "url": "https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/work-samples-and-simulations/"
+      }
+    ]
+  },
+  "R-T288": {
+    "text": "**R-T288 — Auditions.** [Tanglewood Festival Chorus Auditions](https://www.bso.org/tfc/auditions) — Boston Symphony Orchestra. institutional guide; access: page.",
+    "links": [
+      {
+        "title": "Tanglewood Festival Chorus Auditions",
+        "url": "https://www.bso.org/tfc/auditions"
+      }
+    ]
+  },
+  "R-T289": {
+    "text": "**R-T289 — Trial projects.** [How We Hire Developers](https://automattic.com/work-with-us/how-we-hire-developers/) — Automattic. practitioner method; access: search excerpt.",
+    "links": [
+      {
+        "title": "How We Hire Developers",
+        "url": "https://automattic.com/work-with-us/how-we-hire-developers/"
+      }
+    ]
+  },
+  "R-T290": {
+    "text": "**R-T290 — Blind review.** [Double-blind peer review](https://www.nature.com/naturehealth/submission-guidelines/dbpr) — Nature Health. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Double-blind peer review",
+        "url": "https://www.nature.com/naturehealth/submission-guidelines/dbpr"
+      }
+    ]
+  },
+  "R-T292": {
+    "text": "**R-T292 — Sponsorship for advancement.** [Catalyst Sponsorship Guide](https://www.catalyst.org/en-us/insights/2025/catalyst-sponsorship-guide) — Catalyst. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Catalyst Sponsorship Guide",
+        "url": "https://www.catalyst.org/en-us/insights/2025/catalyst-sponsorship-guide"
+      }
+    ]
+  },
+  "R-T294": {
+    "text": "**R-T294 — Deputy roles.** [Creating the COO Position](https://www.bridgespan.org/getmedia/c60187c0-f6b7-4019-bd32-53b8872ae283/CreatingCOOPosition.pdf?ext=.pdf) — The Bridgespan Group. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Creating the COO Position",
+        "url": "https://www.bridgespan.org/getmedia/c60187c0-f6b7-4019-bd32-53b8872ae283/CreatingCOOPosition.pdf?ext=.pdf"
+      }
+    ]
+  },
+  "R-T295": {
+    "text": "**R-T295 — Overlapping handovers.** [Shift handover](https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm) — UK Health and Safety Executive. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Shift handover",
+        "url": "https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm"
+      }
+    ]
+  },
+  "R-T296": {
+    "text": "**R-T296 — Graduated responsibility.** [Common Program Requirements FAQs](https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf) — Accreditation Council for Graduate Medical Education. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Common Program Requirements FAQs",
+        "url": "https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf"
+      }
+    ]
+  },
+  "R-T297": {
+    "text": "**R-T297 — Leadership pipelines.** [Succession Planning Process](https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/) — U.S. Office of Personnel Management. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Succession Planning Process",
+        "url": "https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/"
+      }
+    ]
+  },
+  "R-T298": {
+    "text": "**R-T298 — Founder transition agreements.** [Leadership Transition: Overcoming the Threat of Founder's Syndrome](https://www.intrac.org/app/uploads/2024/12/Praxis-Series-Paper-No-9-Leadership-Transition-Overcoming-the-Threat-of-Founders-Syndrome.pdf) — INTRAC. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Leadership Transition: Overcoming the Threat of Founder's Syndrome",
+        "url": "https://www.intrac.org/app/uploads/2024/12/Praxis-Series-Paper-No-9-Leadership-Transition-Overcoming-the-Threat-of-Founders-Syndrome.pdf"
+      }
+    ]
+  },
+  "R-T299": {
+    "text": "**R-T299 — Emeritus roles.** [ASF Members: Emeritus Members](https://www.apache.org/foundation/members) — Apache Software Foundation. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "ASF Members: Emeritus Members",
+        "url": "https://www.apache.org/foundation/members"
+      }
+    ]
+  },
+  "R-T300": {
+    "text": "**R-T300 — Exit interviews.** [Exit Interviews](https://www.gla.ac.uk/myglasgow/pod/mgrs-admin/mgr-guidance/leaverguidance/exit-int/) — University of Glasgow. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Exit Interviews",
+        "url": "https://www.gla.ac.uk/myglasgow/pod/mgrs-admin/mgr-guidance/leaverguidance/exit-int/"
+      }
+    ]
+  },
+  "R-T301": {
+    "text": "**R-T301 — Institutional memory interviews.** [Johnson Space Center Oral History Project](https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html) — NASA. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "Johnson Space Center Oral History Project",
+        "url": "https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html"
+      }
+    ]
+  },
+  "R-T302": {
+    "text": "**R-T302 — Backup ownership.** [Leadership and Governance](https://opensource.guide/pcm/leadership-and-governance/) — GitHub Open Source Guides. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Leadership and Governance",
+        "url": "https://opensource.guide/pcm/leadership-and-governance/"
+      }
+    ]
+  },
+  "R-T303": {
+    "text": "**R-T303 — Stewardship terms.** [Our 2026 Trustee Search](https://wikimediafoundation.org/our-2026-trustee-search/) — Wikimedia Foundation. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Our 2026 Trustee Search",
+        "url": "https://wikimediafoundation.org/our-2026-trustee-search/"
+      }
+    ]
+  },
+  "R-T305": {
+    "text": "**R-T305 — Lineage recognition.** [Steve Weintraub](https://www.sfzc.org/teachers/steve-weintraub/) — San Francisco Zen Center. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "Steve Weintraub",
+        "url": "https://www.sfzc.org/teachers/steve-weintraub/"
+      }
+    ]
+  },
+  "R-T306": {
+    "text": "**R-T306 — Oaths of office.** [Oath of Office](https://www.senate.gov/about/origins-foundations/senate-and-constitution/oath-of-office.htm) — United States Senate. history; access: search excerpt.",
+    "links": [
+      {
+        "title": "Oath of Office",
+        "url": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/oath-of-office.htm"
+      }
+    ]
+  },
+  "R-T337": {
+    "text": "**R-T337 — Peer juries for awards.** [Grant Review Process](https://www.arts.gov/grants/grant-review-process) — National Endowment for the Arts. institutional guide; access: search excerpt.",
+    "links": [
+      {
+        "title": "Grant Review Process",
+        "url": "https://www.arts.gov/grants/grant-review-process"
+      }
+    ]
+  },
+  "R-T338": {
+    "text": "**R-T338 — Recallable stewardship.** [Stewards: Confirmations and Removal of Access](https://meta.wikimedia.org/wiki/Stewards) — Wikimedia community, Meta-Wiki. practitioner method; access: page.",
+    "links": [
+      {
+        "title": "Stewards: Confirmations and Removal of Access",
+        "url": "https://meta.wikimedia.org/wiki/Stewards"
+      }
+    ]
+  },
+  "R-S002": {
+    "text": "**R-S002 — Socialism.** [Socialism](https://plato.stanford.edu/entries/socialism/) — Stanford Encyclopedia of Philosophy. reference; access: page sections reviewed.",
+    "links": [
+      {
+        "title": "Socialism",
+        "url": "https://plato.stanford.edu/entries/socialism/"
+      }
+    ]
+  },
+  "R-S003": {
+    "text": "**R-S003 — Economic planning.** [Socialism, section 4.1: Central and Participatory Planning](https://plato.stanford.edu/entries/socialism/#CentPartPlan) — Stanford Encyclopedia of Philosophy. reference; access: page section reviewed.",
+    "links": [
+      {
+        "title": "Socialism, section 4.1: Central and Participatory Planning",
+        "url": "https://plato.stanford.edu/entries/socialism/#CentPartPlan"
+      }
+    ]
+  },
+  "R-S007": {
+    "text": "**R-S007 — Technocracy.** [Expert Knowledge in Democracies: Promises, Limits, and Conflict](https://doi.org/10.1146/annurev-polisci-033123-020420) — Annual Review of Political Science. research review; access: search excerpt.",
+    "links": [
+      {
+        "title": "Expert Knowledge in Democracies: Promises, Limits, and Conflict",
+        "url": "https://doi.org/10.1146/annurev-polisci-033123-020420"
+      }
+    ]
+  },
+  "R-S008": {
+    "text": "**R-S008 — Monarchy.** [The role of the Monarchy](https://www.royal.uk/the-role-of-the-monarchy) — The Royal Household. institutional account; access: page reviewed.",
+    "links": [
+      {
+        "title": "The role of the Monarchy",
+        "url": "https://www.royal.uk/the-role-of-the-monarchy"
+      }
+    ]
+  },
+  "R-S028": {
+    "text": "**R-S028 — Polycentric governance.** [A Polycentric Approach for Coping with Climate Change](https://dlc.dlib.indiana.edu/dlc/items/ce7cf738-5200-46b4-8376-921914080e19) — Elinor Ostrom / World Bank; Indiana University repository. research working paper; access: abstract reviewed.",
+    "links": [
+      {
+        "title": "A Polycentric Approach for Coping with Climate Change",
+        "url": "https://dlc.dlib.indiana.edu/dlc/items/ce7cf738-5200-46b4-8376-921914080e19"
+      }
+    ]
+  },
+  "R-D014": {
+    "text": "**R-D014 — Homophily.** [Birds of a feather: Homophily in social networks](https://scholars.duke.edu/publication/652661) — McPherson, Smith-Lovin and Cook / Annual Review of Sociology. research review; access: abstract reviewed.",
+    "links": [
+      {
+        "title": "Birds of a feather: Homophily in social networks",
+        "url": "https://scholars.duke.edu/publication/652661"
+      }
+    ]
+  },
+  "R-D015": {
+    "text": "**R-D015 — Reciprocity.** [Evolution of indirect reciprocity](https://pubmed.ncbi.nlm.nih.gov/16251955/) — Nowak and Sigmund / Nature. research review; access: abstract in search results.",
+    "links": [
+      {
+        "title": "Evolution of indirect reciprocity",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16251955/"
+      }
+    ]
+  },
+  "R-D016": {
+    "text": "**R-D016 — Trust formation and repair.** [Removing the Shadow of Suspicion: The Effects of Apology Versus Denial for Repairing Competence- Versus Integrity-Based Trust Violations](https://ink.library.smu.edu.sg/lkcsb_research/2368/) — Kim, Ferrin, Cooper and Dirks / Journal of Applied Psychology. research paper; access: abstract reviewed. [An Integrative Model of Organizational Trust](https://journals.aom.org/doi/10.5465/amr.1995.9508080335) — Mayer, Davis and Schoorman / Academy of Management Review. theoretical research paper; access: search excerpt.",
+    "links": [
+      {
+        "title": "Removing the Shadow of Suspicion: The Effects of Apology Versus Denial for Repairing Competence- Versus Integrity-Based Trust Violations",
+        "url": "https://ink.library.smu.edu.sg/lkcsb_research/2368/"
+      },
+      {
+        "title": "An Integrative Model of Organizational Trust",
+        "url": "https://journals.aom.org/doi/10.5465/amr.1995.9508080335"
+      }
+    ]
+  },
+  "R-D017": {
+    "text": "**R-D017 — Free riding.** [Cooperation and Punishment in Public Goods Experiments](https://ideas.repec.org/a/aea/aecrev/v90y2000i4p980-994.html) — Fehr and Gächter / American Economic Review; RePEc abstract. research paper; access: abstract reviewed.",
+    "links": [
+      {
+        "title": "Cooperation and Punishment in Public Goods Experiments",
+        "url": "https://ideas.repec.org/a/aea/aecrev/v90y2000i4p980-994.html"
+      }
+    ]
+  },
+  "R-D018": {
+    "text": "**R-D018 — Social loafing.** [Many Hands Make Light the Work: The Causes and Consequences of Social Loafing](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Latane_et_al_1979_Many_hands_make_light_the_work.pdf) — Latané, Williams and Harkins / Journal of Personality and Social Psychology. research paper; access: PDF sections reviewed.",
+    "links": [
+      {
+        "title": "Many Hands Make Light the Work: The Causes and Consequences of Social Loafing",
+        "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Latane_et_al_1979_Many_hands_make_light_the_work.pdf"
+      }
+    ]
+  },
+  "R-D019": {
+    "text": "**R-D019 — Volunteer burnout.** [Why People Leave Community Service Organizations: A Mixed Methods Study](https://doi.org/10.1007/s11266-018-0005-z) — Milbourn, Black and Buchanan / Voluntas. research paper; access: abstract reviewed.",
+    "links": [
+      {
+        "title": "Why People Leave Community Service Organizations: A Mixed Methods Study",
+        "url": "https://doi.org/10.1007/s11266-018-0005-z"
+      }
+    ]
+  },
+  "R-D020": {
+    "text": "**R-D020 — Status hierarchies.** [Striving for superiority: The human desire for status](https://irle.berkeley.edu/publications/working-papers/striving-for-superiority-the-human-desire-for-status/) — Anderson and Hildreth / UC Berkeley IRLE. research working paper; access: abstract reviewed.",
+    "links": [
+      {
+        "title": "Striving for superiority: The human desire for status",
+        "url": "https://irle.berkeley.edu/publications/working-papers/striving-for-superiority-the-human-desire-for-status/"
+      }
+    ]
+  },
+  "R-D021": {
+    "text": "**R-D021 — Preference falsification.** [Rationally Speaking 198: Timur Kuran on Private Truths and Public Lies](https://sites.duke.edu/timurkuran/files/2018/03/rs198transcript-Kuran-Rationall-Speaking-2017.pdf) — Timur Kuran / Rationally Speaking; Duke author archive. author interview; access: PDF sections reviewed.",
+    "links": [
+      {
+        "title": "Rationally Speaking 198: Timur Kuran on Private Truths and Public Lies",
+        "url": "https://sites.duke.edu/timurkuran/files/2018/03/rs198transcript-Kuran-Rationall-Speaking-2017.pdf"
+      }
+    ]
+  },
+  "R-D022": {
+    "text": "**R-D022 — Pluralistic ignorance.** [Pluralistic Ignorance and Alcohol Use on Campus: Some Consequences of Misperceiving the Social Norm](https://collaborate.princeton.edu/en/publications/pluralistic-ignorance-and-alcohol-use-on-campus-some-consequences/) — Prentice and Miller / Journal of Personality and Social Psychology. research paper; access: abstract in search results.",
+    "links": [
+      {
+        "title": "Pluralistic Ignorance and Alcohol Use on Campus: Some Consequences of Misperceiving the Social Norm",
+        "url": "https://collaborate.princeton.edu/en/publications/pluralistic-ignorance-and-alcohol-use-on-campus-some-consequences/"
+      }
+    ]
+  },
+  "R-D023": {
+    "text": "**R-D023 — Group polarization.** [On a Danger of Deliberative Democracy](https://hls.harvard.edu/bibliography/on-a-danger-of-deliberative-democracy/) — Cass Sunstein / Harvard Law School bibliography. research paper; access: abstract in search results.",
+    "links": [
+      {
+        "title": "On a Danger of Deliberative Democracy",
+        "url": "https://hls.harvard.edu/bibliography/on-a-danger-of-deliberative-democracy/"
+      }
+    ]
+  },
+  "R-D024": {
+    "text": "**R-D024 — Groupthink.** [Revisiting the Bay of Pigs and Vietnam Decisions 25 Years Later: How Well Has the Groupthink Hypothesis Stood the Test of Time?](https://pubmed.ncbi.nlm.nih.gov/9705804/) — Kramer / Organizational Behavior and Human Decision Processes. research paper; access: abstract in search results.",
+    "links": [
+      {
+        "title": "Revisiting the Bay of Pigs and Vietnam Decisions 25 Years Later: How Well Has the Groupthink Hypothesis Stood the Test of Time?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9705804/"
+      }
+    ]
+  },
+  "R-D025": {
+    "text": "**R-D025 — Goal displacement.** [Bureaucratic Structure and Personality](https://www.d.umn.edu/cla/faculty/jhamlin/4111/Merton/Social%20Theory%20and%20Social%20Structure%20Bureaucratic%20Structure%20a.htm) — Robert K. Merton; University of Minnesota Duluth teaching archive. theoretical research essay; access: page reviewed.",
+    "links": [
+      {
+        "title": "Bureaucratic Structure and Personality",
+        "url": "https://www.d.umn.edu/cla/faculty/jhamlin/4111/Merton/Social%20Theory%20and%20Social%20Structure%20Bureaucratic%20Structure%20a.htm"
+      }
+    ]
+  },
+  "R-D026": {
+    "text": "**R-D026 — Metric gaming.** [Categorizing Variants of Goodhart’s Law](https://arxiv.org/abs/1803.04585) — Manheim and Garrabrant / arXiv. theoretical preprint; access: abstract reviewed.",
+    "links": [
+      {
+        "title": "Categorizing Variants of Goodhart’s Law",
+        "url": "https://arxiv.org/abs/1803.04585"
+      }
+    ]
+  },
+  "R-D027": {
+    "text": "**R-D027 — Capture.** [The Theory of Economic Regulation](https://www.rasmusen.org/zg601/readings/Stigler.1971.pdf) — George Stigler / Bell Journal of Economics and Management Science. theoretical research paper; access: PDF search excerpt.",
+    "links": [
+      {
+        "title": "The Theory of Economic Regulation",
+        "url": "https://www.rasmusen.org/zg601/readings/Stigler.1971.pdf"
+      }
+    ]
+  },
+  "R-D028": {
+    "text": "**R-D028 — Principal-agent problems.** [Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure](https://doi.org/10.1016/0304-405X%2876%2990026-X) — Jensen and Meckling / Journal of Financial Economics. theoretical research paper; access: abstract and primary-paper search excerpt.",
+    "links": [
+      {
+        "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
+        "url": "https://doi.org/10.1016/0304-405X%2876%2990026-X"
+      }
+    ]
+  },
+  "R-D029": {
+    "text": "**R-D029 — Path dependence.** [Competing Technologies, Increasing Returns, and Lock-In by Historical Events](https://ideas.repec.org/a/ecj/econjl/v99y1989i394p116-31.html) — W. Brian Arthur / Economic Journal; RePEc abstract. theoretical research paper; access: abstract in search results.",
+    "links": [
+      {
+        "title": "Competing Technologies, Increasing Returns, and Lock-In by Historical Events",
+        "url": "https://ideas.repec.org/a/ecj/econjl/v99y1989i394p116-31.html"
+      }
+    ]
+  },
+  "R-D030": {
+    "text": "**R-D030 — Norm drift.** [The spontaneous emergence of conventions: An experimental study of cultural evolution](https://pmc.ncbi.nlm.nih.gov/articles/PMC4343158/) — Centola and Baronchelli / PNAS. research paper; access: abstract and article sections reviewed.",
+    "links": [
+      {
+        "title": "The spontaneous emergence of conventions: An experimental study of cultural evolution",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4343158/"
+      }
+    ]
+  },
+  "R-D031": {
+    "text": "**R-D031 — Network brokerage.** [Structural Holes and Good Ideas](https://doi.org/10.1086/421787) — Ronald Burt / American Journal of Sociology. research paper; access: abstract in search results.",
+    "links": [
+      {
+        "title": "Structural Holes and Good Ideas",
+        "url": "https://doi.org/10.1086/421787"
+      }
+    ]
+  },
+  "R-D032": {
+    "text": "**R-D032 — Boundary maintenance.** [The Study of Boundaries in the Social Sciences](https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107) — Lamont and Molnár / Annual Review of Sociology. research review; access: abstract reviewed.",
+    "links": [
+      {
+        "title": "The Study of Boundaries in the Social Sciences",
+        "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107"
+      }
+    ]
+  },
+  "R-T339": {
+    "text": "**R-T339 — Lobbying.** [Lobbying and influence — OECD](https://www.oecd.org/en/topics/lobbying.html) · [Hall and Deardorff (2006): Lobbying as Legislative Subsidy](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/lobbying-as-legislative-subsidy/AE4B5D8AB9C2487BB78C2A51BB53E03F) · [Kalla and Broockman (2016): Campaign Contributions Facilitate Access to Congressional Officials](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12180). OECD overview: relevant sections reviewed. Hall and Deardorff: abstract reviewed; an explanatory model, not proof that all lobbying works this way. Kalla and Broockman: abstract and introductory research-design discussion reviewed; a randomized test of donor-status disclosure and access, not policy outcomes. Reviewed 6 November 2026. Bus, workplace, and accessibility scenarios are editorial illustrations.",
+    "links": [
+      {
+        "title": "Lobbying and influence — OECD",
+        "url": "https://www.oecd.org/en/topics/lobbying.html"
+      },
+      {
+        "title": "Hall and Deardorff (2006): Lobbying as Legislative Subsidy",
+        "url": "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/lobbying-as-legislative-subsidy/AE4B5D8AB9C2487BB78C2A51BB53E03F"
+      },
+      {
+        "title": "Kalla and Broockman (2016): Campaign Contributions Facilitate Access to Congressional Officials",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/ajps.12180"
+      }
+    ]
+  },
+  "PETERSON-M": {
+    "text": "**Christine Peterson interview on mentorship.** [Watch the interview](https://www.youtube.com/watch?v=nlnytQRvQ-E). Content and timestamps drawn from the supplied interview summary; recording not independently reviewed. The neighborhood-project and volunteer examples are illustrative.",
+    "links": [
+      {
+        "title": "Christine Peterson interview on mentorship",
+        "url": "https://www.youtube.com/watch?v=nlnytQRvQ-E"
+      }
+    ]
+  },
+  "ARIST-PRIMARY": {
+    "text": "**Aristocracy — classical arguments and their difficulties.** Relevant passages reviewed in Plato’s Republic VI (ship analogy) and Aristotle’s Politics III (citizenship, common interest, aristocracy and oligarchy, collective judgment) and IV (mixed constitutions and qualifications for office). Benjamin Jowett translations. The dam and selection-process examples are editorial illustrations, not historical cases.",
+    "links": [
+      {
+        "title": "Plato, Republic, Book VI",
+        "url": "https://classics.mit.edu/Plato/republic.7.vi.html"
+      },
+      {
+        "title": "Aristotle, Politics, Book III",
+        "url": "https://web.mit.edu/classics/Aristotle/politics.3.three.html"
+      },
+      {
+        "title": "Aristotle, Politics, Book IV",
+        "url": "https://web.mit.edu/classics/Aristotle/politics.4.four.html"
+      }
+    ]
+  },
+  "MARKETS-INTELLIGENCE": {
+    "text": "**Markets as collective intelligence.** Hayek (1945), relevant dispersed-knowledge and price passages reviewed; Smith, autobiographical experimental account reviewed as search excerpt; Stiglitz (1993), abstract reviewed; Helbling, IMF externalities overview reviewed; Akerlof (1970), introduction and used-car model reviewed; Porter and Smith (1995), asset-market experiment abstract reviewed as search excerpt; CORE Econ Unit 12, introductory sections reviewed. Timber, housing, and service examples are illustrations.",
+    "links": [
+      {
+        "title": "Hayek: The Use of Knowledge in Society",
+        "url": "https://dev.oll.libertyfund.org/titles/hayek-the-use-of-knowledge-in-society-1945"
+      },
+      {
+        "title": "Vernon Smith: experimental markets",
+        "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/smith/biographical/"
+      },
+      {
+        "title": "Stiglitz: Post Walrasian and Post Marxian Economics",
+        "url": "https://benny.aeaweb.org/articles?id=10.1257/jep.7.1.109"
+      },
+      {
+        "title": "IMF: Externalities",
+        "url": "https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/externalities"
+      },
+      {
+        "title": "Akerlof: The Market for Lemons",
+        "url": "https://www.sfu.ca/~allen/Ackerlof.pdf"
+      },
+      {
+        "title": "Porter and Smith: Futures Contracting and Dividend Uncertainty in Experimental Asset Markets",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6413"
+      },
+      {
+        "title": "CORE Econ: Markets, efficiency, and public policy",
+        "url": "https://books.core-econ.org/the-economy-v1/book/text/12.html"
+      }
+    ]
+  },
+  "PRIVATE-OWNERSHIP": {
+    "text": "Property and Ownership — Stanford Encyclopedia of Philosophy. Definition and analysis sections reviewed.",
+    "links": [
+      {
+        "title": "Property and Ownership",
+        "url": "https://plato.stanford.edu/entries/property/"
+      }
+    ]
+  },
+  "R-T341": {
+    "text": "What is Intellectual Property?. WIPO overview and linked definitions reviewed; comparison of payment arrangements is editorial synthesis.",
+    "links": [
+      {
+        "title": "What is Intellectual Property?",
+        "url": "https://www.wipo.int/en/web/about-ip"
+      }
+    ]
+  },
+  "R-T342": {
+    "text": "Frequently Asked Questions: Patents. Reviewed exclusion, territory, disclosure, duration, commercialization, and limits. Alternatives synthesize the linked concept pages and their sources.",
+    "links": [
+      {
+        "title": "Frequently Asked Questions: Patents",
+        "url": "https://www.wipo.int/en/web/patents/faq_patents"
+      }
+    ]
+  },
+  "R-T343": {
+    "text": "What Can I Protect with a Copyright?. Reviewed protected works and idea/expression distinction; licensing connections use the existing researched pages.",
+    "links": [
+      {
+        "title": "What Can I Protect with a Copyright?",
+        "url": "https://www.wipo.int/en/web/copyright/protection"
+      }
+    ]
+  },
+  "R-T344": {
+    "text": "Frequently Asked Questions on Trade Secrets. Reviewed qualification, reasonable secrecy measures, licensing, independent discovery and reverse engineering.",
+    "links": [
+      {
+        "title": "Frequently Asked Questions on Trade Secrets",
+        "url": "https://www.wipo.int/en/web/trade-secrets/tradesecrets_faqs"
+      }
+    ]
+  },
+  "R-T345": {
+    "text": "Pneumococcal AMC: How it works. Read the pilot mechanism, qualifying supply and manufacturer commitments. Water-sensor example is illustrative, not a reported case.",
+    "links": [
+      {
+        "title": "Pneumococcal AMC: How it works",
+        "url": "https://www.gavi.org/investing-gavi/innovative-financing/pneumococcal-advance-market-commitment-amc/how-it-works"
+      }
+    ]
+  },
+  "R-T346": {
+    "text": "What is innovation procurement?. Reviewed European Commission explanation of buying development and staged pre-commercial procurement. General commissioning example and comparisons are editorial synthesis.",
+    "links": [
+      {
+        "title": "What is innovation procurement?",
+        "url": "https://projects.research-and-innovation.ec.europa.eu/en/node/11878"
+      }
+    ]
+  },
+  "R-T347": {
+    "text": "Patent Buy-Outs: A Mechanism for Encouraging Innovation. NBER abstract excerpts reviewed; direct page returned 403. Mechanism treated as a theoretical proposal, not a general empirical success claim.",
+    "links": [
+      {
+        "title": "Patent Buy-Outs: A Mechanism for Encouraging Innovation",
+        "url": "https://www.nber.org/papers/w6304"
+      }
+    ]
+  },
+  "R-T348": {
+    "text": "Protecting Their Intellectual Assets. Indexed abstract reviewed; direct page returned 403. 1994 US manufacturing R&D survey, published 2000; no claim of universal or current sector-wide effectiveness.",
+    "links": [
+      {
+        "title": "Protecting Their Intellectual Assets",
+        "url": "https://www.nber.org/papers/w7552"
+      }
+    ]
+  }
+}

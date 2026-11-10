@@ -1,0 +1,86 @@
+[
+  {
+    "id": "T001",
+    "title": "Mentorship",
+    "changed": false,
+    "type": "technology",
+    "findings": "The practical opportunities and independence of the mentee follow a connected explanation; retained the owner-developed narrative."
+  },
+  {
+    "id": "T211",
+    "title": "Markets",
+    "changed": false,
+    "type": "technology",
+    "findings": "Experimental findings lead into defined blind spots; retained substantive scope limits and the owner-developed narrative."
+  },
+  {
+    "id": "T279",
+    "title": "Awards",
+    "changed": false,
+    "type": "technology",
+    "findings": "Cooking examples develop recognition and credibility; retained direct exposition and award/prize distinction."
+  },
+  {
+    "id": "S005",
+    "title": "Aristocracy",
+    "changed": false,
+    "type": "technology",
+    "findings": "Ancient attribution explains the origin of the ideal; selection and succession difficulties follow directly."
+  },
+  {
+    "id": "T339",
+    "title": "Lobbying",
+    "changed": true,
+    "type": "technology",
+    "findings": "Replaced detached OECD overview narration with a direct linked explanation of combined forms of influence."
+  },
+  {
+    "id": "ansari-xprize-demonstration",
+    "title": "Ansari XPRIZE",
+    "changed": true,
+    "type": "case",
+    "findings": "Removed unintroduced GFT financing dispute; explained reported project cost, target achievement, and long transition to commercial service."
+  },
+  {
+    "id": "/",
+    "title": "Homepage",
+    "changed": false,
+    "type": "ancillary",
+    "findings": "Owner perspectives and brief introduction stand alone; no research workflow narration."
+  },
+  {
+    "id": "/guide/",
+    "title": "Introduction",
+    "changed": true,
+    "type": "ancillary",
+    "findings": "Removed a detached blanket disclaimer after the explanation of formal roles and informal relationships."
+  },
+  {
+    "id": "/cases/",
+    "title": "Case index",
+    "changed": true,
+    "type": "ancillary",
+    "findings": "Reviewed index framing and all case cards; revised case summaries flow through to cards."
+  },
+  {
+    "id": "/cases/evidence/",
+    "title": "Evidence guide",
+    "changed": true,
+    "type": "ancillary",
+    "findings": "Removed selection diary, source-access legend and user-specific research instructions; retained explanations of causal evidence."
+  },
+  {
+    "id": "/cases/backlog/",
+    "title": "Research backlog",
+    "changed": true,
+    "type": "ancillary",
+    "findings": "Kept explicit research leads; replaced internal GFT audit and first-pass language with clear research questions."
+  },
+  {
+    "id": "/404.html",
+    "title": "Not found",
+    "changed": false,
+    "type": "ancillary",
+    "findings": "Short navigation instructions contain no unexplained context."
+  }
+]

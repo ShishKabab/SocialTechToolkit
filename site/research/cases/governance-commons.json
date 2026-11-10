@@ -1,0 +1,1723 @@
+[
+  {
+    "id": "athens-democratic-institutions",
+    "title": "Athens: citizens governing, but not everyone was a citizen",
+    "question": "How did assembly participation, lottery, elected expertise, and scrutiny work together—and whom did they exclude?",
+    "period": "508–322 BCE; institutional description mainly fourth century BCE",
+    "location": "Athens, ancient Greece",
+    "scale": "societies",
+    "technology_ids": [
+      "S004",
+      "S031",
+      "S032",
+      "T101",
+      "T108",
+      "T109",
+      "T319"
+    ],
+    "summary": "Classical Athens combined citizen assemblies, a council selected by lot, elected offices, and large popular juries. In the fourth century BCE, eligible male citizens could participate directly without becoming professional politicians. Most inhabitants were excluded from citizenship, however, and even among citizens only a fraction attended any particular assembly.",
+    "outcome": "mixed",
+    "outcome_summary": "The institutions enabled substantial direct participation among eligible male citizens and distributed many offices beyond professional politicians. That achievement coexisted with slavery, exclusions based on gender and citizenship, uneven attendance, and oligarchic interruptions. Broad participation within the citizen body did not mean political equality for the whole population or agreement about the quality of decisions.",
+    "observations": [
+      {
+        "claim": "Adult male citizenship, rather than residence alone, determined assembly eligibility; enrollment included checks of age, freedom, and parentage.",
+        "source_ids": [
+          "blackwell"
+        ]
+      },
+      {
+        "claim": "The council and many offices used allotment, while some responsibilities used election; incoming magistrates underwent scrutiny rather than receiving unchecked authority.",
+        "source_ids": [
+          "aristotle",
+          "blackwell"
+        ]
+      },
+      {
+        "claim": "The eligible citizen body is estimated at around 30,000 in the fourth century, with meetings attended by thousands rather than everyone. Assembly pay helped make attendance possible, although urban residents remained better placed to attend.",
+        "source_ids": [
+          "canevaro"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Rotating opportunities to govern, combined with scrutiny, plausibly reduced the permanence of an officeholding class among eligible citizens.",
+        "status": "plausible",
+        "source_ids": [
+          "aristotle",
+          "blackwell"
+        ],
+        "alternative": "Wealth, rhetorical skill, military prominence, and repeated informal leadership could sustain elite influence without permanent formal office."
+      },
+      {
+        "claim": "Payment plausibly made attendance less costly for citizens who would otherwise give up earnings to participate.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "canevaro"
+        ],
+        "alternative": "Proximity to the meeting place and the political salience of particular decisions also affected who appeared."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Deliberation and political participation in classical Athenian assemblies",
+        "evidence_status": "Historical interpretation using incomplete literary and institutional evidence",
+        "source_ids": [
+          "canevaro"
+        ],
+        "relevance": "Participation depended on an interacting institutional package, not only a voting rule.",
+        "transfer_limit": "Eligibility, travel distances, and the resources supporting participation differed sharply from those in a modern electorate. The institutions also changed across Athens's democratic periods."
+      }
+    ],
+    "lessons": [
+      "A right to attend and a practical opportunity to attend are different: citizenship rules, payment, and distance all shaped who was in the assembly.",
+      "Lottery and rotation spread offices, while scrutiny and elected roles added other forms of accountability and expertise."
+    ],
+    "research_gaps": [
+      "Estimates of meeting attendance vary, making it difficult to establish how consistently different parts of the citizen body participated.",
+      "Lottery, payment, and scrutiny operated together within an economy and imperial position unlike those of most modern communities; their separate contributions remain difficult to establish."
+    ],
+    "sources": [
+      {
+        "id": "blackwell",
+        "title": "Athenian Democracy: A Brief Overview",
+        "url": "https://generales.uprrp.edu/humanidades/wp-content/uploads/sites/5/2018/09/AthenianDemocracy.ABriefOverview.pdf",
+        "publisher": "Christopher W. Blackwell / Dēmos",
+        "type": "history",
+        "access": "sections",
+        "note": "Introduction, citizenship, council, and scrutiny sections; a modern synthesis of ancient evidence."
+      },
+      {
+        "id": "aristotle",
+        "title": "The Athenian Constitution, parts 43–69",
+        "url": "https://classics.mit.edu/Aristotle/athenian_const.3.3.html",
+        "publisher": "Aristotle / Internet Classics Archive",
+        "type": "history",
+        "access": "search-excerpt",
+        "note": "Primary ancient account in translation; scrutiny and allocation of offices, not independent outcome evaluation."
+      },
+      {
+        "id": "canevaro",
+        "title": "Democratic deliberation in the Athenian Assembly: procedures and behaviours towards legitimacy",
+        "url": "https://www.pure.ed.ac.uk/ws/files/77013395/Canevaro_Deliberation_Annales_FINAL.pdf",
+        "publisher": "Mirko Canevaro / University of Edinburgh repository",
+        "type": "history",
+        "access": "sections",
+        "note": "English manuscript title; introduction and attendance/pay passages reviewed. Published as La délibération démocratique à l'Assemblée athénienne."
+      }
+    ]
+  },
+  {
+    "id": "porto-alegre-participatory-budgeting",
+    "title": "Porto Alegre: a budget people could shape—and a process politicians could hollow out",
+    "question": "What makes participation consequential, and what allows it to lose that force?",
+    "period": "1989–2017, with earlier gains and later decline distinguished",
+    "location": "Porto Alegre, Brazil",
+    "scale": "institutions",
+    "technology_ids": [
+      "T232",
+      "T101"
+    ],
+    "summary": "Porto Alegre linked neighborhood participation to municipal investment priorities through recurring assemblies and budgeting arrangements. Residents could press for infrastructure that had bypassed poorer areas. Early gains were followed by weakened political backing, implementation problems, and suspension in 2017: residents' ability to influence investment depended on more than having meetings.",
+    "outcome": "mixed",
+    "outcome_summary": "The early process mobilized poorer communities and helped improve access to smaller-scale infrastructure. Water, sanitation, and other services were also changing through a broader municipal policy program, so the gains cannot be assigned to participatory budgeting alone. As political support and implementation weakened, participation lost influence over investment; the process was suspended in 2017.",
+    "observations": [
+      {
+        "claim": "The city tied participatory priorities to investment decisions and used the process to involve communities previously poorly served by infrastructure.",
+        "source_ids": [
+          "wri"
+        ]
+      },
+      {
+        "claim": "By 2002, extensive water, sanitation, waste, environmental-information, and education policies were operating alongside participatory budgeting.",
+        "source_ids": [
+          "menegat"
+        ]
+      },
+      {
+        "claim": "Political support declined and the process was suspended in 2017, following weakened financial and implementation commitments.",
+        "source_ids": [
+          "wri"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Participation became consequential when priority-setting connected to a funded and responsive municipal implementation system.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "wri",
+          "menegat"
+        ],
+        "alternative": "The governing party's redistributive agenda and capable service agencies could have driven some improvements independently of citizen meetings."
+      },
+      {
+        "claim": "The later weakening suggests that participation depended on renewed political backing and funding, not simply on keeping its formal procedures.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "wri"
+        ],
+        "alternative": "Wider fiscal constraints could have reduced investment even under a government strongly committed to the participatory process."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Participatory governance embedded in state capacity",
+        "evidence_status": "Case-based institutional explanation, not an isolated treatment effect",
+        "source_ids": [
+          "wri",
+          "menegat"
+        ],
+        "relevance": "Public voice connects to distribution through budgeting, administration, and political support.",
+        "transfer_limit": "Organized civil society, service agencies, and political commitments gave the assemblies ways to influence spending. An assembly without those connections would lack much of that capacity."
+      }
+    ],
+    "lessons": [
+      "Participation changes investment only when the priorities residents set reach funded projects and responsible implementing agencies.",
+      "Attendance can remain visible while completion stalls; project delivery and whose needs are served reveal a different part of the result.",
+      "A change in governing coalition can weaken the commitments that made a participatory process consequential."
+    ],
+    "research_gaps": [
+      "The early improvements were intertwined with wider municipal reforms, leaving uncertainty about how much each contributed.",
+      "The decline raises a durability question: which commitments can protect residents' influence when budgets tighten or a governing coalition changes?"
+    ],
+    "sources": [
+      {
+        "id": "wri",
+        "title": "Porto Alegre: Participatory Budgeting and the Challenge of Sustaining Transformative Change",
+        "url": "https://www.wri.org/research/porto-alegre-participatory-budgeting-and-challenge-sustaining-transformative-change",
+        "publisher": "Rebecca Abers and colleagues / World Resources Institute",
+        "type": "review",
+        "access": "sections",
+        "note": "Key findings and retrospective explanation of the rise, weakening, and 2017 suspension."
+      },
+      {
+        "id": "menegat",
+        "title": "Participatory democracy and sustainable development: integrated urban environmental management in Porto Alegre, Brazil",
+        "url": "https://doi.org/10.1177/095624780201400215",
+        "publisher": "Rualdo Menegat / Environment and Urbanization",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Contemporary description of the broader policy package; does not isolate budgeting's causal contribution."
+      }
+    ]
+  },
+  {
+    "id": "ireland-abortion-citizens-assembly",
+    "title": "Ireland: a citizens' assembly inside a larger route to constitutional change",
+    "question": "How can a small deliberating group inform a decision that remains with the wider electorate?",
+    "period": "2016–2018",
+    "location": "Ireland",
+    "scale": "societies",
+    "technology_ids": [
+      "T102",
+      "T108",
+      "T107"
+    ],
+    "summary": "Ireland's assembly brought 99 selected citizens together under an appointed chair to consider several issues, beginning with the Eighth Amendment. Evidence, deliberation, and recommendations fed into parliamentary consideration and a national referendum. The assembly helped develop proposals; it neither represented every resident nor possessed the authority to amend the constitution by itself.",
+    "outcome": "success",
+    "outcome_summary": "The assembly produced recommendations that entered parliamentary consideration and were followed by a constitutional referendum in 2018. The electorate approved the amendment. Assembly discussion showed substantial cognitive complexity in the exchanges examined, but the referendum result also emerged from a wider political campaign and changing public attitudes.",
+    "observations": [
+      {
+        "claim": "The parliamentary mandate specified an appointed chair and 99 referendum-eligible citizens selected to broadly reflect Irish society.",
+        "source_ids": [
+          "report"
+        ]
+      },
+      {
+        "claim": "A comparative analysis of assembly and parliamentary committee debate found deeper cognitive complexity among assembly members in the discussions studied.",
+        "source_ids": [
+          "suiter"
+        ]
+      },
+      {
+        "claim": "The referendum recorded 1,429,981 votes for the constitutional proposal and 723,632 against, with turnout of 64.13%.",
+        "source_ids": [
+          "referendum"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Structured exposure to evidence in a less strategically adversarial setting contributed to nuanced discussion.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "suiter"
+        ],
+        "alternative": "Participant selection, different tasks, and the contrasting public roles of legislators could explain part of the measured difference."
+      },
+      {
+        "claim": "A defined path through parliament and referendum made the recommendations politically actionable.",
+        "status": "plausible",
+        "source_ids": [
+          "report",
+          "referendum"
+        ],
+        "alternative": "Long-running campaigning and changing public attitudes might have produced reform through another institutional route."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Epistemic deliberation and cognitive complexity",
+        "evidence_status": "Comparative case evidence using coded discourse, not randomized institutional assignment",
+        "source_ids": [
+          "suiter"
+        ],
+        "relevance": "Reasoning quality can be assessed through how people recognize different considerations and connect them, separately from whether they change their preference or reach agreement.",
+        "transfer_limit": "Nuanced discussion among selected participants does not show how the wider public formed its views or whose experiences the panel missed."
+      }
+    ],
+    "lessons": [
+      "The assembly could develop recommendations, while parliament and the electorate retained consequential decisions; these different roles gave the recommendations a route to action without making the panel sovereign.",
+      "The quality of the discussion is a separate question from whether an observer favors the resulting constitutional change.",
+      "A small deliberating body still needs its reasoning exposed to wider public disagreement."
+    ],
+    "research_gaps": [
+      "How much the assembly changed referendum voters' views, compared with campaigning and longer-term attitude changes, remains uncertain.",
+      "Referendum eligibility excluded some residents affected by abortion policy; recruitment, attrition, and agenda choices also shaped whose experience entered the discussion."
+    ],
+    "sources": [
+      {
+        "id": "report",
+        "title": "First Report and Recommendations: The Eighth Amendment of the Constitution",
+        "url": "https://citizensassembly.ie/wp-content/uploads/2023/02/FirstReport_EIGHTAMENDMENT.pdf",
+        "publisher": "Citizens' Assembly Ireland",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Mandate, membership, sequence, and recommendations; official process record."
+      },
+      {
+        "id": "suiter",
+        "title": "Measuring Epistemic Deliberation on Polarized Issues: The Case of Abortion Provision in Ireland",
+        "url": "https://journals.sagepub.com/doi/10.1177/14789299211020909",
+        "publisher": "Jane Suiter and colleagues / Political Studies Review",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Abstract and conceptual/methodological introduction reviewed; measures discourse rather than referendum causation."
+      },
+      {
+        "id": "referendum",
+        "title": "Referendum on the Thirty-sixth Amendment of the Constitution Bill 2018",
+        "url": "https://www.referendum.ie/archive/referendum-on-the-regulation-of-termination-of-pregnancy-thirty-sixth-amendment-of-the-constitution-bill-2018/index.html",
+        "publisher": "Referendum Commission Ireland",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Official question and national result totals."
+      }
+    ]
+  },
+  {
+    "id": "iceland-crowdsourced-constitution",
+    "title": "Iceland: crowdsourcing a constitution without securing adoption",
+    "question": "What is the difference between contributing to a draft and controlling its adoption?",
+    "period": "2010–2013",
+    "location": "Iceland",
+    "scale": "societies",
+    "technology_ids": [
+      "T146",
+      "T107",
+      "T105"
+    ],
+    "summary": "Following Iceland's financial crisis, a multistage constitutional process invited public input and produced a proposed constitution. Online discussion accompanied a council's drafting work rather than replacing it with an unfiltered public document. A 2012 advisory referendum supported using the proposal as a basis, but the process did not deliver an enacted replacement constitution.",
+    "outcome": "mixed",
+    "outcome_summary": "The process generated a substantive draft and online exchanges in which participants responded to one another, yet did not secure adoption. Participation was self-selected and uneven. Producing a draft through public contributions did not give those contributors control over the parliamentary decisions needed to turn it into a constitution.",
+    "observations": [
+      {
+        "claim": "The public platform used moderated, non-anonymous threads with topic-setting submissions and engagement from council members.",
+        "source_ids": [
+          "popescu"
+        ]
+      },
+      {
+        "claim": "The three longest online discussion threads contained responsive exchanges, but participation was concentrated among a self-selected group whose demographic composition was uncertain.",
+        "source_ids": [
+          "popescu"
+        ]
+      },
+      {
+        "claim": "An advisory referendum supported using the draft as a basis for a new constitution, but no final parliamentary adoption vote followed in the process's 2010–2013 period.",
+        "source_ids": [
+          "palsdottir"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Clear topics, moderation, and visible links to drafters plausibly encouraged substantive exchanges.",
+        "status": "plausible",
+        "source_ids": [
+          "popescu"
+        ],
+        "alternative": "Highly interested, educated participants may have generated these qualities even without the platform's specific design."
+      },
+      {
+        "claim": "Participation without an enforceable or politically secured adoption pathway can produce influential text without institutional change.",
+        "status": "plausible",
+        "source_ids": [
+          "palsdottir"
+        ],
+        "alternative": "Disagreement over provisions and legal process, rather than a general hostility to participation, could also explain resistance."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Deliberative quality versus decisiveness in participatory constitution-making",
+        "evidence_status": "Qualitative and coded case evidence; dimensions explicitly distinguished",
+        "source_ids": [
+          "popescu"
+        ],
+        "relevance": "A discussion may be deliberative without being representative, decisive, or just.",
+        "transfer_limit": "The three longest online threads reveal what sustained discussion could look like, but not what less active participants experienced or whether the public as a whole was represented."
+      }
+    ],
+    "lessons": [
+      "Public input can influence a draft without giving contributors authority over its adoption.",
+      "An advisory referendum can endorse a direction while leaving later parliamentary decisions unresolved.",
+      "A high comment count can coexist with influence concentrated among relatively few contributors."
+    ],
+    "research_gaps": [
+      "The most sustained threads may have differed from shorter exchanges and from the experience of people who did not participate.",
+      "The relative contributions of substantive disagreement, legal-process objections, and political resistance to the adoption failure remain difficult to separate."
+    ],
+    "sources": [
+      {
+        "id": "popescu",
+        "title": "Judging Deliberation: An Assessment of the Crowdsourced Icelandic Constitutional Project",
+        "url": "https://delibdemjournal.org/article/id/974/",
+        "publisher": "Delia Popescu and Matthew Loveland / Journal of Deliberative Democracy",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Methods, discussion, and representation limits reviewed; long-thread selection constrains inference."
+      },
+      {
+        "id": "palsdottir",
+        "title": "Why Do Politicians Not Act Upon Citizens' Deliberations? Evidence From Iceland",
+        "url": "https://journals.sagepub.com/doi/10.1177/14789299231197157",
+        "publisher": "Valgerður Björk Pálsdóttir, Sergiu Gherghina and Paul Tap / Political Studies Review",
+        "type": "primary-research",
+        "access": "search-excerpt",
+        "note": "Political uptake and non-adoption; causal explanations treated as hypotheses."
+      }
+    ]
+  },
+  {
+    "id": "oregon-citizens-initiative-review",
+    "title": "Oregon: citizens writing a guide for other voters",
+    "question": "Can a deliberating panel improve public knowledge without deciding for the electorate?",
+    "period": "2010–2018 evaluated panels; commission hiatus continuing in the 2026 official record",
+    "location": "Oregon, United States, with comparison trials elsewhere",
+    "scale": "institutions",
+    "technology_ids": [
+      "T102",
+      "T108",
+      "T107"
+    ],
+    "summary": "Citizens' Initiative Review convened a stratified sample of voters to question advocates and experts about ballot measures, deliberate, and write a short public statement. The panel informed voters rather than replacing the referendum. Oregon placed statements in its official voters' pamphlet, but the commission later went on hiatus despite evidence that reading the statements improved policy knowledge.",
+    "outcome": "mixed",
+    "outcome_summary": "Across survey experiments covering reviews in Oregon and elsewhere, readers of panel statements gained policy knowledge. That result concerns understanding after exposure to the statement, not whether every voter read it or whether the resulting policies were better. Oregon's commission had been on hiatus since 2018 as of the 2026 official record, separating the information product's value from the institution's ability to keep operating.",
+    "observations": [
+      {
+        "claim": "Panels considered evidence and competing arguments over four to five days, then produced factual findings and pro/con arguments for voters.",
+        "source_ids": [
+          "gastil"
+        ]
+      },
+      {
+        "claim": "Experiments spanning thirteen reviews and 10,872 registered voters found a positive effect of reading the statements on policy knowledge.",
+        "source_ids": [
+          "gastil"
+        ]
+      },
+      {
+        "claim": "As of 2026, the commission had been on hiatus since 2018, although the official voters' pamphlet procedures still provided for its statements.",
+        "source_ids": [
+          "manual"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A short synthesis vetted by peers can reduce the effort needed to learn about a ballot measure.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "gastil"
+        ],
+        "alternative": "Part of the improvement may arise from receiving any concise relevant information, rather than deliberation or peer authorship specifically."
+      },
+      {
+        "claim": "Formal authorization is insufficient for durability if an institution lacks the resources or support to keep operating.",
+        "status": "plausible",
+        "source_ids": [
+          "manual"
+        ],
+        "alternative": "Inactivity could also reflect administrative or strategic choices; the existence of a hiatus does not identify which organizational commitment failed."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Deliberative mini-publics as trusted information intermediaries",
+        "evidence_status": "Survey-experimental evidence for reader knowledge, narrower than overall democratic improvement",
+        "source_ids": [
+          "gastil"
+        ],
+        "relevance": "The panel's output connects a small deliberative process to a much larger electorate.",
+        "transfer_limit": "Exposing research participants to a statement differs from ensuring that voters encounter and trust it in a real campaign."
+      }
+    ],
+    "lessons": [
+      "A panel can help other voters understand an issue while leaving the final vote with the electorate.",
+      "Publication and readership are separate: a useful statement must also reach people amid competing campaign information.",
+      "Legal authorization can remain in place while the organization needed to deliver the process stops operating."
+    ],
+    "research_gaps": [
+      "The pooled knowledge result combines Oregon with other jurisdictions; effects specific to Oregon may differ.",
+      "The causes of the commission's hiatus remain unresolved, including the relative roles of funding, organizational capacity, and political support."
+    ],
+    "sources": [
+      {
+        "id": "gastil",
+        "title": "Deliberative panels as a source of public knowledge: A large-sample test of the Citizens' Initiative Review",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0288188",
+        "publisher": "John Gastil and colleagues / PLOS ONE",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Abstract and design/results overview; multiple experiments, not an adoption-outcome trial."
+      },
+      {
+        "id": "manual",
+        "title": "State Voters' Pamphlet Manual: ELECT 1-2026",
+        "url": "https://sos.oregon.gov/elections/Documents/voters-pamphlet-permanent-administrative-order-ELECT-1-2026.pdf",
+        "publisher": "Oregon Secretary of State",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Commission section explicitly records hiatus and the statutory panel procedure."
+      }
+    ]
+  },
+  {
+    "id": "nepal-irrigation-self-governance",
+    "title": "Nepal irrigation: better hardware was not enough",
+    "question": "Why could farmer-managed systems outperform more technically sophisticated agency-managed systems?",
+    "period": "Comparative studies published in 1994 and 2012",
+    "location": "Nepal, multiple irrigation systems",
+    "scale": "communities",
+    "technology_ids": [
+      "T245",
+      "T248"
+    ],
+    "summary": "In Nepal, farmer-managed irrigation systems often operated with simpler physical works than agency-managed systems while devising and enforcing their own rules. Yet they could perform better. Water delivery depended not only on engineering but on who maintained the works, how water was allocated, and whether users could make one another keep their commitments.",
+    "outcome": "mixed",
+    "outcome_summary": "In the systems examined, farmer-managed irrigation had higher average performance and stronger local rule enforcement than agency-managed irrigation. The comparison points to the importance of organization alongside infrastructure. Differences in water availability, geography, and system size make it difficult to attribute the whole advantage to local management.",
+    "observations": [
+      {
+        "claim": "Farmer-managed systems tended to outperform state-operated systems despite comparatively low-tech infrastructure.",
+        "source_ids": [
+          "ostrom"
+        ]
+      },
+      {
+        "claim": "Enforcement was stronger in the farmer-managed systems with locally devised rules than in the agency-managed systems with rules made by outside officials.",
+        "source_ids": [
+          "rules"
+        ]
+      },
+      {
+        "claim": "The rules operated in communities with different beliefs and biophysical conditions; management type alone did not describe all the conditions affecting cooperation.",
+        "source_ids": [
+          "rules"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Locally workable rules and credible enforcement helped sustain contributions and coordination.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "rules"
+        ],
+        "alternative": "Water availability, system size, geography, and selection into management type could explain part of the performance difference."
+      },
+      {
+        "claim": "Infrastructure projects can disappoint when they alter physical works without preserving users' incentives to maintain and allocate water.",
+        "status": "plausible",
+        "source_ids": [
+          "ostrom",
+          "rules"
+        ],
+        "alternative": "Insufficient funding, staff, or maintenance quality within agencies may matter more than external rulemaking itself."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Institutional Analysis and Development; institutional grammar applied to irrigation rules",
+        "evidence_status": "Comparative observational research, with ADICO rule analysis in the later study",
+        "source_ids": [
+          "ostrom",
+          "rules"
+        ],
+        "relevance": "Rules in use shape users' incentives to contribute maintenance, respect allocations, and respond to violations.",
+        "transfer_limit": "Local management still needs to handle water flows, infrastructure, and disputes beyond an individual community. Strong local organization and public technical support can serve different parts of the same system."
+      }
+    ],
+    "lessons": [
+      "Upgrading physical works can leave water delivery unreliable if maintenance and allocation responsibilities no longer fit users' incentives.",
+      "Rules written by an agency and rules people actually enforce can describe different operating systems.",
+      "Average performance can conceal different outcomes for users near the water source and those at the tail end."
+    ],
+    "research_gaps": [
+      "The systems were not randomly assigned to management arrangements, so geography, water supply, and prior community organization may explain some of the observed difference.",
+      "The distribution of gains between head-end and tail-end users remains important even where average system performance is higher."
+    ],
+    "sources": [
+      {
+        "id": "ostrom",
+        "title": "The Performance of Self-Governing Irrigation Systems in Nepal",
+        "url": "https://journals.sagepub.com/doi/10.3233/HSM-1994-13305",
+        "publisher": "Elinor Ostrom, Wai Fung Lam and Myungsuk Lee / Human Systems Management",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Comparative performance puzzle; no numerical causal effect claimed."
+      },
+      {
+        "id": "rules",
+        "title": "Rules and collective action: an institutional analysis of the performance of irrigation systems in Nepal",
+        "url": "https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/abs/rules-and-collective-action-an-institutional-analysis-of-the-performance-of-irrigation-systems-in-nepal/16500439FDC02AB318ED1891BE4ED2B9",
+        "publisher": "Journal of Institutional Economics",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Rule formation, enforcement, and contextual fit; distinct study with related theoretical lineage."
+      }
+    ]
+  },
+  {
+    "id": "torbel-swiss-alpine-commons",
+    "title": "Törbel: a commons with boundaries, private property, and exclusions",
+    "question": "How can collective ownership work together with private holdings—and reproduce inequalities?",
+    "period": "Historical commoner institutions described in twentieth-century research",
+    "location": "Törbel, Valais, Switzerland",
+    "scale": "communities",
+    "technology_ids": [
+      "T245",
+      "T248"
+    ],
+    "summary": "Törbel's alpine economy combined private household land with collectively managed pasture, forest, and irrigation resources. Rules linked summer grazing to the animals households could support in winter and organized maintenance obligations. This was neither open access nor an entirely communal economy: belonging, property, and participation rights determined who could benefit and influence decisions.",
+    "outcome": "mixed",
+    "outcome_summary": "Collective management of alpine resources endured alongside private household holdings. Grazing access and maintenance obligations linked households to the commons, while membership boundaries excluded outsiders. Durability therefore coexisted with unequal rights; the arrangement was not open access or an equal claim for every resident.",
+    "observations": [
+      {
+        "claim": "Privately held fields coexisted with common alpine resources; grazing access was constrained by households' winter-support capacity and linked to maintenance responsibilities.",
+        "source_ids": [
+          "ostrom"
+        ]
+      },
+      {
+        "claim": "Household property, collective work, and membership rights operated together rather than forming separate private and communal economies.",
+        "source_ids": [
+          "haller"
+        ]
+      },
+      {
+        "claim": "Membership boundaries meant that access to common resources did not extend automatically to every resident or newcomer.",
+        "source_ids": [
+          "haller"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Tying resource access to locally supportable livestock plausibly limited an individual's ability to expand grazing costs onto others.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "ostrom",
+          "haller"
+        ],
+        "alternative": "Ecological limits, household labor, and limited markets also constrained herd expansion, making the grazing rule's separate contribution difficult to establish."
+      },
+      {
+        "claim": "Durable commons may need to renegotiate their relationships with markets and public authorities as well as maintain their own rules.",
+        "status": "plausible",
+        "source_ids": [
+          "haller"
+        ],
+        "alternative": "Continuing local obligations and ecological constraints may preserve some arrangements even as outside institutions change; their relative importance differs across places."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Ostrom's common-pool resource governance, qualified by historical political ecology",
+        "evidence_status": "Historical case synthesis and critical comparative interpretation",
+        "source_ids": [
+          "ostrom",
+          "haller"
+        ],
+        "relevance": "Boundaries and fitted rules can support coordination while leaving distributional and power questions unresolved.",
+        "transfer_limit": "A membership rule that protects a resource can be exclusionary; institutional survival does not establish an ethically acceptable franchise."
+      }
+    ],
+    "lessons": [
+      "Grazing rights were connected to household capacity and collective maintenance, making access depend on obligations as well as ownership.",
+      "A well-maintained commons can still exclude people from benefits or a voice in its rules.",
+      "Private holdings and shared resources can support one another rather than requiring a wholly private or wholly communal economy."
+    ],
+    "research_gaps": [
+      "The historical arrangement does not settle how Törbel's present-day resource use and participation have changed with markets, labor availability, and public policy.",
+      "The extent to which excluded households bore costs or found alternative access is important to judging the distribution of benefits."
+    ],
+    "sources": [
+      {
+        "id": "ostrom",
+        "title": "Governing the Commons: The Evolution of Institutions for Collective Action",
+        "url": "https://aikon.org/wp-content/uploads/2022/12/Elinor-Ostrom-Governing-the-Commons_-The-Evolution-of-Institutions-for-Collective-Action-Cambridge-University-Press-2015.pdf",
+        "publisher": "Elinor Ostrom / Cambridge University Press",
+        "type": "review",
+        "access": "search-excerpt",
+        "note": "Törbel passages on wintering, maintenance, and private/common property; full PDF fetch timed out."
+      },
+      {
+        "id": "haller",
+        "title": "Swiss commoners' struggles for the right balance: Ontologies, identities and responses to market and state pressures",
+        "url": "https://journals.sagepub.com/doi/10.1177/0308275X251315266",
+        "publisher": "Tobias Haller / Critique of Anthropology",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Historical Törbel discussion and contemporary comparative framing; current cases are Uri and Olivone."
+      }
+    ]
+  },
+  {
+    "id": "valencia-irrigators-tribunal",
+    "title": "Valencia: local water justice backed by wider authority",
+    "question": "How do user institutions combine local knowledge with public legal recognition?",
+    "period": "Historical irrigation institutions; UNESCO recognition in 2009 and historical reassessment in 2015",
+    "location": "Valencia region, Spain",
+    "scale": "communities",
+    "technology_ids": [
+      "T245",
+      "T318",
+      "T109"
+    ],
+    "summary": "Valencian irrigation communities developed arrangements for allocating scarce water and resolving disputes. The Water Tribunal is a visible part of this wider system, recognized in Spanish law and associated with elected irrigator representatives. Local institutions interacted with municipal and higher authorities; their long history included changes in property, membership, and political power.",
+    "outcome": "mixed",
+    "outcome_summary": "User institutions endured and retained meaningful local autonomy within a wider legal order. That continuity does not establish that irrigators always had equal power: claims of uniformly peasant, democratic, and unchanged governance across the thirteenth to eighteenth centuries remain contested.",
+    "observations": [
+      {
+        "claim": "Irrigators' tribunals, including Valencia's Water Tribunal, have legal recognition, elected members, and oral dispute-settlement procedures.",
+        "source_ids": [
+          "unesco"
+        ]
+      },
+      {
+        "claim": "Irrigation communities exercised local autonomy while interacting with municipal and higher authorities.",
+        "source_ids": [
+          "peris"
+        ]
+      },
+      {
+        "claim": "Claims that the thirteenth-to-eighteenth-century institutions were uniformly peasant, democratic, or unchanged remain historically contested.",
+        "source_ids": [
+          "peris"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Locally knowledgeable dispute resolution, backed by legal recognition, plausibly lowers the difficulty of enforcing irrigation agreements.",
+        "status": "plausible",
+        "source_ids": [
+          "unesco",
+          "peris"
+        ],
+        "alternative": "Landownership power and public authorities' coercive capacity may also sustain compliance without equal influence among users."
+      },
+      {
+        "claim": "The institutional history may be better understood as recurrent adaptation than as preservation of a single ancient blueprint.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "peris"
+        ],
+        "alternative": "Some procedural continuities may remain important even when membership, property relations, and surrounding government change."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Nested commons governance in the Maass–Glick–Ostrom tradition",
+        "evidence_status": "Historically reassessed explanatory framework, not a controlled outcome test",
+        "source_ids": [
+          "peris"
+        ],
+        "relevance": "Local self-organization and larger-scale authority can complement each other.",
+        "transfer_limit": "Legal recognition and long survival leave separate questions about who could bring a claim, whose interests shaped decisions, and whether judgments distributed water fairly."
+      }
+    ],
+    "lessons": [
+      "Local dispute settlement can depend on recognition and enforcement beyond the community itself.",
+      "A continuing procedure can operate through major changes in who owns land and who holds influence.",
+      "Elected irrigator representatives do not by themselves reveal the position of tenants, smallholders, or users outside the recognized membership."
+    ],
+    "research_gaps": [
+      "How accessible, timely, and impartial the tribunal is for different present-day users remains a separate question from its historical endurance.",
+      "Changes in landownership and representation make it difficult to infer a continuous distribution of power from the survival of a named institution."
+    ],
+    "sources": [
+      {
+        "id": "unesco",
+        "title": "Irrigators' tribunals of the Spanish Mediterranean coast",
+        "url": "https://ich.unesco.org/doc/src/06859-EN.pdf",
+        "publisher": "UNESCO Intangible Cultural Heritage",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Recognition, elected membership, oral proceedings, and legal standing; heritage framing is favorable."
+      },
+      {
+        "id": "peris",
+        "title": "Valencian vegetable gardens: the imperative need to update Maass, Glick and Ostrom's postulates",
+        "url": "https://revista-asyd.org/index.php/asyd/en/article/view/234",
+        "publisher": "Tomás Peris-Albentosa / Agricultura, Sociedad y Desarrollo",
+        "type": "review",
+        "access": "abstract",
+        "note": "Historical reassessment based on later irrigation scholarship, including challenges to democratic and stability claims."
+      }
+    ]
+  },
+  {
+    "id": "alanya-fishing-rotation",
+    "title": "Alanya: taking turns at the best fishing spots",
+    "question": "When can a lottery and rotation replace competition for a scarce location?",
+    "period": "Late 1960s–1989",
+    "location": "Alanya, Mediterranean coast of Turkey",
+    "scale": "communities",
+    "technology_ids": [
+      "T245",
+      "T108"
+    ],
+    "summary": "Alanya's small-boat fishers faced a narrow band of productive net-setting locations. They developed a locally agreed system that named sites, assigned starting positions by lot, and rotated access. The arrangement addressed interference and competition among participating fishers; it was not a comprehensive solution to every source of pressure on marine stocks.",
+    "outcome": "mixed",
+    "outcome_summary": "The historical account describes workable coordination and more evenly shared access to valuable sites. Its scope was limited: outside recreational users lacked equivalent rules, legal exclusion powers were uncertain, and informal enforcement included coercive pressure. Favorable coastal geography also reduced interference from trawlers, complicating any claim that the rules alone caused success.",
+    "observations": [
+      {
+        "claim": "Licensed local fishers could join the allocation regardless of cooperative membership; a lottery established starting positions and rotation shared valuable sites.",
+        "source_ids": [
+          "berkes-chapter"
+        ]
+      },
+      {
+        "claim": "The agreement was deposited with local authorities, but fishers doubted they could legally remove a violator's access; informal pressure was important.",
+        "source_ids": [
+          "berkes-chapter"
+        ]
+      },
+      {
+        "claim": "The local allocation arrangement addressed participating small-boat fishers' use of sites, while competition involving other fishing sectors exceeded that agreement's boundaries.",
+        "source_ids": [
+          "berkes-1986"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Rotation made accepting a less desirable site today more tolerable by offering future access to better sites.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "berkes-chapter"
+        ],
+        "alternative": "Small-group familiarity and the ability to observe neighboring nets may have been equally important to compliance."
+      },
+      {
+        "claim": "The arrangement's apparent success partly depended on a problem boundary favorable to local control.",
+        "status": "plausible",
+        "source_ids": [
+          "berkes-1986",
+          "berkes-chapter"
+        ],
+        "alternative": "Other fishing communities might develop broader agreements; heterogeneous users do not make coordination inherently impossible."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Common-pool resource appropriation rules and conditional local self-governance",
+        "evidence_status": "Comparative field interpretation with limited outcome measurement",
+        "source_ids": [
+          "berkes-1986"
+        ],
+        "relevance": "Sharing opportunities over time can reduce a scramble for a spatially scarce resource.",
+        "transfer_limit": "More orderly site allocation does not establish sustainable fish stocks. It also leaves questions about excluded users and coercive methods of securing compliance."
+      }
+    ],
+    "lessons": [
+      "Rotation let participants accept a poor location today because their turn at better sites would come later.",
+      "The fishers could coordinate access to net-setting sites without controlling every source of pressure on fish stocks.",
+      "Informal enforcement included pressure whose fairness and legitimacy matter separately from whether the allocation system functioned."
+    ],
+    "research_gaps": [
+      "Whether the rotation persisted under later changes in fishing pressure, membership, and coastal use is unresolved.",
+      "The historical allocation account does not establish the resulting condition of fish stocks or whether excluded users benefited or lost access."
+    ],
+    "sources": [
+      {
+        "id": "berkes-chapter",
+        "title": "Success and Failure in Marine Coastal Fisheries of Turkey (in Making the Commons Work)",
+        "url": "https://library.uniteddiversity.coop/Cooperatives/Multi-Stakeholder_Co-ops/Making_the_Commons_Work-Theory_Practice_and_Policy.pdf",
+        "publisher": "Fikret Berkes / ICS Press",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Alanya operational rules and enforcement, printed pages 170–171; adjacent fisheries reveal limits."
+      },
+      {
+        "id": "berkes-1986",
+        "title": "Local-level management and the commons problem: A comparative study of Turkish coastal fisheries",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/0308597X86900540",
+        "publisher": "Fikret Berkes / Marine Policy",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Comparative framing of different fishing sectors; related rather than independent field evidence."
+      }
+    ]
+  },
+  {
+    "id": "montreal-protocol-ozone",
+    "title": "Montreal Protocol: rules, finance, and measurements that can expose cheating",
+    "question": "How can international cooperation combine obligations with assistance and independent feedback?",
+    "period": "1987–2022 assessment; unexpected emissions episode in the 2010s",
+    "location": "Global",
+    "scale": "societies",
+    "technology_ids": [
+      "T229",
+      "T158"
+    ],
+    "summary": "The Montreal Protocol connected controls on ozone-depleting substances with scientific assessment and financial assistance for eligible developing countries. Its social architecture includes differentiated obligations and a fund for compliance costs. Atmospheric measurements supplied an external check on reported activity, including evidence of unexpected emissions that complicated the otherwise strong record of reducing controlled substances.",
+    "outcome": "success",
+    "outcome_summary": "By the 2022 assessment, controlled ozone-depleting substances were declining and ozone recovery was progressing. Unexpected CFC-11 emissions showed that agreed phase-outs had not eliminated noncompliance. Subsequent declines were encouraging, but observing-network gaps and emissions from stored chemicals continued to complicate judgments about complete compliance and recovery timing.",
+    "observations": [
+      {
+        "claim": "Article 10 establishes financial and technical cooperation, including a Multilateral Fund covering agreed incremental costs for eligible parties.",
+        "source_ids": [
+          "article10"
+        ]
+      },
+      {
+        "claim": "Atmospheric measurements showed declining controlled ozone-depleting substances and progress toward ozone recovery.",
+        "source_ids": [
+          "assessment"
+        ]
+      },
+      {
+        "claim": "Unexpected CFC-11 emissions triggered investigations and subsequently declined, while gaps in monitoring left uncertainty about emissions elsewhere.",
+        "source_ids": [
+          "assessment"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Financial assistance plausibly made compliance more feasible and politically acceptable where transition costs otherwise threatened participation.",
+        "status": "plausible",
+        "source_ids": [
+          "article10"
+        ],
+        "alternative": "Available substitutes, commercial incentives, and domestic regulation also supported phase-outs; the financial mechanism operated alongside these changes."
+      },
+      {
+        "claim": "Independent atmospheric measurement allowed the regime to detect problems that production reports alone could miss.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "assessment"
+        ],
+        "alternative": "Detection does not by itself explain subsequent reductions; enforcement, publicity, and producer decisions may have jointly contributed."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Shared obligations became more feasible when the agreement also addressed eligible countries' transition costs.",
+      "Atmospheric measurements provided a check beyond countries' production reports.",
+      "Unexpected emissions required investigation and response after the treaty was already operating; signing an agreement was not the end of coordination."
+    ],
+    "research_gaps": [
+      "Observing-network gaps leave uncertainty about the location and scale of some emissions.",
+      "Stored chemicals can continue to leak after new production is controlled, so phase-out dates and atmospheric recovery dates need not coincide.",
+      "The relative contributions of finance, substitutes, commercial incentives, and domestic enforcement remain difficult to separate."
+    ],
+    "sources": [
+      {
+        "id": "assessment",
+        "title": "Scientific Assessment of Ozone Depletion 2022: Executive Summary",
+        "url": "https://csl.noaa.gov/assessments/ozone/2022/executivesummary/",
+        "publisher": "WMO/UNEP Scientific Assessment Panel, hosted by NOAA",
+        "type": "review",
+        "access": "sections",
+        "note": "Key findings and CFC-11 section; distinguishes observations, attribution, and projections."
+      },
+      {
+        "id": "article10",
+        "title": "Montreal Protocol Article 10: Financial mechanism",
+        "url": "https://ozone.unep.org/treaties/montreal-protocol/articles/article-10-financial-mechanism",
+        "publisher": "UNEP Ozone Secretariat",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Legal design of assistance and fund contributions, not an evaluation of financial additionality."
+      }
+    ]
+  },
+  {
+    "id": "alaska-halibut-sablefish-quotas",
+    "title": "Alaska fishing quotas: ending the race while narrowing entry",
+    "question": "How can a rule improve operations while redistributing access across people and generations?",
+    "period": "1995–2023 outcomes, reviewed in 2020 and 2024",
+    "location": "Alaska halibut and sablefish fisheries, United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T244"
+    ],
+    "summary": "Alaska's individual fishing quota program assigned shares of allowable harvest, replacing a compressed competitive season with more individually planned fishing. Designers added protections intended to retain small vessels, working owners, crews, and coastal communities. Over time, fishing became less compressed while access to quota and participation in the fleet consolidated.",
+    "outcome": "mixed",
+    "outcome_summary": "Fishing seasons lengthened and some conditions improved for remaining crews. Quota ownership and vessel participation consolidated, with unequal consequences across communities and generations. Entry barriers and transfer provisions mattered alongside changing catches and prices; the program did not produce one uniform experience for everyone formerly connected to the fisheries.",
+    "observations": [
+      {
+        "claim": "Fishing shifted from very short seasons to seasons lasting more than eight months.",
+        "source_ids": [
+          "retrospective"
+        ]
+      },
+      {
+        "claim": "Conditions improved for some remaining crews, while access and benefits became uneven across generations and communities despite protective provisions.",
+        "source_ids": [
+          "retrospective"
+        ]
+      },
+      {
+        "claim": "Fleet and quota-holder consolidation continued through the period reviewed in 2024, alongside changes in environmental conditions, catch limits, prices, and ownership caps.",
+        "source_ids": [
+          "review2024"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Secure individual allocations reduced incentives to rush for a common seasonal catch before competitors took it.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "retrospective"
+        ],
+        "alternative": "Other operational regulations and market changes also influenced timing and safety, so the changes cannot be assigned entirely to individual quota allocations."
+      },
+      {
+        "claim": "Transferable rights and valuable scarce quotas can shift access toward capital and away from new entrants even when total harvest is controlled.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "retrospective",
+          "review2024"
+        ],
+        "alternative": "Declining catch availability and rising operating costs can make entry harder independently of ownership rules."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Catch-share incentives versus distributional objectives",
+        "evidence_status": "Longitudinal descriptive evaluation, with explicit confounding influences",
+        "source_ids": [
+          "retrospective",
+          "review2024"
+        ],
+        "relevance": "A rule addressing the race to fish simultaneously creates assets whose allocation affects livelihoods.",
+        "transfer_limit": "Reduced vessel numbers are neither automatically a social failure nor proof of healthy fish stocks; affected groups and ecological outcomes need distinct measures."
+      }
+    ],
+    "lessons": [
+      "Initial quota allocation created valuable assets, making later entry a different problem from the original allocation.",
+      "Improved conditions among remaining participants can coexist with lost access for people who leave or cannot enter.",
+      "Protective ownership and vessel rules need to be judged by their effects across communities, not only by whether they exist."
+    ],
+    "research_gaps": [
+      "Quota ownership, changing catch availability, and rising operating costs all affected entry; their separate contributions are difficult to establish.",
+      "Longer seasons and fewer vessels describe operational changes, not a demonstrated quota-caused recovery of biological stocks."
+    ],
+    "sources": [
+      {
+        "id": "retrospective",
+        "title": "The Pacific Halibut and Sablefish Individual Fishing Quota Program: A Twenty-year Retrospective",
+        "url": "https://spo.nmfs.noaa.gov/sites/default/files/pdf-content/mfr821-21.pdf",
+        "publisher": "Marysia Szymkowiak, Sarah Marrinan and Stephen Kasperski / NOAA Marine Fisheries Review",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Abstract, methods cautions, and capacity/distribution findings reviewed."
+      },
+      {
+        "id": "review2024",
+        "title": "Sablefish and Halibut IFQ Review Report",
+        "url": "https://meetings.npfmc.org/CommentReview/DownloadFile?fileName=D5+IFQ+Program+Review+-+Copy.pdf&p=e3822051-cff0-405b-9c9c-ba192bb3c41c.pdf",
+        "publisher": "Northern Economics / North Pacific Fishery Management Council",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "November 2024 report, fleet and consolidation sections; newer administrative update."
+      }
+    ]
+  },
+  {
+    "id": "new-zealand-quota-and-maori-access",
+    "title": "New Zealand quotas: owning fishing assets is not the same as being able to fish",
+    "question": "When do formally allocated rights fail to translate into practical access or self-determination?",
+    "period": "1986 quota system; 1992 settlement and subsequent development examined through 2024",
+    "location": "Aotearoa New Zealand",
+    "scale": "societies",
+    "technology_ids": [
+      "T244"
+    ],
+    "summary": "New Zealand's quota system divides allowable commercial harvest into shares and annual catch entitlements. Its development intersected with Māori rights claims and a settlement transferring assets and governance powers. The case distinguishes a formal allocation from the practical ability to use it.",
+    "outcome": "mixed",
+    "outcome_summary": "The system limits and allocates catches, and Māori entities acquired valuable assets. Yet small-scale fishers continued to face regulatory and market barriers. Collective ownership of quota therefore did not necessarily translate into fishing livelihoods for particular households, and neither measure alone establishes ecological recovery or self-determination.",
+    "observations": [
+      {
+        "claim": "The official system allocates annual catch entitlement according to quota ownership and the commercial catch limit for a stock.",
+        "source_ids": [
+          "mpi"
+        ]
+      },
+      {
+        "claim": "Initial allocation disadvantaged some part-time Māori fishers; later settlement arrangements transferred fishing rights and assets to Māori entities.",
+        "source_ids": [
+          "bodwitch"
+        ]
+      },
+      {
+        "claim": "Regulatory and market-access constraints continued after those reallocations, limiting some fishers' ability to turn rights into practical fishing opportunities.",
+        "source_ids": [
+          "bodwitch"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Collective asset income can coexist with limited fishing opportunities for particular households.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "bodwitch"
+        ],
+        "alternative": "Collective dividend strategies may deliberately prioritize all beneficiaries rather than maximize employment for a smaller subset of fishers."
+      },
+      {
+        "claim": "Tradability does not alone explain conservation gains, since limits and initial allocation changes can affect pressure before a quota market operates.",
+        "status": "plausible",
+        "source_ids": [
+          "mpi",
+          "bodwitch"
+        ],
+        "alternative": "Market reallocation may still improve later efficiency; establishing that requires separating its effect from catch limits and enforcement."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Indigenous self-determination and the distinction between formal rights and access to benefits",
+        "evidence_status": "Comparative qualitative research, not a universal rejection of quota systems",
+        "source_ids": [
+          "bodwitch"
+        ],
+        "relevance": "Formal ownership and practical access are different.",
+        "transfer_limit": "Treaty obligations and colonial history preclude treating iwi simply as investor groups."
+      }
+    ],
+    "lessons": [
+      "An entity can hold a valuable right while individual households lack the means to use it.",
+      "Income from collectively owned assets, fishing work, food access, and political authority are different benefits and can move in different directions.",
+      "Allocation criteria can preserve historical exclusions even when they appear administratively neutral."
+    ],
+    "research_gaps": [
+      "Biological outcomes vary by stock and cannot be inferred from the value of quota assets or their ownership.",
+      "Different iwi and households may experience the system differently; a single national average would conceal differences in assets, strategy, and practical access."
+    ],
+    "sources": [
+      {
+        "id": "mpi",
+        "title": "Quota Management System",
+        "url": "https://www.mpi.govt.nz/fishing-aquaculture/fisheries-management/quota-management-system",
+        "publisher": "New Zealand Ministry for Primary Industries",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Official operational explanation of quota, annual catch entitlement, and catch limits."
+      },
+      {
+        "id": "bodwitch",
+        "title": "Indigenous self-determination in fisheries governance: implications from New Zealand and Atlantic Canada",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1297975/full",
+        "publisher": "Hekia Bodwitch and colleagues / Frontiers in Marine Science",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "New Zealand allocation, settlement, and small-scale access sections reviewed; Canada not treated as this case."
+      }
+    ]
+  },
+  {
+    "id": "nepal-community-forestry",
+    "title": "Nepal community forests: environmental gains without equal voice",
+    "question": "Can decentralization reduce forest loss and poverty while leaving local elites in charge?",
+    "period": "National outcomes 2000–2012; leadership research published in 2015",
+    "location": "Nepal, national comparison and Baglung district leadership study",
+    "scale": "communities",
+    "technology_ids": [
+      "T245"
+    ],
+    "summary": "Nepal transferred day-to-day forest management responsibilities to community forest user groups. Deforestation and poverty declined on average in a national comparison, while a separate examination of leadership in Baglung found executive roles dominated by relatively wealthy and higher-caste people. Environmental and livelihood gains could coexist with unequal decision power.",
+    "outcome": "mixed",
+    "outcome_summary": "The national analysis estimated improvements in both forest and poverty outcomes on average, with substantial variation. The Baglung study found executive roles dominated by relatively wealthy and higher-caste people. These findings are compatible: a program can improve aggregate outcomes while still reproducing inequalities in voice and access.",
+    "observations": [
+      {
+        "claim": "A national analysis combining poverty, forest-change, and community-forest information estimated relative reductions of 37% in deforestation and 4.3% in poverty associated with community forestry over 2000–2012.",
+        "source_ids": [
+          "national"
+        ]
+      },
+      {
+        "claim": "Benefits varied, with poorer areas less effective at reducing deforestation and larger or older community forests showing greater gains.",
+        "source_ids": [
+          "national"
+        ]
+      },
+      {
+        "claim": "In Baglung, executive committees were dominated by relatively wealthy and higher-caste members. Prior NGO leadership experience was associated with greater access to these roles for disadvantaged people.",
+        "source_ids": [
+          "leadership"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Local management authority may help users establish resource rules that fit local conditions and support joint environmental and livelihood gains.",
+        "status": "plausible",
+        "source_ids": [
+          "national"
+        ],
+        "alternative": "Selection into community forestry and unobserved changes in livelihoods or government support could explain some estimated gains."
+      },
+      {
+        "claim": "Leadership experience may help disadvantaged people cross barriers to formal decision roles.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "leadership"
+        ],
+        "alternative": "People obtaining NGO experience may already differ in confidence, networks, or resources; the association does not establish a training effect."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Decentralized commons governance with distributional and elite-capture analysis",
+        "evidence_status": "National observational impact analysis combined with a distinct local leadership study",
+        "source_ids": [
+          "national",
+          "leadership"
+        ],
+        "relevance": "Environmental effectiveness and democratic inclusion are separate dimensions of institutional performance.",
+        "transfer_limit": "The Baglung sample cannot be treated as a census of all Nepalese user groups, nor can national averages describe every household."
+      }
+    ],
+    "lessons": [
+      "Reduced deforestation, reduced poverty, and a more inclusive leadership are different outcomes; improvement in one does not establish improvement in the others.",
+      "Membership and meeting attendance can coexist with leadership concentrated among advantaged people.",
+      "Poorer communities may need resources and support that better-established groups already possess."
+    ],
+    "research_gaps": [
+      "Selection into community forestry and changes in livelihoods or government support may explain part of the estimated national gains.",
+      "The national comparison and Baglung leadership findings concern different populations and periods; they do not establish which particular groups combined environmental gains with elite control."
+    ],
+    "sources": [
+      {
+        "id": "national",
+        "title": "Community forest management simultaneously reduces poverty and deforestation in Nepal",
+        "url": "https://hummedia.manchester.ac.uk/institutes/gdi/research/Deforestation-poverty-Nepal-research-brief.pdf",
+        "publisher": "Johan Oldekop and colleagues / University of Manchester",
+        "type": "primary-research",
+        "access": "full-text",
+        "note": "Authors' two-page summary of the Nature Sustainability study; relative percentages, heterogeneity, and design overview."
+      },
+      {
+        "id": "leadership",
+        "title": "How can poor and disadvantaged households get an opportunity to become a leader in community forestry in Nepal?",
+        "url": "https://ideas.repec.org/a/eee/forpol/v52y2015icp27-38.html",
+        "publisher": "Bhagwan Dutta Yadav, Hugh Bigsby and Ian MacDonald / Forest Policy and Economics; RePEc abstract",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Baglung leadership analysis; separate sample and outcomes from national forest study."
+      }
+    ]
+  },
+  {
+    "id": "uganda-forest-monitoring-displacement",
+    "title": "Uganda forest monitoring: watching one place can move the damage elsewhere",
+    "question": "What happens when a local intervention changes where people extract resources rather than how much?",
+    "period": "Randomized trial reported in 2021",
+    "location": "110 villages, Uganda",
+    "scale": "communities",
+    "technology_ids": [
+      "T248"
+    ],
+    "summary": "Community forest monitoring was introduced in a randomized trial across Ugandan villages. Resource use was measured inside and outside monitored areas, allowing changes beyond the intervention boundary to become visible. Watching particular forest areas did not necessarily reduce the pressure on forests overall.",
+    "outcome": "failure",
+    "outcome_summary": "The trial detected no improvement in its main forest-use index. Forest loss increased in unmonitored areas relative to controls, consistent with some extraction moving outside the monitored boundary, although displacement is not the only possible explanation. Across a broader six-country study including this trial, monitoring produced modest average benefits, so the Ugandan result differed from the pooled result.",
+    "observations": [
+      {
+        "claim": "The trial randomized monitoring across 110 villages and combined ground measurements with satellite observations.",
+        "source_ids": [
+          "uganda"
+        ]
+      },
+      {
+        "claim": "The main forest-use index showed no treatment effect, while unmonitored areas near treatment and neighboring villages experienced relative increases in forest loss.",
+        "source_ids": [
+          "uganda"
+        ]
+      },
+      {
+        "claim": "A harmonized six-country study, which includes the Uganda experiment, found modest average improvements in resource use, knowledge, and satisfaction across settings.",
+        "source_ids": [
+          "multisite"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Fear of sanctions may have shifted some extraction beyond monitored boundaries instead of reducing demand.",
+        "status": "plausible",
+        "source_ids": [
+          "uganda"
+        ],
+        "alternative": "Other changes affecting unmonitored areas could have contributed to the increase. Random assignment identifies effects of the intervention more clearly than it identifies why forest loss shifted."
+      },
+      {
+        "claim": "Monitoring works differently when users can move pressure to nearby unobserved resources.",
+        "status": "plausible",
+        "source_ids": [
+          "uganda",
+          "multisite"
+        ],
+        "alternative": "Differences in implementation, resource type, authority, or incentives may explain cross-site variation rather than spatial leakage alone."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Commons monitoring as a testable institutional component; spillover and displacement effects",
+        "evidence_status": "Randomized treatment evidence for measured outcomes, weaker identification of the displacement mechanism",
+        "source_ids": [
+          "uganda",
+          "multisite"
+        ],
+        "relevance": "A design condition can have conditional effects, and local improvement is not equivalent to net environmental improvement.",
+        "transfer_limit": "The trial tests a particular externally supported monitoring intervention, not a complete long-standing commons institution."
+      }
+    ],
+    "lessons": [
+      "An intervention's environmental effects can extend beyond the area where it operates; observing only the monitored forest would miss part of this result.",
+      "Installing a monitoring arrangement and reducing total extraction are different achievements.",
+      "Nearby unmonitored resources can become attractive when the risks or costs of extraction rise inside the monitored area."
+    ],
+    "research_gaps": [
+      "Whether the increase outside monitored areas reflected displaced extraction, other behavioral changes, or additional local factors remains uncertain.",
+      "The durability of the effects after the trial and their consequences for households dependent on forest resources remain unresolved."
+    ],
+    "sources": [
+      {
+        "id": "uganda",
+        "title": "Can community monitoring save the commons? Evidence on forest use and displacement",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34253600/",
+        "publisher": "Sabrina Eisenbarth, Louis Graham and Anouk Rigterink / PNAS",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Randomized Uganda results and explicitly tentative displacement explanation; figure descriptions also inspected."
+      },
+      {
+        "id": "multisite",
+        "title": "Adoption of community monitoring improves common pool resource management across contexts",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34253604/",
+        "publisher": "Tara Slough and colleagues / PNAS",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Harmonized trials in six countries; contains Uganda trial and therefore is not independent confirmation."
+      }
+    ]
+  },
+  {
+    "id": "oaxaca-community-forest-control",
+    "title": "Sierra Juárez: winning community control did not remove market constraints",
+    "question": "How do collective resource institutions emerge through political struggle rather than simply being designed?",
+    "period": "1940–1983 concessions and transition; later community management examined through 2020",
+    "location": "Sierra Juárez, Oaxaca, Mexico",
+    "scale": "communities",
+    "technology_ids": [
+      "T245",
+      "T203"
+    ],
+    "summary": "Sierra Juárez forest communities confronted state-supported forestry concessions and later gained greater control over management. An imposed association of communities struggled, while community mobilization and changing forestry laws helped open a route to local control. Acquiring authority was only one step: communities still had to organize production and find viable markets.",
+    "outcome": "mixed",
+    "outcome_summary": "Community organization helped change control over forest resources and supported durable management arrangements. Earlier imposed associations struggled with unequal exploitation and financial management. Later communities faced transport costs, market competition, and limited timber income, so stronger political control did not bring uniform commercial success.",
+    "observations": [
+      {
+        "claim": "State concessions placed forestry under FAPATUX, while an imposed association of forest communities failed amid unequal exploitation and financial-management problems.",
+        "source_ids": [
+          "history"
+        ]
+      },
+      {
+        "claim": "Community mobilization, the ending of concessions, and the development of local management marked major changes in control over the region's forests.",
+        "source_ids": [
+          "appropriation"
+        ]
+      },
+      {
+        "claim": "Stronger community governance coexisted with persistent production costs, transport difficulties, and limited income gains from timber and certification.",
+        "source_ids": [
+          "appropriation"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Locally grounded collective organization made it possible to contest externally assigned control and sustain management after concessions.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "appropriation"
+        ],
+        "alternative": "Changes in national law, political opportunities, and external support also enabled the transition; organization alone was not sufficient."
+      },
+      {
+        "claim": "An imposed multi-community organization struggled when resource contributions and benefits differed without accepted arrangements for managing those differences.",
+        "status": "plausible",
+        "source_ids": [
+          "history"
+        ],
+        "alternative": "Administrative weaknesses, state-company incentives, and market conditions could explain failures apart from intercommunity inequality."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Community appropriation and historically situated forest governance",
+        "evidence_status": "Historical and policy analysis rather than an experimentally isolated governance effect",
+        "source_ids": [
+          "history",
+          "appropriation"
+        ],
+        "relevance": "Control over resources is produced through conflict, law, and collective organization, not only internal operational rules.",
+        "transfer_limit": "Community land institutions and the legal history of concessions shaped which claims could succeed. Internal rules alone would not give another community equivalent authority over a resource."
+      }
+    ],
+    "lessons": [
+      "The authority to manage a resource may have to be won through political organization and legal change before local procedures can matter.",
+      "Control over forests and the ability to earn sustainable income from them are separate problems.",
+      "A multi-community organization needs accepted ways to handle unequal resource contributions and benefits."
+    ],
+    "research_gaps": [
+      "The regional trajectory combines communities with different resources and histories; their gains and difficulties were not identical.",
+      "The relationship between changes in control and subsequent forest-cover outcomes remains distinct from the evidence of political and organizational change.",
+      "Unequal benefits, administrative weaknesses, and state-company incentives may all have contributed to the imposed association's failure."
+    ],
+    "sources": [
+      {
+        "id": "history",
+        "title": "Concesiones Forestales y Empresas Comunitarias en Sierra Juárez (1940–1983). Apuestas del Estado Mexicano",
+        "url": "https://www.halacsolcha.org/index.php/halac/article/view/992",
+        "publisher": "Gabriela Acosta Espino and Alma Amalia González Cabañas / HALAC",
+        "type": "history",
+        "access": "abstract",
+        "note": "Concessions, FAPATUX, and imposed association; archival references visible but full archival evidence not independently checked."
+      },
+      {
+        "id": "appropriation",
+        "title": "Community forest appropriation in the Sierra Juárez of Oaxaca in the face of forest policies",
+        "url": "https://revistas.chapingo.mx/textual/article/download/r.textual.2020.75.04/r.textual.2020.75.04/1239",
+        "publisher": "Ciro Aquino-Vásquez and colleagues / Textual",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Historical turning points and late discussion/conclusion on costs, markets, certification, and governance."
+      }
+    ]
+  },
+  {
+    "id": "bologna-collaboration-pacts",
+    "title": "Bologna: giving citizen projects a recognized relationship with city government",
+    "question": "Can legal agreements turn informal care for shared places into sustained public collaboration?",
+    "period": "2014 regulation onward; analysis published in 2026",
+    "location": "Bologna, Italy",
+    "scale": "institutions",
+    "technology_ids": [
+      "T245",
+      "T083"
+    ],
+    "summary": "Bologna's 2014 regulation created a framework for citizens and the municipality to agree on caring for and regenerating urban commons. Collaboration pacts made responsibilities and support discussable within a recognized public process. The framework supported extensive participation, while delivering and sustaining environmental or economic changes remained a further challenge.",
+    "outcome": "mixed",
+    "outcome_summary": "More than 800 pacts were activated after 2014. By the 2026 assessment, governance and participation were more developed than environmental and economic implementation. The agreements created a durable way to organize collaboration, but their number alone did not show whether assets were maintained, benefits were distributed equally, or climate goals were achieved.",
+    "observations": [
+      {
+        "claim": "The regulation defines collaboration between citizens and the municipality for the care and regeneration of tangible, intangible, and digital urban commons.",
+        "source_ids": [
+          "regulation"
+        ]
+      },
+      {
+        "claim": "More than 800 pacts had been activated since 2014, and the collaboration arrangements had connections to Bologna's climate-contract work by 2026.",
+        "source_ids": [
+          "study"
+        ]
+      },
+      {
+        "claim": "The qualitative and indicator-based assessment found environmental and economic implementation less developed than governance and participation; it identified a pattern rather than a causal effect of the pacts.",
+        "source_ids": [
+          "study"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A recognized agreement framework plausibly reduces uncertainty about how officials and citizen groups can work together.",
+        "status": "plausible",
+        "source_ids": [
+          "regulation"
+        ],
+        "alternative": "Bologna's existing civic organizations and administrative capacity may explain much of the observed collaboration."
+      },
+      {
+        "claim": "Participation infrastructure can expand faster than the money, technical capability, and maintenance needed for downstream outcomes.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "study"
+        ],
+        "alternative": "Some environmental effects may take longer to appear or may not be captured by the indicators used."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "City as a Commons and collaborative urban governance",
+        "evidence_status": "Conceptual framework applied through qualitative trajectory analysis and an interpretive indicator model",
+        "source_ids": [
+          "study"
+        ],
+        "relevance": "Government provided a recognized framework for residents to share stewardship, rather than acting only as an owner or purchaser of services.",
+        "transfer_limit": "Unpaid participation requires time and resources that residents possess unequally. A pact can add civic capacity, but it can also shift work onto residents that a public service would otherwise provide."
+      }
+    ],
+    "lessons": [
+      "An agreement to begin work needs resources, maintenance responsibilities, and a way to handle withdrawal if it is to sustain a shared place.",
+      "Signed pacts show that collaboration is taking place; completed and maintained outcomes reveal what it delivers.",
+      "The distribution of unpaid work matters when judging whether collaboration adds capacity or transfers public obligations to residents."
+    ],
+    "research_gaps": [
+      "The persistence and quality of maintenance across individual pacts remain different questions from the number activated.",
+      "Environmental changes may take longer to appear or fall outside the chosen indicators, complicating comparisons with participation outcomes.",
+      "How unpaid labor, municipal support, and benefits are distributed across neighborhoods remains unresolved."
+    ],
+    "sources": [
+      {
+        "id": "regulation",
+        "title": "Regulation on Collaboration between Citizens and the City for the Care and Regeneration of Urban Commons",
+        "url": "https://www.comune.bologna.it/media/files/bolognaregulation.pdf",
+        "publisher": "Municipality of Bologna",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Purpose and definitions reviewed; legacy document endpoint now redirects, so current legal text requires separate verification."
+      },
+      {
+        "id": "study",
+        "title": "The City as a Commons Approach and New Forms of Collaborative Governance Models: The Example of Bologna",
+        "url": "https://cris.unibo.it/bitstream/11585/1054294/1/_Full%20paper%20published.pdf",
+        "publisher": "Cecilia Mazzoli and colleagues / Land",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Abstract, methodological framing, and pact discussion; interpretive evaluation explicitly avoids causal-effect claims."
+      }
+    ]
+  },
+  {
+    "id": "chile-constitution-rejections",
+    "title": "Chile: an inclusive drafting process still had to persuade the electorate",
+    "question": "How can a constitution-making process lose the consent needed to enact its result?",
+    "period": "2021–2023, focusing on the 2022 proposal and its rejection",
+    "location": "Chile",
+    "scale": "societies",
+    "technology_ids": [
+      "T146",
+      "T109",
+      "T107"
+    ],
+    "summary": "Chile elected a constitutional convention and subjected its proposed replacement constitution to a national referendum. The process expanded representation and participation in drafting, but the electorate rejected the 2022 text. A differently organized second process also ended in rejection in 2023, making it difficult to reduce the episode to one procedural flaw or ideological explanation.",
+    "outcome": "failure",
+    "outcome_summary": "Both processes ended without an enacted replacement constitution. Voters rejected the texts through the final decision assigned to them: 61.86% voted to reject in the final preliminary 2022 tally, and 55.76% voted against the second proposal in the equivalent 2023 bulletin. Fragmented drafting and difficult bargaining may help explain the first result, but the second rejection under a different process makes a single procedural explanation inadequate.",
+    "observations": [
+      {
+        "claim": "Servel's final preliminary 2022 tally reported 61.86% voting to reject the convention's proposal.",
+        "source_ids": [
+          "servel2022"
+        ]
+      },
+      {
+        "claim": "The first convention combined party-less independents, a comparatively weak right-wing bloc, and decentralized public drafting.",
+        "source_ids": [
+          "analysis"
+        ]
+      },
+      {
+        "claim": "Servel's final preliminary 2023 bulletin reported 55.76% voting against the second proposal.",
+        "source_ids": [
+          "servel2023"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Weak coordination and limited cross-bloc bargaining may have produced a draft insufficiently aligned with a wider electorate.",
+        "status": "contested",
+        "source_ids": [
+          "analysis"
+        ],
+        "alternative": "Substantive opposition to provisions, campaign dynamics, distrust, and changing turnout could produce rejection even under a more coordinated process."
+      },
+      {
+        "claim": "Representativeness inside a convention does not automatically create a durable ratification coalition outside it.",
+        "status": "plausible",
+        "source_ids": [
+          "analysis",
+          "servel2022",
+          "servel2023"
+        ],
+        "alternative": "A sufficiently popular substantive package might win without strong party coordination; this case does not isolate either mechanism."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Constitution-making rules, political contingency, and negotiated consent",
+        "evidence_status": "Interpretive single-case explanation; causal claims remain contested",
+        "source_ids": [
+          "analysis"
+        ],
+        "relevance": "Procedures shape bargaining incentives, but their effects depend on the actors and political moment.",
+        "transfer_limit": "A rejected text does not reveal which alternative procedure would have secured approval. More coordination among political leaders could change bargaining without necessarily making the result more legitimate."
+      }
+    ],
+    "lessons": [
+      "A convention's ability to produce a text and its ability to assemble a wider ratification coalition are separate achievements.",
+      "Rejection of a proposed constitution can be an exercise of democratic participation rather than its failure.",
+      "The people represented in drafting and the electorate deciding adoption may differ in turnout, priorities, and political alignment."
+    ],
+    "research_gaps": [
+      "The relative contributions of disputed provisions, campaign dynamics, trust, turnout, and drafting arrangements remain contested.",
+      "The two rejections do not establish an ideal degree of transparency or party control in constitution-making."
+    ],
+    "sources": [
+      {
+        "id": "servel2022",
+        "title": "Servel realiza balance del Plebiscito Constitucional",
+        "url": "https://www-qa.servel.cl/2022/09/05/servel-realiza-balance-del-plebiscito-constitucional/",
+        "publisher": "Servicio Electoral de Chile",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Final preliminary 2022 totals and turnout; official record on a legacy host."
+      },
+      {
+        "id": "analysis",
+        "title": "How not to write a constitution: lessons from Chile",
+        "url": "https://link.springer.com/article/10.1007/s11127-023-01046-z",
+        "publisher": "Guillermo Larraín, Gabriel Negretto and Stefan Voigt / Public Choice",
+        "type": "primary-research",
+        "access": "search-excerpt",
+        "note": "Authors' institutional explanation is presented as contested, not established causation."
+      },
+      {
+        "id": "servel2023",
+        "title": "Boletín final sobre resultados preliminares del Plebiscito Constitucional 2023",
+        "url": "https://www.servel.cl/Ch/app/boletin-final-sobre-resultados-parciales-de-la-eleccion-del-consejo-constitucional-2/noticias/",
+        "publisher": "Servicio Electoral de Chile",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Final preliminary rejection total for the second process; page URL retains a misleading legacy slug."
+      }
+    ]
+  },
+  {
+    "id": "andhra-pradesh-social-audits",
+    "title": "Andhra Pradesh: exposing corruption was not the same as deterring it",
+    "question": "What must connect public scrutiny to consequences for wrongdoing?",
+    "period": "Social audits institutionalized from 2006; evaluations published in 2014–2015",
+    "location": "Andhra Pradesh, India, under the boundaries and program arrangements studied",
+    "scale": "institutions",
+    "technology_ids": [
+      "T324",
+      "T248"
+    ],
+    "summary": "Andhra Pradesh institutionalized social audits of a rural employment program, allowing beneficiaries and auditors to inspect records and raise irregularities publicly. The audits made wrongdoing more visible, but exposure was not reliably connected to consequences. Officials could adapt to scrutiny, leaving a gap between detecting irregularities and deterring them.",
+    "outcome": "mixed",
+    "outcome_summary": "Audits detected irregularities and showed evidence of beneficiary learning, with a modest reduction in leakage per labor-related irregularity. Repeated audits did not deter irregularities overall, and material-related problems increased. Public scrutiny created information, but the evaluated system did not consistently convert that information into prevention or effective accountability.",
+    "observations": [
+      {
+        "claim": "Andhra Pradesh established formally organized, recurring social audits of employment-program works from 2006.",
+        "source_ids": [
+          "guide"
+        ]
+      },
+      {
+        "claim": "The panel analysis detected no statistically significant employment-generation effect and estimated a modest decline in leakage per labor-related irregularity.",
+        "source_ids": [
+          "evaluation"
+        ]
+      },
+      {
+        "claim": "Material-related irregularities increased, and repeated audits did not produce overall deterrence.",
+        "source_ids": [
+          "evaluation"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "When detection is not followed by credible consequences, officials can learn to shift irregularities toward less visible or less beneficiary-sensitive channels.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "evaluation"
+        ],
+        "alternative": "Changes in reporting or audit skill may alter measured irregularities without equivalent changes in underlying corruption."
+      },
+      {
+        "claim": "Beneficiary involvement may improve scrutiny most where participants directly understand what they should receive.",
+        "status": "plausible",
+        "source_ids": [
+          "guide",
+          "evaluation"
+        ],
+        "alternative": "Different transaction complexity, documentation, and auditor expertise could explain the contrast between labor and material irregularities."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Social accountability as an information–response chain, with strategic adaptation",
+        "evidence_status": "Panel-based evaluation and institutional process documentation; not randomized audit assignment",
+        "source_ids": [
+          "evaluation",
+          "guide"
+        ],
+        "relevance": "Voice and information are intermediate outputs; deterrence also requires enforceable responsibility for responding.",
+        "transfer_limit": "The pattern concerns one program and period. Consequences after detection, the complexity of transactions, and beneficiaries' ability to recognize problems all affect what public scrutiny can accomplish."
+      }
+    ],
+    "lessons": [
+      "Public findings need an actor responsible for correction and a deadline for responding; otherwise exposure can leave the underlying incentives unchanged.",
+      "Meetings and complaints reveal activity, while recovery, correction, and repeated offenses reveal what follows from it.",
+      "Officials can adapt to scrutiny by moving irregularities toward transactions that beneficiaries find harder to observe."
+    ],
+    "research_gaps": [
+      "Improved detection can increase recorded irregularities even if underlying corruption does not rise, complicating interpretation of the observed changes.",
+      "Longer-term deterrence and the consequences of participation for complainants remain unresolved."
+    ],
+    "sources": [
+      {
+        "id": "evaluation",
+        "title": "Social audits and MGNREGA Delivery: Lessons from Andhra Pradesh",
+        "url": "https://gala.gre.ac.uk/id/eprint/22033/",
+        "publisher": "Farzana Afridi and Vegard Iversen / India Policy Forum",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Panel findings, changing irregularities, and follow-up interpretation; repository abstract reviewed."
+      },
+      {
+        "id": "guide",
+        "title": "A Guide to Conducting Social Audits",
+        "url": "https://accountabilityindia.in/publication/a-guide-to-conducting-social-audits-2/",
+        "publisher": "Yamini Aiyar, Soumya Kapoor Mehta and colleagues / Accountability Initiative",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Institutional architecture and Andhra Pradesh process framing, not an independent causal outcome estimate."
+      }
+    ]
+  }
+]

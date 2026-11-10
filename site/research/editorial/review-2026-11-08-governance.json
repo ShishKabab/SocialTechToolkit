@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "T101",
+    "type": "technology",
+    "title": "Assemblies",
+    "changed": false,
+    "findings": [
+      "No change: authority, attendance barriers, and implementation are explained through the cooperative assembly example; the participation citation supports a concrete design claim."
+    ]
+  },
+  {
+    "id": "T102",
+    "type": "technology",
+    "title": "Citizens' assemblies",
+    "changed": false,
+    "findings": [
+      "No change: the advisory-versus-binding distinction and recruitment limitations are integral to how a citizens' assembly works."
+    ]
+  },
+  {
+    "id": "T103",
+    "type": "technology",
+    "title": "Citizens' juries",
+    "changed": false,
+    "findings": [
+      "No change: trial-jury comparison explains the name and function; evidence selection and the response to recommendations have concrete consequences."
+    ]
+  },
+  {
+    "id": "T104",
+    "type": "technology",
+    "title": "Town halls",
+    "changed": false,
+    "findings": [
+      "No change: facilitation and nonrepresentative attendance are connected directly to the transport meeting example."
+    ]
+  },
+  {
+    "id": "T105",
+    "type": "technology",
+    "title": "Public consultations",
+    "changed": false,
+    "findings": [
+      "No change: the scope of consultation, response to comments, and organized-interest bias are explained without a research diary."
+    ]
+  },
+  {
+    "id": "T106",
+    "type": "technology",
+    "title": "Petitions",
+    "changed": false,
+    "findings": [
+      "No change: the UK petition example explains a possible procedural consequence, while the surrounding discussion distinguishes signatures from sustained support."
+    ]
+  },
+  {
+    "id": "T107",
+    "type": "technology",
+    "title": "Referendums",
+    "changed": false,
+    "findings": [
+      "No change: the merger example explains ballot framing and compressed preferences; the citation supplies the definition without narrating research."
+    ]
+  },
+  {
+    "id": "T108",
+    "type": "technology",
+    "title": "Sortition",
+    "changed": false,
+    "findings": [
+      "No change: lottery-pool and compensation discussions distinguish eligibility from practical participation without generic disclaimers."
+    ]
+  },
+  {
+    "id": "T109",
+    "type": "technology",
+    "title": "Elections",
+    "changed": false,
+    "findings": [
+      "No change: seat allocation and campaign incentives explain the mechanism; source attribution does not interrupt the argument."
+    ]
+  },
+  {
+    "id": "T110",
+    "type": "technology",
+    "title": "Appointment",
+    "changed": true,
+    "findings": [
+      "Replaced a generic institutional-example disclaimer with a direct explanation of assessable appointment decisions."
+    ]
+  },
+  {
+    "id": "T111",
+    "type": "technology",
+    "title": "Nomination with reasons",
+    "changed": false,
+    "findings": [
+      "No change: attribution identifies a specific selection procedure; the treasurer example explains why nomination reasons can reveal overlooked work."
+    ]
+  },
+  {
+    "id": "T112",
+    "type": "technology",
+    "title": "Term limits",
+    "changed": true,
+    "findings": [
+      "Replaced detached advice against copying a constitutional example with the concrete problem of counting partial service."
+    ]
+  },
+  {
+    "id": "T113",
+    "type": "technology",
+    "title": "Rotating chairmanship",
+    "changed": false,
+    "findings": [
+      "No change: the EU rotation example connects immediately to handover and administrative continuity in a smaller network."
+    ]
+  },
+  {
+    "id": "T114",
+    "type": "technology",
+    "title": "Recall procedures",
+    "changed": true,
+    "findings": [
+      "Replaced a universal-legal-procedure disclaimer with specific dimensions along which recall rights differ."
+    ]
+  },
+  {
+    "id": "T115",
+    "type": "technology",
+    "title": "Delegated authority",
+    "changed": false,
+    "findings": [
+      "No change: the sociocratic citation supports the domain definition, and the discussion explains concrete failures of nominal delegation."
+    ]
+  },
+  {
+    "id": "T116",
+    "type": "technology",
+    "title": "Subsidiarity",
+    "changed": true,
+    "findings": [
+      "Made the EU formulation explain the allocation problem instead of announcing an analogy and its caveat."
+    ]
+  },
+  {
+    "id": "T117",
+    "type": "technology",
+    "title": "Single accountable decision maker",
+    "changed": false,
+    "findings": [
+      "No change: the named decision role, consultation boundary, and need for real authority are explained through the venue example."
+    ]
+  },
+  {
+    "id": "T118",
+    "type": "technology",
+    "title": "Advice process",
+    "changed": false,
+    "findings": [
+      "No change: the workshop example makes advice without veto concrete; reserved decisions and written reasons are part of the mechanism."
+    ]
+  },
+  {
+    "id": "T119",
+    "type": "technology",
+    "title": "Majority voting",
+    "changed": false,
+    "findings": [
+      "No change: naming Robert's Rules identifies the precise denominator rule rather than pretending it is universal."
+    ]
+  },
+  {
+    "id": "T120",
+    "type": "technology",
+    "title": "Plurality voting",
+    "changed": false,
+    "findings": [
+      "No change: numerical example and candidate splitting explain plurality directly; no detached research caveat."
+    ]
+  },
+  {
+    "id": "T121",
+    "type": "technology",
+    "title": "Supermajority voting",
+    "changed": false,
+    "findings": [
+      "No change: Senate attribution illustrates different thresholds, while blocking power and denominator choices remain central to the explanation."
+    ]
+  },
+  {
+    "id": "T122",
+    "type": "technology",
+    "title": "Unanimity",
+    "changed": false,
+    "findings": [
+      "No change: the EU example clarifies abstention within a named unanimity rule and leads into the practical cost of a veto."
+    ]
+  },
+  {
+    "id": "T123",
+    "type": "technology",
+    "title": "Consensus process",
+    "changed": true,
+    "findings": [
+      "Replaced practitioner-guide narration with a direct description of responses available in a consensus process."
+    ]
+  },
+  {
+    "id": "T124",
+    "type": "technology",
+    "title": "Consent decision-making",
+    "changed": false,
+    "findings": [
+      "No change: the named sociocratic procedure defines an objection, and the personal-boundary distinction explains a substantive limit on group authority."
+    ]
+  },
+  {
+    "id": "T125",
+    "type": "technology",
+    "title": "Rough consensus",
+    "changed": true,
+    "findings": [
+      "Changed narration of the IETF account into the substantive distinction between addressing an objection and satisfying its author."
+    ]
+  },
+  {
+    "id": "T126",
+    "type": "technology",
+    "title": "Fist-to-five checks",
+    "changed": true,
+    "findings": [
+      "Replaced a practitioner-experience summary with a direct account of why visible support does not establish safe disagreement."
+    ]
+  },
+  {
+    "id": "T127",
+    "type": "technology",
+    "title": "Approval voting",
+    "changed": false,
+    "findings": [
+      "No change: count mechanics, strategic approval thresholds, and differences from scores and rankings are directly explained."
+    ]
+  },
+  {
+    "id": "T128",
+    "type": "technology",
+    "title": "Ranked-choice voting",
+    "changed": true,
+    "findings": [
+      "Removed reference to reading city guidance while retaining New York as the specific implementation example."
+    ]
+  },
+  {
+    "id": "T129",
+    "type": "technology",
+    "title": "Score voting",
+    "changed": true,
+    "findings": [
+      "Replaced 'proposal linked here' with the concrete aggregation choice and its consequence for missing ratings."
+    ]
+  },
+  {
+    "id": "T130",
+    "type": "technology",
+    "title": "Dot voting",
+    "changed": false,
+    "findings": [
+      "No change: workshop prioritization, visible-vote momentum, and excluded access needs form a connected explanation."
+    ]
+  },
+  {
+    "id": "T131",
+    "type": "technology",
+    "title": "Quadratic voting",
+    "changed": true,
+    "findings": [
+      "Replaced a detached disclaimer about mathematical proof and voting apps with the specific limits of the credit-cost rule."
+    ]
+  },
+  {
+    "id": "T132",
+    "type": "technology",
+    "title": "Liquid democracy",
+    "changed": true,
+    "findings": [
+      "Replaced narration of network research with a conditional explanation of concentrated delegated voting power."
+    ]
+  },
+  {
+    "id": "T133",
+    "type": "technology",
+    "title": "Proxy voting",
+    "changed": true,
+    "findings": [
+      "Replaced a jurisdiction disclaimer with the specific authorization and eligibility checks that make a proxy valid."
+    ]
+  },
+  {
+    "id": "T134",
+    "type": "technology",
+    "title": "Delegation poker",
+    "changed": false,
+    "findings": [
+      "No change: naming the original card method identifies its scale; the text explains why playing the exercise does not itself transfer authority."
+    ]
+  },
+  {
+    "id": "T135",
+    "type": "technology",
+    "title": "Decision thresholds by impact",
+    "changed": true,
+    "findings": [
+      "Removed catalog self-description and made reversibility a direct question about decision consequences."
+    ]
+  },
+  {
+    "id": "T136",
+    "type": "technology",
+    "title": "Doocracy",
+    "changed": true,
+    "findings": [
+      "Removed narration of the OSGeo account while preserving the distinction between initiative and authority over others."
+    ]
+  },
+  {
+    "id": "T137",
+    "type": "technology",
+    "title": "BDFL governance",
+    "changed": false,
+    "findings": [
+      "No change: Python's transition is a relevant historical example of succession, and the costs of exit follow directly from concentrated authority."
+    ]
+  },
+  {
+    "id": "T138",
+    "type": "technology",
+    "title": "Steering councils",
+    "changed": true,
+    "findings": [
+      "Changed governance-document narration into the concrete fact of Python's elected council, retaining both links."
+    ]
+  },
+  {
+    "id": "T139",
+    "type": "technology",
+    "title": "Boards of trustees",
+    "changed": true,
+    "findings": [
+      "Replaced source narration with scoped trustee duties and removed the unnecessary hypothetical label."
+    ]
+  },
+  {
+    "id": "T140",
+    "type": "technology",
+    "title": "Worker councils",
+    "changed": true,
+    "findings": [
+      "Made the Greek council example describe institutional powers directly and used an ordinary illustrative workplace rather than research-draft labeling."
+    ]
+  },
+  {
+    "id": "T141",
+    "type": "technology",
+    "title": "Circles with domains",
+    "changed": false,
+    "findings": [
+      "No change: the named sociocratic pattern defines the circle and leads into concrete domain overlaps."
+    ]
+  },
+  {
+    "id": "T142",
+    "type": "technology",
+    "title": "Double linking",
+    "changed": false,
+    "findings": [
+      "No change: overlapping membership, time costs, and the two links' different selection routes explain the mechanism directly."
+    ]
+  },
+  {
+    "id": "T143",
+    "type": "technology",
+    "title": "Federations",
+    "changed": true,
+    "findings": [
+      "Replaced the announced organizational analogy with a concrete explanation of where a federation's division of powers is recorded."
+    ]
+  },
+  {
+    "id": "T144",
+    "type": "technology",
+    "title": "Confederations",
+    "changed": true,
+    "findings": [
+      "Removed a generic historical-example disclaimer, fixed a link splitting the word confederation, and retained the federal comparison where it belongs."
+    ]
+  },
+  {
+    "id": "T145",
+    "type": "technology",
+    "title": "Separation of powers",
+    "changed": true,
+    "findings": [
+      "Removed an unnecessary disclaimer after an already clearly conditional association example."
+    ]
+  },
+  {
+    "id": "T146",
+    "type": "technology",
+    "title": "Constitutions and charters",
+    "changed": true,
+    "findings": [
+      "Removed a distracting statement about a document's title acquiring state authority; retained the actual variation in a charter's legal force."
+    ]
+  },
+  {
+    "id": "T147",
+    "type": "technology",
+    "title": "Bylaws",
+    "changed": true,
+    "findings": [
+      "Replaced guidance narration and commentary about writing a general explanation with a direct description of bylaws' organizational role."
+    ]
+  },
+  {
+    "id": "T148",
+    "type": "technology",
+    "title": "Quorum rules",
+    "changed": true,
+    "findings": [
+      "Moved citation from 'explains this distinction' onto the actual quorum distinction."
+    ]
+  },
+  {
+    "id": "T149",
+    "type": "technology",
+    "title": "Agenda-setting procedures",
+    "changed": true,
+    "findings": [
+      "Replaced facilitation-guide narration with the actual agenda-preparation sequence."
+    ]
+  },
+  {
+    "id": "T150",
+    "type": "technology",
+    "title": "Speaking queues",
+    "changed": false,
+    "findings": [
+      "No change: the source supports visible turn-taking; the discussion develops the tension between orderly turns and a coherent conversation."
+    ]
+  },
+  {
+    "id": "T151",
+    "type": "technology",
+    "title": "Facilitated rounds",
+    "changed": true,
+    "findings": [
+      "Removed the claim that rounds are established tools and stated their participation mechanism directly."
+    ]
+  },
+  {
+    "id": "T152",
+    "type": "technology",
+    "title": "Anonymous ballots",
+    "changed": false,
+    "findings": [
+      "No change: anonymity's implementation limits are concrete and necessary to explain the technique."
+    ]
+  },
+  {
+    "id": "T153",
+    "type": "technology",
+    "title": "Conflict-of-interest disclosure",
+    "changed": true,
+    "findings": [
+      "Recast the guidance paragraph around identifying versus managing a conflict and removed the hypothetical label."
+    ]
+  },
+  {
+    "id": "T154",
+    "type": "technology",
+    "title": "Recusal",
+    "changed": true,
+    "findings": [
+      "Replaced an adaptation disclaimer with the recusal criterion it was meant to explain; simplified the example."
+    ]
+  },
+  {
+    "id": "T155",
+    "type": "technology",
+    "title": "Appeals procedures",
+    "changed": false,
+    "findings": [
+      "No change: the scoped appellate example explains review versus retrial, while access and finality limits arise naturally from the purpose."
+    ]
+  },
+  {
+    "id": "T156",
+    "type": "technology",
+    "title": "Ombuds offices",
+    "changed": true,
+    "findings": [
+      "Removed unnecessary hypothetical labeling and repaired the transition so the appeal comparison no longer interrupts the warning about hidden recurring problems."
+    ]
+  },
+  {
+    "id": "T157",
+    "type": "technology",
+    "title": "Sunset clauses",
+    "changed": true,
+    "findings": [
+      "Removed 'the cited example' and the research-adaptation note; explained what expiry changes in legislative and organizational settings."
+    ]
+  },
+  {
+    "id": "T158",
+    "type": "technology",
+    "title": "Policy review dates",
+    "changed": true,
+    "findings": [
+      "Replaced source-pattern narration with the components needed to make a review date actionable."
+    ]
+  },
+  {
+    "id": "T159",
+    "type": "technology",
+    "title": "Public decision records",
+    "changed": true,
+    "findings": [
+      "Replaced a source-support audit in the public body with the substantive distinction between keeping minutes and publishing them."
+    ]
+  },
+  {
+    "id": "T160",
+    "type": "technology",
+    "title": "Emergency authority with limits",
+    "changed": true,
+    "findings": [
+      "Replaced constitutional-guidance narration and 'translating' language with the actual boundaries of exceptional authority."
+    ]
+  },
+  {
+    "id": "T315",
+    "type": "technology",
+    "title": "Collective bargaining",
+    "changed": true,
+    "findings": [
+      "Replaced a narrated definition with the bargaining relationship itself; removed hypothetical labeling."
+    ]
+  },
+  {
+    "id": "T316",
+    "type": "technology",
+    "title": "Trade unions",
+    "changed": true,
+    "findings": [
+      "Removed an unnecessary hypothetical label; retained the context-dependent rights because they affect what the union can actually do."
+    ]
+  },
+  {
+    "id": "T317",
+    "type": "technology",
+    "title": "Arbitration",
+    "changed": true,
+    "findings": [
+      "Removed the hypothetical label and replaced an effectiveness disclaimer with concrete choices that determine cost and fairness."
+    ]
+  },
+  {
+    "id": "T318",
+    "type": "technology",
+    "title": "Courts",
+    "changed": false,
+    "findings": [
+      "No change: trial and appellate roles are attributed to the correct system, and access, independence, and enforcement explain how courts function."
+    ]
+  },
+  {
+    "id": "T319",
+    "type": "technology",
+    "title": "Jury trials",
+    "changed": false,
+    "findings": [
+      "No change: the court and jury distinction, standards of proof, and limits of lay participation are contextually explained."
+    ]
+  },
+  {
+    "id": "T320",
+    "type": "technology",
+    "title": "Parliamentary procedure",
+    "changed": true,
+    "findings": [
+      "Moved citation from narrated sample rules to the online meeting practice itself."
+    ]
+  },
+  {
+    "id": "T321",
+    "type": "technology",
+    "title": "Spokescouncils",
+    "changed": true,
+    "findings": [
+      "Removed the detached practitioner-model label while preserving the mandate and return-to-group mechanism."
+    ]
+  },
+  {
+    "id": "T322",
+    "type": "technology",
+    "title": "Whistleblowing channels",
+    "changed": true,
+    "findings": [
+      "Replaced an all-purpose protection disclaimer with the actual distinction between a misconduct report and a retaliation complaint; removed hypothetical labeling."
+    ]
+  },
+  {
+    "id": "T323",
+    "type": "technology",
+    "title": "Freedom-of-information processes",
+    "changed": true,
+    "findings": [
+      "Removed narration of the ICO explanation while retaining the UK scope and the specific nature of information access."
+    ]
+  },
+  {
+    "id": "T324",
+    "type": "technology",
+    "title": "Social audits",
+    "changed": true,
+    "findings": [
+      "Removed unnecessary hypothetical labeling; retained the concrete dependence on records, public response, and corrective action."
+    ]
+  },
+  {
+    "id": "T325",
+    "type": "technology",
+    "title": "Independent audits",
+    "changed": true,
+    "findings": [
+      "Kept the named audit standard because it defines the scope of reasonable assurance; removed an unnecessary hypothetical label."
+    ]
+  },
+  {
+    "id": "T161",
+    "type": "technology",
+    "title": "Open-source collaboration",
+    "changed": false,
+    "findings": [
+      "No change: the Open Source Definition is directly relevant to licensing permissions, and the governance distinction explains a common misconception."
+    ]
+  },
+  {
+    "id": "T162",
+    "type": "technology",
+    "title": "Commons-based peer production",
+    "changed": true,
+    "findings": [
+      "Removed author-summary framing while preserving the distinction between resource access and contribution coordination."
+    ]
+  },
+  {
+    "id": "T163",
+    "type": "technology",
+    "title": "Project teams",
+    "changed": false,
+    "findings": [
+      "No change: learning remains conditional on shared work, and the branch example connects temporary organization to handover."
+    ]
+  },
+  {
+    "id": "T164",
+    "type": "technology",
+    "title": "Working groups",
+    "changed": true,
+    "findings": [
+      "Made the IETF example describe its chartered groups directly rather than announcing an example."
+    ]
+  },
+  {
+    "id": "T165",
+    "type": "technology",
+    "title": "Task forces",
+    "changed": true,
+    "findings": [
+      "Retained the incident-management definition because it has a specific technical meaning; removed an unnecessary hypothetical label."
+    ]
+  },
+  {
+    "id": "T166",
+    "type": "technology",
+    "title": "Cross-functional teams",
+    "changed": true,
+    "findings": [
+      "Removed 'in the definition' framing and explained combined team capability directly."
+    ]
+  },
+  {
+    "id": "T167",
+    "type": "technology",
+    "title": "Autonomous microenterprise units",
+    "changed": true,
+    "findings": [
+      "Replaced a practitioner-example/proof disclaimer with Haier's structural feature and the specific dependence of small units on shared services."
+    ]
+  },
+  {
+    "id": "T168",
+    "type": "technology",
+    "title": "Independent microenterprises",
+    "changed": true,
+    "findings": [
+      "Changed ILO-research narration into the administrative and protection problems faced by very small enterprises; removed hypothetical labeling."
+    ]
+  },
+  {
+    "id": "T169",
+    "type": "technology",
+    "title": "Guilds across teams",
+    "changed": true,
+    "findings": [
+      "Replaced source-date and transfer disclaimers with a dated historical fact; retained its internal community link and practical implications."
+    ]
+  },
+  {
+    "id": "T170",
+    "type": "technology",
+    "title": "Hackathons",
+    "changed": true,
+    "findings": [
+      "Replaced narrated playbook guidance with the practical distinction between a prototype and a dependable service."
+    ]
+  },
+  {
+    "id": "T171",
+    "type": "technology",
+    "title": "Sprints",
+    "changed": true,
+    "findings": [
+      "Removed unnecessary hypothetical labeling; retained the named Scrum definition because it distinguishes a learning cycle from an intense deadline."
+    ]
+  },
+  {
+    "id": "T172",
+    "type": "technology",
+    "title": "Work parties",
+    "changed": true,
+    "findings": [
+      "Replaced example-announcing language with the preparation that makes a conservation work session possible."
+    ]
+  },
+  {
+    "id": "T173",
+    "type": "technology",
+    "title": "Barn-raising",
+    "changed": true,
+    "findings": [
+      "Removed a redundant transfer disclaimer and hypothetical labeling; the surrounding explanation already establishes the continuing relationships barn-raising depends on."
+    ]
+  },
+  {
+    "id": "T174",
+    "type": "technology",
+    "title": "Pair work",
+    "changed": false,
+    "findings": [
+      "No change: the programming roles clarify complementary attention, and the broader proposal example explains adaptation without a source audit."
+    ]
+  },
+  {
+    "id": "T175",
+    "type": "technology",
+    "title": "Mob or ensemble work",
+    "changed": true,
+    "findings": [
+      "Replaced a generic effectiveness caveat with the actual coordination question that determines whether ensemble work is appropriate."
+    ]
+  },
+  {
+    "id": "T176",
+    "type": "technology",
+    "title": "Shared task boards",
+    "changed": false,
+    "findings": [
+      "No change: workflow definitions, stale cards, and trust are directly connected to a board's usefulness."
+    ]
+  },
+  {
+    "id": "T177",
+    "type": "technology",
+    "title": "Pull systems",
+    "changed": false,
+    "findings": [
+      "No change: buffering and demand uncertainty explain the limits of pull as part of its mechanism."
+    ]
+  },
+  {
+    "id": "T178",
+    "type": "technology",
+    "title": "Work-in-progress limits",
+    "changed": false,
+    "findings": [
+      "No change: work limits, urgent exceptions, and board metrics are explained with a concrete support-team example."
+    ]
+  },
+  {
+    "id": "T179",
+    "type": "technology",
+    "title": "Issue triage",
+    "changed": true,
+    "findings": [
+      "Removed narration about the particular AI-assisted source and stated the actionable-versus-incomplete distinction directly."
+    ]
+  },
+  {
+    "id": "T180",
+    "type": "technology",
+    "title": "Request-for-comments processes",
+    "changed": true,
+    "findings": [
+      "Replaced an example announcement with the role of proposal acceptance in Rust; retained the distinct Internet-publication meaning because the initials can mislead."
+    ]
+  },
+  {
+    "id": "T181",
+    "type": "technology",
+    "title": "Design reviews",
+    "changed": true,
+    "findings": [
+      "Replaced 'demanding example' and copying disclaimers with the readiness decision a design review makes."
+    ]
+  },
+  {
+    "id": "T182",
+    "type": "technology",
+    "title": "Contribution guidelines",
+    "changed": true,
+    "findings": [
+      "Replaced open-project-guide narration with the practical invitation contribution instructions provide."
+    ]
+  },
+  {
+    "id": "T183",
+    "type": "technology",
+    "title": "Maintainer delegation",
+    "changed": false,
+    "findings": [
+      "No change: GitHub's actual permission scopes support the distinction between technical access and legitimate authority."
+    ]
+  },
+  {
+    "id": "T184",
+    "type": "technology",
+    "title": "Forking",
+    "changed": false,
+    "findings": [
+      "No change: licensing, trademarks, maintenance, and community rebuilding explain the real scope and cost of exit."
+    ]
+  },
+  {
+    "id": "T185",
+    "type": "technology",
+    "title": "Release governance",
+    "changed": true,
+    "findings": [
+      "Replaced example announcement and universal-rule disclaimer with the release manager's concrete role in moving a candidate through approval."
+    ]
+  },
+  {
+    "id": "T186",
+    "type": "technology",
+    "title": "Standards bodies",
+    "changed": true,
+    "findings": [
+      "Changed an illustrative-process announcement into ISO's actual sequence while preserving the law-versus-standard distinction."
+    ]
+  },
+  {
+    "id": "T187",
+    "type": "technology",
+    "title": "Protocols and interfaces",
+    "changed": true,
+    "findings": [
+      "Replaced an announced analogy with the concrete difference between technical interoperability and human responsibility."
+    ]
+  },
+  {
+    "id": "T188",
+    "type": "technology",
+    "title": "Standard operating procedures",
+    "changed": true,
+    "findings": [
+      "Replaced EPA-guide narration with the specific elements of an approved, revisable procedure."
+    ]
+  },
+  {
+    "id": "T189",
+    "type": "technology",
+    "title": "Checklists",
+    "changed": true,
+    "findings": [
+      "Removed a detached clinical-evidence disclaimer; explained the communication pause and the continuing need to recognize a problem."
+    ]
+  },
+  {
+    "id": "T190",
+    "type": "technology",
+    "title": "Handoff protocols",
+    "changed": true,
+    "findings": [
+      "Replaced clinical-guide narration and transfer framing with the handoff procedure itself."
+    ]
+  },
+  {
+    "id": "T191",
+    "type": "technology",
+    "title": "Responsibility matrices",
+    "changed": true,
+    "findings": [
+      "Removed narrated definition; retained the grid structure and distinction between assignment and actual capacity."
+    ]
+  },
+  {
+    "id": "T192",
+    "type": "technology",
+    "title": "Service-level agreements",
+    "changed": false,
+    "findings": [
+      "No change: target definitions, exclusions, and acknowledgement versus restoration are substantive parts of the service agreement."
+    ]
+  },
+  {
+    "id": "T193",
+    "type": "technology",
+    "title": "Rotating duty rosters",
+    "changed": true,
+    "findings": [
+      "Removed engineering-example transfer narration and explained what the rota needs beyond a list of names."
+    ]
+  },
+  {
+    "id": "T194",
+    "type": "technology",
+    "title": "Incident command",
+    "changed": false,
+    "findings": [
+      "No change: training, actual authority, changing roles, and handover are necessary to explain incident command rather than generic warnings."
+    ]
+  },
+  {
+    "id": "T195",
+    "type": "technology",
+    "title": "Blameless postmortems",
+    "changed": false,
+    "findings": [
+      "No change: the reliability-engineering example gives the postmortem's concrete contents; candor and follow-through explain where it can fail."
+    ]
+  },
+  {
+    "id": "T196",
+    "type": "technology",
+    "title": "Communities of contribution",
+    "changed": true,
+    "findings": [
+      "Removed catalog self-classification and a generic volunteer-arrival disclaimer; replaced it with the contribution path people need to see."
+    ]
+  },
+  {
+    "id": "T197",
+    "type": "technology",
+    "title": "Volunteer matching",
+    "changed": true,
+    "findings": [
+      "Replaced a process-example announcement with how descriptions and candidate information are compared."
+    ]
+  },
+  {
+    "id": "T198",
+    "type": "technology",
+    "title": "Time-boxed commitments",
+    "changed": true,
+    "findings": [
+      "Removed 'one example,' universal-formula, and transferable-idea framing; described the bounded assignment and its benefit directly."
+    ]
+  },
+  {
+    "id": "T199",
+    "type": "technology",
+    "title": "Public pledges",
+    "changed": true,
+    "findings": [
+      "Replaced a detached bounded-evidence warning with the identity-goal context that makes the experimental finding intelligible; did not generalize to all pledges."
+    ]
+  },
+  {
+    "id": "T200",
+    "type": "technology",
+    "title": "Accountability partners",
+    "changed": true,
+    "findings": [
+      "Removed writing-guide narration; kept the goal ownership and distinction between a pledge and continued supportive follow-up."
+    ]
+  },
+  {
+    "id": "T201",
+    "type": "technology",
+    "title": "Coworking sessions",
+    "changed": true,
+    "findings": [
+      "Removed a jarring treatment/effectiveness disclaimer and replaced it with the participants' practical choice about whether shared presence helps."
+    ]
+  },
+  {
+    "id": "T202",
+    "type": "technology",
+    "title": "Distributed campaigns",
+    "changed": true,
+    "findings": [
+      "Removed an example-announcing phrase; kept the 350 network's local-versus-shared relationship."
+    ]
+  },
+  {
+    "id": "T203",
+    "type": "technology",
+    "title": "Coalitions",
+    "changed": false,
+    "findings": [
+      "No change: the housing coalition example explains complementary capabilities, limits on promises, and unequal agenda influence directly."
+    ]
+  },
+  {
+    "id": "T204",
+    "type": "technology",
+    "title": "Collective impact partnerships",
+    "changed": true,
+    "findings": [
+      "Removed a framework-versus-proof disclaimer; explained the substantive test of whether coordination changes services and participation."
+    ]
+  },
+  {
+    "id": "T205",
+    "type": "technology",
+    "title": "Boundary-spanning roles",
+    "changed": true,
+    "findings": [
+      "Replaced research narration with the intermediary's actual powers to connect, filter, and partner."
+    ]
+  },
+  {
+    "id": "T206",
+    "type": "technology",
+    "title": "Minimum specifications",
+    "changed": false,
+    "findings": [
+      "No change: the Min Specs procedure, walking-club example, and risk of deleting protective knowledge form a connected explanation."
+    ]
+  },
+  {
+    "id": "T207",
+    "type": "technology",
+    "title": "15% Solutions",
+    "changed": false,
+    "findings": [
+      "No change: the percentage metaphor, limits of existing discretion, and danger of normalizing structural problems are explained in context."
+    ]
+  },
+  {
+    "id": "T208",
+    "type": "technology",
+    "title": "Discovery-and-Action Dialogue",
+    "changed": false,
+    "findings": [
+      "No change: the apparent successful exception is investigated through plausible local differences rather than treated as proof."
+    ]
+  },
+  {
+    "id": "T209",
+    "type": "technology",
+    "title": "What I Need From You",
+    "changed": false,
+    "findings": [
+      "No change: the communications example develops request clarity, handover, response, and capacity without a source diary."
+    ]
+  },
+  {
+    "id": "T210",
+    "type": "technology",
+    "title": "Purpose-to-Practice",
+    "changed": false,
+    "findings": [
+      "No change: the festival example makes the five design questions consequential and integrates missing participants and revision."
+    ]
+  },
+  {
+    "id": "T326",
+    "type": "technology",
+    "title": "Strikes",
+    "changed": true,
+    "findings": [
+      "Removed a public-facing disclaimer about what a general explanation can establish; retained the concrete legal dimensions and consequences."
+    ]
+  },
+  {
+    "id": "T327",
+    "type": "technology",
+    "title": "Boycotts",
+    "changed": false,
+    "findings": [
+      "No change: the Montgomery attribution supplies historical context, and the narrative explains organization beyond individual consumer choice."
+    ]
+  },
+  {
+    "id": "T328",
+    "type": "technology",
+    "title": "Citizen journalism",
+    "changed": false,
+    "findings": [
+      "No change: the crossing example makes observation, inference, review, and reporting responsibilities intelligible."
+    ]
+  },
+  {
+    "id": "T329",
+    "type": "technology",
+    "title": "Monastic orders",
+    "changed": true,
+    "findings": [
+      "Replaced narrated Benedictine description and a universal-definition disclaimer with the tradition's actual rule-and-authority arrangement."
+    ]
+  },
+  {
+    "id": "T330",
+    "type": "technology",
+    "title": "Joint ventures",
+    "changed": true,
+    "findings": [
+      "Replaced accounting-classification caveat with the contractual decision-rights question the named definition makes important."
+    ]
+  },
+  {
+    "id": "T331",
+    "type": "technology",
+    "title": "Franchising",
+    "changed": false,
+    "findings": [
+      "No change: hotel franchising connects brand, support, obligations, and local economics; the profitability limit is specific to the mechanism."
+    ]
+  },
+  {
+    "id": "athens-democratic-institutions",
+    "type": "case",
+    "title": "Athens: citizens governing, but not everyone was a citizen",
+    "changed": true,
+    "findings": [
+      "Replaced composite/research framing with fourth-century institutional context; stated participation estimates as estimates; replaced reader instructions and causal-audit notes with the unresolved historical questions."
+    ]
+  },
+  {
+    "id": "porto-alegre-participatory-budgeting",
+    "type": "case",
+    "title": "Porto Alegre: a budget people could shape—and a process politicians could hollow out",
+    "changed": true,
+    "findings": [
+      "Removed 'the case is useful' framing and narrated studies; connected early gains and later suspension to actual implementation and political support; kept the historical endpoint without a present-status disclaimer."
+    ]
+  },
+  {
+    "id": "ireland-abortion-citizens-assembly",
+    "type": "case",
+    "title": "Ireland: a citizens' assembly inside a larger route to constitutional change",
+    "changed": true,
+    "findings": [
+      "Made the outcome describe recommendations, parliamentary consideration, and the referendum directly; kept the research comparison of reasoning because its method matters; replaced source-gap narration with causal and inclusion questions."
+    ]
+  },
+  {
+    "id": "iceland-crowdsourced-constitution",
+    "type": "case",
+    "title": "Iceland: crowdsourcing a constitution without securing adoption",
+    "changed": true,
+    "findings": [
+      "Kept the three-thread sampling limit but removed narration of what a source was available to verify; grounded the adoption failure in the stated2010–2013period; replaced research to-dos with the remaining questions about influence and representation."
+    ]
+  },
+  {
+    "id": "oregon-citizens-initiative-review",
+    "type": "case",
+    "title": "Oregon: citizens writing a guide for other voters",
+    "changed": true,
+    "findings": [
+      "Explained the knowledge result and institutional hiatus without narrating a manual; retained experimental exposure limits and pooled geography; replaced a request for funding-history research with the unanswered cause of the hiatus."
+    ]
+  },
+  {
+    "id": "nepal-irrigation-self-governance",
+    "type": "case",
+    "title": "Nepal irrigation: better hardware was not enough",
+    "changed": true,
+    "findings": [
+      "Replaced narrated research with comparative observations; removed access-status notes from public gaps while retaining them in source metadata; stated the confounding questions and user-distribution limits directly."
+    ]
+  },
+  {
+    "id": "torbel-swiss-alpine-commons",
+    "type": "case",
+    "title": "Törbel: a commons with boundaries, private property, and exclusions",
+    "changed": true,
+    "findings": [
+      "Removed research-lineage and access-audit notes from public fields; kept private/common ownership, membership exclusions, and uncertainty about present-day persistence distinct."
+    ]
+  },
+  {
+    "id": "valencia-irrigators-tribunal",
+    "type": "case",
+    "title": "Valencia: local water justice backed by wider authority",
+    "changed": true,
+    "findings": [
+      "Replaced narration of UNESCO and historical reassessment with the tribunal's arrangements and the contested historical continuity; removed public dataset/research-method diary notes."
+    ]
+  },
+  {
+    "id": "alanya-fishing-rotation",
+    "type": "case",
+    "title": "Alanya: taking turns at the best fishing spots",
+    "changed": true,
+    "findings": [
+      "Replaced author-comparison narration and replication/access notes with the coordination boundary and unresolved ecological/durability questions."
+    ]
+  },
+  {
+    "id": "montreal-protocol-ozone",
+    "type": "case",
+    "title": "Montreal Protocol: rules, finance, and measurements that can expose cheating",
+    "changed": true,
+    "findings": [
+      "Removed empty-theory explanations and research-status notes from public gaps; retained uncertainty about emissions and recovery; made observations state the measured results directly."
+    ]
+  },
+  {
+    "id": "alaska-halibut-sablefish-quotas",
+    "type": "case",
+    "title": "Alaska fishing quotas: ending the race while narrowing entry",
+    "changed": true,
+    "findings": [
+      "Removed narrated reviews and replication notes while retaining consolidation, entry barriers, and the distinction between operational and ecological outcomes."
+    ]
+  },
+  {
+    "id": "new-zealand-quota-and-maori-access",
+    "type": "case",
+    "title": "New Zealand quotas: owning fishing assets is not the same as being able to fish",
+    "changed": true,
+    "findings": [
+      "Removed research narration from outcomes and observations; preserved the distinction between collective assets, household opportunities, and self-determination; reframed gaps as ecological and distributional questions."
+    ]
+  },
+  {
+    "id": "nepal-community-forestry",
+    "type": "case",
+    "title": "Nepal community forests: environmental gains without equal voice",
+    "changed": true,
+    "findings": [
+      "Replaced instructions about reading studies together with the actual contrast between environmental/poverty outcomes and leadership composition; retained observational uncertainty and distinct geographical samples."
+    ]
+  },
+  {
+    "id": "uganda-forest-monitoring-displacement",
+    "type": "case",
+    "title": "Uganda forest monitoring: watching one place can move the damage elsewhere",
+    "changed": true,
+    "findings": [
+      "Replaced research-warning framing with the trial's intervention and outcomes; retained the distinction between randomized outcome evidence and tentative displacement explanation; removed source-access and replication notes from public gaps."
+    ]
+  },
+  {
+    "id": "oaxaca-community-forest-control",
+    "type": "case",
+    "title": "Sierra Juárez: winning community control did not remove market constraints",
+    "changed": true,
+    "findings": [
+      "Replaced historical-study narration and rulebook disclaimers with the regional sequence of concessions, organizing, and local control; kept causal alternatives and uncertainty about conservation outcomes."
+    ]
+  },
+  {
+    "id": "bologna-collaboration-pacts",
+    "type": "case",
+    "title": "Bologna: giving citizen projects a recognized relationship with city government",
+    "changed": true,
+    "findings": [
+      "Removed later-research narration, inaccessible-PDF notes, and an indicator-method diary from public prose; retained the uneven implementation finding and questions about maintenance, public responsibility, and unpaid work."
+    ]
+  },
+  {
+    "id": "chile-constitution-rejections",
+    "type": "case",
+    "title": "Chile: an inclusive drafting process still had to persuade the electorate",
+    "changed": true,
+    "findings": [
+      "Replaced analysis-summary narration with concrete process features and explicitly contested explanations; removed literature-access and drafting-disclaimer notes from public gaps while retaining the preliminary status of voting figures."
+    ]
+  },
+  {
+    "id": "andhra-pradesh-social-audits",
+    "type": "case",
+    "title": "Andhra Pradesh: exposing corruption was not the same as deterring it",
+    "changed": true,
+    "findings": [
+      "Removed narrated guide/evaluation recommendations and access notes; retained the measured employment/leakage distinctions, strategic adaptation hypothesis, and uncertainty about detected versus underlying corruption."
+    ]
+  }
+]

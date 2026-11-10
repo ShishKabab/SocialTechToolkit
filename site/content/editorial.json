@@ -1,0 +1,442 @@
+{
+  "Lightning talks": {
+    "aliases": [
+      "Lightning talk"
+    ],
+    "terms": [
+      "short presentations",
+      "five-minute talks",
+      "knowledge sharing"
+    ],
+    "steps": [
+      "Invite people to share one idea, project, skill, or question in a short presentation.",
+      "Give every speaker the same clear time limit. Make preparation light enough that newcomers can participate.",
+      "Leave space for a few questions and informal conversation. Share links afterward so discoveries can become collaborations."
+    ],
+    "examples": [
+      "At a shared house, residents give five-minute introductions to a hobby or project. People discover interests that ordinary introductions missed.",
+      "At a team gathering, short demonstrations let several people share work without turning the whole meeting into one presentation."
+    ],
+    "limits": "Short talks trade depth for breadth. Explain the format beforehand, help first-time speakers prepare, and avoid selecting only confident presenters. Use a workshop when people need to practice a skill together.",
+    "use": "Use a lightning-talk evening when a community has more interests and capabilities than its members know about. Invite a varied first group of speakers, keep talks short, and watch for follow-up conversations or projects. If everyone remembers the presentations but no one connects afterward, create more informal time."
+  },
+  "Apprenticeship": {
+    "aliases": [
+      "Apprenticeships"
+    ],
+    "terms": [
+      "learning by doing",
+      "craft training",
+      "supervised practice"
+    ],
+    "steps": [
+      "Define the capability the learner is working toward and agree on the responsibilities of the learner and experienced practitioner.",
+      "Combine explanation with supervised real work. Make the practitioner's choices and judgments visible, rather than asking the learner only to imitate.",
+      "Increase responsibility as competence develops, with feedback and a clear way to assess readiness."
+    ],
+    "examples": [
+      "A craft apprentice first observes a process, then performs parts of it under supervision, and eventually handles complete work.",
+      "An institution preparing a successor gives the learner real responsibilities while the experienced practitioner is still available."
+    ],
+    "limits": "Access to an expert is not enough: the learner needs meaningful practice, feedback, and appropriate support. Modern formal apprenticeships also involve agreed training, compensation, and qualifications. Avoid confusing productive learning with indefinite low-responsibility labor.",
+    "use": "Consider apprenticeship when essential knowledge includes judgment that a handbook cannot fully convey. Before handing over responsibility, ask the learner to perform the work and explain important choices. The useful outcome is independent capability, not simply time spent beside an expert."
+  },
+  "BDFL governance": {
+    "aliases": [
+      "BDFL",
+      "benevolent dictator for life"
+    ],
+    "terms": [
+      "founder-led governance",
+      "project leadership",
+      "final authority"
+    ],
+    "steps": [
+      "Make it explicit which decisions the recognized leader can settle and which responsibilities are delegated.",
+      "Give contributors a visible way to propose changes, supply evidence, and understand the leader's decisions.",
+      "Document how authority can transfer or end. A project's dependence on one person should be visible before that person leaves."
+    ],
+    "examples": [
+      "In a founder-led project, contributors debate a design change but one recognized leader can resolve the final disagreement.",
+      "Python's BDFL period is historical. Its current governance specification describes a steering council, illustrating why succession belongs in this discussion."
+    ],
+    "limits": "Clear final authority can coexist with broad contribution, but it does not guarantee fair or well-informed decisions. The model depends heavily on the leader's judgment and the community's willingness to keep participating. Licensing, contribution rights, and decision rights are separate questions.",
+    "use": "Use this lens to understand a project in which one person's judgment provides continuity and resolves disagreements. Clarify delegation and succession early. Watch whether contributors can influence decisions through reasons and work, or whether participation depends increasingly on personal access to the leader."
+  },
+  "Consent decision-making": {
+    "aliases": [
+      "Consent-based decisions"
+    ],
+    "terms": [
+      "objections",
+      "safe enough to try",
+      "revisable policy"
+    ],
+    "steps": [
+      "Present a proposal with a purpose, scope, and a time to review it.",
+      "Clarify questions and invite reasoned objections: what would prevent the proposal from fulfilling its purpose or create a relevant risk?",
+      "Use qualifying objections to improve the proposal. Adopt it when no unresolved qualifying objections remain, then review what happens."
+    ],
+    "examples": [
+      "A team tries a new coordination meeting for a month, with explicit criteria for reviewing whether it helps.",
+      "A community adjusts a shared-space policy after considering objections about access and maintenance."
+    ],
+    "limits": "Consent is not the same as enthusiasm, majority voting, or assuming silence means agreement. People need a genuine opportunity to raise objections and a shared understanding of what qualifies. Review dates matter when a proposal is accepted as an experiment.",
+    "use": "Consider consent for a revisable policy where the group needs to proceed while taking substantive concerns seriously. State what would make the trial unsafe or ineffective and schedule a review. Look for useful revisions and evidence from practice, rather than treating the absence of objection as proof of success."
+  },
+  "Consensus process": {
+    "aliases": [
+      "Consensus decision-making"
+    ],
+    "terms": [
+      "group agreement",
+      "stand aside",
+      "blocking"
+    ],
+    "steps": [
+      "Clarify the issue and hear the needs or concerns behind participants' positions.",
+      "Develop and revise a proposal that addresses those concerns.",
+      "Test agreement explicitly using the group's defined options, such as support, reservations, standing aside, or blocking."
+    ],
+    "examples": [
+      "A small association develops a shared commitment through discussion instead of choosing an option immediately by vote.",
+      "Participants distinguish an objection that prevents proceeding from a reservation they can live with."
+    ],
+    "limits": "Groups use different consensus rules. Do not assume that consensus always means unanimous enthusiasm, or that silence counts as consent. Unequal confidence, time pressure, and unclear blocking rules can distort the process.",
+    "use": "Consider consensus when implementing a decision depends heavily on participants' continuing commitment. Agree on the process before a contentious issue arises. Watch whether quieter participants can raise concerns and whether the group turns disagreement into workable changes."
+  },
+  "Advice process": {
+    "aliases": [],
+    "terms": [
+      "consult before deciding",
+      "distributed authority",
+      "autonomy"
+    ],
+    "steps": [
+      "Identify the person responsible for making a decision and its boundaries.",
+      "Consult people affected by the decision and people with relevant expertise.",
+      "Consider the advice, decide, communicate the reasoning, and remain accountable for the consequences."
+    ],
+    "examples": [
+      "Someone choosing a shared tool consults the people who will use and maintain it, then makes the decision within their authority.",
+      "A team member proposes a change in a workflow and seeks input from neighboring teams before acting."
+    ],
+    "limits": "Consultation must be genuine even though the decision maker need not obtain everyone's approval. The organization must clarify decisions that exceed an individual's remit. Otherwise, an advice process can become either permission seeking or unilateral action with a superficial consultation.",
+    "use": "Use an advice process when someone can own a decision but needs knowledge distributed across the group. Specify whom to consult and explain the eventual choice. Look for decisions that incorporate affected people's information without making every participant a co-approver."
+  },
+  "Assembly democracy": {
+    "aliases": [
+      "Assembly-based democracy"
+    ],
+    "terms": [
+      "member assembly",
+      "direct democracy",
+      "collective decisions"
+    ],
+    "steps": [
+      "Specify who is eligible to attend, who can introduce issues, and whether the assembly's decisions are binding.",
+      "Establish how proposals, discussion, amendments, and decisions work, including any quorum.",
+      "Assign responsibility for implementation and provide a way to revisit decisions or hold officeholders accountable."
+    ],
+    "examples": [
+      "An association reserves major decisions for a meeting open to its members, while delegating routine administration.",
+      "A community convenes to debate and decide a shared issue. The actual attendees are a subset of all eligible members."
+    ],
+    "limits": "Open eligibility does not guarantee attendance or equal influence. Meeting time, confidence, agenda control, and the size of the group all shape participation. An advisory gathering is an assembly, but does not by itself constitute assembly democracy.",
+    "use": "Consider an authoritative member assembly when participants should deliberate and decide shared matters together. Compare the eligible population with actual attendance, and provide a clear route to bring proposals. If the work demands more continuous attention than members can give, combine reserved assembly decisions with accountable delegation."
+  },
+  "Direct democracy": {
+    "aliases": [],
+    "terms": [
+      "referendums",
+      "citizen decisions",
+      "assembly voting"
+    ],
+    "steps": [
+      "Define the issues participants can decide and who is eligible to take part.",
+      "Provide a way to formulate proposals and access relevant information or deliberation.",
+      "Collect decisions under explicit rules and clarify how the result will be implemented."
+    ],
+    "examples": [
+      "A referendum puts a specified question to eligible voters.",
+      "A member assembly discusses an issue and makes the decision itself."
+    ],
+    "limits": "Direct democracy concerns decision authority, not universal turnout or a particular meeting size. A mass ballot and a face-to-face assembly offer very different opportunities for deliberation. Proposal framing and agenda control remain consequential.",
+    "use": "Use this distinction when deciding which matters should remain with members or citizens instead of being delegated to representatives. Specify whether the result is binding. Compare not just vote counts but access to information, proposal rights, and implementation responsibility."
+  },
+  "Representative democracy": {
+    "aliases": [
+      "Indirect democracy"
+    ],
+    "terms": [
+      "elected representatives",
+      "legislature",
+      "political representation"
+    ],
+    "steps": [
+      "Define the constituency, selection rules, term, and responsibilities of representatives.",
+      "Representatives deliberate and decide within their mandate, with access to relevant information.",
+      "Constituents assess their performance through elections and other accountability arrangements."
+    ],
+    "examples": [
+      "An elected legislature considers and decides matters on behalf of its constituents.",
+      "An association elects a governing body but reserves certain decisions to the full membership."
+    ],
+    "limits": "Representatives can give sustained attention to decisions, but their priorities and information may diverge from those they represent. Elections alone do not explain every part of accountability: transparency, mandate, oversight, and removal rules also matter.",
+    "use": "Consider representative arrangements when ongoing decisions require attention or coordination that all members cannot provide personally. Clarify representatives' discretion and the decisions reserved to constituents. Look for understandable reporting and meaningful ways to challenge or replace decision makers."
+  },
+  "Community wikis": {
+    "aliases": [
+      "Community wiki",
+      "Shared handbook"
+    ],
+    "terms": [
+      "onboarding documentation",
+      "community knowledge",
+      "shared memory"
+    ],
+    "steps": [
+      "Collect recurring questions, shared expectations, practical instructions, and useful history in one place.",
+      "Make responsibility for updates clear and invite corrections from people using the information.",
+      "Review access: some material can be public, while personal information and sensitive records require appropriate limits."
+    ],
+    "examples": [
+      "A shared household documents equipment instructions, recurring responsibilities, and how decisions are made.",
+      "New members contribute corrections when they discover that an onboarding instruction is missing or outdated."
+    ],
+    "limits": "A wiki needs maintenance. A long document that nobody updates can preserve misleading instructions, while recording everything can expose private information. Written guidance also cannot replace relationships and practical teaching.",
+    "use": "Create a wiki when the same questions repeatedly interrupt experienced members. Start with the questions newcomers actually ask. Look for fewer avoidable interruptions and easier orientation, while checking that people know whom to ask when the documentation is insufficient."
+  },
+  "Recurring open gatherings": {
+    "aliases": [
+      "Stoop coffee",
+      "Neighborhood coffee"
+    ],
+    "terms": [
+      "meet neighbors",
+      "community building",
+      "regular meetups"
+    ],
+    "steps": [
+      "Choose a predictable place and time and make the invitation easy to understand.",
+      "Keep hosting simple enough to repeat. Welcome people and introduce neighbors who do not yet know each other.",
+      "Let relationships develop through recurrence, and make it possible for someone else to host."
+    ],
+    "examples": [
+      "A recurring stoop coffee creates a familiar opportunity for neighbors to stop and talk.",
+      "A low-preparation weekly gathering gives newcomers several chances to join without committing to a large event."
+    ],
+    "limits": "Open invitations do not automatically produce a welcoming gathering. Location, timing, existing friendships, and the host's attention affect who feels able to participate. Avoid creating a routine that only its founder can sustain.",
+    "use": "Try a recurring gathering when people live near one another but rarely have a reason to meet. Start with a manageable hosting commitment. Watch whether newcomers return, introductions become easier, and hosting responsibility can be shared."
+  },
+  "Mentorship": {
+    "aliases": [
+      "Mentoring"
+    ],
+    "terms": [
+      "mentor",
+      "guidance",
+      "professional development",
+      "tacit knowledge",
+      "developing potential"
+    ],
+    "intro_title": "Potential needs a way forward",
+    "sections": [
+      {
+        "id": "experience",
+        "title": "Learning what experience teaches",
+        "file": "mentorship-experience.html"
+      },
+      {
+        "id": "opportunities",
+        "title": "Someone willing to back you",
+        "file": "mentorship-opportunities.html"
+      },
+      {
+        "id": "allies",
+        "title": "Why invest in someone else?",
+        "file": "mentorship-allies.html"
+      },
+      {
+        "id": "starting",
+        "title": "You can make the first move",
+        "file": "mentorship-starting.html"
+      },
+      {
+        "id": "gatherings",
+        "title": "Bring people into your orbit",
+        "file": "mentorship-gatherings.html"
+      },
+      {
+        "id": "involvement",
+        "title": "Advice can become involvement",
+        "file": "mentorship-involvement.html"
+      },
+      {
+        "id": "independence",
+        "title": "Room to grow into your own judgment",
+        "file": "mentorship-independence.html"
+      }
+    ]
+  },
+  "Democracy": {
+    "description": "Arrangements through which members of a political community exercise control over collective decisions.",
+    "sections": [
+      {
+        "id": "participation-and-authority",
+        "title": "Participation, scale, and authority",
+        "file": "democracy-comparison.html"
+      }
+    ],
+    "examples": [
+      "A member assembly deliberates and decides a shared issue directly.",
+      "An elected legislature makes decisions on behalf of constituents. A referendum can reserve a specific question for voters themselves."
+    ],
+    "limits": "Eligibility, actual participation, and influence are different. A system may give people a formal vote while time, information, agenda control, or unequal resources affect their ability to shape decisions.",
+    "use": "Use this framework when considering how a community should exercise collective authority. Specify who can participate, who actually makes decisions, and how those decisions can be challenged. Then compare the assembly, direct, and representative arrangements linked above."
+  },
+  "Aristocracy": {
+    "description": "Rule by those considered best qualified to govern—for the benefit of the whole community.",
+    "aliases": [],
+    "terms": [
+      "elite rule",
+      "hereditary elites",
+      "rule by the best",
+      "virtue",
+      "common good"
+    ],
+    "intro_title": "Put the best people in charge",
+    "sections": [
+      {
+        "id": "ideal",
+        "title": "Winning power and using it well",
+        "file": "aristocracy-ideal.html"
+      },
+      {
+        "id": "selection",
+        "title": "Who recognizes the best?",
+        "file": "aristocracy-selection.html"
+      },
+      {
+        "id": "power",
+        "title": "Whose good are they serving?",
+        "file": "aristocracy-power.html"
+      },
+      {
+        "id": "succession",
+        "title": "What happens to the next generation?",
+        "file": "aristocracy-succession.html"
+      }
+    ]
+  },
+  "Meritocracy": {
+    "description": "Who gets ahead, and why? Meritocracy ties positions or rewards to merit rather than inherited status or personal connections.",
+    "aliases": [],
+    "terms": [
+      "merit",
+      "earned status",
+      "ability and achievement"
+    ],
+    "examples": [
+      "Two applicants compete for a role. One performs better—but also had years of preparation the other could not afford. Was the competition fair?",
+      "A project promotes someone for useful contributions. That selection practice does not, by itself, make the wider organization a meritocratic society."
+    ],
+    "limits": "Merit needs a definition: skill, effort, achievement, or something else? Open competition does not guarantee equal opportunity to develop the qualities being assessed. Choosing competent people and claiming that every unequal outcome is deserved are different propositions.",
+    "use": "Use this lens when examining hiring, promotion, education, or political authority. Ask what counts as merit, who sets the criteria, and who had the opportunity to demonstrate it."
+  },
+  "Lobbying": {
+    "sections": [
+      {
+        "id": "forms",
+        "title": "Several ways to get heard",
+        "file": "lobbying-forms.html"
+      }
+    ],
+    "steps": [
+      "Identify a specific public decision and the people with authority over it. A broad concern becomes actionable when it connects to a budget, rule, or proposal.",
+      "Bring together affected people and establish what they agree to ask for. Make clear whose interests and experience the group represents.",
+      "Combine relevant evidence with opportunities to be heard: meetings, consultations, written proposals, or coordinated constituent contact.",
+      "Follow the decision through implementation. Record what changed and consider other explanations before attributing the result to lobbying."
+    ],
+    "examples": [
+      "Illustrative: bus riders document missed connections and present a proposed timetable change at a transport consultation.",
+      "Illustrative: a union pools workers’ experience to propose a safety standard; an employers’ association argues for a different version. Both are lobbying, despite opposing interests.",
+      "Illustrative: a disability organization supplies practical feedback on a draft accessibility rule and remains available when officials need clarification."
+    ],
+    "limits": "Groups differ in money, time, expertise, and access. Those advantages can determine whose problems receive attention. A meeting, a sympathetic response, or a favorable decision does not by itself prove influence: officials may already agree, other groups may be active, or events may change the agenda. Assess who benefits, whose costs are missing, and whether affected people can contest the proposal.",
+    "use": "Use this approach when a concrete problem depends on a public decision your group cannot make itself—for example, residents seeking a bus connection that would make an industrial estate reachable without a car. First establish the affected journeys and the relevant decision process. Then compare whether the proposal was considered, whether the timetable changed, and whether riders actually gained a useful connection. These are three different outcomes."
+  },
+  "Awards": {
+    "intro_title": "More than a trophy",
+    "sections": [
+      {
+        "id": "authority",
+        "title": "Who gets to say what is excellent?",
+        "file": "awards-authority.html"
+      },
+      {
+        "id": "reputation",
+        "title": "A reputation that can grow",
+        "file": "awards-compounding.html"
+      },
+      {
+        "id": "ambitions",
+        "title": "Who do people want to become?",
+        "file": "awards-ambitions.html"
+      },
+      {
+        "id": "prizes",
+        "title": "An award and a prize do different jobs",
+        "file": "awards-prizes.html"
+      }
+    ]
+  },
+  "Markets": {
+    "aliases": [
+      "Market",
+      "Market coordination"
+    ],
+    "terms": [
+      "collective intelligence",
+      "price signals",
+      "distributed knowledge",
+      "supply and demand",
+      "externalities",
+      "market failures",
+      "purchasing power"
+    ],
+    "intro_title": "Intelligence spread across many people",
+    "sections": [
+      {
+        "id": "signals",
+        "title": "A price can carry a message",
+        "file": "markets-signals.html"
+      },
+      {
+        "id": "discovery",
+        "title": "A way to discover what works",
+        "file": "markets-discovery.html"
+      },
+      {
+        "id": "purchasing-power",
+        "title": "Some needs speak louder than others",
+        "file": "markets-purchasing-power.html"
+      },
+      {
+        "id": "missing-costs",
+        "title": "What never enters the price",
+        "file": "markets-missing-costs.html"
+      },
+      {
+        "id": "distorted-signals",
+        "title": "The signal can mislead",
+        "file": "markets-distorted-signals.html"
+      },
+      {
+        "id": "design",
+        "title": "We can change what the market responds to",
+        "file": "markets-design.html"
+      }
+    ]
+  }
+}

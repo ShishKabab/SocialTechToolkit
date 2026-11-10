@@ -1,0 +1,1450 @@
+{
+  "T212": [
+    {
+      "id": "T211",
+      "reason": "Auctions use willingness and ability to pay as a market allocation criterion."
+    },
+    {
+      "id": "T213",
+      "reason": "Double auctions extend bidding to both buyers and sellers."
+    },
+    {
+      "id": "T241",
+      "reason": "Lotteries offer an alternative when equal chances matter more than bids."
+    }
+  ],
+  "T213": [
+    {
+      "id": "T212",
+      "reason": "A double auction differs from an auction centered on one seller."
+    },
+    {
+      "id": "T211",
+      "reason": "The mechanism organizes repeated market exchange, but participation and comparability still matter."
+    }
+  ],
+  "T214": [
+    {
+      "id": "T215",
+      "reason": "Mutual credit removes the requirement to trade directly with the person who wants your goods."
+    },
+    {
+      "id": "T265",
+      "reason": "Swap events gather potential barter partners and also permit less strictly reciprocal redistribution."
+    }
+  ],
+  "T215": [
+    {
+      "id": "T214",
+      "reason": "Direct barter needs a matching pair of wants; mutual credit connects a wider circuit."
+    },
+    {
+      "id": "D017",
+      "reason": "Unreciprocated withdrawals can shift the costs of the network onto contributors."
+    },
+    {
+      "id": "T217",
+      "reason": "Local currencies also support exchange within a network, but need not be issued as mutual credit."
+    }
+  ],
+  "T216": [
+    {
+      "id": "T062",
+      "reason": "Introductions help turn a timebank directory into actual exchanges."
+    },
+    {
+      "id": "T215",
+      "reason": "Time banking can use mutual-credit accounting with hours as its unit."
+    },
+    {
+      "id": "D015",
+      "reason": "The system organizes giving and receiving across a community rather than requiring direct repayment."
+    }
+  ],
+  "T217": [
+    {
+      "id": "D005",
+      "reason": "A local currency depends on the trading relationships and institutions in which it circulates."
+    },
+    {
+      "id": "T215",
+      "reason": "Mutual credit is another way a defined network can organize exchange, with different issuance and settlement rules."
+    }
+  ],
+  "T218": [
+    {
+      "id": "D015",
+      "reason": "Gift relationships can sustain open-ended reciprocity rather than immediate balanced payment."
+    },
+    {
+      "id": "D020",
+      "reason": "Large or difficult-to-repay gifts can create status differences and obligations."
+    }
+  ],
+  "T219": [
+    {
+      "id": "T172",
+      "reason": "Work parties provide the gathering format; reciprocal labor adds an obligation to help in return."
+    },
+    {
+      "id": "D015",
+      "reason": "The arrangement relies on shared expectations about returning assistance."
+    },
+    {
+      "id": "T216",
+      "reason": "Time banking records contributions in time credits rather than relying only on direct labor reciprocity."
+    }
+  ],
+  "T220": [
+    {
+      "id": "T241",
+      "reason": "A lottery is one way to determine who receives the savings pot first."
+    },
+    {
+      "id": "D016",
+      "reason": "Continued contributions after payout depend on confidence in members and the arrangement."
+    }
+  ],
+  "T221": [
+    {
+      "id": "T109",
+      "reason": "Member elections connect ownership to formal oversight."
+    },
+    {
+      "id": "T252",
+      "reason": "Credit unions apply user-owned cooperative organization to financial services."
+    },
+    {
+      "id": "T220",
+      "reason": "Rotating savings groups distribute a pooled contribution in turns, unlike a continuing member-owned financial institution."
+    }
+  ],
+  "T222": [
+    {
+      "id": "T336",
+      "reason": "Insurance protection depends on organizing shared exposure and resources."
+    },
+    {
+      "id": "T252",
+      "reason": "Policyholder ownership resembles consumer cooperative governance because users are the members."
+    },
+    {
+      "id": "T313",
+      "reason": "Mutual-benefit societies combine pooled assistance with continuing membership and social life."
+    }
+  ],
+  "T223": [
+    {
+      "id": "T065",
+      "reason": "An emergency fund is a financial component that a wider mutual-aid network can organize."
+    },
+    {
+      "id": "T242",
+      "reason": "When requests exceed funds, assessment of need becomes an allocation choice."
+    }
+  ],
+  "T224": [
+    {
+      "id": "T225",
+      "reason": "Loan-based crowdfunding creates repayment duties absent from donation campaigns."
+    },
+    {
+      "id": "T335",
+      "reason": "Threshold assurance can make campaign contributions conditional on sufficient support."
+    }
+  ],
+  "T225": [
+    {
+      "id": "T224",
+      "reason": "Crowdlending uses crowdfunding infrastructure but attaches repayment expectations."
+    },
+    {
+      "id": "T267",
+      "reason": "Loan commitments rely on terms establishing each party’s obligations."
+    },
+    {
+      "id": "T221",
+      "reason": "Credit unions pool financial services through member ownership rather than connecting lenders through a lending platform."
+    }
+  ],
+  "T226": [
+    {
+      "id": "T227",
+      "reason": "Dues support membership in an association; a subscription can remain a customer relationship."
+    },
+    {
+      "id": "T228",
+      "reason": "Both can provide ongoing support, but patronage concentrates it in particular backer relationships."
+    },
+    {
+      "id": "T263",
+      "reason": "Some CSA arrangements extend advance commitment into explicit sharing of harvest risk, which a subscription alone does not imply."
+    }
+  ],
+  "T227": [
+    {
+      "id": "T073",
+      "reason": "Dues can sustain a club as an ongoing association rather than a sequence of individual events."
+    },
+    {
+      "id": "T226",
+      "reason": "Subscriptions are a neighboring recurring-payment mechanism with a different relationship to membership rights."
+    }
+  ],
+  "T228": [
+    {
+      "id": "T229",
+      "reason": "Patronage can support work that does not fit a formal grant application process."
+    },
+    {
+      "id": "T226",
+      "reason": "Subscriptions spread continuing support across many customers rather than concentrating it in one patron relationship."
+    }
+  ],
+  "T229": [
+    {
+      "id": "T226",
+      "reason": "Subscriptions depend on recurring customer support; grants can finance work lacking that revenue base."
+    },
+    {
+      "id": "T337",
+      "reason": "Peer juries are one component through which funders can assess proposed work."
+    },
+    {
+      "id": "T235",
+      "reason": "Endowments can provide a continuing financial base for making grants."
+    },
+    {
+      "id": "T262",
+      "reason": "Fiscal sponsorship can provide an accountable organizational home for funds supporting a project."
+    },
+    {
+      "id": "T346",
+      "reason": "Commissioning buys development work; grants fund research under different relationships."
+    }
+  ],
+  "T230": [
+    {
+      "id": "T267",
+      "reason": "A contracted commission and an inducement prize allocate development risk and payment obligations differently."
+    },
+    {
+      "id": "T279",
+      "reason": "Retrospective awards recognize achievement, while inducement prizes announce a target in advance."
+    },
+    {
+      "id": "D026",
+      "reason": "Competitors may optimize the measured target instead of the wider purpose."
+    },
+    {
+      "id": "T231",
+      "reason": "Bounties attach payment to a defined task, while prize competitions can invite broader competing solutions."
+    },
+    {
+      "id": "T342",
+      "reason": "Prizes can reward achievement without relying on patent exclusivity, depending on the terms."
+    },
+    {
+      "id": "T345",
+      "reason": "An AMC pays toward qualifying supply rather than only a winning achievement."
+    },
+    {
+      "id": "T347",
+      "reason": "Buyouts compensate for existing rights rather than a preannounced challenge."
+    }
+  ],
+  "T231": [
+    {
+      "id": "T230",
+      "reason": "Both attach rewards to results; bounties can accept multiple qualifying contributions rather than rank a single competition."
+    },
+    {
+      "id": "T182",
+      "reason": "Submission guidelines make a bounty’s required contribution understandable before work begins."
+    }
+  ],
+  "T232": [
+    {
+      "id": "T105",
+      "reason": "Participatory budgeting differs from consultation by assigning a defined role in an actual spending decision."
+    },
+    {
+      "id": "T270",
+      "reason": "Participatory budgeting can choose which publicly funded projects receive resources."
+    },
+    {
+      "id": "T242",
+      "reason": "Public voting and assessed need are different ways to allocate limited resources and may require reconciliation."
+    }
+  ],
+  "T233": [
+    {
+      "id": "T234",
+      "reason": "Quadratic funding allocates a subsidy according to broad backing rather than a simple fixed matching ratio."
+    },
+    {
+      "id": "D026",
+      "reason": "The formula creates incentives to manipulate identity counts and the matching calculation."
+    }
+  ],
+  "T234": [
+    {
+      "id": "T229",
+      "reason": "A matching requirement adds a condition to a grant award."
+    },
+    {
+      "id": "T224",
+      "reason": "A public crowdfunding campaign is one possible way organizers assemble a required match."
+    }
+  ],
+  "T235": [
+    {
+      "id": "T139",
+      "reason": "Trustees can oversee the balance between current distributions and an institution’s future purpose."
+    },
+    {
+      "id": "T228",
+      "reason": "Patron gifts may create an endowment that outlasts the original support relationship."
+    }
+  ],
+  "T236": [
+    {
+      "id": "T237",
+      "reason": "Buying clubs organize joint purchasing among members; pooled procurement can coordinate larger institutional buyers."
+    },
+    {
+      "id": "T267",
+      "reason": "Purchasing contracts specify delivery and payment obligations within a pooled order."
+    }
+  ],
+  "T237": [
+    {
+      "id": "T168",
+      "reason": "Small independent enterprises can cooperate on purchasing without merging their businesses."
+    },
+    {
+      "id": "T236",
+      "reason": "Pooled procurement formalizes shared orders, specifications, financing and delivery."
+    }
+  ],
+  "T238": [
+    {
+      "id": "T340",
+      "reason": "Shared borrowing offers access without each household privately owning the equipment."
+    },
+    {
+      "id": "T239",
+      "reason": "Reservations can coordinate access to popular items in a shared inventory."
+    },
+    {
+      "id": "T264",
+      "reason": "Repair gatherings can complement lending by developing practical skills and maintaining usable objects."
+    },
+    {
+      "id": "T039",
+      "reason": "Libraries offer the broader model of maintained collections with organized shared access."
+    }
+  ],
+  "T239": [
+    {
+      "id": "T240",
+      "reason": "A booking system can use the same arrival-order principle as a queue, with reservations made in advance."
+    },
+    {
+      "id": "T238",
+      "reason": "Tool libraries need workable allocation of access to shared equipment."
+    }
+  ],
+  "T240": [
+    {
+      "id": "T242",
+      "reason": "Giving urgent need priority changes the allocation principle from waiting order to assessed need."
+    },
+    {
+      "id": "T241",
+      "reason": "Lotteries distribute chances without requiring people to spend as much time waiting."
+    }
+  ],
+  "T241": [
+    {
+      "id": "T096",
+      "reason": "Accessible application arrangements determine who can enter the lottery before random selection happens."
+    },
+    {
+      "id": "T108",
+      "reason": "Both use random selection, but allocation lotteries distribute resources while sortition selects people for roles."
+    }
+  ],
+  "T242": [
+    {
+      "id": "T097",
+      "reason": "Confidentiality arrangements can make sensitive needs safer to disclose to assessors."
+    },
+    {
+      "id": "T243",
+      "reason": "Rationing limits quantities; needs-based allocation determines whether different circumstances warrant different shares."
+    }
+  ],
+  "T243": [
+    {
+      "id": "T242",
+      "reason": "Differences in need can justify unequal allowances within a rationing system."
+    },
+    {
+      "id": "T211",
+      "reason": "Rationing constrains allocation that would otherwise follow purchases and purchasing power."
+    },
+    {
+      "id": "T244",
+      "reason": "Tradable quotas allow specified allocations to change hands, altering how a rationing limit is distributed."
+    }
+  ],
+  "T244": [
+    {
+      "id": "T211",
+      "reason": "Transferability adds a market for permissions inside an overall regulated limit."
+    },
+    {
+      "id": "T243",
+      "reason": "Rationing fixes access allowances; tradable quotas add the ability to transfer an allowance."
+    }
+  ],
+  "T245": [
+    {
+      "id": "T246",
+      "reason": "Boundaries define the resource and the users to whom commons rules apply."
+    },
+    {
+      "id": "T248",
+      "reason": "Observation makes resource conditions and compliance visible to users."
+    },
+    {
+      "id": "T247",
+      "reason": "User participation can adapt operational rules as conditions change."
+    },
+    {
+      "id": "T249",
+      "reason": "Graduated consequences can preserve cooperation while responding to violations."
+    }
+  ],
+  "T246": [
+    {
+      "id": "T245",
+      "reason": "Boundaries are a component of a larger institution for shared resource care."
+    },
+    {
+      "id": "D032",
+      "reason": "Drawing access boundaries also shapes group membership and contested exclusion."
+    }
+  ],
+  "T247": [
+    {
+      "id": "D007",
+      "reason": "Participation in use produces knowledge that can improve the rules governing it."
+    },
+    {
+      "id": "T105",
+      "reason": "Consultation gathers input without necessarily transferring authority to modify rules."
+    },
+    {
+      "id": "T245",
+      "reason": "User rulemaking is one component of commons governance."
+    }
+  ],
+  "T248": [
+    {
+      "id": "T247",
+      "reason": "Monitoring supplies information, while participation in rulemaking determines the operating rules."
+    },
+    {
+      "id": "T308",
+      "reason": "Participatory mapping can collect and make shared observations usable."
+    },
+    {
+      "id": "T245",
+      "reason": "Commons governance combines observation with access rules, decisions and responses to violations."
+    }
+  ],
+  "T249": [
+    {
+      "id": "T238",
+      "reason": "Shared equipment creates concrete obligations that graduated sanctions can help enforce."
+    },
+    {
+      "id": "T155",
+      "reason": "Appeals let participants challenge errors in the application of sanctions."
+    }
+  ],
+  "T250": [
+    {
+      "id": "T211",
+      "reason": "Land trusts constrain how market resale can remove affordability benefits."
+    },
+    {
+      "id": "T254",
+      "reason": "Land trusts and housing cooperatives can both support shared housing stewardship but organize ownership differently."
+    },
+    {
+      "id": "T257",
+      "reason": "Both organize lasting purpose across transfers of individual responsibility, using different structures."
+    }
+  ],
+  "T251": [
+    {
+      "id": "T115",
+      "reason": "Member control can coexist with delegated day-to-day management."
+    },
+    {
+      "id": "T109",
+      "reason": "Elections can make managers or governing representatives answerable to worker-members."
+    },
+    {
+      "id": "T256",
+      "reason": "Employee ownership may give a financial stake without the democratic control characteristic of worker cooperatives."
+    }
+  ],
+  "T252": [
+    {
+      "id": "T251",
+      "reason": "Consumer cooperatives and worker cooperatives give membership rights to different constituencies."
+    },
+    {
+      "id": "T255",
+      "reason": "A multistakeholder cooperative can include workers and consumers as distinct member groups."
+    }
+  ],
+  "T253": [
+    {
+      "id": "T168",
+      "reason": "Independent producers can share services while retaining separate enterprises."
+    },
+    {
+      "id": "T237",
+      "reason": "Shared purchasing can be one bounded function of a producer cooperative."
+    },
+    {
+      "id": "T236",
+      "reason": "Collective procurement supplies inputs through coordinated orders."
+    }
+  ],
+  "T254": [
+    {
+      "id": "T071",
+      "reason": "Shared ownership of housing differs from the intentional social arrangements of cohousing."
+    },
+    {
+      "id": "T250",
+      "reason": "A land trust can preserve land for community benefit without adopting the same resident-membership model."
+    }
+  ],
+  "T255": [
+    {
+      "id": "T252",
+      "reason": "A consumer cooperative gives users membership, while a multistakeholder design includes additional constituencies."
+    },
+    {
+      "id": "T251",
+      "reason": "Worker cooperatives center worker-members; multistakeholder forms negotiate among several member interests."
+    }
+  ],
+  "T256": [
+    {
+      "id": "T251",
+      "reason": "A financial ownership stake does not automatically confer democratic worker control."
+    },
+    {
+      "id": "T336",
+      "reason": "Concentrating income and ownership in one employer differs from spreading exposure through a risk pool."
+    }
+  ],
+  "T257": [
+    {
+      "id": "T293",
+      "reason": "Mission continuity depends on preparing and selecting capable future stewards."
+    },
+    {
+      "id": "T338",
+      "reason": "Recallable authority can address accountability gaps that purpose restrictions do not resolve."
+    }
+  ],
+  "T258": [
+    {
+      "id": "T259",
+      "reason": "Profit sharing allocates surplus after costs rather than dividing sales receipts."
+    },
+    {
+      "id": "T333",
+      "reason": "Shared payment formulas need dependable accounting records."
+    }
+  ],
+  "T259": [
+    {
+      "id": "T258",
+      "reason": "The base for profit sharing is surplus, whereas revenue sharing starts from receipts."
+    },
+    {
+      "id": "T260",
+      "reason": "An explicit compensation formula can make the division of a bonus pool explainable."
+    }
+  ],
+  "T260": [
+    {
+      "id": "D028",
+      "reason": "Opaque pay discretion creates an oversight problem between decision-makers and affected workers."
+    },
+    {
+      "id": "T259",
+      "reason": "A profit-sharing formula is one particular compensation rule that can be made transparent."
+    }
+  ],
+  "T261": [
+    {
+      "id": "T070",
+      "reason": "Shared households need ways to divide costs among people with different rooms and preferences."
+    },
+    {
+      "id": "T260",
+      "reason": "Both make allocation criteria explicit while leaving the underlying fairness judgments open to discussion."
+    }
+  ],
+  "T262": [
+    {
+      "id": "D028",
+      "reason": "Sponsors need authority and information to oversee activity for which they carry responsibility."
+    },
+    {
+      "id": "T295",
+      "reason": "Leaving a sponsor requires handover of records and live commitments."
+    }
+  ],
+  "T263": [
+    {
+      "id": "T226",
+      "reason": "Some CSA arrangements resemble recurring deliveries more than shared harvest risk."
+    },
+    {
+      "id": "T336",
+      "reason": "Advance commitment can distribute production uncertainty between growers and consumers."
+    }
+  ],
+  "T264": [
+    {
+      "id": "T174",
+      "reason": "Repair together can combine practical production with learning through pair work."
+    },
+    {
+      "id": "D007",
+      "reason": "Visitors can learn by participating in diagnosis and repair rather than observing only a finished result."
+    }
+  ],
+  "T265": [
+    {
+      "id": "T214",
+      "reason": "A swap may use direct barter when receiving depends on giving something in return."
+    },
+    {
+      "id": "T218",
+      "reason": "Other swaps allow gifts without a matched return from each recipient."
+    }
+  ],
+  "T266": [
+    {
+      "id": "T267",
+      "reason": "Escrow depends on agreed instructions defining custody and release conditions."
+    },
+    {
+      "id": "D016",
+      "reason": "Third-party custody reorganizes the trust needed for an exchange rather than removing trust altogether."
+    }
+  ],
+  "T267": [
+    {
+      "id": "S012",
+      "reason": "Law gives contractual obligations their enforceable status."
+    },
+    {
+      "id": "T318",
+      "reason": "Courts can interpret and enforce obligations when a dispute reaches legal proceedings."
+    },
+    {
+      "id": "T266",
+      "reason": "Escrow places funds or assets with an intermediary until agreed conditions are met."
+    },
+    {
+      "id": "T346",
+      "reason": "Commissioned R&D uses contracts to pay for development and allocate its risks."
+    }
+  ],
+  "T268": [
+    {
+      "id": "T037",
+      "reason": "Open educational resources use advance permissions to support adaptation and redistribution in learning."
+    },
+    {
+      "id": "T161",
+      "reason": "Permissions enable open-source collaboration but do not provide its governance and maintenance practices."
+    },
+    {
+      "id": "T269",
+      "reason": "Copyleft is a licensing approach that preserves specified permissions in covered redistributions."
+    },
+    {
+      "id": "T343",
+      "reason": "Copyright supplies rights used to grant permissions over creative expression."
+    },
+    {
+      "id": "T348",
+      "reason": "Open permissions can coexist with paid complementary production or services."
+    }
+  ],
+  "T269": [
+    {
+      "id": "T268",
+      "reason": "Copyleft is distinguished from open licenses that allow more restrictive downstream distribution."
+    },
+    {
+      "id": "T183",
+      "reason": "Licensing preserves permissions, while maintainer delegation organizes the people responsible for ongoing work."
+    },
+    {
+      "id": "T343",
+      "reason": "Copyleft uses copyright-based conditions to preserve downstream freedoms."
+    }
+  ],
+  "T270": [
+    {
+      "id": "D017",
+      "reason": "Public financing addresses situations where beneficiaries could leave voluntary costs to others."
+    },
+    {
+      "id": "S011",
+      "reason": "Public provision is a government responsibility that need not imply direct government delivery of every task."
+    },
+    {
+      "id": "T332",
+      "reason": "Taxation is a major way to finance publicly arranged services without charging every beneficiary directly."
+    }
+  ],
+  "T332": [
+    {
+      "id": "D017",
+      "reason": "Compulsory contributions address the financing problem created by free riding on shared services."
+    },
+    {
+      "id": "T270",
+      "reason": "Tax revenue can finance public provisioning independently of individual fares."
+    },
+    {
+      "id": "T334",
+      "reason": "Public asset registers show what a public body owns, complementing accounts of revenue it collects."
+    }
+  ],
+  "T333": [
+    {
+      "id": "T295",
+      "reason": "Coherent accounts support a handover by making the organization’s financial position reconstructible."
+    },
+    {
+      "id": "T325",
+      "reason": "Audits examine the records and evidence; balanced entries alone do not establish their truth."
+    }
+  ],
+  "T334": [
+    {
+      "id": "T232",
+      "reason": "Knowing the available assets can inform community decisions over public projects and spending."
+    },
+    {
+      "id": "T270",
+      "reason": "Asset knowledge helps public institutions plan and maintain service provision."
+    },
+    {
+      "id": "T333",
+      "reason": "Asset registers complement accounting with practical information about location, use and condition."
+    }
+  ],
+  "T335": [
+    {
+      "id": "T199",
+      "reason": "A threshold arrangement makes individual commitments conditional on enough other commitments."
+    },
+    {
+      "id": "T224",
+      "reason": "Assurance conditions can organize crowdfunding so insufficient funding does not leave isolated contributors committed."
+    }
+  ],
+  "T336": [
+    {
+      "id": "T222",
+      "reason": "Mutual insurance combines advance pooling with policyholder ownership and defined coverage."
+    },
+    {
+      "id": "T223",
+      "reason": "Emergency mutual-aid funds organize immediate assistance, often without the prearranged coverage promises of a risk pool."
+    }
+  ],
+  "T271": [
+    {
+      "id": "T274",
+      "reason": "A professional license establishes legal permission rather than simply attesting learning."
+    },
+    {
+      "id": "T287",
+      "reason": "Direct performance can test capability more specifically than attendance alone."
+    }
+  ],
+  "T272": [
+    {
+      "id": "T273",
+      "reason": "Accreditation examines the competence of bodies issuing defined assessments."
+    },
+    {
+      "id": "T186",
+      "reason": "Standards bodies establish requirements that independent certification bodies can assess."
+    }
+  ],
+  "T273": [
+    {
+      "id": "T272",
+      "reason": "Accreditation assesses the assessor, whereas certification concerns conformity of the assessed object."
+    },
+    {
+      "id": "T271",
+      "reason": "An individual credential is a different claim from recognition of an assessment body."
+    }
+  ],
+  "T274": [
+    {
+      "id": "T272",
+      "reason": "Licensing grants required permission; voluntary certification supplies a different kind of assurance."
+    },
+    {
+      "id": "S012",
+      "reason": "Professional licensing relies on legal authority to restrict entry into specified work."
+    }
+  ],
+  "T275": [
+    {
+      "id": "T278",
+      "reason": "A portfolio selects examples, while contribution records preserve a wider history of participation."
+    },
+    {
+      "id": "T287",
+      "reason": "Work samples produce fresh evidence through a chosen task instead of relying only on past examples."
+    }
+  ],
+  "T276": [
+    {
+      "id": "T284",
+      "reason": "References add evidence to selection beyond the applicant’s own presentation."
+    },
+    {
+      "id": "T277",
+      "reason": "Both carry others’ experience into trust judgments, but references are situated accounts rather than a platform-wide score."
+    }
+  ],
+  "T277": [
+    {
+      "id": "D016",
+      "reason": "New participants face the problem of forming trust before they have an interaction history."
+    },
+    {
+      "id": "D026",
+      "reason": "Participants may manipulate visible reputation metrics rather than improve the behavior those metrics represent."
+    }
+  ],
+  "T278": [
+    {
+      "id": "D026",
+      "reason": "Turning an activity record into a target can encourage more entries instead of more useful work."
+    },
+    {
+      "id": "T001",
+      "reason": "Mentoring can matter greatly while leaving few traces in ordinary contribution logs."
+    },
+    {
+      "id": "T282",
+      "reason": "Contributor credits translate selected participation into public acknowledgment; records support but do not determine credit."
+    }
+  ],
+  "T280": [
+    {
+      "id": "T279",
+      "reason": "Nominations bring achievements into consideration for an award but do not decide the winner."
+    },
+    {
+      "id": "T337",
+      "reason": "A peer jury evaluates the candidates that nominations make visible."
+    }
+  ],
+  "T281": [
+    {
+      "id": "D002",
+      "reason": "Appreciation makes a contribution recognizable to the group, not only privately valued by the recipient."
+    },
+    {
+      "id": "T096",
+      "reason": "Accessibility work can be necessary yet less visible than public-facing roles."
+    },
+    {
+      "id": "T282",
+      "reason": "Credits preserve acknowledgment with the finished work, while appreciation can happen in a live social occasion."
+    }
+  ],
+  "T282": [
+    {
+      "id": "T278",
+      "reason": "Contribution histories can support accurate credits without automatically settling their interpretation."
+    },
+    {
+      "id": "T283",
+      "reason": "Authorship attaches particular responsibility to a byline; contributor credits recognize a wider range of involvement."
+    }
+  ],
+  "T283": [
+    {
+      "id": "T282",
+      "reason": "Acknowledgment can recognize valuable work that does not qualify for authorship under a field’s criteria."
+    },
+    {
+      "id": "D020",
+      "reason": "Bylines carry status and career consequences, which can distort inclusion and ordering."
+    }
+  ],
+  "T284": [
+    {
+      "id": "T287",
+      "reason": "A relevant work sample can supply direct evidence for merit-based selection."
+    },
+    {
+      "id": "T271",
+      "reason": "Credentials are evidence about defined qualifications, not interchangeable proof of all relevant capability."
+    },
+    {
+      "id": "S006",
+      "reason": "Merit-based selection is a specific procedure; meritocracy is a broader claim about how positions and rewards should be distributed."
+    },
+    {
+      "id": "T291",
+      "reason": "Peer promotion gives colleagues a role in judging readiness for greater responsibility."
+    }
+  ],
+  "T285": [
+    {
+      "id": "T284",
+      "reason": "Seniority offers a service-based priority rule rather than a fresh comparative judgment of ability."
+    },
+    {
+      "id": "T193",
+      "reason": "Duty rosters can use seniority, rotation or other rules to allocate recurring shifts."
+    }
+  ],
+  "T286": [
+    {
+      "id": "T284",
+      "reason": "Competitive exams are one assessment component within a broader merit-based selection process."
+    },
+    {
+      "id": "T271",
+      "reason": "Examination results can support a credential, but passing an entry exam is not identical to obtaining an appointment."
+    }
+  ],
+  "T287": [
+    {
+      "id": "T025",
+      "reason": "A simulation recreates relevant tasks so behavior can be observed before assigning the real role."
+    },
+    {
+      "id": "T096",
+      "reason": "Assessment arrangements affect whether candidates with different circumstances can participate."
+    },
+    {
+      "id": "T289",
+      "reason": "Trial projects observe a bounded working relationship over time rather than only performance on a short assessment."
+    },
+    {
+      "id": "T275",
+      "reason": "Portfolios show existing work, while work-sample assessments ask candidates to perform a specified task."
+    },
+    {
+      "id": "T288",
+      "reason": "Auditions test performance in a live selection setting rather than relying only on prior credentials."
+    }
+  ],
+  "T288": [
+    {
+      "id": "T174",
+      "reason": "Performing with a partner can reveal responsiveness that a solo demonstration misses."
+    },
+    {
+      "id": "T287",
+      "reason": "Auditions are a performance-centered way to sample work relevant to a role."
+    }
+  ],
+  "T289": [
+    {
+      "id": "T198",
+      "reason": "A defined duration and endpoint distinguish a trial from indefinite probationary effort."
+    },
+    {
+      "id": "D028",
+      "reason": "Organizers may benefit from applicant work even when their stated purpose is evaluation."
+    },
+    {
+      "id": "T287",
+      "reason": "Short work samples assess a task; trial projects reveal more of an actual collaborative relationship."
+    }
+  ],
+  "T290": [
+    {
+      "id": "D020",
+      "reason": "Hiding identity cues can reduce the influence of existing status on initial evaluation."
+    },
+    {
+      "id": "T028",
+      "reason": "Blind review changes the information available within peer assessment rather than replacing assessment criteria."
+    }
+  ],
+  "T291": [
+    {
+      "id": "D016",
+      "reason": "Peers draw on working relationships when deciding whether to extend responsibility."
+    },
+    {
+      "id": "D014",
+      "reason": "Familiarity and similarity can bias which capable contributors insiders recognize."
+    },
+    {
+      "id": "T183",
+      "reason": "Peer promotion can confer maintainer responsibility, which then needs explicit delegated powers."
+    }
+  ],
+  "T292": [
+    {
+      "id": "T001",
+      "reason": "Mentorship provides guidance and development; sponsorship adds active advocacy for opportunities."
+    },
+    {
+      "id": "T062",
+      "reason": "A connector’s introduction is one concrete way sponsorship opens access."
+    }
+  ],
+  "T293": [
+    {
+      "id": "D011",
+      "reason": "Succession becomes fragile when practical knowledge remains concentrated in one person."
+    },
+    {
+      "id": "T295",
+      "reason": "Overlap gives a successor access to live context and feedback before the predecessor leaves."
+    },
+    {
+      "id": "T304",
+      "reason": "Demonstrations test whether capability has transferred rather than assuming documents are enough."
+    }
+  ],
+  "T294": [
+    {
+      "id": "T115",
+      "reason": "A deputy needs a defined delegation of power rather than an ambiguous second title."
+    },
+    {
+      "id": "T293",
+      "reason": "Deputy capacity supports continuity without determining the permanent successor."
+    }
+  ],
+  "T295": [
+    {
+      "id": "T190",
+      "reason": "Handoff protocols identify the information and live obligations that must cross a responsibility boundary."
+    },
+    {
+      "id": "D011",
+      "reason": "Overlap helps surface tacit context before access to its holder disappears."
+    }
+  ],
+  "T296": [
+    {
+      "id": "T011",
+      "reason": "Shadowing can precede responsibility by showing a newcomer the work in context."
+    },
+    {
+      "id": "D007",
+      "reason": "Capability develops through participation, not merely through receiving a title."
+    },
+    {
+      "id": "T115",
+      "reason": "Graduation changes the scope of delegated authority as readiness develops."
+    },
+    {
+      "id": "T297",
+      "reason": "Leadership pipelines connect growing responsibility to preparation for future leadership roles."
+    }
+  ],
+  "T297": [
+    {
+      "id": "T293",
+      "reason": "Pipelines prepare potential successors before a departure makes replacement urgent."
+    },
+    {
+      "id": "D004",
+      "reason": "A closed circle can monopolize development opportunities and then appear uniquely qualified."
+    }
+  ],
+  "T298": [
+    {
+      "id": "D003",
+      "reason": "Informal authority can persist after the formal office transfers."
+    },
+    {
+      "id": "D013",
+      "reason": "Founder dependence can prevent the institution from upholding a successor’s authority."
+    },
+    {
+      "id": "T293",
+      "reason": "A founder-transition agreement addresses a specific power-transfer problem within succession planning."
+    },
+    {
+      "id": "T299",
+      "reason": "Emeritus roles define how a former leader may remain involved after relinquishing authority."
+    }
+  ],
+  "T299": [
+    {
+      "id": "T281",
+      "reason": "An emeritus role preserves acknowledgment while changing active responsibilities."
+    },
+    {
+      "id": "D003",
+      "reason": "Honorary status can retain informal authority beyond formal privileges."
+    },
+    {
+      "id": "T079",
+      "reason": "Farewell rituals can recognize a contribution while marking a change in role."
+    }
+  ],
+  "T300": [
+    {
+      "id": "T276",
+      "reason": "Departing people may soften feedback because they still depend on a reference."
+    },
+    {
+      "id": "T027",
+      "reason": "Exit interviews can feed organizational reflection, while retrospectives examine shared work with current participants."
+    }
+  ],
+  "T301": [
+    {
+      "id": "T033",
+      "reason": "An institutional archive makes recorded memories findable and usable later."
+    },
+    {
+      "id": "T034",
+      "reason": "Decision logs preserve contemporaneous reasoning that can complement retrospective memories."
+    },
+    {
+      "id": "T022",
+      "reason": "Institutional memory interviews are an organization-focused application of oral history."
+    },
+    {
+      "id": "T300",
+      "reason": "Exit interviews use a departure as an occasion to gather experience and feedback."
+    }
+  ],
+  "T302": [
+    {
+      "id": "T115",
+      "reason": "Backup access needs an explicit scope of delegated authority."
+    },
+    {
+      "id": "D013",
+      "reason": "Single-person control can reproduce founder dependence even in small infrastructure tasks."
+    },
+    {
+      "id": "T013",
+      "reason": "Cross-training supplies the knowledge needed to use backup access meaningfully."
+    },
+    {
+      "id": "T161",
+      "reason": "Shared administration helps open-source collaboration survive the absence of an individual maintainer."
+    },
+    {
+      "id": "T294",
+      "reason": "Deputy roles give a named person continuing responsibilities that may also provide backup."
+    }
+  ],
+  "T303": [
+    {
+      "id": "T112",
+      "reason": "A duration and a cap on repeated service are related but distinct restrictions."
+    },
+    {
+      "id": "T293",
+      "reason": "Predictable endings allow succession preparation before a term expires."
+    },
+    {
+      "id": "T338",
+      "reason": "Removal or non-confirmation provides accountability beyond the mere passage of a fixed term."
+    }
+  ],
+  "T304": [
+    {
+      "id": "T025",
+      "reason": "A rehearsal or simulation can expose gaps before real responsibility transfers."
+    },
+    {
+      "id": "T295",
+      "reason": "Demonstrating work during overlap lets a predecessor answer questions while they remain available."
+    },
+    {
+      "id": "T293",
+      "reason": "Demonstrations verify the capability component of a succession plan."
+    }
+  ],
+  "T305": [
+    {
+      "id": "T274",
+      "reason": "Recognition within a lineage differs from legal permission to practice an occupation."
+    },
+    {
+      "id": "T271",
+      "reason": "Lineage records a tradition-specific relationship rather than a universal assessment of skill."
+    }
+  ],
+  "T306": [
+    {
+      "id": "T199",
+      "reason": "An oath gives a role-specific pledge a public audience that can refer to it later."
+    },
+    {
+      "id": "T146",
+      "reason": "The governing charter supplies duties to which an officeholder’s promise can refer."
+    }
+  ],
+  "T337": [
+    {
+      "id": "T153",
+      "reason": "Disclosure helps reveal relationships that could distort a jury’s judgment."
+    },
+    {
+      "id": "T279",
+      "reason": "A jury is one component through which an award recognizes selected achievements."
+    },
+    {
+      "id": "T280",
+      "reason": "Peer nominations determine which candidates a jury is given the opportunity to assess."
+    }
+  ],
+  "T338": [
+    {
+      "id": "T114",
+      "reason": "Popular recall is one removal procedure, distinct from peer confirmation after community input."
+    },
+    {
+      "id": "T295",
+      "reason": "Removing authority needs a practical handover so the shared work continues."
+    },
+    {
+      "id": "T303",
+      "reason": "Fixed terms define the horizon of an appointment; recallability supplies a route to reconsider continued trust."
+    }
+  ],
+  "T340": [
+    {
+      "id": "T211",
+      "reason": "Markets allow recognized ownership rights to change hands through exchange."
+    },
+    {
+      "id": "S001",
+      "reason": "Capitalism combines private ownership with investment and production for profit; private ownership has wider uses."
+    },
+    {
+      "id": "T218",
+      "reason": "Ownership can transfer through gifts as well as priced market exchange."
+    },
+    {
+      "id": "T341",
+      "reason": "Intellectual property assigns rights over intangible assets with rules different from ownership of physical objects."
+    }
+  ],
+  "T341": [
+    {
+      "id": "T342",
+      "reason": "Patents create rights over qualifying inventions."
+    },
+    {
+      "id": "T343",
+      "reason": "Copyright governs original expression rather than the underlying idea."
+    },
+    {
+      "id": "T344",
+      "reason": "Trade secrets protect qualifying confidential information."
+    },
+    {
+      "id": "T268",
+      "reason": "Open licensing uses rights to establish permissions in advance."
+    },
+    {
+      "id": "T229",
+      "reason": "Grants fund creation without requiring later exclusivity."
+    }
+  ],
+  "T342": [
+    {
+      "id": "T346",
+      "reason": "Commissioned R&D pays for development under an agreed contract."
+    },
+    {
+      "id": "T229",
+      "reason": "Grants support attempts before commercial success."
+    },
+    {
+      "id": "T230",
+      "reason": "Prize competitions reward specified achievements rather than providing exclusion rights."
+    },
+    {
+      "id": "T345",
+      "reason": "Advance market commitments address uncertainty about future demand."
+    },
+    {
+      "id": "T347",
+      "reason": "Buyouts replace continued exclusion with compensation and wider access."
+    },
+    {
+      "id": "T344",
+      "reason": "Trade secrets rely on confidentiality rather than patent disclosure."
+    },
+    {
+      "id": "T348",
+      "reason": "Complementary capabilities can generate revenue without exclusive control of an invention."
+    },
+    {
+      "id": "T343",
+      "reason": "Copyright protects expression and is not a substitute for protecting a technical invention."
+    },
+    {
+      "id": "T341",
+      "reason": "Intellectual property is the broader family containing patents."
+    }
+  ],
+  "T343": [
+    {
+      "id": "T342",
+      "reason": "Patents address inventions rather than their written or artistic description."
+    },
+    {
+      "id": "T268",
+      "reason": "Open licensing grants advance permissions for reuse."
+    },
+    {
+      "id": "T269",
+      "reason": "Copyleft uses rights to preserve downstream permissions."
+    },
+    {
+      "id": "T228",
+      "reason": "Patronage can support creation independently of revenue from copies."
+    },
+    {
+      "id": "T341",
+      "reason": "Copyright is one branch of intellectual property."
+    }
+  ],
+  "T344": [
+    {
+      "id": "T342",
+      "reason": "Patents exchange disclosure for exclusion rights; trade secrets depend on continued confidentiality."
+    },
+    {
+      "id": "T097",
+      "reason": "Confidentiality agreements can support restricted disclosure."
+    },
+    {
+      "id": "D011",
+      "reason": "Tacit knowledge is hard to transmit, which is different from deliberately keeping information secret."
+    },
+    {
+      "id": "T341",
+      "reason": "Trade secrets belong within the broader intellectual-property family."
+    }
+  ],
+  "T345": [
+    {
+      "id": "T230",
+      "reason": "Prize competitions reward achievement; AMCs fund purchases of qualifying supply."
+    },
+    {
+      "id": "T346",
+      "reason": "Commissioned R&D pays for the work leading toward a product."
+    },
+    {
+      "id": "T342",
+      "reason": "AMCs can coexist with patents; they are not automatically an open-access mechanism."
+    },
+    {
+      "id": "T236",
+      "reason": "Pooled procurement combines buyers, while an AMC additionally makes future demand credible."
+    }
+  ],
+  "T346": [
+    {
+      "id": "T267",
+      "reason": "Contracts allocate payment, responsibilities, and rights in commissioned work."
+    },
+    {
+      "id": "T230",
+      "reason": "Prizes generally reward selected outcomes rather than purchase development work."
+    },
+    {
+      "id": "T342",
+      "reason": "Development fees can reduce dependence on later patent licensing income."
+    },
+    {
+      "id": "T341",
+      "reason": "Agreements need to address ownership and permissions over results."
+    },
+    {
+      "id": "T229",
+      "reason": "Grants support research under funding conditions without necessarily buying a customer-specific deliverable."
+    }
+  ],
+  "T347": [
+    {
+      "id": "T342",
+      "reason": "Buyouts acquire existing patent rights before releasing access."
+    },
+    {
+      "id": "T212",
+      "reason": "Auctions are one proposed way to elicit information about value."
+    },
+    {
+      "id": "T230",
+      "reason": "Prizes can specify a reward before an achievement exists."
+    },
+    {
+      "id": "T229",
+      "reason": "Grants can finance the attempt rather than purchase rights afterward."
+    }
+  ],
+  "T348": [
+    {
+      "id": "T268",
+      "reason": "Open licensing can permit reuse while other capabilities earn revenue."
+    },
+    {
+      "id": "T267",
+      "reason": "Contracts define paid production, implementation, and service commitments."
+    },
+    {
+      "id": "T226",
+      "reason": "Subscriptions can pay for continuing services."
+    },
+    {
+      "id": "T342",
+      "reason": "Complementary capabilities may substitute for or coexist with patent-based income."
+    },
+    {
+      "id": "T330",
+      "reason": "Joint ventures can combine an invention with another participant’s production or distribution capabilities."
+    }
+  ]
+}

@@ -1,0 +1,3474 @@
+[
+  {
+    "id": "T212",
+    "title": "Auctions",
+    "slug": "auctions",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Allocate goods or contracts through structured bidding.",
+    "example": "Discover offers when demand or value is uncertain.",
+    "sources": [
+      "R-T212"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "bidding",
+      "competitive bidding"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T212",
+      "title": "Auctions",
+      "source_title": "Popular science background: Auction theory",
+      "url": "https://www.nobelprize.org/uploads/2020/09/popular-economicsciencesprize2020.pdf",
+      "publisher": "Nobel Prize",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Auctions turn competing valuations into an allocation through specified bidding and payment rules. Open ascending bids, descending prices, and sealed bids expose different information and create different incentives for participants.",
+      "limitation": "The best format depends on information, competition, and objectives; bidders can misjudge value or coordinate against the organizer.",
+      "scenario": "Imagine a neighborhood association selling donated furniture: it announces ascending bids and a closing time, then uses the proceeds to repair its shared courtyard.",
+      "aliases": [
+        "bidding",
+        "competitive bidding"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T213",
+    "title": "Double auctions",
+    "slug": "double-auctions",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Buyers and sellers both submit offers under matching rules.",
+    "example": "Organize repeated exchange across many participants.",
+    "sources": [
+      "R-T213"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "bid-ask market",
+      "continuous double auction"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T213",
+      "title": "Double auctions",
+      "source_title": "Constructivist and Ecological Rationality in Economics",
+      "url": "https://www.nobelprize.org/uploads/2017/05/vernon-smith-lecture.pdf",
+      "publisher": "Nobel Prize; Vernon Smith",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "A double auction lets both buyers and sellers submit offers, with trades occurring when acceptable prices meet. Smith's experimental markets examined how repeated interaction can coordinate dispersed valuations without a central price setter.",
+      "limitation": "Laboratory outcomes depend on trading rules and market conditions; thin participation, manipulation, or information asymmetries can change performance substantially.",
+      "scenario": "Imagine a makerspace exchange where members post both offers to sell surplus wood and bids to buy it, with matched offers producing trades.",
+      "aliases": [
+        "bid-ask market",
+        "continuous double auction"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T214",
+    "title": "Barter",
+    "slug": "barter",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Exchange goods or services directly.",
+    "example": "Trade without a common monetary payment.",
+    "sources": [
+      "R-T214"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "direct exchange",
+      "in-kind exchange"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T214",
+      "title": "Barter",
+      "source_title": "Publication 525: Bartering",
+      "url": "https://www.irs.gov/publications/p525",
+      "publisher": "Internal Revenue Service",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Barter exchanges goods or services for other goods or services rather than money. The arrangement requires participants to agree what each side supplies, and may operate directly or through organized exchange networks.",
+      "limitation": "Avoiding cash does not eliminate valuation disputes or applicable obligations; each party still needs something acceptable to the other.",
+      "scenario": "Imagine a bicycle mechanic repairing a photographer's bike in exchange for portraits, after they agree on the repair scope and number of finished photographs.",
+      "aliases": [
+        "direct exchange",
+        "in-kind exchange"
+      ],
+      "scale": "everyday",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T215",
+    "title": "Mutual credit",
+    "slug": "mutual-credit",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Track reciprocal credits and obligations within a network.",
+    "example": "Support exchange without requiring each trade to balance bilaterally.",
+    "sources": [
+      "R-T215"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "credit clearing",
+      "mutual credit network"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T215",
+      "title": "Mutual credit",
+      "source_title": "From an idea to a scalable working model: Sardex",
+      "url": "https://www.ijccr.net/article/view/9213",
+      "publisher": "International Journal of Community Currency Research",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "Mutual credit records purchases as debits and sales as credits within a participating network. The Sardex case describes an exchange circuit where commercial relationships and trust support transactions alongside the accounting infrastructure.",
+      "limitation": "A closed circuit needs useful suppliers and credible settlement rules; the Sardex case alone does not establish results for other networks.",
+      "scenario": "Imagine local workshops accepting account credits for repairs and spending those credits on supplies from other members, within agreed debit limits and a shared ledger.",
+      "aliases": [
+        "credit clearing",
+        "mutual credit network"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T216",
+    "title": "Time banking",
+    "slug": "time-banking",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Account for service exchanges using time credits.",
+    "example": "Coordinate reciprocal practical help.",
+    "sources": [
+      "TIME"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T217",
+    "title": "Local currencies",
+    "slug": "local-currencies",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Use a means of exchange within a defined community.",
+    "example": "Study efforts to retain exchange within a network.",
+    "sources": [
+      "R-T217"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "community currency",
+      "complementary currency"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T217",
+      "title": "Local currencies",
+      "source_title": "About BerkShares",
+      "url": "https://berkshares.org/about/",
+      "publisher": "BerkShares",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "A local currency creates a means of payment accepted by a defined network of businesses and residents. BerkShares illustrates a geographically focused system intended to keep purchasing relationships connected to local enterprises.",
+      "limitation": "Acceptance, conversion arrangements, and issuer credibility constrain usefulness; local circulation does not by itself demonstrate additional economic activity or equitable benefits.",
+      "scenario": "Imagine a town introducing vouchers accepted by participating independent shops, with residents checking participating businesses before exchanging money into the local payment system.",
+      "aliases": [
+        "community currency",
+        "complementary currency"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T218",
+    "title": "Gift economies",
+    "slug": "gift-economies",
+    "kind": "S",
+    "category": "Resources and ownership",
+    "description": "Giving and reciprocal obligations organize circulation.",
+    "example": "Understand exchange that is not priced transaction by transaction.",
+    "sources": [
+      "R-T218"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "gifting",
+      "generalized reciprocity"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T218",
+      "title": "Gift economies",
+      "source_title": "Exchange, Value, and Consumption",
+      "url": "https://openstax.org/books/introduction-anthropology/pages/7-6-exchange-value-and-consumption",
+      "publisher": "OpenStax",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Gift exchange moves resources through social relationships rather than a price paid at each transfer. Anthropological distinctions between generalized and balanced reciprocity show that gifts can involve very different expectations about returning support.",
+      "limitation": "Gift practices can carry obligations and status differences; treating every unpaid transfer as unconditional generosity erases important cultural distinctions.",
+      "scenario": "Imagine neighbors regularly leaving surplus garden produce on a shared table, without tracking equivalent returns, while discussing expectations before the practice expands beyond familiar households.",
+      "aliases": [
+        "gifting",
+        "generalized reciprocity"
+      ],
+      "scale": "everyday",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T219",
+    "title": "Reciprocal labor exchanges",
+    "slug": "reciprocal-labor-exchanges",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Participants return labor across different tasks or occasions.",
+    "example": "Coordinate seasonal work among households.",
+    "sources": [
+      "R-T219"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "labor exchange",
+      "reciprocal work",
+      "ayni"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T219",
+      "title": "Reciprocal labor exchanges",
+      "source_title": "Pro-Actively Coping with Climate Change",
+      "url": "https://www.fao.org/climatechange/27003-0ca48ac78232e712dc17f10f6c19e5576.pdf",
+      "publisher": "Food and Agriculture Organization",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Reciprocal labor exchanges coordinate help now with an obligation to return help later. The account of Andean ayni describes relationships in which people assist one another when needed and subsequently reciprocate labor.",
+      "limitation": "Ayni belongs to particular social and cultural relationships; borrowing a work-exchange mechanism does not reproduce those obligations or shared meanings automatically.",
+      "scenario": "Imagine three households agreeing to help repaint one home each weekend, with the schedule and expected hours discussed before the first household receives assistance.",
+      "aliases": [
+        "labor exchange",
+        "reciprocal work",
+        "ayni"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T220",
+    "title": "Rotating savings groups",
+    "slug": "rotating-savings-groups",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Members contribute regularly and take turns receiving the pooled sum.",
+    "example": "Understand collective saving with scheduled access.",
+    "sources": [
+      "R-T220"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "ROSCA",
+      "rotating savings and credit association"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T220",
+      "title": "Rotating savings groups",
+      "source_title": "Indigenous Savings and Credit Societies in the Developing World",
+      "url": "https://documents1.worldbank.org/curated/en/255821468766493886/pdf/multi-page.pdf",
+      "publisher": "World Bank; F. J. A. Bouman",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "A rotating savings group collects regular contributions and gives the combined pot to one member each round. Early recipients obtain funds sooner, while later recipients accumulate savings through the same reciprocal commitment.",
+      "limitation": "Early recipients must keep contributing after receiving their pot; default, unreliable income, and contested ordering can undermine the entire arrangement.",
+      "scenario": "Imagine six trusted colleagues contributing monthly to a rotating pot, agreeing in advance on the order, missed-payment procedures, and what happens if someone leaves.",
+      "aliases": [
+        "ROSCA",
+        "rotating savings and credit association"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T221",
+    "title": "Credit unions",
+    "slug": "credit-unions",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Members jointly own a financial cooperative.",
+    "example": "Study member-governed provision of financial services.",
+    "sources": [
+      "R-T221"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "financial cooperative",
+      "member-owned bank"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T221",
+      "title": "Credit unions",
+      "source_title": "What Is a Credit Union?",
+      "url": "https://mycreditunion.gov/brochure-publications/brochure/what-credit-union",
+      "publisher": "National Credit Union Administration",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Credit unions organize financial services through member ownership and member governance. The NCUA describes a cooperative structure with an elected board, linking the institution's users to its ownership rather than external shareholders.",
+      "limitation": "Member ownership does not remove financial risk or guarantee active participation; regulation and protections vary by jurisdiction and institution.",
+      "scenario": "Imagine workers considering a member-owned savings institution and comparing its elected governance, membership rules, services, and oversight with other available financial institutions.",
+      "aliases": [
+        "financial cooperative",
+        "member-owned bank"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T222",
+    "title": "Mutual insurance",
+    "slug": "mutual-insurance",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Members pool risks through an insurer organized for their benefit.",
+    "example": "Understand collective coverage of uncertain losses.",
+    "sources": [
+      "R-T222"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "policyholder-owned insurance",
+      "insurance mutual"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T222",
+      "title": "Mutual insurance",
+      "source_title": "Microinsurance: Collective gains",
+      "url": "https://www.icmif.org/blog_articles/microinsurance-collective-gains/",
+      "publisher": "International Cooperative and Mutual Insurance Federation",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Mutual insurance combines pooled protection with policyholder ownership. The practitioner account distinguishes mutual organizations through members' participation in a collective institution, connecting coverage arrangements with governance rather than treating customers solely as purchasers.",
+      "limitation": "Policyholder ownership does not guarantee adequate reserves, fair claims handling, or equal influence; this practitioner source advocates for its sector.",
+      "scenario": "Imagine a trade association exploring a member-owned insurer, asking how claims decisions, reserves, elected oversight, and participation would work before choosing any coverage.",
+      "aliases": [
+        "policyholder-owned insurance",
+        "insurance mutual"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T223",
+    "title": "Emergency mutual-aid funds",
+    "slug": "emergency-mutual-aid-funds",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Pool contributions for agreed urgent needs.",
+    "example": "Respond to hardship beyond individual reserves.",
+    "sources": [
+      "R-T223"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "solidarity fund",
+      "emergency assistance fund"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T223",
+      "title": "Emergency mutual-aid funds",
+      "source_title": "Elswick Solidarity Fund",
+      "url": "https://opencollective.com/elswicksolidarityfund",
+      "publisher": "Elswick Solidarity Fund",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "An emergency mutual-aid fund collects contributions and redistributes money to people facing immediate hardship. Elswick's published practice uses request rules, available funds, and community review rather than requiring recipients to repay assistance.",
+      "limitation": "Available money limits support, while eligibility and review rules influence access; one local fund's practice is not a universal governance model.",
+      "scenario": "Imagine residents pooling donations for neighbors facing sudden utility shutoffs, publishing request criteria and arranging discreet reviews that reveal as little personal information as possible.",
+      "aliases": [
+        "solidarity fund",
+        "emergency assistance fund"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T224",
+    "title": "Crowdfunding",
+    "slug": "crowdfunding",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Raise contributions from many supporters for a defined project.",
+    "example": "Test support for a proposed public artifact.",
+    "sources": [
+      "R-T224"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "crowd fundraising",
+      "public fundraising campaign"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T224",
+      "title": "Crowdfunding",
+      "source_title": "Understanding crowdfunding",
+      "url": "https://www.fca.org.uk/investsmart/understanding-crowdfunding",
+      "publisher": "Financial Conduct Authority",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Crowdfunding gathers relatively small contributions from many people through a public campaign or platform. Donation, reward, investment, and lending models create different relationships between contributors, organizers, and any promised return.",
+      "limitation": "A successful campaign does not guarantee delivery; obligations and exposure differ substantially between donations, rewards, equity participation, and loans.",
+      "scenario": "Imagine a neighborhood cinema collecting small donations for a projector, explaining its budget, deadline, and what will happen if it raises too little.",
+      "aliases": [
+        "crowd fundraising",
+        "public fundraising campaign"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T225",
+    "title": "Crowdlending",
+    "slug": "crowdlending",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Multiple lenders finance borrowers through coordinated arrangements.",
+    "example": "Compare distributed lending with a single financier.",
+    "sources": [
+      "R-T225"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "peer-to-peer lending",
+      "P2P lending"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T225",
+      "title": "Crowdlending",
+      "source_title": "Understanding crowdfunding",
+      "url": "https://www.fca.org.uk/investsmart/understanding-crowdfunding",
+      "publisher": "Financial Conduct Authority",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Crowdlending connects multiple lenders with borrowers through a platform, with repayment expected rather than a gift. It distributes financing across contributors while making loan terms and platform arrangements central to the relationship.",
+      "limitation": "Borrowers may default and lenders may be unable to exit; platform involvement does not make repayment or access to funds certain.",
+      "scenario": "Imagine a workshop comparing a platform loan funded by many lenders with other financing, examining repayment obligations and failure scenarios before accepting any offer.",
+      "aliases": [
+        "peer-to-peer lending",
+        "P2P lending"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T226",
+    "title": "Subscriptions",
+    "slug": "subscriptions",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Participants pay periodically for continuing access or support.",
+    "example": "Fund recurring work with predictable contributions.",
+    "sources": [
+      "R-T226"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "recurring payment",
+      "subscription model"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T226",
+      "title": "Subscriptions",
+      "source_title": "Subscription pricing models: A guide for businesses",
+      "url": "https://stripe.com/resources/more/subscription-pricing-models-a-guide-for-businesses",
+      "publisher": "Stripe",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Subscriptions exchange recurring payments for continuing access or delivery. Different pricing models tie charges to a fixed period, usage, or service tier, creating an ongoing relationship rather than a single purchase.",
+      "limitation": "Continuing charges require clear cancellation and service expectations; predictable billing for the provider can become unnoticed expenditure for the subscriber.",
+      "scenario": "Imagine a neighborhood newsletter charging a monthly subscription to fund reporting, specifying publication frequency and providing a straightforward way to cancel before renewal.",
+      "aliases": [
+        "recurring payment",
+        "subscription model"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T227",
+    "title": "Membership dues",
+    "slug": "membership-dues",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Members contribute under shared funding rules.",
+    "example": "Cover a club's recurring collective costs.",
+    "sources": [
+      "R-T227"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "member fees",
+      "association dues"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T227",
+      "title": "Membership dues",
+      "source_title": "Our clubs",
+      "url": "https://www.rotary.org/en/get-involved/our-clubs",
+      "publisher": "Rotary International",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Membership dues make regular contributions part of belonging to an organization. Rotary's club model illustrates how membership obligations accompany collective activities, distinguishing a continuing association from an occasional donation to a project.",
+      "limitation": "Dues can exclude people with limited income; the source illustrates one association and does not establish a universally appropriate fee structure.",
+      "scenario": "Imagine a hiking club setting annual dues to pay for shared equipment, while members debate reduced rates and how the collected money should be reported.",
+      "aliases": [
+        "member fees",
+        "association dues"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T228",
+    "title": "Patronage",
+    "slug": "patronage",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "A supporter funds another's ongoing work or institution.",
+    "example": "Sustain work that lacks direct paying customers.",
+    "sources": [
+      "R-T228"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "arts patronage",
+      "patron support"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T228",
+      "title": "Patronage",
+      "source_title": "Looking to Connect with European Paintings: The Role of the Patron",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/looking_to_connect_with_european_paintings_visual_approaches_for_teaching_in_the_galleries.pdf",
+      "publisher": "Metropolitan Museum of Art",
+      "source_type": "history",
+      "access": "search excerpt",
+      "finding": "Patronage connects a creator or institution with a supporter who supplies resources over a project or relationship. Historical commissions show how patrons influenced subjects and opportunities, making support a source of cultural direction.",
+      "limitation": "Resource dependence can give patrons substantial influence over expression and access; historical commissions illustrate this tension without defining every modern patron relationship.",
+      "scenario": "Imagine a local business funding a theater's season, with a written understanding of acknowledgement, artistic independence, and whether the supporter can influence programming.",
+      "aliases": [
+        "arts patronage",
+        "patron support"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T229",
+    "title": "Grants",
+    "slug": "grants",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Allocate funds toward specified purposes through selection processes.",
+    "example": "Support work whose benefits are not easily sold.",
+    "sources": [
+      "R-T229"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "project grants",
+      "grantmaking"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T229",
+      "title": "Grants",
+      "source_title": "Grants for Arts Projects",
+      "url": "https://www.arts.gov/grants/grants-for-arts-projects",
+      "publisher": "National Endowment for the Arts",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Grants allocate resources to proposed activities through eligibility rules, applications, and assessment. The NEA program illustrates project-based support in which applicants explain intended work and budgets to an external funding body.",
+      "limitation": "Application capacity and funder priorities shape who receives support; restricted awards can leave necessary operating work or less legible projects unfunded.",
+      "scenario": "Imagine a community theater applying for support for accessible performances, translating its plan into a budget and checking whether the funder supports the required expenses.",
+      "aliases": [
+        "project grants",
+        "grantmaking"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T230",
+    "title": "Prize competitions",
+    "slug": "prize-competitions",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Offer a reward for achieving a defined result.",
+    "example": "Attract multiple approaches to a bounded challenge.",
+    "sources": [
+      "R-T230"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "challenge prize",
+      "innovation challenge"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T230",
+      "title": "Prize competitions",
+      "source_title": "Prize competitions",
+      "url": "https://www.gsa.gov/technology/government-it-initiatives/prize-competitions",
+      "publisher": "U.S. General Services Administration",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Prize competitions announce a challenge and reward selected solutions after participants develop submissions. The organizer sets the problem and judging criteria, while competitors choose whether to invest effort without a guaranteed award.",
+      "limitation": "Unsuccessful entrants may receive nothing for substantial work; unclear criteria and ownership terms can deter participation or create disputes.",
+      "scenario": "Imagine a city offering a prize for a usable flood-warning prototype, publishing evaluation criteria, submission rights, and judging procedures before inviting competing designs.",
+      "aliases": [
+        "challenge prize",
+        "innovation challenge"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T231",
+    "title": "Bounties",
+    "slug": "bounties",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Attach a reward to completion of a specified task.",
+    "example": "Recruit help for a concrete missing contribution.",
+    "sources": [
+      "R-T231"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "task bounty",
+      "bug bounty",
+      "reward program"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T231",
+      "title": "Bounties",
+      "source_title": "Google Open Source Software Vulnerability Reward Program Rules",
+      "url": "https://github.com/google/bughunters/blob/main/bughunters/articles/about/rules/open-source/google-open-source-software-vulnerability-reward-program-rules.md",
+      "publisher": "Google Bug Hunters",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Bounties announce rewards for qualifying completed contributions. Google's vulnerability program illustrates a mechanism with defined scope, report requirements, and assessment of submitted findings, connecting payment to an accepted result rather than ongoing employment.",
+      "limitation": "Ambiguous scope, duplicate discoveries, and discretionary evaluation can leave contributors unpaid; security-report rules are specific to the program issuing them.",
+      "scenario": "Imagine a software project posting a reward for reproducing a particular bug, defining the evidence required and how duplicate submissions will be handled.",
+      "aliases": [
+        "task bounty",
+        "bug bounty",
+        "reward program"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T232",
+    "title": "Participatory budgeting",
+    "slug": "participatory-budgeting",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Community members help decide allocation of a budget.",
+    "example": "Give residents authority over part of public spending.",
+    "sources": [
+      "PB"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T233",
+    "title": "Quadratic funding",
+    "slug": "quadratic-funding",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Use a matching formula that rewards breadth of financial support.",
+    "example": "Explore funding of shared goods; examine identity manipulation risks.",
+    "sources": [
+      "R-T233"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "quadratic matching",
+      "liberal radicalism"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T233",
+      "title": "Quadratic funding",
+      "source_title": "A Flexible Design for Funding Public Goods",
+      "url": "https://www.microsoft.com/en-us/research/publication/a-flexible-design-for-funding-public-goods/",
+      "publisher": "Microsoft Research; Buterin, Hitzig, Weyl",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "Quadratic funding calculates support using the square of the sum of square roots of contributions. This makes the distribution depend on how many people contribute, with outside subsidy supporting broadly backed projects.",
+      "limitation": "Identity duplication, collusion, and finite subsidy budgets complicate implementation; theoretical efficiency depends on assumptions that real funding communities may not satisfy.",
+      "scenario": "Imagine a town testing matching funds for public projects, comparing how many distinct residents support each proposal and publishing safeguards against coordinated fake donations.",
+      "aliases": [
+        "quadratic matching",
+        "liberal radicalism"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T234",
+    "title": "Matching grants",
+    "slug": "matching-grants",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Release funding conditional on another contribution.",
+    "example": "Encourage co-funding of a shared project.",
+    "sources": [
+      "R-T234"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "matched funding",
+      "cost-share grant"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T234",
+      "title": "Matching grants",
+      "source_title": "Challenge America: Grant Program Details",
+      "url": "https://www.arts.gov/sites/default/files/FY26-CA-Grant-Program-Details-FINAL.pdf",
+      "publisher": "National Endowment for the Arts",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Matching grants make an award conditional on obtaining additional eligible resources. The NEA example permits specified matching contributions, linking external funding with resources that an applicant or other supporters must bring.",
+      "limitation": "Organizations with wealthier networks can find matching requirements easier; eligible cash and in-kind contributions depend on the particular funder's rules.",
+      "scenario": "Imagine a youth music group offered funding if it secures other eligible contributions, then checking whether donated venue time counts before promising its match.",
+      "aliases": [
+        "matched funding",
+        "cost-share grant"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T235",
+    "title": "Endowments",
+    "slug": "endowments",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Steward assets to support an institution over time.",
+    "example": "Reduce dependence on a single annual fundraising cycle.",
+    "sources": [
+      "R-T235"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "permanent fund",
+      "endowment fund"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T235",
+      "title": "Endowments",
+      "source_title": "Harvard's Endowment",
+      "url": "https://finance.harvard.edu/endowment",
+      "publisher": "Harvard University Financial Administration",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "An endowment holds invested assets to support continuing institutional activity through distributions over time. Harvard's account distinguishes ongoing spending needs from preserving resources for the future, with many gifts restricted to particular purposes.",
+      "limitation": "Investment losses and spending rules constrain available support; a large asset balance does not imply unrestricted money for any current priority.",
+      "scenario": "Imagine a small museum establishing a long-term conservation fund, distinguishing what donors restrict from what annual operations need and deciding how distributions will be governed.",
+      "aliases": [
+        "permanent fund",
+        "endowment fund"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T236",
+    "title": "Pooled procurement",
+    "slug": "pooled-procurement",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Combine purchasing needs across participants.",
+    "example": "Negotiate supply for a group of small buyers.",
+    "sources": [
+      "R-T236"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "joint purchasing",
+      "procurement pool"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T236",
+      "title": "Pooled procurement",
+      "source_title": "Pooled Procurement Mechanism: Operational Procedures",
+      "url": "https://resources.theglobalfund.org/media/klkdheja/cr_pooled-procurement-mechanism_op_en.pdf",
+      "publisher": "The Global Fund",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Pooled procurement coordinates orders from multiple purchasers through shared purchasing arrangements. The Global Fund's procedures connect requests, financing, approvals, and delivery, turning separate demand into a managed procurement process with common requirements.",
+      "limitation": "Pooling requires compatible specifications, reliable payment, and coordination; larger orders alone cannot guarantee timely delivery or eliminate supplier dependence.",
+      "scenario": "Imagine several clinics combining orders for identical supplies, agreeing on specifications, funding responsibilities, delivery schedules, and what happens when one participant changes its request.",
+      "aliases": [
+        "joint purchasing",
+        "procurement pool"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T237",
+    "title": "Buying clubs",
+    "slug": "buying-clubs",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Members jointly arrange repeated purchases.",
+    "example": "Access goods through coordinated demand.",
+    "sources": [
+      "R-T237"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "purchasing club",
+      "group buying"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T237",
+      "title": "Buying clubs",
+      "source_title": "America's Farms and Ranches at a Glance: 2022 Edition",
+      "url": "https://www.ers.usda.gov/sites/default/files/_laserfiche/publications/105388/EIB-247.pdf",
+      "publisher": "USDA Economic Research Service",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Buying clubs organize participants to purchase inputs together. The USDA account identifies organizations formed to manage farm purchases, illustrating how members can coordinate demand without transferring the whole management of their enterprises.",
+      "limitation": "Members must align quantities, payment, and distribution; a purchasing club can create administrative work even when it negotiates attractive prices.",
+      "scenario": "Imagine five small farms grouping fertilizer orders, choosing a coordinator and agreeing on payment deadlines and collection responsibilities before asking suppliers for quotations.",
+      "aliases": [
+        "purchasing club",
+        "group buying"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T238",
+    "title": "Tool libraries",
+    "slug": "tool-libraries",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Maintain tools for shared borrowing.",
+    "example": "Provide occasional access without individual ownership.",
+    "sources": [
+      "R-T238"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "library of things",
+      "tool lending"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T238",
+      "title": "Tool libraries",
+      "source_title": "How It Works",
+      "url": "https://seattlereconomy.org/how-it-works/",
+      "publisher": "Seattle REconomy",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Tool libraries provide temporary access to a shared inventory rather than requiring each user to own equipment. Seattle REconomy's rules illustrate borrowing periods, returns, renewals, and training requirements that keep lending workable.",
+      "limitation": "Maintenance, safe use, and overdue items require ongoing coordination; a catalog listing does not guarantee a tool is available when needed.",
+      "scenario": "Imagine neighbors borrowing a drill for a weekend shelf installation, completing any required orientation and returning it on time for the next person's reservation.",
+      "aliases": [
+        "library of things",
+        "tool lending"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T239",
+    "title": "Resource booking systems",
+    "slug": "resource-booking-systems",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Agree how scarce shared resources are reserved and released.",
+    "example": "Coordinate use of a workshop or common room.",
+    "sources": [
+      "R-T239"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "reservation system",
+      "shared calendar",
+      "room booking"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T239",
+      "title": "Resource booking systems",
+      "source_title": "Flight simulator reservations",
+      "url": "https://mtsu.libcal.com/reserve/sim",
+      "publisher": "Middle Tennessee State University",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Resource booking systems assign access to a shared resource for specified periods. The university simulator example combines reservations with eligibility, time limits, and arrival procedures so competing users can plan use.",
+      "limitation": "No-shows and overbooking waste capacity; published reservations need workable cancellation, access, and enforcement rules rather than merely a shared calendar.",
+      "scenario": "Imagine a community studio booking its recording booth in two-hour blocks, releasing unclaimed slots after a grace period and displaying availability to all members.",
+      "aliases": [
+        "reservation system",
+        "shared calendar",
+        "room booking"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T240",
+    "title": "Queues",
+    "slug": "queues",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Allocate service in an agreed sequence.",
+    "example": "Make access predictable when capacity is limited.",
+    "sources": [
+      "R-T240"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "waiting line",
+      "first-come first-served"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T240",
+      "title": "Queues",
+      "source_title": "The Championships Queue Guide 2025",
+      "url": "https://www.wimbledon.com/pdf/The_Championships_Queue_Guide_2025.pdf",
+      "publisher": "Wimbledon",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Queues allocate access through an ordered sequence of people waiting for service or a limited resource. Wimbledon's numbered, nontransferable queue cards illustrate how an organization makes waiting order visible and prevents place transfers.",
+      "limitation": "Waiting imposes unequal costs on people with different schedules and mobility; orderly access does not make the underlying allocation universally fair.",
+      "scenario": "Imagine a neighborhood repair event assigning arrival numbers, explaining priority exceptions and letting people step away while they wait for their turn.",
+      "aliases": [
+        "waiting line",
+        "first-come first-served"
+      ],
+      "scale": "everyday",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T241",
+    "title": "Allocation lotteries",
+    "slug": "allocation-lotteries",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Randomly distribute a scarce benefit among eligible applicants.",
+    "example": "Avoid discretionary favoritism where claims are comparable.",
+    "sources": [
+      "R-T241"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "random allocation",
+      "allocation ballot"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T241",
+      "title": "Allocation lotteries",
+      "source_title": "Secondary School Admissions Brochure 2025",
+      "url": "https://www.rbkc.gov.uk/media/document/rbkc-secondary-school-admissions-brochure-2025",
+      "publisher": "Royal Borough of Kensington and Chelsea",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Allocation lotteries use random selection to choose among eligible claimants when demand exceeds supply. The admissions example describes supervised random allocation, separating eligibility rules from the random ordering of qualifying applications.",
+      "limitation": "Random selection equalizes chances only within the eligible pool; eligibility design and transparent administration still determine who can benefit.",
+      "scenario": "Imagine a workshop with twenty seats and fifty eligible applicants, publishing its eligibility rules before drawing places randomly and maintaining a waiting list.",
+      "aliases": [
+        "random allocation",
+        "allocation ballot"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T242",
+    "title": "Needs-based allocation",
+    "slug": "needs-based-allocation",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Prioritize resources according to explicit assessments of need.",
+    "example": "Distribute limited support across unequal circumstances.",
+    "sources": [
+      "R-T242"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "needs assessment",
+      "priority by need"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T242",
+      "title": "Needs-based allocation",
+      "source_title": "Humanitarian principles",
+      "url": "https://emergency.unhcr.org/protection/protection-principles/humanitarian-principles",
+      "publisher": "UNHCR",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Needs-based allocation directs assistance according to assessed urgency or deprivation. UNHCR's principle of impartiality prioritizes acute protection risks and urgent needs rather than political affiliation, making assessment criteria central to distribution.",
+      "limitation": "Assessments can miss hidden needs or impose intrusive disclosure; impartial intent requires accessible processes and revision when circumstances change.",
+      "scenario": "Imagine a neighborhood relief group distributing limited heaters first to households facing the most urgent exposure, with a private request route and reassessment process.",
+      "aliases": [
+        "needs assessment",
+        "priority by need"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T243",
+    "title": "Rationing",
+    "slug": "rationing",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Limit individual access under defined allocation rules.",
+    "example": "Manage a shortage without unrestricted first arrival.",
+    "sources": [
+      "R-T243"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "ration allowances",
+      "consumption quotas"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T243",
+      "title": "Rationing",
+      "source_title": "Connecting, Sharing, Learning: Second World War",
+      "url": "https://www.iwm.org.uk/sites/default/files/fies/2021-07/connecting_sharing_learning_second_world_war.pdf",
+      "publisher": "Imperial War Museums",
+      "source_type": "history",
+      "access": "search excerpt",
+      "finding": "Rationing sets limits on how much of a scarce resource people may obtain. Britain's wartime food system used ration books and coupons to administer allowances rather than leaving access entirely to purchasing power.",
+      "limitation": "Historical allowances do not establish an ideal contemporary distribution; enforcement, differential needs, and informal markets can complicate equal-looking quotas.",
+      "scenario": "Imagine a campsite facing a temporary water shortage setting daily allowances, explaining essential-use exceptions and tracking supplies until normal access can resume.",
+      "aliases": [
+        "ration allowances",
+        "consumption quotas"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T244",
+    "title": "Tradable quotas",
+    "slug": "tradable-quotas",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Set aggregate limits and permit transfer of allocated shares.",
+    "example": "Study coordination under a collectively imposed resource cap.",
+    "sources": [
+      "R-T244"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "transferable quotas",
+      "individual transferable quotas",
+      "ITQ"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T244",
+      "title": "Tradable quotas",
+      "source_title": "Glossary: Catch Shares",
+      "url": "https://www.fisheries.noaa.gov/national/sustainable-fisheries/glossary-catch-shares",
+      "publisher": "NOAA Fisheries",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Tradable quotas divide a regulated allowance into rights that eligible holders can transfer. NOAA distinguishes transferable fishing quotas from other catch-share arrangements, showing how an overall limit can coexist with exchange between participants.",
+      "limitation": "Allocation choices affect who benefits, and transfers can concentrate control; a quota system still needs credible limits, monitoring, and enforcement.",
+      "scenario": "Imagine a regulated fishery comparing transferable catch shares with nontransferable allocations, examining how initial distribution and ownership limits would affect small operators.",
+      "aliases": [
+        "transferable quotas",
+        "individual transferable quotas",
+        "ITQ"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T245",
+    "title": "Commons governance",
+    "slug": "commons-governance",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Users collectively maintain rules for a shared resource.",
+    "example": "Study sustainable use beyond simple state-versus-market categories.",
+    "sources": [
+      "OST"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T246",
+    "title": "Resource boundaries",
+    "slug": "resource-boundaries",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Identify the resource and legitimate users.",
+    "example": "Clarify who participates in commons governance.",
+    "sources": [
+      "R-T246"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "commons boundaries",
+      "user boundaries"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T246",
+      "title": "Resource boundaries",
+      "source_title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+      "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf",
+      "publisher": "Nobel Prize; Elinor Ostrom",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "Resource boundaries specify the shared resource and distinguish entitled users from others. Ostrom identifies locally understood boundaries as one component of durable commons governance, alongside other complementary institutional arrangements.",
+      "limitation": "Boundaries can exclude legitimate users or ignore ecological connections; clarity alone cannot resolve competing claims or establish sustainable use.",
+      "scenario": "Imagine a community orchard recording which trees it manages and who may harvest, while negotiating access with neighboring residents before enforcing any restrictions.",
+      "aliases": [
+        "commons boundaries",
+        "user boundaries"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T247",
+    "title": "User participation in rulemaking",
+    "slug": "user-participation-in-rulemaking",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Affected users help revise operational rules.",
+    "example": "Adapt management to local conditions.",
+    "sources": [
+      "R-T247"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "collective-choice arrangements",
+      "participatory rulemaking"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T247",
+      "title": "User participation in rulemaking",
+      "source_title": "How to Use the IAD Framework",
+      "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf",
+      "publisher": "Ostrom Workshop, Indiana University",
+      "source_type": "institutional guide",
+      "access": "page",
+      "finding": "User participation in rulemaking lets people who use and maintain a resource help shape its operating rules. The IAD framework distinguishes this process from decisions imposed entirely by external authorities.",
+      "limitation": "Participation can be dominated by people with more time or influence; consultation without actual decision rights may change little.",
+      "scenario": "Imagine gardeners revising shared watering rules together after a dry summer, including members who cannot attend evening meetings through advance proposals and written feedback.",
+      "aliases": [
+        "collective-choice arrangements",
+        "participatory rulemaking"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T248",
+    "title": "Community monitoring",
+    "slug": "community-monitoring",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Users or accountable monitors observe compliance.",
+    "example": "Make shared commitments observable.",
+    "sources": [
+      "R-T248"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "peer monitoring",
+      "commons monitoring"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T248",
+      "title": "Community monitoring",
+      "source_title": "How to Use the IAD Framework",
+      "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf",
+      "publisher": "Ostrom Workshop, Indiana University",
+      "source_type": "institutional guide",
+      "access": "page",
+      "finding": "Community monitoring makes resource use and maintenance observable to participants or accountable monitors. The IAD framework separates observation from rulemaking and sanctions, highlighting how information reaches those who can act on it.",
+      "limitation": "Monitoring can become intrusive or selective; trustworthy records and a way to question observations matter as much as visibility.",
+      "scenario": "Imagine a shared workshop rotating responsibility for checking tool condition, recording problems in a common log and letting borrowers correct mistaken reports before action follows.",
+      "aliases": [
+        "peer monitoring",
+        "commons monitoring"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T249",
+    "title": "Graduated sanctions",
+    "slug": "graduated-sanctions",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Responses escalate with severity or repetition.",
+    "example": "Address breaches without treating every case identically.",
+    "sources": [
+      "R-T249"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "escalating consequences",
+      "proportionate sanctions"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T249",
+      "title": "Graduated sanctions",
+      "source_title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+      "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf",
+      "publisher": "Nobel Prize; Elinor Ostrom",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "Graduated sanctions respond to violations with consequences that escalate rather than immediately imposing the harshest penalty. Ostrom's account connects this graduated response to sustaining cooperation in governed common resources over time.",
+      "limitation": "Escalation needs proportionality and review; repeated minor penalties can protect powerful offenders if serious misconduct is treated too leniently.",
+      "scenario": "Imagine a shared kitchen responding to missed cleaning duties with a reminder, then a repair obligation, while reserving a separate process for dangerous behavior.",
+      "aliases": [
+        "escalating consequences",
+        "proportionate sanctions"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T250",
+    "title": "Community land trusts",
+    "slug": "community-land-trusts",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Community organizations steward land for lasting local benefit.",
+    "example": "Maintain assets beyond short-term individual resale incentives.",
+    "sources": [
+      "CLT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T251",
+    "title": "Worker cooperatives",
+    "slug": "worker-cooperatives",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Workers jointly own and democratically govern an enterprise.",
+    "example": "Align work and ownership.",
+    "sources": [
+      "ICA"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T252",
+    "title": "Consumer cooperatives",
+    "slug": "consumer-cooperatives",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Customers jointly own and govern a provider.",
+    "example": "Organize provision around member needs.",
+    "sources": [
+      "ICA"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T253",
+    "title": "Producer cooperatives",
+    "slug": "producer-cooperatives",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Producers jointly organize shared services or market access.",
+    "example": "Coordinate distribution among small producers.",
+    "sources": [
+      "ICA"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T254",
+    "title": "Housing cooperatives",
+    "slug": "housing-cooperatives",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Members collectively organize housing ownership or provision.",
+    "example": "Share residential governance.",
+    "sources": [
+      "ICA"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T255",
+    "title": "Multistakeholder cooperatives",
+    "slug": "multistakeholder-cooperatives",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Different stakeholder groups share an enterprise's governance.",
+    "example": "Balance member interests.",
+    "sources": [
+      "ICA"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T256",
+    "title": "Employee ownership",
+    "slug": "employee-ownership",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Employees hold ownership interests under a defined arrangement.",
+    "example": "Compare ownership participation with worker control.",
+    "sources": [
+      "R-T256"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "worker ownership",
+      "employee-owned business",
+      "ESOP"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T256",
+      "title": "Employee ownership",
+      "source_title": "An Introduction to ESOPs",
+      "url": "https://www.nceo.org/hubfs/assets/pdf/samples/An-Introduction-to-ESOPs-21st-full-cover-preview.pdf",
+      "publisher": "National Center for Employee Ownership",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Employee ownership gives workers an ownership stake in the enterprise employing them. The NCEO introduction illustrates one particular vehicle, the employee stock ownership plan, rather than equating every ownership arrangement with worker self-government.",
+      "limitation": "An ownership stake does not automatically confer equal voting power or workplace control; the cited ESOP model is jurisdiction-specific.",
+      "scenario": "Imagine a retiring owner discussing a worker ownership transition, explicitly separating questions about financial stakes, board selection, everyday management, and the risks employees would bear.",
+      "aliases": [
+        "worker ownership",
+        "employee-owned business",
+        "ESOP"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T257",
+    "title": "Steward ownership",
+    "slug": "steward-ownership",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Ownership arrangements protect purpose and responsible control.",
+    "example": "Study alternatives to unrestricted investor control.",
+    "sources": [
+      "R-T257"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "purpose ownership",
+      "steward-owned company"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T257",
+      "title": "Steward ownership",
+      "source_title": "Steward-Ownership",
+      "url": "https://purpose-economy.org/content/uploads/purposebooklet_en.pdf",
+      "publisher": "Purpose Foundation",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Steward ownership separates control of a company from unrestricted financial extraction or resale. Purpose describes arrangements intended to keep decision authority connected to the enterprise's mission while directing profits toward its continued purpose.",
+      "limitation": "Implementation varies by legal structure and governance design; locking in a mission does not guarantee that stewards remain accountable or competent.",
+      "scenario": "Imagine a mission-driven manufacturer exploring a succession structure that preserves its purpose, asking who appoints future stewards and how those stewards can be replaced.",
+      "aliases": [
+        "purpose ownership",
+        "steward-owned company"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T258",
+    "title": "Revenue sharing",
+    "slug": "revenue-sharing",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Distribute defined shares of revenue among participants.",
+    "example": "Coordinate collaborators with different contributions.",
+    "sources": [
+      "R-T258"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "sales share",
+      "revenue split"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T258",
+      "title": "Revenue sharing",
+      "source_title": "Fair Trade Music Policy",
+      "url": "https://bandcamp.com/fair_trade_music_policy",
+      "publisher": "Bandcamp",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Revenue sharing divides incoming sales receipts according to an agreed arrangement before treating them as one party's exclusive income. Bandcamp illustrates a platform taking a stated share while the remainder reaches artists or labels.",
+      "limitation": "Revenue differs from profit; costs, processing charges, refunds, and reporting rules determine what a stated percentage actually delivers to participants.",
+      "scenario": "Imagine a musician and venue agreeing how ticket receipts will be divided, separately specifying payment processing, refunds, and whether production costs come out first.",
+      "aliases": [
+        "sales share",
+        "revenue split"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T259",
+    "title": "Profit sharing",
+    "slug": "profit-sharing",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Distribute part of surplus according to an agreed formula.",
+    "example": "Connect compensation to collective results.",
+    "sources": [
+      "R-T259"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "surplus sharing",
+      "profit-based bonus"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T259",
+      "title": "Profit sharing",
+      "source_title": "Our Profit-Sharing and Charitable Contributions Formula",
+      "url": "https://buffer.com/resources/profit-sharing/",
+      "publisher": "Buffer",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Profit sharing distributes part of an organization's surplus to participants using a stated formula. Buffer's account links a team bonus pool to annual net income, distinguishing profit-based distributions from sharing gross sales revenue.",
+      "limitation": "Accounting choices and distribution rules affect payouts; a profitable period is not assured, and bonuses do not substitute for participation in governance.",
+      "scenario": "Imagine a small firm allocating part of annual surplus to staff, explaining its accounting basis and distribution formula before anyone relies on a possible bonus.",
+      "aliases": [
+        "surplus sharing",
+        "profit-based bonus"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T260",
+    "title": "Transparent compensation formulas",
+    "slug": "transparent-compensation-formulas",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Publish the criteria used to determine pay.",
+    "example": "Make compensation reasoning open to scrutiny.",
+    "sources": [
+      "R-T260"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "open salaries",
+      "salary formula",
+      "pay transparency"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T260",
+      "title": "Transparent compensation formulas",
+      "source_title": "The Next Evolution of Transparent Salaries",
+      "url": "https://buffer.com/resources/salary-formula/",
+      "publisher": "Buffer",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Transparent compensation formulas make the factors used to set pay visible and explainable. Buffer's account describes revising a formula when complexity and subjective decisions weakened the intended consistency of its compensation approach.",
+      "limitation": "Public formulas still embed judgments about roles, benchmarks, and location; transparency makes these choices inspectable rather than automatically equitable.",
+      "scenario": "Imagine a nonprofit publishing how role level and experience affect salary, then giving staff a process to question their classification and suggest revisions.",
+      "aliases": [
+        "open salaries",
+        "salary formula",
+        "pay transparency"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T261",
+    "title": "Rent allocation formulas",
+    "slug": "rent-allocation-formulas",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Agree how room differences and shared costs affect rent.",
+    "example": "Reduce recurring bargaining in a shared household.",
+    "sources": [
+      "R-T261"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "rent splitting",
+      "fair rent division"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T261",
+      "title": "Rent allocation formulas",
+      "source_title": "Spliddit: Unleashing Fair Division Algorithms",
+      "url": "https://www.sigecom.org/exchanges/volume_13/2/GOLDMAN.pdf",
+      "publisher": "ACM SIGecom; Goldman and Procaccia",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "Rent allocation formulas divide a total housing cost across occupants or rooms using explicit criteria. Spliddit's example uses reported room valuations to find an assignment in which occupants do not prefer another room-price combination.",
+      "limitation": "Fairness guarantees depend on the model and reported valuations; budget constraints, relationships, and changing preferences may require additional negotiation.",
+      "scenario": "Imagine three housemates valuing differently sized bedrooms, comparing a calculated rent division with their budgets, then agreeing how future room swaps will be handled.",
+      "aliases": [
+        "rent splitting",
+        "fair rent division"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T262",
+    "title": "Fiscal sponsorship",
+    "slug": "fiscal-sponsorship",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "An established organization administers support for an aligned project.",
+    "example": "Explore support for a project without a separate organization.",
+    "sources": [
+      "R-T262"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "fiscal hosting",
+      "project sponsorship"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T262",
+      "title": "Fiscal sponsorship",
+      "source_title": "About Fiscal Sponsorship",
+      "url": "https://www.fiscalsponsors.org/about-fiscal-sponsorship",
+      "publisher": "National Network of Fiscal Sponsors",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Fiscal sponsorship places a project's administrative and financial oversight within an existing nonprofit organization. The sponsor assumes specified responsibilities for mission-related work while project leaders carry out activities under the agreed arrangement.",
+      "limitation": "Sponsorship includes real oversight and liabilities, not merely passing donations through; control, fees, and separation arrangements require clear agreement.",
+      "scenario": "Imagine a new community archive operating through an established nonprofit while testing demand, agreeing how funds, reporting, staff responsibilities, and eventual independence would be managed.",
+      "aliases": [
+        "fiscal hosting",
+        "project sponsorship"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T263",
+    "title": "Community-supported agriculture",
+    "slug": "community-supported-agriculture",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Members commit to a farm's production through advance participation.",
+    "example": "Share aspects of production risk and seasonal supply.",
+    "sources": [
+      "R-T263"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "CSA",
+      "farm share",
+      "harvest subscription"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T263",
+      "title": "Community-supported agriculture",
+      "source_title": "Community Supported Agriculture",
+      "url": "https://www.nal.usda.gov/farms-and-agricultural-production-systems/community-supported-agriculture",
+      "publisher": "USDA National Agricultural Library",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Community-supported agriculture connects consumers and growers through advance commitments to a farm's production. The USDA description emphasizes shared support and exposure to production outcomes, linking consumption with the farm's continuing operation.",
+      "limitation": "Models vary in how much harvest risk members actually share; an advance payment does not necessarily imply ownership or farm governance.",
+      "scenario": "Imagine households subscribing to a farm's seasonal produce share, clarifying delivery arrangements and what happens if weather reduces the harvest before making their commitment.",
+      "aliases": [
+        "CSA",
+        "farm share",
+        "harvest subscription"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T264",
+    "title": "Repair cafés",
+    "slug": "repair-cafes",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Volunteers help people repair belongings at organized gatherings.",
+    "example": "Share skills and extend the use of goods.",
+    "sources": [
+      "R-T264"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "repair meetup",
+      "community repair"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T264",
+      "title": "Repair cafés",
+      "source_title": "About Repair Café",
+      "url": "https://www.repaircafe.org/en/about/",
+      "publisher": "Repair Café International",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Repair cafés bring people, broken possessions, tools, and volunteer expertise together to attempt repairs collaboratively. Participants learn through working alongside repairers, combining practical reuse with an accessible occasion for local social contact.",
+      "limitation": "Volunteer expertise and available parts limit what can be repaired; collaborative repair needs appropriate safety practices and realistic expectations about success.",
+      "scenario": "Imagine residents meeting monthly at a library to repair lamps and clothing together, with volunteers checking which jobs can safely be attempted on site.",
+      "aliases": [
+        "repair meetup",
+        "community repair"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T265",
+    "title": "Swap events",
+    "slug": "swap-events",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Convene people to exchange reusable items.",
+    "example": "Redistribute goods that participants no longer need.",
+    "sources": [
+      "R-T265"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "swap shop",
+      "clothing swap",
+      "free exchange"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T265",
+      "title": "Swap events",
+      "source_title": "What you buy, use and dispose of",
+      "url": "https://www.westminster.gov.uk/environment-hub/take-environmental-action-resident/what-you-buy-use-and-dispose",
+      "publisher": "Westminster City Council",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Swap events gather unwanted but usable goods so participants can exchange or redistribute them. Westminster's examples include recurring community exchanges for clothing, books, toys, and baby equipment, organized around practical local reuse.",
+      "limitation": "Incoming goods need suitability checks and leftover plans; requiring equal-value exchanges can exclude participants who have little to contribute.",
+      "scenario": "Imagine a school holding a uniform exchange before term begins, explaining acceptable condition, whether donations are required, and where unclaimed clothing will go.",
+      "aliases": [
+        "swap shop",
+        "clothing swap",
+        "free exchange"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T266",
+    "title": "Escrow",
+    "slug": "escrow",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "A third party holds assets pending agreed conditions.",
+    "example": "Coordinate exchange when performance occurs at different times.",
+    "sources": [
+      "R-T266"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "conditional holding",
+      "escrow agent"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T266",
+      "title": "Escrow",
+      "source_title": "Escrow",
+      "url": "https://www.law.cornell.edu/wex/escrow",
+      "publisher": "Cornell Legal Information Institute",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Escrow places money, documents, or other assets with a third party until specified conditions are met. It coordinates an exchange by separating possession of the asset from either party's unilateral control during completion.",
+      "limitation": "The arrangement depends on trustworthy administration and clear release conditions; disputed performance can still require an agreed resolution process.",
+      "scenario": "Imagine two organizations exchanging a commissioned digital archive, considering a neutral holding arrangement that releases payment only after the explicitly agreed delivery conditions are verified.",
+      "aliases": [
+        "conditional holding",
+        "escrow agent"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T267",
+    "title": "Contracts",
+    "slug": "contracts",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Specify commitments and remedies between parties.",
+    "example": "Clarify responsibilities for a joint undertaking.",
+    "sources": [
+      "R-T267"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "enforceable agreement",
+      "contracting"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T267",
+      "title": "Contracts",
+      "source_title": "Contract",
+      "url": "https://www.law.cornell.edu/wex/contract",
+      "publisher": "Cornell Legal Information Institute",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Contracts create agreements whose obligations can be enforced through a legal system. The Cornell account explains how mutual commitments acquire legal consequences, distinguishing an enforceable agreement from every informal promise people make.",
+      "limitation": "Enforceability depends on applicable law and the agreement's circumstances; written detail cannot anticipate every contingency or erase unequal bargaining power.",
+      "scenario": "Imagine a community venue commissioning renovations and documenting the scope, payment stages, change process, and dispute arrangements before either side begins substantial work.",
+      "aliases": [
+        "enforceable agreement",
+        "contracting"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T268",
+    "title": "Open licensing",
+    "slug": "open-licensing",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Grant advance permissions for specified forms of reuse.",
+    "example": "Allow collaboration without negotiating each permission separately.",
+    "sources": [
+      "OSI"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T269",
+    "title": "Copyleft",
+    "slug": "copyleft",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Condition redistribution on preserving specified licensing freedoms.",
+    "example": "Maintain downstream sharing obligations.",
+    "sources": [
+      "R-T269"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "share-alike licensing",
+      "reciprocal licensing"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T269",
+      "title": "Copyleft",
+      "source_title": "What Is Copyleft?",
+      "url": "https://www.gnu.org/licenses/copyleft.html",
+      "publisher": "GNU Project; Free Software Foundation",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Copyleft uses copyright licensing to preserve recipients' freedoms when covered work is redistributed or modified. GNU explains the mechanism as requiring downstream distribution to retain specified permissions rather than allowing redistribution to strip them away.",
+      "limitation": "Specific licenses differ in scope and obligations; copyleft does not mean abandoning copyright or automatically requiring publication of every private modification.",
+      "scenario": "Imagine a software collective choosing a copyleft license so distributed improvements remain available under its sharing terms, checking compatibility before combining existing components.",
+      "aliases": [
+        "share-alike licensing",
+        "reciprocal licensing"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T270",
+    "title": "Public provisioning",
+    "slug": "public-provisioning",
+    "kind": "F",
+    "category": "Resources and ownership",
+    "description": "Public bodies organize access to goods or services.",
+    "example": "Compare collective provision with individual purchasing.",
+    "sources": [
+      "R-T270"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "public services",
+      "government provision"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T270",
+      "title": "Public provisioning",
+      "source_title": "What Goals Should We Seek in Politics?",
+      "url": "https://openstax.org/books/introduction-political-science/pages/2-1-what-goals-should-we-seek-in-politics",
+      "publisher": "OpenStax",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Public provisioning organizes government responsibility for supplying services or resources. OpenStax illustrates why collective financing can support goods such as street lighting when individual transactions cannot readily recover the costs from everyone benefiting.",
+      "limitation": "Publicly supplied services are not all economic public goods; financing, delivery, eligibility, and accountability remain separate choices within public provision.",
+      "scenario": "Imagine a municipality arranging street lighting for an underserved district, deciding how to fund maintenance and how residents can report failures or challenge uneven coverage.",
+      "aliases": [
+        "public services",
+        "government provision"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T332",
+    "title": "Taxation",
+    "slug": "taxation",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Public authorities collect resources under defined rules.",
+    "example": "Understand how collective functions are financed.",
+    "sources": [
+      "R-T332"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "tax collection",
+      "public revenue"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T332",
+      "title": "Taxation",
+      "source_title": "Taxes",
+      "url": "https://www.oecd.org/en/data/dashboards/ifcma-climate-policy-dashboard/instruments/taxes.html",
+      "publisher": "Organisation for Economic Co-operation and Development",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Taxation collects compulsory payments for government rather than pricing a directly equivalent benefit for each payer. The OECD's instrument definitions illustrate how tax design can also distinguish activities and influence economic incentives.",
+      "limitation": "Who formally pays a tax may differ from who bears its cost; collection capacity, exemptions, and spending decisions shape outcomes.",
+      "scenario": "Imagine a city debating a levy to support shared infrastructure, comparing who would bear the burden, how collection would work, and how spending would be scrutinized.",
+      "aliases": [
+        "tax collection",
+        "public revenue"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T333",
+    "title": "Double-entry accounting",
+    "slug": "double-entry-accounting",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Maintain linked records of transactions within a balancing system.",
+    "example": "Make organizational resource flows inspectable.",
+    "sources": [
+      "R-T333"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "double-entry bookkeeping",
+      "debits and credits"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T333",
+      "title": "Double-entry accounting",
+      "source_title": "Principles of Accounting: Chapter 3 Key Terms",
+      "url": "https://openstax.org/books/principles-financial-accounting/pages/3-key-terms",
+      "publisher": "OpenStax",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Double-entry accounting records each transaction through corresponding debits and credits whose totals balance. This links changes across accounts, providing a structured way to describe where resources came from and where they went.",
+      "limitation": "Balanced entries can still contain incorrect classifications or fabricated transactions; the accounting structure supports checking but does not independently verify reality.",
+      "scenario": "Imagine a cooperative replacing an informal cash notebook with balanced entries for purchases, debts, and income, while retaining receipts to verify the underlying transactions.",
+      "aliases": [
+        "double-entry bookkeeping",
+        "debits and credits"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T334",
+    "title": "Public asset registers",
+    "slug": "public-asset-registers",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Record assets, stewardship responsibilities, and relevant rights.",
+    "example": "Clarify what an institution holds and who maintains it.",
+    "sources": [
+      "R-T334"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "asset inventory",
+      "public property register"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T334",
+      "title": "Public asset registers",
+      "source_title": "Strengthening Fixed Asset Management through Public Sector Accounting: Recording Assets",
+      "url": "https://documents1.worldbank.org/curated/en/099032824083534274/pdf/P1650951b227e508a1babd150c2484b04a4.pdf",
+      "publisher": "World Bank",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Public asset registers record what a public body owns or controls alongside information such as location, condition, use, and legal arrangements. The World Bank treats registers as a foundation for managing assets.",
+      "limitation": "Inventories become misleading without updates and verification; publishing a register also requires decisions about sensitive information and usable public access.",
+      "scenario": "Imagine a municipality cataloguing empty buildings and their condition so officials and residents can examine maintenance needs and propose appropriate uses for overlooked public space.",
+      "aliases": [
+        "asset inventory",
+        "public property register"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T335",
+    "title": "Assurance contracts",
+    "slug": "assurance-contracts",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Contributions take effect only if specified participation conditions are met.",
+    "example": "Coordinate a project requiring a minimum funding threshold.",
+    "sources": [
+      "R-T335"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "threshold pledge",
+      "conditional contribution",
+      "all-or-nothing funding"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T335",
+      "title": "Assurance contracts",
+      "source_title": "Intelligent Cooperation: Dominant Assurance Contracts",
+      "url": "https://foresight.org/wp-content/uploads/2021/12/Intelligent-Cooperation-2021-12-06.pdf",
+      "publisher": "Foresight Institute; Alex Tabarrok",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Assurance contracts make contributions conditional on enough others committing to reach a threshold. The dominant-assurance variant adds a bonus when funding fails, which is a distinct incentive rather than a feature of every threshold campaign.",
+      "limitation": "A credible threshold and refund process are essential; bonus variants need a funded guarantor and do not eliminate delivery risk.",
+      "scenario": "Imagine neighbors pledging toward a shared playground only if the full budget is committed, with a published deadline and clear arrangements for releasing or returning money.",
+      "aliases": [
+        "threshold pledge",
+        "conditional contribution",
+        "all-or-nothing funding"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T336",
+    "title": "Risk-sharing pools",
+    "slug": "risk-sharing-pools",
+    "kind": "P",
+    "category": "Resources and ownership",
+    "description": "Agree how uncertain costs are distributed among participants.",
+    "example": "Compare collective exposure with isolated individual risk.",
+    "sources": [
+      "R-T336"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "risk pooling",
+      "pooled protection"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T336",
+      "title": "Risk-sharing pools",
+      "source_title": "Strengthening Disaster Resilience and Response in Latin America and the Caribbean",
+      "url": "https://www.worldbank.org/en/results/2025/06/30/strengthening-disaster-resilience-and-response-in-lac",
+      "publisher": "World Bank",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Risk-sharing pools combine participants' exposures within a shared arrangement. The World Bank's catastrophe example describes diversification across countries and prearranged payouts, illustrating collective financing for losses that individual members may struggle to absorb.",
+      "limitation": "Highly correlated losses weaken diversification; trigger-based payouts can differ from actual damage, and pooling cannot cover every possible loss.",
+      "scenario": "Imagine neighboring cooperatives considering a shared emergency reserve, examining whether the same flood could affect everyone and defining contributions, payout triggers, and uncovered losses.",
+      "aliases": [
+        "risk pooling",
+        "pooled protection"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T271",
+    "title": "Credentials",
+    "slug": "credentials",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Recognized attestations communicate qualifications.",
+    "example": "Help strangers assess claimed competence.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Recognized qualifications help people assess expertise without evaluating every skill themselves.",
+      "Card examples": "Degrees; trade certifications; professional licenses.",
+      "What to explain": "The relationship between an issuer, an assessment, a holder, and the people relying on the signal. Distinguish training, demonstrated competence, and permission to practice.",
+      "Examples to expand": "A degree used in hiring; a practical skills certification.",
+      "Conditions and failures": "Trustworthy assessment and a meaningful link to performance; risks of credential inflation, exclusion, and test preparation replacing mastery.",
+      "Related": "Education, Healthcare, Law.",
+      "Source": "“Social Technology,” p. 27; “On the Loss and Preservation of Knowledge,” pp. 50–58.",
+      "When to use it": "Help unfamiliar collaborators identify qualified specialists; certify completion of a genuinely assessed training program. Check whether holders can perform the work the credential promises."
+    }
+  },
+  {
+    "id": "T272",
+    "title": "Certification",
+    "slug": "certification",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Assess conformity with defined requirements and attest results.",
+    "example": "Make a specific standard legible across organizations.",
+    "sources": [
+      "R-T272"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "conformity certification",
+      "third-party certification"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T272",
+      "title": "Certification",
+      "source_title": "Certification",
+      "url": "https://www.iso.org/certification.html",
+      "publisher": "International Organization for Standardization",
+      "source_type": "institutional guide",
+      "access": "page",
+      "finding": "Certification provides a third party's assurance that a specified product, service, or system meets stated requirements. ISO distinguishes developing standards from issuing certificates, which independent certification bodies perform within a defined assessment scope.",
+      "limitation": "A certificate supports a specific conformity claim, not unlimited competence or quality; readers must check its scope, issuer, and status.",
+      "scenario": "Imagine a purchaser comparing suppliers' certificates, checking which processes each certificate covers and whether the issuing body and assessment remain relevant to the purchase.",
+      "aliases": [
+        "conformity certification",
+        "third-party certification"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T273",
+    "title": "Accreditation",
+    "slug": "accreditation",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Evaluate organizations or programs against recognized criteria.",
+    "example": "Support trust in institutions that train or assess others.",
+    "sources": [
+      "R-T273"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "assessment-body accreditation",
+      "competence recognition"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T273",
+      "title": "Accreditation",
+      "source_title": "Certification: Accreditation",
+      "url": "https://www.iso.org/certification.html",
+      "publisher": "International Organization for Standardization",
+      "source_type": "institutional guide",
+      "access": "page",
+      "finding": "Accreditation evaluates the competence of organizations that conduct specified assessments. In ISO's explanation, an independent accreditation body recognizes a certification body's operation against standards, adding another level of scrutiny to certification claims.",
+      "limitation": "Accreditation applies to an identified scope and body; it is not a personal skill credential or a guarantee against every failure.",
+      "scenario": "Imagine a laboratory customer checking whether the laboratory's accreditation covers the particular testing method required, rather than treating an accreditation logo as a universal endorsement.",
+      "aliases": [
+        "assessment-body accreditation",
+        "competence recognition"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T274",
+    "title": "Professional licensing",
+    "slug": "professional-licensing",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Authorize practice through a public regulatory arrangement.",
+    "example": "Understand entry controls and public accountability.",
+    "sources": [
+      "R-T274"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "occupational licensing",
+      "license to practice"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T274",
+      "title": "Professional licensing",
+      "source_title": "License Finder Help",
+      "url": "https://cloudfront.careeronestop.org/toolkit/Training/find-licenses-help.aspx",
+      "publisher": "CareerOneStop; U.S. Department of Labor",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Professional licensing makes permission to practice an occupation contingent on requirements set by an authorized regulator. CareerOneStop distinguishes such permission from voluntary certification, while noting that requirements vary across jurisdictions and occupations.",
+      "limitation": "Legal authorization is not proof of consistently excellent performance; licensing requirements and portability depend on the relevant jurisdiction and occupation.",
+      "scenario": "Imagine someone comparing pathways into a regulated trade, checking the actual regulator's requirements and distinguishing required permission from optional training certificates offered by private providers.",
+      "aliases": [
+        "occupational licensing",
+        "license to practice"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T275",
+    "title": "Portfolios",
+    "slug": "portfolios",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Present examples of completed work.",
+    "example": "Evaluate demonstrated capability beyond formal credentials.",
+    "sources": [
+      "R-T275"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "work portfolio",
+      "showcase of work"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T275",
+      "title": "Portfolios",
+      "source_title": "Types of Interview: Portfolio-based interviews",
+      "url": "https://www.careers.ox.ac.uk/types-of-interview/",
+      "publisher": "University of Oxford Careers Service",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Portfolios present selected examples of previous work for others to inspect and discuss. Oxford's interview guidance describes using those examples to explore creative work in depth rather than relying solely on qualifications or verbal claims.",
+      "limitation": "Selected work can obscure collaboration, context, or failed attempts; reviewers need to establish the applicant's contribution and the relevance of each example.",
+      "scenario": "Imagine a community group choosing a designer by reviewing previous posters together, asking who produced each element and how the designer handled constraints and revisions.",
+      "aliases": [
+        "work portfolio",
+        "showcase of work"
+      ],
+      "scale": "everyday",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T276",
+    "title": "References",
+    "slug": "references",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "People with direct experience offer testimony about someone.",
+    "example": "Add context to a selection decision.",
+    "sources": [
+      "R-T276"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "reference checks",
+      "professional references"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T276",
+      "title": "References",
+      "source_title": "Reference Checking",
+      "url": "https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/reference-checking/",
+      "publisher": "U.S. Office of Personnel Management",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "References obtain information from people familiar with a candidate's past work. OPM recommends structured questions tied to job requirements and consistent recording, turning informal endorsements into more comparable evidence for a selection decision.",
+      "limitation": "Referees may be selective, reluctant, or biased; consistent questions improve comparability but cannot make every account complete or independent.",
+      "scenario": "Imagine a hiring panel asking each candidate's former collaborators the same questions about relevant responsibilities, recording concrete examples rather than simply counting enthusiastic recommendations.",
+      "aliases": [
+        "reference checks",
+        "professional references"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T277",
+    "title": "Reputation systems",
+    "slug": "reputation-systems",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Aggregate assessments of past interactions.",
+    "example": "Help unfamiliar participants evaluate prospective partners.",
+    "sources": [
+      "R-T277"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "ratings systems",
+      "reputation scores",
+      "feedback reputation"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T277",
+      "title": "Reputation systems",
+      "source_title": "Reputation Systems",
+      "url": "https://cs.uwaterloo.ca/~klarson/teaching/F04-886/papers/p45-resnick.pdf",
+      "publisher": "Communications of the ACM; Resnick, Zeckhauser, Friedman, Kuwabara",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "Reputation systems collect and communicate information about past interactions so unfamiliar participants can judge whom to trust. The research describes online systems as a way to carry reputational information beyond direct personal acquaintance.",
+      "limitation": "Feedback can be manipulated or biased toward visible participants; a score may conceal context, changing behavior, or people excluded from participation.",
+      "scenario": "Imagine an equipment-sharing network displaying completed loans and contextual feedback, allowing disputes to be reviewed instead of reducing every borrower to an unexplained number.",
+      "aliases": [
+        "ratings systems",
+        "reputation scores",
+        "feedback reputation"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T278",
+    "title": "Contribution records",
+    "slug": "contribution-records",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Document work, maintenance, and support that people provide.",
+    "example": "Recognize contributions otherwise overlooked.",
+    "sources": [
+      "R-T278"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "contribution history",
+      "activity record"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T278",
+      "title": "Contribution records",
+      "source_title": "Contributions on your profile",
+      "url": "https://docs.github.com/en/account-and-profile/concepts/contributions-on-your-profile",
+      "publisher": "GitHub Docs",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Contribution records preserve traces of participation for later inspection. GitHub's profile documentation illustrates timelines of commits, pull requests, and issues, while distinguishing visible public activity from private work whose details may remain hidden.",
+      "limitation": "Recorded activity is not equivalent to impact or quality; private work, maintenance, mentoring, and excluded contribution types may be underrepresented.",
+      "scenario": "Imagine a volunteer project reviewing a person's documented contributions before offering responsibilities, examining the work itself and asking about important contributions that its tracking system missed.",
+      "aliases": [
+        "contribution history",
+        "activity record"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T280",
+    "title": "Peer nominations",
+    "slug": "peer-nominations",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Invite participants to identify others' contributions.",
+    "example": "Surface valuable work beyond managers' visibility.",
+    "sources": [
+      "R-T280"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "peer endorsement",
+      "award nomination"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T280",
+      "title": "Peer nominations",
+      "source_title": "Advice for Award Nominators and Endorsers",
+      "url": "https://awards.acm.org/binaries/content/assets/awards/advice-for-award-nominators-and-endorsers_07-2025.pdf",
+      "publisher": "Association for Computing Machinery",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Peer nominations ask knowledgeable others to put a person forward for recognition. ACM's guidance emphasizes evidence matched to award criteria and relevant endorsements, making nomination a structured advocacy process rather than automatic selection.",
+      "limitation": "Strong networks affect who gets nominated; polished endorsements can overshadow less connected contributors unless nomination access and evaluation criteria receive attention.",
+      "scenario": "Imagine a volunteer association inviting members to nominate overlooked contributors, asking for concrete examples and disclosing relationships before a separate panel reviews the submissions.",
+      "aliases": [
+        "peer endorsement",
+        "award nomination"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T281",
+    "title": "Public appreciation",
+    "slug": "public-appreciation",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Make specific contributions visible and acknowledged.",
+    "example": "Recognize everyday maintenance in shared living.",
+    "sources": [
+      "SN-C"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T282",
+    "title": "Contributor credits",
+    "slug": "contributor-credits",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Attribute work to its contributors.",
+    "example": "Preserve recognition in a collective artifact.",
+    "sources": [
+      "R-T282"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "contributor acknowledgement",
+      "contribution credits"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T282",
+      "title": "Contributor credits",
+      "source_title": "All Contributors Specification",
+      "url": "https://allcontributors.org/en/reference/specification/",
+      "publisher": "All Contributors",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Contributor credits publicly acknowledge people and the kinds of work they provided. The All Contributors specification uses prominent contributor lists and contribution categories to recognize work that conventional code-focused records can overlook.",
+      "limitation": "Credit categories can still omit invisible labor; acknowledgement does not itself confer payment, decision rights, or agreement about relative contribution.",
+      "scenario": "Imagine an open-source project crediting documentation, accessibility testing, event organization, and code contributions together, inviting contributors to correct omissions before each release is published.",
+      "aliases": [
+        "contributor acknowledgement",
+        "contribution credits"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T283",
+    "title": "Authorship conventions",
+    "slug": "authorship-conventions",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Agree what contribution qualifies for authorship and ordering.",
+    "example": "Reduce ambiguity around credit before publication.",
+    "sources": [
+      "R-T283"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "byline rules",
+      "authorship criteria",
+      "contributorship"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T283",
+      "title": "Authorship conventions",
+      "source_title": "Defining the Role of Authors and Contributors",
+      "url": "https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html",
+      "publisher": "International Committee of Medical Journal Editors",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Authorship conventions specify who qualifies for a byline and what responsibility accompanies it. ICMJE distinguishes authors from other acknowledged contributors through combined criteria, connecting recognition with participation, approval, and accountability for the work.",
+      "limitation": "Disciplinary conventions differ; formal criteria cannot settle disputes without transparent discussion, and seniority or funding alone does not establish authorship.",
+      "scenario": "Imagine a research team discussing authorship roles before writing begins, revisiting them as contributions change and acknowledging substantial help that does not meet its agreed criteria.",
+      "aliases": [
+        "byline rules",
+        "authorship criteria",
+        "contributorship"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T284",
+    "title": "Merit-based selection",
+    "slug": "merit-based-selection",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Select using explicit evidence relevant to the responsibility.",
+    "example": "Choose a maintainer through demonstrated work; scrutinize criteria.",
+    "sources": [
+      "R-T284"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "selection on merit",
+      "competency-based selection"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T284",
+      "title": "Merit-based selection",
+      "source_title": "Merit System Principles",
+      "url": "https://www.opm.gov/chcoc/transmittals/2020/attachments/2020%20Appointments%20and%20Awards%20Guidance%20Attachments.pdf",
+      "publisher": "U.S. Office of Personnel Management",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Merit-based selection defines advancement around relevant abilities, knowledge, and skills assessed through open competition. The cited civil-service principles frame this as a procedural commitment to fair opportunity, rather than deference to political allegiance.",
+      "limitation": "What counts as merit remains a design choice; credentials and test scores can reflect unequal opportunity rather than relevant demonstrated capability.",
+      "scenario": "Imagine a cooperative recruiting an operations lead, defining necessary tasks and evaluating applicants against the same evidence criteria instead of choosing the best-connected member.",
+      "aliases": [
+        "selection on merit",
+        "competency-based selection"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T285",
+    "title": "Seniority rules",
+    "slug": "seniority-rules",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Assign priority according to length of participation or service.",
+    "example": "Make advancement or allocation predictable.",
+    "sources": [
+      "R-T285"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "length-of-service priority",
+      "tenure priority"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T285",
+      "title": "Seniority rules",
+      "source_title": "Public Service Orders: Seniority on Promotion",
+      "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/86499/SYC86499.pdf",
+      "publisher": "Government of Seychelles; ILO NATLEX archive",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Seniority rules establish priority using time in a role or another specified service measure. The cited public-service orders illustrate formal ordering by promotion date, showing how an explicit rule can structure otherwise discretionary comparisons.",
+      "limitation": "Different systems calculate seniority differently; length of service does not necessarily measure present capability or justify every allocation of opportunity.",
+      "scenario": "Imagine a volunteer venue allocating preferred shifts by a published service-length rule, debating exceptions for accessibility and whether newer members should receive a minimum share.",
+      "aliases": [
+        "length-of-service priority",
+        "tenure priority"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T286",
+    "title": "Competitive examinations",
+    "slug": "competitive-examinations",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Use a common assessment to compare applicants.",
+    "example": "Select at scale under published criteria.",
+    "sources": [
+      "R-T286"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "entrance examination",
+      "civil-service examination"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T286",
+      "title": "Competitive examinations",
+      "source_title": "Young Professionals Programme",
+      "url": "https://careers.un.org/ypp",
+      "publisher": "United Nations Careers",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Competitive examinations compare candidates through a defined assessment process for entry into positions or candidate pools. The UN program combines an entrance examination with subsequent professional development, making examination one stage within recruitment.",
+      "limitation": "Exam performance captures only selected abilities; eligibility restrictions, preparation access, and later appointment processes limit what passing an examination establishes.",
+      "scenario": "Imagine a public organization recruiting analysts through a published examination, checking that the exercises resemble relevant work and explaining what successful candidates can expect afterward.",
+      "aliases": [
+        "entrance examination",
+        "civil-service examination"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T287",
+    "title": "Work-sample assessments",
+    "slug": "work-sample-assessments",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Evaluate performance on a relevant task.",
+    "example": "Assess practical capability for a specific role.",
+    "sources": [
+      "R-T287"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "job simulation",
+      "practical assessment",
+      "work test"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T287",
+      "title": "Work-sample assessments",
+      "source_title": "Work Samples and Simulations",
+      "url": "https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/work-samples-and-simulations/",
+      "publisher": "U.S. Office of Personnel Management",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Work-sample assessments ask candidates to perform tasks resembling the work being selected for. OPM describes simulations and exercises that provide direct evidence of relevant behavior, rather than inferring competence solely from background information.",
+      "limitation": "Work samples can unfairly test skills intended to be taught after entry; realistic tasks also require careful design and consistent assessment.",
+      "scenario": "Imagine a nonprofit hiring an event coordinator by asking applicants to resolve the same fictional scheduling conflict, using a common rubric and a reasonable time limit.",
+      "aliases": [
+        "job simulation",
+        "practical assessment",
+        "work test"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T288",
+    "title": "Auditions",
+    "slug": "auditions",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Observe candidates performing representative work.",
+    "example": "Select performers or contributors through demonstration.",
+    "sources": [
+      "R-T288"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "performance selection",
+      "tryout"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T288",
+      "title": "Auditions",
+      "source_title": "Tanglewood Festival Chorus Auditions",
+      "url": "https://www.bso.org/tfc/auditions",
+      "publisher": "Boston Symphony Orchestra",
+      "source_type": "institutional guide",
+      "access": "page",
+      "finding": "Auditions evaluate performed ability through specified demonstrations before selectors. The Tanglewood chorus example combines prepared music, rhythm, scales, and diction, showing how a short performance can sample several requirements of participation.",
+      "limitation": "Brief performances are sensitive to nerves and preparation access; selectors must decide which qualities the audition can actually reveal.",
+      "scenario": "Imagine a community ensemble inviting singers to prepare the same excerpt and a personal selection, explaining criteria and accommodation options before assigning audition times.",
+      "aliases": [
+        "performance selection",
+        "tryout"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T289",
+    "title": "Trial projects",
+    "slug": "trial-projects",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Use a bounded collaboration before a longer commitment.",
+    "example": "Test working compatibility and capability.",
+    "sources": [
+      "R-T289"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "paid trial",
+      "trial engagement"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T289",
+      "title": "Trial projects",
+      "source_title": "How We Hire Developers",
+      "url": "https://automattic.com/work-with-us/how-we-hire-developers/",
+      "publisher": "Automattic",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Trial projects let both sides experience a bounded piece of working together before a longer commitment. Automattic describes paid, part-time trials used to evaluate work, communication, effectiveness, and mutual compatibility.",
+      "limitation": "Trials can burden applicants with existing obligations; clear payment, scope, evaluation, and ownership arrangements are necessary to avoid extracting unpaid work.",
+      "scenario": "Imagine a small design studio commissioning a paid, limited trial project, agreeing on hours and evaluation criteria so the candidate can also assess collaboration.",
+      "aliases": [
+        "paid trial",
+        "trial engagement"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T290",
+    "title": "Blind review",
+    "slug": "blind-review",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Conceal specified identity information during evaluation.",
+    "example": "Reduce some identity cues in initial assessment.",
+    "sources": [
+      "R-T290"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "anonymous review",
+      "double-anonymous review",
+      "double-blind review"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T290",
+      "title": "Blind review",
+      "source_title": "Double-blind peer review",
+      "url": "https://www.nature.com/naturehealth/submission-guidelines/dbpr",
+      "publisher": "Nature Health",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Blind review withholds selected identity information from evaluators while they assess work. Nature Health's double-anonymous option requires authors to conceal identifying material, making anonymity an operational preparation task rather than simply a promise.",
+      "limitation": "Subject matter, references, or public drafts can reveal identity; anonymity does not remove all bias or substitute for relevant evaluation criteria.",
+      "scenario": "Imagine a writing competition removing names and biographical details before judging, asking entrants to flag identifying content and documenting how reviewers handle accidental recognition.",
+      "aliases": [
+        "anonymous review",
+        "double-anonymous review",
+        "double-blind review"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T291",
+    "title": "Peer promotion",
+    "slug": "peer-promotion",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Existing participants evaluate readiness for greater responsibility.",
+    "example": "Expand a project's trusted contributor group.",
+    "sources": [
+      "OSS"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T292",
+    "title": "Sponsorship for advancement",
+    "slug": "sponsorship-for-advancement",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "An established member advocates for someone's opportunities.",
+    "example": "Connect demonstrated ability to access and responsibility.",
+    "sources": [
+      "R-T292"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "career sponsorship",
+      "advancement advocacy"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T292",
+      "title": "Sponsorship for advancement",
+      "source_title": "Catalyst Sponsorship Guide",
+      "url": "https://www.catalyst.org/en-us/insights/2025/catalyst-sponsorship-guide",
+      "publisher": "Catalyst",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Sponsorship for advancement involves an influential person advocating for someone else's opportunities. Catalyst distinguishes this relationship from guidance alone, focusing on access to networks and people willing to support another person's progression.",
+      "limitation": "Sponsorship can reproduce favoritism when access is informal; transparent opportunities and scrutiny of whose talent receives advocacy remain necessary.",
+      "scenario": "Imagine a senior colleague putting a capable junior forward for a visible project, explaining the relevant evidence and ensuring others also have routes to consideration.",
+      "aliases": [
+        "career sponsorship",
+        "advancement advocacy"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T293",
+    "title": "Succession planning",
+    "slug": "succession-planning",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Identify and prepare people to assume critical responsibilities.",
+    "example": "Reduce disruption when a founder leaves.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T294",
+    "title": "Deputy roles",
+    "slug": "deputy-roles",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Give a second person substantive responsibility alongside a role holder.",
+    "example": "Build continuity and an informed substitute.",
+    "sources": [
+      "R-T294"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "second-in-command",
+      "deputy leader",
+      "backup leader"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T294",
+      "title": "Deputy roles",
+      "source_title": "Creating the COO Position",
+      "url": "https://www.bridgespan.org/getmedia/c60187c0-f6b7-4019-bd32-53b8872ae283/CreatingCOOPosition.pdf?ext=.pdf",
+      "publisher": "The Bridgespan Group",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Deputy roles distribute leadership responsibilities and provide continuity when a primary leader is unavailable or leaves. Bridgespan's COO account describes interim leadership and preserved relationships without assuming that every deputy becomes the permanent successor.",
+      "limitation": "Unclear authority can create competing leadership centers; a deputy's operational effectiveness does not automatically make them the appropriate next leader.",
+      "scenario": "Imagine a community center designating a deputy to handle defined decisions during the director's absence, documenting escalation limits and separately planning any permanent succession.",
+      "aliases": [
+        "second-in-command",
+        "deputy leader",
+        "backup leader"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T295",
+    "title": "Overlapping handovers",
+    "slug": "overlapping-handovers",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Incoming and outgoing role holders work together temporarily.",
+    "example": "Transfer judgment as well as documents.",
+    "sources": [
+      "R-T295"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "handover overlap",
+      "transition overlap"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T295",
+      "title": "Overlapping handovers",
+      "source_title": "Shift handover",
+      "url": "https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm",
+      "publisher": "UK Health and Safety Executive",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Overlapping handovers create direct contact between outgoing and incoming responsibility holders. HSE's account combines preparation, exchange of task-relevant information, and incoming cross-checking, showing why a document alone may miss unresolved questions.",
+      "limitation": "Overlap requires time and clear responsibility boundaries; conversation without verification can transmit misunderstandings as easily as useful tacit knowledge.",
+      "scenario": "Imagine an outgoing volunteer treasurer working alongside the replacement for one reporting cycle, reviewing outstanding payments together and confirming exactly when responsibility transfers.",
+      "aliases": [
+        "handover overlap",
+        "transition overlap"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T296",
+    "title": "Graduated responsibility",
+    "slug": "graduated-responsibility",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Increase authority as capability is demonstrated.",
+    "example": "Develop successors without transferring everything at once.",
+    "sources": [
+      "R-T296"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "progressive responsibility",
+      "progressive autonomy"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T296",
+      "title": "Graduated responsibility",
+      "source_title": "Common Program Requirements FAQs",
+      "url": "https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf",
+      "publisher": "Accreditation Council for Graduate Medical Education",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Graduated responsibility increases autonomy as demonstrated capability develops. ACGME's supervision framework links responsibility to assessed competence and the circumstances of the task, rather than advancing everyone solely according to time served.",
+      "limitation": "The clinical example is not general permission to delegate risky tasks; supervision must reflect actual ability and consequences of error.",
+      "scenario": "Imagine a new event volunteer first observing bookings, then managing routine requests with review, and finally handling them independently after demonstrating reliable judgment.",
+      "aliases": [
+        "progressive responsibility",
+        "progressive autonomy"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T297",
+    "title": "Leadership pipelines",
+    "slug": "leadership-pipelines",
+    "kind": "F",
+    "category": "Recognition and succession",
+    "description": "Connect development experiences to progressively demanding roles.",
+    "example": "Prepare future leaders across generations.",
+    "sources": [
+      "R-T297"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "succession planning",
+      "leadership development pool"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T297",
+      "title": "Leadership pipelines",
+      "source_title": "Succession Planning Process",
+      "url": "https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/",
+      "publisher": "U.S. Office of Personnel Management",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Leadership pipelines develop a pool of potential successors before vacancies arise. OPM's framework connects future organizational needs, identified competencies, and development opportunities, treating continuity as an ongoing process rather than emergency replacement.",
+      "limitation": "Early labels can entrench favorites and exclude late developers; a pipeline should not imply guaranteed promotion or a closed succession list.",
+      "scenario": "Imagine a growing association offering several volunteers progressively broader responsibilities, reviewing future needs and keeping leadership opportunities open beyond the initial development cohort.",
+      "aliases": [
+        "succession planning",
+        "leadership development pool"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T298",
+    "title": "Founder transition agreements",
+    "slug": "founder-transition-agreements",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Specify the founder's future authority and transfer of control.",
+    "example": "Avoid ambiguity after operational leadership changes.",
+    "sources": [
+      "R-T298"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "founder succession agreement",
+      "founder role transition"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T298",
+      "title": "Founder transition agreements",
+      "source_title": "Leadership Transition: Overcoming the Threat of Founder's Syndrome",
+      "url": "https://www.intrac.org/app/uploads/2024/12/Praxis-Series-Paper-No-9-Leadership-Transition-Overcoming-the-Threat-of-Founders-Syndrome.pdf",
+      "publisher": "INTRAC",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Founder transition agreements clarify what a departing founder may continue doing and what passes to successors. INTRAC emphasizes board responsibility and explicit boundaries when founders remain involved, reducing ambiguity around continuing influence.",
+      "limitation": "A written boundary cannot ensure compliance; successor authority and independent board oversight matter when a founder retains strong informal relationships.",
+      "scenario": "Imagine a nonprofit founder remaining available for donor introductions after stepping down, with the board specifying reporting relationships, decision limits, and a review date.",
+      "aliases": [
+        "founder succession agreement",
+        "founder role transition"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T299",
+    "title": "Emeritus roles",
+    "slug": "emeritus-roles",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Retain optional advisory affiliation after active responsibility ends.",
+    "example": "Preserve knowledge without blocking new leadership.",
+    "sources": [
+      "R-T299"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "emeritus status"
+    ],
+    "terms": [
+      "retired honorary role"
+    ],
+    "research": {
+      "id": "T299",
+      "title": "Emeritus roles",
+      "source_title": "ASF Members: Emeritus Members",
+      "url": "https://www.apache.org/foundation/members",
+      "publisher": "Apache Software Foundation",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Emeritus roles distinguish past contribution from current active participation. Apache's published process lets members move into emeritus status and describes a route back through election, making the status a defined governance category.",
+      "limitation": "Emeritus titles differ across institutions; honorary recognition must not leave unclear whether former leaders retain votes, access, or operational authority.",
+      "scenario": "Imagine a long-serving association organizer stepping into an honorary advisory role, with members documenting which responsibilities end and how any future return would be decided.",
+      "aliases": [
+        "emeritus status"
+      ],
+      "scale": "institutions",
+      "terms": [
+        "retired honorary role"
+      ],
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T300",
+    "title": "Exit interviews",
+    "slug": "exit-interviews",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Ask departing participants about their experience and unfinished work.",
+    "example": "Detect issues missed by routine feedback.",
+    "sources": [
+      "R-T300"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "departure interview",
+      "leaver feedback"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T300",
+      "title": "Exit interviews",
+      "source_title": "Exit Interviews",
+      "url": "https://www.gla.ac.uk/myglasgow/pod/mgrs-admin/mgr-guidance/leaverguidance/exit-int/",
+      "publisher": "University of Glasgow",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Exit interviews ask departing participants about their experience and reasons for leaving. Glasgow's guidance explores role expectations and communication, turning departure into a chance to identify conditions that current participants may hesitate to discuss.",
+      "limitation": "Departing people may still fear consequences or withhold criticism; collecting feedback is useful only if patterns receive credible follow-up.",
+      "scenario": "Imagine a volunteer coordinator offering a departing organizer a private conversation about workload and collaboration, explaining who will see the notes and how recurring issues will be addressed.",
+      "aliases": [
+        "departure interview",
+        "leaver feedback"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T301",
+    "title": "Institutional memory interviews",
+    "slug": "institutional-memory-interviews",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Capture a role holder's reasoning and relationships before departure.",
+    "example": "Transfer context absent from formal procedures.",
+    "sources": [
+      "R-T301"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "organizational oral history",
+      "memory interviews"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T301",
+      "title": "Institutional memory interviews",
+      "source_title": "Johnson Space Center Oral History Project",
+      "url": "https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html",
+      "publisher": "NASA",
+      "source_type": "history",
+      "access": "search excerpt",
+      "finding": "Institutional memory interviews preserve participants' accounts of how an organization worked and what they learned. NASA's oral history project includes people in many roles, capturing experience that formal project records may not convey.",
+      "limitation": "Recollections are selective and can conflict; interviews need consent, contextual records, and multiple perspectives rather than being treated as unquestionable institutional truth.",
+      "scenario": "Imagine a neighborhood association interviewing longtime organizers about failed campaigns and turning points, archiving recordings with permission alongside documents that help later members assess the accounts.",
+      "aliases": [
+        "organizational oral history",
+        "memory interviews"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T302",
+    "title": "Backup ownership",
+    "slug": "backup-ownership",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Assign an informed alternate for important responsibilities.",
+    "example": "Maintain continuity during absence.",
+    "sources": [
+      "R-T302"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "backup administrator",
+      "shared administrative ownership",
+      "bus factor"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T302",
+      "title": "Backup ownership",
+      "source_title": "Leadership and Governance",
+      "url": "https://opensource.guide/pcm/leadership-and-governance/",
+      "publisher": "GitHub Open Source Guides",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Backup ownership gives more than one trusted person the access needed to keep a shared project operating. The Open Source Guides recommend organizational accounts and a backup administrator to reduce dependence on one individual.",
+      "limitation": "Additional access creates security and accountability responsibilities; a nominal backup is ineffective if permissions, knowledge, or availability are never checked.",
+      "scenario": "Imagine a volunteer website adding a second authorized administrator, testing recovery access and documenting renewal responsibilities before the original maintainer leaves for several months.",
+      "aliases": [
+        "backup administrator",
+        "shared administrative ownership",
+        "bus factor"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T303",
+    "title": "Stewardship terms",
+    "slug": "stewardship-terms",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Assign responsibility for a defined period with review.",
+    "example": "Renew commitment without making positions permanent.",
+    "sources": [
+      "R-T303"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "terms of office",
+      "fixed stewardship terms"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T303",
+      "title": "Stewardship terms",
+      "source_title": "Our 2026 Trustee Search",
+      "url": "https://wikimediafoundation.org/our-2026-trustee-search/",
+      "publisher": "Wikimedia Foundation",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Stewardship terms specify how long a person holds entrusted authority and whether renewal is possible. Wikimedia's trustee description illustrates fixed renewable terms, making duration and continuation explicit parts of institutional governance.",
+      "limitation": "Term limits can refresh leadership but also remove experience; duration alone does not establish accountability during a person's time in office.",
+      "scenario": "Imagine a community land organization giving trustees fixed terms, scheduling staggered renewals and documenting handovers so leadership changes do not leave essential responsibilities unattended.",
+      "aliases": [
+        "terms of office",
+        "fixed stewardship terms"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T304",
+    "title": "Knowledge succession demonstrations",
+    "slug": "knowledge-succession-demonstrations",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Have successors perform critical work before handover.",
+    "example": "Check that competence transferred alongside authority.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T305",
+    "title": "Lineage recognition",
+    "slug": "lineage-recognition",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Trace teaching or authority through acknowledged predecessors.",
+    "example": "Understand continuity claims in craft or religious traditions.",
+    "sources": [
+      "R-T305"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "lineage transmission",
+      "teacher lineage"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T305",
+      "title": "Lineage recognition",
+      "source_title": "Steve Weintraub",
+      "url": "https://www.sfzc.org/teachers/steve-weintraub/",
+      "publisher": "San Francisco Zen Center",
+      "source_type": "history",
+      "access": "search excerpt",
+      "finding": "Lineage recognition locates a person's recognized role within a chain of teachers and predecessors. San Francisco Zen Center's account names a teacher's Dharma transmission and lineage, making continuity part of how authority is described.",
+      "limitation": "Lineage recognition has tradition-specific meanings; it is neither a universal competence test nor a guarantee that a recognized teacher behaves responsibly.",
+      "scenario": "Imagine a practitioner choosing a study community and asking how it understands teacher lineage, while separately examining teaching conduct, accountability arrangements, and suitability for their needs.",
+      "aliases": [
+        "lineage transmission",
+        "teacher lineage"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T306",
+    "title": "Oaths of office",
+    "slug": "oaths-of-office",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Publicly affirm obligations attached to a role.",
+    "example": "Mark accountability when assuming authority.",
+    "sources": [
+      "R-T306"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "office affirmation",
+      "public oath"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T306",
+      "title": "Oaths of office",
+      "source_title": "Oath of Office",
+      "url": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/oath-of-office.htm",
+      "publisher": "United States Senate",
+      "source_type": "history",
+      "access": "search excerpt",
+      "finding": "Oaths of office mark entry into a role through an explicit commitment to its duties or governing order. The Senate's history shows an institutionalized promise whose wording has changed with political circumstances.",
+      "limitation": "A solemn promise cannot enforce itself; accountability still depends on institutions, review, and consequences when the officeholder violates their duties.",
+      "scenario": "Imagine a newly elected association board publicly affirming its responsibilities and conflict rules at the start of a term, while explaining the mechanisms members can use to challenge misconduct.",
+      "aliases": [
+        "office affirmation",
+        "public oath"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T337",
+    "title": "Peer juries for awards",
+    "slug": "peer-juries-for-awards",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "A selected panel evaluates submissions against stated criteria.",
+    "example": "Distribute recognition using deliberated judgments.",
+    "sources": [
+      "R-T337"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "peer award panel",
+      "award jury"
+    ],
+    "terms": [
+      "expert panel"
+    ],
+    "research": {
+      "id": "T337",
+      "title": "Peer juries for awards",
+      "source_title": "Grant Review Process",
+      "url": "https://www.arts.gov/grants/grant-review-process",
+      "publisher": "National Endowment for the Arts",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Peer juries assess submissions using relevant experience and stated criteria. The NEA process illustrates rotating, conflict-free advisory panels whose recommendations pass through further decision stages, distinguishing expert assessment from final award authority.",
+      "limitation": "Peer judgment can reproduce disciplinary preferences; conflict rules, varied perspectives, and clarity about final authority remain necessary even with experienced reviewers.",
+      "scenario": "Imagine a local arts fund appointing a rotating panel of practitioners and community members, disclosing conflicts and recording how published criteria guide its recommendations.",
+      "aliases": [
+        "peer award panel",
+        "award jury"
+      ],
+      "scale": "institutions",
+      "terms": [
+        "expert panel"
+      ],
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T338",
+    "title": "Recallable stewardship",
+    "slug": "recallable-stewardship",
+    "kind": "P",
+    "category": "Recognition and succession",
+    "description": "Grant stewardship with an explicit community removal process.",
+    "example": "Combine continuing responsibility with contestable authority.",
+    "sources": [
+      "R-T338"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "revocable delegation",
+      "steward recall",
+      "removable stewardship"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T338",
+      "title": "Recallable stewardship",
+      "source_title": "Stewards: Confirmations and Removal of Access",
+      "url": "https://meta.wikimedia.org/wiki/Stewards",
+      "publisher": "Wikimedia community, Meta-Wiki",
+      "source_type": "practitioner method",
+      "access": "page",
+      "finding": "Recallable stewardship makes continued authority conditional on review rather than permanent possession. Wikimedia stewards undergo community comment and steward deliberation, with defined procedures for removing access when continuation is no longer supported.",
+      "limitation": "This example combines community input with peer deliberation rather than direct popular recall; effective accountability depends on accessible evidence and fair procedures.",
+      "scenario": "Imagine a community platform periodically reviewing administrators' use of permissions, allowing documented concerns and specifying who can suspend or remove access after a fair review.",
+      "aliases": [
+        "revocable delegation",
+        "steward recall",
+        "removable stewardship"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  }
+]

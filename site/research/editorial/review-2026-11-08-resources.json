@@ -1,0 +1,891 @@
+[
+  {
+    "id": "T212",
+    "type": "technology",
+    "title": "Auctions",
+    "changed": false,
+    "findings": "Bidding formats lead directly into purchasing power and collusion; the cited sentence states the mechanism rather than narrating research."
+  },
+  {
+    "id": "T213",
+    "type": "technology",
+    "title": "Double auctions",
+    "changed": true,
+    "findings": "Replaced research narration with the information-coordination mechanism; retained the limits of thin markets and bargaining power."
+  },
+  {
+    "id": "T214",
+    "type": "technology",
+    "title": "Barter",
+    "changed": true,
+    "findings": "Removed a research-style hypothetical label from an already recognizable example; retained the barter/mutual-credit distinction."
+  },
+  {
+    "id": "T215",
+    "type": "technology",
+    "title": "Mutual credit",
+    "changed": true,
+    "findings": "Made the Sardex citation explain an actual network dependency instead of reporting what research shows."
+  },
+  {
+    "id": "T216",
+    "type": "technology",
+    "title": "Time banking",
+    "changed": false,
+    "findings": "The time-credit example develops naturally into coordination, distance and willingness to receive help; no source diary or detached qualification."
+  },
+  {
+    "id": "T217",
+    "type": "technology",
+    "title": "Local currencies",
+    "changed": true,
+    "findings": "Replaced example-announcement wording with a direct description of BerkShares; kept the substantive distinction between circulation and additional economic activity."
+  },
+  {
+    "id": "T218",
+    "type": "technology",
+    "title": "Gift economies",
+    "changed": true,
+    "findings": "Explains forms of reciprocity directly rather than describing anthropological categorization; preserves gift obligations and hierarchy."
+  },
+  {
+    "id": "T219",
+    "type": "technology",
+    "title": "Reciprocal labor exchanges",
+    "changed": true,
+    "findings": "Replaced narration and cultural-borrowing disclaimer with the concrete difference between continuing reciprocal obligations and a one-off work party."
+  },
+  {
+    "id": "T220",
+    "type": "technology",
+    "title": "Rotating savings groups",
+    "changed": true,
+    "findings": "Explained the timing difference directly instead of telling readers what research describes; default and ordering remain integrated."
+  },
+  {
+    "id": "T221",
+    "type": "technology",
+    "title": "Credit unions",
+    "changed": false,
+    "findings": "Explains member control versus staff operations through a branch decision; its risk qualification concerns the actual ownership mechanism."
+  },
+  {
+    "id": "T222",
+    "type": "technology",
+    "title": "Mutual insurance",
+    "changed": true,
+    "findings": "Removed an abstract source label while preserving variation in members’ actual rights."
+  },
+  {
+    "id": "T223",
+    "type": "technology",
+    "title": "Emergency mutual-aid funds",
+    "changed": true,
+    "findings": "Removed the detached universal-model disclaimer; described the fund’s request and review arrangement without claiming it works everywhere."
+  },
+  {
+    "id": "T224",
+    "type": "technology",
+    "title": "Crowdfunding",
+    "changed": false,
+    "findings": "Museum campaign connects financing with delivery obligations; the distinction among donations, loans and ownership is explained at the point it matters."
+  },
+  {
+    "id": "T225",
+    "type": "technology",
+    "title": "Crowdlending",
+    "changed": false,
+    "findings": "Repayment and platform administration are direct claims attached to evidence; the lending-versus-giving distinction follows from the example."
+  },
+  {
+    "id": "T226",
+    "type": "technology",
+    "title": "Subscriptions",
+    "changed": true,
+    "findings": "Replaced the generic no-guarantee ending with the publisher’s concrete renewal and delivery task."
+  },
+  {
+    "id": "T227",
+    "type": "technology",
+    "title": "Membership dues",
+    "changed": false,
+    "findings": "Rowing-club costs, exclusions and membership rights form a connected explanation; Rotary appears as an actual association rather than a narrated source."
+  },
+  {
+    "id": "T228",
+    "type": "technology",
+    "title": "Patronage",
+    "changed": true,
+    "findings": "Replaced historical-source narration with the patron’s concrete influence over subjects and commissions."
+  },
+  {
+    "id": "T229",
+    "type": "technology",
+    "title": "Grants",
+    "changed": false,
+    "findings": "The named arts program is integrated into the application mechanism, and archive needs make restrictions and application costs understandable."
+  },
+  {
+    "id": "T230",
+    "type": "technology",
+    "title": "Prize competitions",
+    "changed": false,
+    "findings": "Bridge competition develops success-versus-adoption and access terms without invoking the GFT dispute; patent qualification is tied directly to reward design."
+  },
+  {
+    "id": "T231",
+    "type": "technology",
+    "title": "Bounties",
+    "changed": true,
+    "findings": "Turned the source-example announcement into concrete qualification rules and removed redundant hypothetical labeling."
+  },
+  {
+    "id": "T232",
+    "type": "technology",
+    "title": "Participatory budgeting",
+    "changed": true,
+    "findings": "Replaced handbook narration with the proposal-development work that leads into the following paragraph."
+  },
+  {
+    "id": "T233",
+    "type": "technology",
+    "title": "Quadratic funding",
+    "changed": true,
+    "findings": "Removed proposal narration and an unexplained appeal to theoretical assumptions; named the specific implementation issues already developed in the article."
+  },
+  {
+    "id": "T234",
+    "type": "technology",
+    "title": "Matching grants",
+    "changed": true,
+    "findings": "Replaced an abstract claim that rules illustrate eligibility with the actual distinction between eligible cash and in-kind contributions."
+  },
+  {
+    "id": "T235",
+    "type": "technology",
+    "title": "Endowments",
+    "changed": true,
+    "findings": "Explained restricted funds and distributions directly, setting up the library repair example rather than narrating Harvard’s explanation."
+  },
+  {
+    "id": "T236",
+    "type": "technology",
+    "title": "Pooled procurement",
+    "changed": true,
+    "findings": "Replaced narration of operational procedures with the actual coordination work of pooled purchasing."
+  },
+  {
+    "id": "T237",
+    "type": "technology",
+    "title": "Buying clubs",
+    "changed": true,
+    "findings": "Made the agricultural example describe independent farmers’ joint purchasing rather than announce an illustration."
+  },
+  {
+    "id": "T238",
+    "type": "technology",
+    "title": "Tool libraries",
+    "changed": false,
+    "findings": "The lending rules are actual arrangements, followed by a return-date example that exposes maintenance labor; no detached source commentary."
+  },
+  {
+    "id": "T239",
+    "type": "technology",
+    "title": "Resource booking systems",
+    "changed": true,
+    "findings": "Removed the phrase booking example and described the institution’s reservation arrangement directly."
+  },
+  {
+    "id": "T240",
+    "type": "technology",
+    "title": "Queues",
+    "changed": true,
+    "findings": "Replaced an abstract illustration with the concrete queue-card rule; retained unequal waiting costs."
+  },
+  {
+    "id": "T241",
+    "type": "technology",
+    "title": "Allocation lotteries",
+    "changed": true,
+    "findings": "Explained the eligibility boundary directly while retaining application-access problems and unresolved scarcity."
+  },
+  {
+    "id": "T242",
+    "type": "technology",
+    "title": "Needs-based allocation",
+    "changed": true,
+    "findings": "Removed a redundant hypothetical label; the heatwave example remains clearly illustrative and its privacy issue remains concrete."
+  },
+  {
+    "id": "T243",
+    "type": "technology",
+    "title": "Rationing",
+    "changed": true,
+    "findings": "Made the historical sentence state what the rationing system did, without adding claims about effectiveness."
+  },
+  {
+    "id": "T244",
+    "type": "technology",
+    "title": "Tradable quotas",
+    "changed": true,
+    "findings": "Removed illustration narration and doubled hypothetical framing while preserving the key distinction among catch-share arrangements."
+  },
+  {
+    "id": "T245",
+    "type": "technology",
+    "title": "Commons governance",
+    "changed": true,
+    "findings": "Replaced research narration with the institutional combination; retained variation and the specific risk of importing rules that do not fit local livelihoods."
+  },
+  {
+    "id": "T246",
+    "type": "technology",
+    "title": "Resource boundaries",
+    "changed": false,
+    "findings": "The orchard example distinguishes resource scope, overlapping access and exclusion; citation supports the mechanism without a source diary."
+  },
+  {
+    "id": "T247",
+    "type": "technology",
+    "title": "User participation in rulemaking",
+    "changed": false,
+    "findings": "Workshop users develop a rule and confront unequal attendance; the authority-versus-feedback distinction is explained through the situation."
+  },
+  {
+    "id": "T248",
+    "type": "technology",
+    "title": "Community monitoring",
+    "changed": false,
+    "findings": "Path inspections connect observations to action and selective monitoring; source attribution is already attached to a direct claim."
+  },
+  {
+    "id": "T249",
+    "type": "technology",
+    "title": "Graduated sanctions",
+    "changed": false,
+    "findings": "Equipment-return examples explain proportional consequences and appeals; serious-misconduct qualification addresses a specific misreading, not a generic warning."
+  },
+  {
+    "id": "T250",
+    "type": "technology",
+    "title": "Community land trusts",
+    "changed": false,
+    "findings": "Resale limits lead into current versus future users and maintenance; legal variation explains actual differences rather than inserting a generic disclaimer."
+  },
+  {
+    "id": "T251",
+    "type": "technology",
+    "title": "Worker cooperatives",
+    "changed": false,
+    "findings": "Translator members confront a contract deadline and governance workload; risks follow from the worker-owner role rather than source narration."
+  },
+  {
+    "id": "T252",
+    "type": "technology",
+    "title": "Consumer cooperatives",
+    "changed": false,
+    "findings": "Store decisions make consumer control, employee voice and participation visible; the cooperative distinction serves the example."
+  },
+  {
+    "id": "T253",
+    "type": "technology",
+    "title": "Producer cooperatives",
+    "changed": false,
+    "findings": "Shared packing, quality standards and large-versus-small producers form a continuous explanation without research commentary."
+  },
+  {
+    "id": "T254",
+    "type": "technology",
+    "title": "Housing cooperatives",
+    "changed": true,
+    "findings": "Removed a detached caution about the cooperative label and returned the ending to residents’ concrete governing responsibilities."
+  },
+  {
+    "id": "T255",
+    "type": "technology",
+    "title": "Multistakeholder cooperatives",
+    "changed": false,
+    "findings": "Opening-hours disagreement shows why member classes need representation rules; caveats concern actual voting power and deadlock."
+  },
+  {
+    "id": "T256",
+    "type": "technology",
+    "title": "Employee ownership",
+    "changed": false,
+    "findings": "Employee shares versus equal voting is central to the mechanism and is made concrete through a continuing board; no unexplained evidential caveat."
+  },
+  {
+    "id": "T257",
+    "type": "technology",
+    "title": "Steward ownership",
+    "changed": false,
+    "findings": "Purpose restrictions lead directly into selecting accountable stewards; legal variation is necessary to explain the design family."
+  },
+  {
+    "id": "T258",
+    "type": "technology",
+    "title": "Revenue sharing",
+    "changed": true,
+    "findings": "Replaced a policy-as-illustration sentence with the actual division of receipts, retaining cost and accounting distinctions."
+  },
+  {
+    "id": "T259",
+    "type": "technology",
+    "title": "Profit sharing",
+    "changed": true,
+    "findings": "Stated the bonus calculation directly instead of presenting it as an illustration."
+  },
+  {
+    "id": "T260",
+    "type": "technology",
+    "title": "Transparent compensation formulas",
+    "changed": true,
+    "findings": "Replaced narration of Buffer’s account with the reason for its revision, connecting directly to hidden judgments in input assignment."
+  },
+  {
+    "id": "T261",
+    "type": "technology",
+    "title": "Rent allocation formulas",
+    "changed": false,
+    "findings": "The room-price example explains the fairness criterion and why budgets can still obstruct agreement; model limitations are specific and integrated."
+  },
+  {
+    "id": "T262",
+    "type": "technology",
+    "title": "Fiscal sponsorship",
+    "changed": false,
+    "findings": "The sponsor’s authority and project independence are explained through real obligations; model distinctions are essential rather than research asides."
+  },
+  {
+    "id": "T263",
+    "type": "technology",
+    "title": "Community-supported agriculture",
+    "changed": false,
+    "findings": "Advance farm commitments lead into harvest variation, collection burdens and ownership rights; qualifiers identify actual differences among CSA arrangements."
+  },
+  {
+    "id": "T264",
+    "type": "technology",
+    "title": "Repair cafés",
+    "changed": false,
+    "findings": "A damaged fastening gives learning and safety limits a concrete place; the article explains repair participation rather than reporting practitioner evidence."
+  },
+  {
+    "id": "T265",
+    "type": "technology",
+    "title": "Swap events",
+    "changed": false,
+    "findings": "Book-swap sorting and leftovers explain the hidden work; exchange and free redistribution remain distinct without broad claims about gift economies."
+  },
+  {
+    "id": "T266",
+    "type": "technology",
+    "title": "Escrow",
+    "changed": true,
+    "findings": "Removed doubled hypothetical framing; kept genuine dependencies on custody, release conditions and disputed inspection."
+  },
+  {
+    "id": "T267",
+    "type": "technology",
+    "title": "Contracts",
+    "changed": true,
+    "findings": "Reconnected the example to its participants rather than labeling it as a hypothetical; enforceability and bargaining-power distinctions remain."
+  },
+  {
+    "id": "T268",
+    "type": "technology",
+    "title": "Open licensing",
+    "changed": true,
+    "findings": "Replaced an abstract dispute about definitions of openness with concrete differences in permission; preserved copyright and governance distinctions."
+  },
+  {
+    "id": "T269",
+    "type": "technology",
+    "title": "Copyleft",
+    "changed": true,
+    "findings": "Removed instructions-to-the-reader and misrepresentation framing; explained the actual distinction between private editing and distribution without prescribing license compliance."
+  },
+  {
+    "id": "T270",
+    "type": "technology",
+    "title": "Public provisioning",
+    "changed": false,
+    "findings": "Street lighting and transport make the financing/delivery/access distinction concrete; public-good terminology is explained through seats and housing."
+  },
+  {
+    "id": "T332",
+    "type": "technology",
+    "title": "Taxation",
+    "changed": false,
+    "findings": "Roads and transport connect collection, incidence and spending; no narration of OECD material or research-status asides."
+  },
+  {
+    "id": "T333",
+    "type": "technology",
+    "title": "Double-entry accounting",
+    "changed": false,
+    "findings": "Projector purchase and treasurer succession explain accounting; fabricated balanced entries are a specific limitation, not generic caution."
+  },
+  {
+    "id": "T334",
+    "type": "technology",
+    "title": "Public asset registers",
+    "changed": true,
+    "findings": "Replaced guidance narration with the information in the register, preserving the practical distinction between recorded and usable space."
+  },
+  {
+    "id": "T335",
+    "type": "technology",
+    "title": "Assurance contracts",
+    "changed": true,
+    "findings": "Removed unnecessary example labeling; retained the precise dominant-assurance bonus distinction and funding-versus-delivery problem."
+  },
+  {
+    "id": "T336",
+    "type": "technology",
+    "title": "Risk-sharing pools",
+    "changed": true,
+    "findings": "Replaced illustration framing with cross-country pooling; maintained the concrete mismatch between payout triggers and actual damage."
+  },
+  {
+    "id": "T271",
+    "type": "technology",
+    "title": "Credentials",
+    "changed": false,
+    "findings": "The bicycle credential develops the issuer-assessment-holder chain and exclusion directly; no source diary, and limits follow from what the credential attests."
+  },
+  {
+    "id": "T272",
+    "type": "technology",
+    "title": "Certification",
+    "changed": false,
+    "findings": "Certification scope is demonstrated through a supplier’s management-system certificate; ISO clarification answers who actually assesses rather than adding unrelated narration."
+  },
+  {
+    "id": "T273",
+    "type": "technology",
+    "title": "Accreditation",
+    "changed": false,
+    "findings": "The whole narrative follows the assessor-of-assessors question; scope limits explain why recognition for one assessment is not qualification for all."
+  },
+  {
+    "id": "T274",
+    "type": "technology",
+    "title": "Professional licensing",
+    "changed": false,
+    "findings": "A move across jurisdictions makes permission and portability concrete; the gate’s benefits and burdens are integrated rather than framed as legal disclaimers."
+  },
+  {
+    "id": "T275",
+    "type": "technology",
+    "title": "Portfolios",
+    "changed": false,
+    "findings": "Poster authorship, project constraints and confidential work explain what a portfolio reveals and omits; no source-summary interruption."
+  },
+  {
+    "id": "T276",
+    "type": "technology",
+    "title": "References",
+    "changed": false,
+    "findings": "Festival references develop from observed reliability to selective testimony; the source supports a directly described checking procedure."
+  },
+  {
+    "id": "T277",
+    "type": "technology",
+    "title": "Reputation systems",
+    "changed": true,
+    "findings": "Replaced narration of reputation research with the transfer of interaction information that the mechanism performs."
+  },
+  {
+    "id": "T278",
+    "type": "technology",
+    "title": "Contribution records",
+    "changed": true,
+    "findings": "Explained what the contribution profile displays instead of presenting a software-specific example as a research finding."
+  },
+  {
+    "id": "T280",
+    "type": "technology",
+    "title": "Peer nominations",
+    "changed": true,
+    "findings": "Replaced guidance narration with the work of constructing a nomination; preserved the difference between advocacy and selection."
+  },
+  {
+    "id": "T281",
+    "type": "technology",
+    "title": "Public appreciation",
+    "changed": true,
+    "findings": "Replaced a sweeping research caveat with the experiment’s specific time horizon and the observed audience response, without generalizing lasting effects."
+  },
+  {
+    "id": "T282",
+    "type": "technology",
+    "title": "Contributor credits",
+    "changed": false,
+    "findings": "Credits, category choices and missing payment rights follow the exhibition example; All Contributors is an actual specification, not a source-access note."
+  },
+  {
+    "id": "T283",
+    "type": "technology",
+    "title": "Authorship conventions",
+    "changed": false,
+    "findings": "Authorship criteria matter to the team scenario and are correctly restricted to their disciplinary convention; no broader causal claim or diary aside."
+  },
+  {
+    "id": "T284",
+    "type": "technology",
+    "title": "Merit-based selection",
+    "changed": false,
+    "findings": "Archive selection explains the procedural ideal and contested criteria directly; civil-service principles supply the normative definition, not a claim of proven effectiveness."
+  },
+  {
+    "id": "T285",
+    "type": "technology",
+    "title": "Seniority rules",
+    "changed": false,
+    "findings": "Holiday priority and shift allocation explain the purpose of seniority and its difference from ability; institutional variation is concretely about calculation dates."
+  },
+  {
+    "id": "T286",
+    "type": "technology",
+    "title": "Competitive examinations",
+    "changed": false,
+    "findings": "The recruitment example distinguishes examination results from appointment and makes test-preparation burdens relevant; no narrated research process."
+  },
+  {
+    "id": "T287",
+    "type": "technology",
+    "title": "Work-sample assessments",
+    "changed": false,
+    "findings": "Newsletter assessment develops task relevance, trainable skills and applicant burdens; the limited evidence claim matches the specific work sample."
+  },
+  {
+    "id": "T288",
+    "type": "technology",
+    "title": "Auditions",
+    "changed": true,
+    "findings": "Kept the named audition’s format but replaced illustration language with what selectors actually hear."
+  },
+  {
+    "id": "T289",
+    "type": "technology",
+    "title": "Trial projects",
+    "changed": true,
+    "findings": "Replaced an empty example announcement with the paid part-time arrangement; preserved the applicant burden and possibility of extraction."
+  },
+  {
+    "id": "T290",
+    "type": "technology",
+    "title": "Blind review",
+    "changed": false,
+    "findings": "Identity masking, inferred identity and missing context are explained through manuscript and story assessment; limitations concern the information withheld."
+  },
+  {
+    "id": "T291",
+    "type": "technology",
+    "title": "Peer promotion",
+    "changed": true,
+    "findings": "Removed detached implementation classification and explained what the invitation changes for a contributor."
+  },
+  {
+    "id": "T292",
+    "type": "technology",
+    "title": "Sponsorship for advancement",
+    "changed": false,
+    "findings": "Advocacy differs from advice in the opening and the coordinator example; favoritism is tied to access and evidence rather than a generic caution."
+  },
+  {
+    "id": "T293",
+    "type": "technology",
+    "title": "Succession planning",
+    "changed": false,
+    "findings": "Treasurer dependencies and preparation opportunities carry the whole explanation; no narrated source or unrelated uncertainty."
+  },
+  {
+    "id": "T294",
+    "type": "technology",
+    "title": "Deputy roles",
+    "changed": true,
+    "findings": "Replaced narration of role accounts with the continuity function; retained deputy-versus-successor distinction."
+  },
+  {
+    "id": "T295",
+    "type": "technology",
+    "title": "Overlapping handovers",
+    "changed": false,
+    "findings": "Live questions, cross-checking and the transfer point follow the festival example; time costs directly explain why overlap can fail."
+  },
+  {
+    "id": "T296",
+    "type": "technology",
+    "title": "Graduated responsibility",
+    "changed": true,
+    "findings": "Replaced vague framework narration with its actual medical-training context, avoiding an unsupported universal prescription while preserving the radio illustration."
+  },
+  {
+    "id": "T297",
+    "type": "technology",
+    "title": "Leadership pipelines",
+    "changed": false,
+    "findings": "Development opportunities and favoritism connect directly to readiness; the pipeline metaphor is clarified without narrating its source."
+  },
+  {
+    "id": "T298",
+    "type": "technology",
+    "title": "Founder transition agreements",
+    "changed": false,
+    "findings": "Former-founder influence, board dependence and successor authority are concrete throughout; no research diary or detached caveat."
+  },
+  {
+    "id": "T299",
+    "type": "technology",
+    "title": "Emeritus roles",
+    "changed": false,
+    "findings": "Apache’s voting rule is a direct institutional example; variation in emeritus rights is necessary to explain ambiguous authority."
+  },
+  {
+    "id": "T300",
+    "type": "technology",
+    "title": "Exit interviews",
+    "changed": true,
+    "findings": "Replaced guidance narration with the purpose of interview questions; preserved reference-related pressure and the right to decline."
+  },
+  {
+    "id": "T301",
+    "type": "technology",
+    "title": "Institutional memory interviews",
+    "changed": false,
+    "findings": "Multiple perspectives, selective memory and findable recordings belong to the interview mechanism; NASA is described as an actual archive, not a research process."
+  },
+  {
+    "id": "T302",
+    "type": "technology",
+    "title": "Backup ownership",
+    "changed": true,
+    "findings": "Recast open-source guidance as the access arrangement itself; retained permission boundaries and the need for practical readiness."
+  },
+  {
+    "id": "T303",
+    "type": "technology",
+    "title": "Stewardship terms",
+    "changed": true,
+    "findings": "Replaced the recruitment-page narration with trustees serving renewable terms; preserved distinct choices about duration, renewal and staggered succession."
+  },
+  {
+    "id": "T304",
+    "type": "technology",
+    "title": "Knowledge succession demonstrations",
+    "changed": true,
+    "findings": "Removed the editorial explanation of the catalog label. The handover now moves directly from observable learning to testing capability; limited rehearsal coverage remains explicit."
+  },
+  {
+    "id": "T305",
+    "type": "technology",
+    "title": "Lineage recognition",
+    "changed": true,
+    "findings": "Replaced narration of a teacher biography with the role of transmission in that tradition; retained the distinctions from licensing and ethical guarantees."
+  },
+  {
+    "id": "T306",
+    "type": "technology",
+    "title": "Oaths of office",
+    "changed": true,
+    "findings": "Made changing Senate oath wording the subject rather than a history page; retained the gap between public commitment and enforcement."
+  },
+  {
+    "id": "T337",
+    "type": "technology",
+    "title": "Peer juries for awards",
+    "changed": false,
+    "findings": "The NEA example directly explains advisory versus final authority. Professional blind spots and conflicts follow from the peer-selection mechanism."
+  },
+  {
+    "id": "T338",
+    "type": "technology",
+    "title": "Recallable stewardship",
+    "changed": false,
+    "findings": "The distinction between steward confirmation and a popular recall vote prevents a substantive conflation; the archive example and fair-review difficulties are connected."
+  },
+  {
+    "id": "T340",
+    "type": "technology",
+    "title": "Private ownership",
+    "changed": false,
+    "findings": "The bicycle explanation directly distinguishes use from ownership, and the gift remains unlinked. Rights and obligations are concrete rather than research commentary."
+  },
+  {
+    "id": "T341",
+    "type": "technology",
+    "title": "Intellectual property",
+    "changed": false,
+    "findings": "The chair/design comparison develops the intangible-rights problem directly; distinctions among legal rights are necessary to the mechanism."
+  },
+  {
+    "id": "T342",
+    "type": "technology",
+    "title": "Patents",
+    "changed": false,
+    "findings": "The pump example explains exclusion, financing and alternatives in connected prose. Territorial scope and the absence of guaranteed profit describe actual limits."
+  },
+  {
+    "id": "T343",
+    "type": "technology",
+    "title": "Copyright",
+    "changed": false,
+    "findings": "The illustrator example connects expression rights, translation permission and sharing. Variation in rights and difficulty finding holders explain reuse obstacles."
+  },
+  {
+    "id": "T344",
+    "type": "technology",
+    "title": "Trade secrets",
+    "changed": false,
+    "findings": "The manufacturer example develops confidentiality, reverse engineering and knowledge transfer directly; no evidence-access or source narration is present."
+  },
+  {
+    "id": "T345",
+    "type": "technology",
+    "title": "Advance market commitments",
+    "changed": true,
+    "findings": "Replaced the detached warning about proof of breakthroughs with the vaccine commitment’s supply-and-affordability purpose."
+  },
+  {
+    "id": "T346",
+    "type": "technology",
+    "title": "Commissioned research and development",
+    "changed": true,
+    "findings": "Removed the illustrative-source framing around pre-commercial procurement while retaining staged comparison and uncertainty about development."
+  },
+  {
+    "id": "T347",
+    "type": "technology",
+    "title": "Patent buyouts",
+    "changed": true,
+    "findings": "Replaced a detached validation disclaimer with the proposal’s dependence on useful bids and resistance to inflation. Its status as an economic proposal remains explicit."
+  },
+  {
+    "id": "T348",
+    "type": "technology",
+    "title": "Earning from complementary capabilities",
+    "changed": true,
+    "findings": "Recast research narration around what surveyed firms reported, preserving the observational status. Removed the page’s self-description and connected the conclusion to revenue strategies."
+  },
+  {
+    "id": "google-lunar-xprize-no-winner",
+    "type": "case",
+    "title": "Google Lunar XPRIZE: no winner, unfinished trajectories",
+    "changed": true,
+    "findings": "Removed discussion of how to label success and the unassessed-theory diary. Kept the distinction between deadline failure, later capabilities and uncertain additional investment."
+  },
+  {
+    "id": "carbon-removal-xprize-verification",
+    "type": "case",
+    "title": "Carbon Removal XPRIZE: awarded, not climate-scale proof",
+    "changed": true,
+    "findings": "Removed the opening correction to an absent misconception and research-access commentary. Explained demonstration, issuance and scaling as distinct milestones without treating certification as observed centuries-long storage."
+  },
+  {
+    "id": "netflix-prize-production-gap",
+    "type": "case",
+    "title": "Netflix Prize: winning the metric, missing production",
+    "changed": true,
+    "findings": "Replaced narrated scholarly analysis with the benchmark’s actual selection of preferences. Kept engineering attribution where it supports the nondeployment explanation and retained the missing counterfactual."
+  },
+  {
+    "id": "darpa-grand-challenge-two-rounds",
+    "type": "case",
+    "title": "DARPA Grand Challenge: zero finishers, then five",
+    "changed": true,
+    "findings": "Removed instructions about reading the institutional story and untested-theory notes. Kept the changed conditions across rounds and the distinction between desert completion and road readiness."
+  },
+  {
+    "id": "longitude-prize-hybrid-funding",
+    "type": "case",
+    "title": "Longitude: the prize that was also a funding institution",
+    "changed": true,
+    "findings": "Replaced museum and paper narration with the funding and evaluation events. Preserved explicit attribution for the historical statistical finding and kept uncertainty about causal contributions."
+  },
+  {
+    "id": "orteig-prize-success-and-loss",
+    "type": "case",
+    "title": "Orteig Prize: the famous winner and the missing entrants",
+    "changed": true,
+    "findings": "Removed blocked-page and search-excerpt notes from public uncertainty, preserving them internally. Events now replace narration of library and museum records; entrant costs and aviation’s counterfactual remain unresolved."
+  },
+  {
+    "id": "nupedia-wikipedia-opening-and-closing",
+    "type": "case",
+    "title": "Nupedia and Wikipedia: opening participation, then managing it",
+    "changed": true,
+    "findings": "Removed abstract-access notes and commentary about how to summarize the comparison. Preserved participant attribution for contested origins and observational language for newcomer retention."
+  },
+  {
+    "id": "python-bdfl-steering-council",
+    "type": "case",
+    "title": "Python: replacing a founder’s final say",
+    "changed": true,
+    "findings": "Replaced a universal-superiority disclaimer and version-control instructions with the actual governance transition and open questions about informal influence. Original proposal details remain historical."
+  },
+  {
+    "id": "openssl-heartbleed-maintenance",
+    "type": "case",
+    "title": "Heartbleed: widely used does not mean adequately maintained",
+    "changed": true,
+    "findings": "Replaced measurement-study narration and commentary about what counts as a test with the exposure and experimental result. Kept commitments distinct from measured maintenance outcomes."
+  },
+  {
+    "id": "debian-devuan-init-dispute",
+    "type": "case",
+    "title": "Debian and Devuan: a vote can settle a rule without settling a dispute",
+    "changed": true,
+    "findings": "Removed references to reviewed records and an unassessed theory. Preserved the founders’ attributed grievances and the distinction between a binding decision and agreement."
+  },
+  {
+    "id": "linux-android-fragmentation-gki",
+    "type": "case",
+    "title": "Linux and Android: the cost of freedom to diverge",
+    "changed": true,
+    "findings": "Replaced documents-as-subject framing with the integration arrangement and its implementation. Retained the distinction between intended improvements and independently measured update outcomes."
+  },
+  {
+    "id": "zano-crowdfunding-delivery-failure",
+    "type": "case",
+    "title": "Zano: a funded campaign is not a delivered product",
+    "changed": true,
+    "findings": "Removed outlet-reproduction narration and the generic population-theory disclaimer. Preserved the platform-funded investigation’s provenance because it affects confidence, and kept backers distinct from pre-order customers."
+  },
+  {
+    "id": "fagor-mondragon-failure-and-solidarity",
+    "type": "case",
+    "title": "Fagor: a cooperative can fail while its network still protects people",
+    "changed": true,
+    "findings": "Replaced narrated studies with bankruptcy and relocation events. Removed abstract-access notes and sweeping verdict disclaimers, while retaining uneven protection and limits on receiving cooperatives’ obligations."
+  },
+  {
+    "id": "grameen-ii-rules-and-practice",
+    "type": "case",
+    "title": "Grameen II: rewriting the rules did not instantly change the meetings",
+    "changed": true,
+    "findings": "Removed narration of guidelines and the repeated distinction from general microcredit evaluation. Preserved the limited early sample and the gap between formal rules and observed pressure."
+  },
+  {
+    "id": "hyderabad-microcredit-randomized-evaluation",
+    "type": "case",
+    "title": "Hyderabad microcredit: more borrowing, no general transformation",
+    "changed": true,
+    "findings": "Removed the unprompted correction that this was not a Grameen trial and replaced synthesis narration with its finding. Retained take-up, later control access and average-versus-subgroup limits."
+  },
+  {
+    "id": "haifa-daycare-fines",
+    "type": "case",
+    "title": "Haifa daycare fines: paying to be late?",
+    "changed": true,
+    "findings": "Removed the narrated lesson and the authors’ warning about universal claims. Connected the observed failure directly to the plausible price interpretation, keeping that mechanism uncertain."
+  },
+  {
+    "id": "blood-donation-incentives-context",
+    "type": "case",
+    "title": "Blood donation incentives: one crowding-out story is not a universal law",
+    "changed": true,
+    "findings": "Removed abstract-access and deliberate-omission diary notes. Retained subgroup significance, different outcome measures and displacement as substantive limits on interpretation."
+  }
+]

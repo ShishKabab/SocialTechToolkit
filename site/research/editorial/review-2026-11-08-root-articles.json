@@ -1,0 +1,580 @@
+[
+  {
+    "id": "S001",
+    "type": "technology",
+    "title": "Capitalism",
+    "changed": false,
+    "findings": [
+      "Investment, ownership, and purchasing power follow the workshop example; unequal financing is a substantive constraint, not a verification aside."
+    ]
+  },
+  {
+    "id": "S002",
+    "type": "technology",
+    "title": "Socialism",
+    "changed": false,
+    "findings": [
+      "Worker cooperatives, markets, and planning lead into the distinction between legal ownership and actual authority without narrating sources."
+    ]
+  },
+  {
+    "id": "S003",
+    "type": "technology",
+    "title": "Economic planning",
+    "changed": false,
+    "findings": [
+      "The ambulance example introduces planning; local information and strategic reporting explain its difficulties in the same narrative."
+    ]
+  },
+  {
+    "id": "S004",
+    "type": "technology",
+    "title": "Democracy",
+    "changed": false,
+    "findings": [
+      "Direct decisions, representation, eligibility, and accountability are introduced before their limitations; no hidden historical dispute is invoked."
+    ]
+  },
+  {
+    "id": "S006",
+    "type": "technology",
+    "title": "Meritocracy",
+    "changed": false,
+    "findings": [
+      "The selection example establishes unequal preparation and the limits of merit claims before discussing them."
+    ]
+  },
+  {
+    "id": "S007",
+    "type": "technology",
+    "title": "Technocracy",
+    "changed": false,
+    "findings": [
+      "Flood protection introduces expertise and value judgments; peer review and public authority are distinguished in context."
+    ]
+  },
+  {
+    "id": "S008",
+    "type": "technology",
+    "title": "Monarchy",
+    "changed": true,
+    "findings": [
+      "Explained the British division of authority directly rather than narrating an example and appending a generic limitation."
+    ]
+  },
+  {
+    "id": "S009",
+    "type": "technology",
+    "title": "Dynasties",
+    "changed": false,
+    "findings": [
+      "Family succession follows the transport-company example; the GFT citation supports transmission of knowledge without narrating the book."
+    ]
+  },
+  {
+    "id": "S010",
+    "type": "technology",
+    "title": "Bureaucracy",
+    "changed": false,
+    "findings": [
+      "The clerk example connects rules, discretion, appeals, and continuing records without unrelated methodological caveats."
+    ]
+  },
+  {
+    "id": "S011",
+    "type": "technology",
+    "title": "Government",
+    "changed": false,
+    "findings": [
+      "The water-system example follows decisions through implementation and explains capture as a concrete risk."
+    ]
+  },
+  {
+    "id": "S012",
+    "type": "technology",
+    "title": "Law",
+    "changed": false,
+    "findings": [
+      "The path dispute introduces adjudication and access; rule-of-law constraints are explained rather than presented as source notes."
+    ]
+  },
+  {
+    "id": "S013",
+    "type": "technology",
+    "title": "Diplomacy",
+    "changed": false,
+    "findings": [
+      "The diplomatic discussion distinguishes exploratory contact from authority to commit; the final uncertainty follows that distinction."
+    ]
+  },
+  {
+    "id": "S014",
+    "type": "technology",
+    "title": "Political theory",
+    "changed": false,
+    "findings": [
+      "The topic is political theory itself, so explaining legitimacy theories is substantive rather than a narrated research detour."
+    ]
+  },
+  {
+    "id": "S015",
+    "type": "technology",
+    "title": "Ideology",
+    "changed": false,
+    "findings": [
+      "The different meanings of ideology are needed to understand the topic; the factory example and habits of attention remain connected."
+    ]
+  },
+  {
+    "id": "S016",
+    "type": "technology",
+    "title": "Strategy",
+    "changed": false,
+    "findings": [
+      "The street-safety example explains diagnosis, coordinated action, and revision without source narration."
+    ]
+  },
+  {
+    "id": "S017",
+    "type": "technology",
+    "title": "Education",
+    "changed": false,
+    "findings": [
+      "Learning, credentials, and educational opportunity follow a shared question about transmitting capability."
+    ]
+  },
+  {
+    "id": "S018",
+    "type": "technology",
+    "title": "Cities",
+    "changed": false,
+    "findings": [
+      "Density, costs, and access are connected through the repair-shop and urban-space examples."
+    ]
+  },
+  {
+    "id": "S019",
+    "type": "technology",
+    "title": "Healthcare",
+    "changed": false,
+    "findings": [
+      "The care pathway explains coordination gaps; the distinction between coverage and effective care is directly relevant."
+    ]
+  },
+  {
+    "id": "S020",
+    "type": "technology",
+    "title": "Psychotherapy",
+    "changed": true,
+    "findings": [
+      "Removed a disclaimer about what this overview does; retained professional boundaries and method-specific uncertainty in the explanation."
+    ]
+  },
+  {
+    "id": "S021",
+    "type": "technology",
+    "title": "Marriage",
+    "changed": true,
+    "findings": [
+      "Replaced an unsolicited warning about judging relationship worth with a conclusion following the rights-and-power discussion."
+    ]
+  },
+  {
+    "id": "S022",
+    "type": "technology",
+    "title": "Adoption",
+    "changed": false,
+    "findings": [
+      "Child adoption is explained before historical adult succession is distinguished; the differing purposes are made explicit."
+    ]
+  },
+  {
+    "id": "S023",
+    "type": "technology",
+    "title": "Ritual",
+    "changed": false,
+    "findings": [
+      "The fire-walking study is introduced as a concrete example of different responses among participants, not as an unexplained literature dispute."
+    ]
+  },
+  {
+    "id": "S024",
+    "type": "technology",
+    "title": "Sacrifice",
+    "changed": true,
+    "findings": [
+      "Connected the theory to a mechanism and its actual dependency instead of a detached non-proof caveat.",
+      "Removed an unsolicited disclaimer already addressed by the preceding distinction between voluntary contribution and coerced compliance."
+    ]
+  },
+  {
+    "id": "S025",
+    "type": "technology",
+    "title": "Marketing",
+    "changed": false,
+    "findings": [
+      "The theater offer connects audience, feedback, and measurement to the marketing mechanism."
+    ]
+  },
+  {
+    "id": "S026",
+    "type": "technology",
+    "title": "Social norms",
+    "changed": false,
+    "findings": [
+      "The lateness example establishes expectations before discussing mismatches between formal rules and practice."
+    ]
+  },
+  {
+    "id": "S027",
+    "type": "technology",
+    "title": "Sociocracy",
+    "changed": false,
+    "findings": [
+      "Circles, consent, and double linking are explained as components with direct source links and no research diary."
+    ]
+  },
+  {
+    "id": "S028",
+    "type": "technology",
+    "title": "Polycentric governance",
+    "changed": false,
+    "findings": [
+      "The river example makes cross-boundary dependencies and overlapping authority understandable before discussing their costs."
+    ]
+  },
+  {
+    "id": "S029",
+    "type": "technology",
+    "title": "Open-source ecosystems",
+    "changed": false,
+    "findings": [
+      "Licensing, maintenance, governance, and forking form a connected account of the work around an open project."
+    ]
+  },
+  {
+    "id": "S030",
+    "type": "technology",
+    "title": "Extitutional theory",
+    "changed": true,
+    "findings": [
+      "Kept the framework’s explanatory scope while replacing generic recipe language with observable relational questions."
+    ]
+  },
+  {
+    "id": "S031",
+    "type": "technology",
+    "title": "Assembly democracy",
+    "changed": false,
+    "findings": [
+      "Attendance and authority are distinguished from the beginning; referendum comparison is introduced explicitly."
+    ]
+  },
+  {
+    "id": "S032",
+    "type": "technology",
+    "title": "Direct democracy",
+    "changed": false,
+    "findings": [
+      "The referendum and assembly examples explain direct decision-making before agenda control and participation demands."
+    ]
+  },
+  {
+    "id": "S033",
+    "type": "technology",
+    "title": "Representative democracy",
+    "changed": false,
+    "findings": [
+      "Delegation of political work leads directly to elections, public records, and accountability between votes."
+    ]
+  },
+  {
+    "id": "D001",
+    "type": "technology",
+    "title": "Participation-based alignment",
+    "changed": true,
+    "findings": [
+      "Returned the ending to the festival example instead of closing with a generic audit instruction."
+    ]
+  },
+  {
+    "id": "D002",
+    "type": "technology",
+    "title": "Mutual recognition",
+    "changed": true,
+    "findings": [
+      "Replaced a warning against scoring that had not been proposed with the actual transition from recognition to authority."
+    ]
+  },
+  {
+    "id": "D003",
+    "type": "technology",
+    "title": "Informal authority",
+    "changed": false,
+    "findings": [
+      "Informal authority is established through the meeting example; the venue contact explains how dependency develops."
+    ]
+  },
+  {
+    "id": "D004",
+    "type": "technology",
+    "title": "Cliques and informal exclusion",
+    "changed": false,
+    "findings": [
+      "Friendship and control over collective decisions are distinguished through the private-conversation example."
+    ]
+  },
+  {
+    "id": "D005",
+    "type": "technology",
+    "title": "Economic embeddedness",
+    "changed": false,
+    "findings": [
+      "Supplier trust explains both access and exclusion; the final questions follow those concrete relationships."
+    ]
+  },
+  {
+    "id": "D006",
+    "type": "technology",
+    "title": "Weak-tie bridges",
+    "changed": false,
+    "findings": [
+      "The acquaintance example explains network reach while the crisis comparison distinguishes it from close support."
+    ]
+  },
+  {
+    "id": "D007",
+    "type": "technology",
+    "title": "Learning through participation",
+    "changed": false,
+    "findings": [
+      "Event volunteering connects practical learning to access, feedback, and growing responsibility."
+    ]
+  },
+  {
+    "id": "D008",
+    "type": "technology",
+    "title": "Core and peripheral participation",
+    "changed": false,
+    "findings": [
+      "The reading-group example explains varying participation and the difficulty of moving in or out of central roles."
+    ]
+  },
+  {
+    "id": "D009",
+    "type": "technology",
+    "title": "Stigmergic coordination",
+    "changed": false,
+    "findings": [
+      "The repair list introduces shared traces; conventions and neglected work explain the mechanism’s limits."
+    ]
+  },
+  {
+    "id": "D010",
+    "type": "technology",
+    "title": "Growth outrunning onboarding",
+    "changed": true,
+    "findings": [
+      "Removed source narration and an unintroduced claim that all growth destroys communities; connected the citation to the onboarding constraint."
+    ]
+  },
+  {
+    "id": "D011",
+    "type": "technology",
+    "title": "Tacit knowledge dependence",
+    "changed": false,
+    "findings": [
+      "The caretaker example makes tacit judgment concrete and connects it to procedures and handovers."
+    ]
+  },
+  {
+    "id": "D012",
+    "type": "technology",
+    "title": "Institutional imitation",
+    "changed": false,
+    "findings": [
+      "The copied advisory board and review process introduce the difference between visible form and functioning capability."
+    ]
+  },
+  {
+    "id": "D013",
+    "type": "technology",
+    "title": "Founder dependence",
+    "changed": false,
+    "findings": [
+      "Founder judgment is connected to relationships, succession, tacit knowledge, and delegated authority without a book-summary frame."
+    ]
+  },
+  {
+    "id": "D014",
+    "type": "technology",
+    "title": "Homophily",
+    "changed": false,
+    "findings": [
+      "Recruiting friends explains homophily; distinguishing preference from opportunity is essential to the mechanism."
+    ]
+  },
+  {
+    "id": "D015",
+    "type": "technology",
+    "title": "Reciprocity",
+    "changed": true,
+    "findings": [
+      "Explained the indirect-reciprocity mechanism directly instead of announcing a research topic."
+    ]
+  },
+  {
+    "id": "D016",
+    "type": "technology",
+    "title": "Trust formation and repair",
+    "changed": true,
+    "findings": [
+      "Attached the evidence to the specific difference in repair rather than narrating the study."
+    ]
+  },
+  {
+    "id": "D017",
+    "type": "technology",
+    "title": "Free riding",
+    "changed": true,
+    "findings": [
+      "Connected the experiment to the established issue of unequal capacity to contribute, replacing a generic disclaimer."
+    ]
+  },
+  {
+    "id": "D018",
+    "type": "technology",
+    "title": "Social loafing",
+    "changed": false,
+    "findings": [
+      "The committee example distinguishes motivational withdrawal from unclear responsibility and blocked dependencies."
+    ]
+  },
+  {
+    "id": "D019",
+    "type": "technology",
+    "title": "Volunteer burnout",
+    "changed": true,
+    "findings": [
+      "Retained attribution to former volunteers while removing an irrelevant warning about diagnosing every tired volunteer."
+    ]
+  },
+  {
+    "id": "D020",
+    "type": "technology",
+    "title": "Status hierarchies",
+    "changed": true,
+    "findings": [
+      "Stated the relative-status mechanism with a supporting link rather than describing what research explains."
+    ]
+  },
+  {
+    "id": "D021",
+    "type": "technology",
+    "title": "Preference falsification",
+    "changed": false,
+    "findings": [
+      "The public agreement example introduces hidden preferences; the limits distinguish silence from actual concealment."
+    ]
+  },
+  {
+    "id": "D022",
+    "type": "technology",
+    "title": "Pluralistic ignorance",
+    "changed": false,
+    "findings": [
+      "The long-meeting example introduces misperception; the drinking study is a bounded example of the same distinction."
+    ]
+  },
+  {
+    "id": "D023",
+    "type": "technology",
+    "title": "Group polarization",
+    "changed": false,
+    "findings": [
+      "The proposal discussion establishes polarization and makes diversity of information a concrete concern."
+    ]
+  },
+  {
+    "id": "D024",
+    "type": "technology",
+    "title": "Groupthink",
+    "changed": false,
+    "findings": [
+      "Contested groupthink explanations are directly relevant because the page explains how to avoid inferring decision processes from bad outcomes alone."
+    ]
+  },
+  {
+    "id": "D025",
+    "type": "technology",
+    "title": "Goal displacement",
+    "changed": false,
+    "findings": [
+      "The application form makes goal displacement concrete; rule revision follows the same problem."
+    ]
+  },
+  {
+    "id": "D026",
+    "type": "technology",
+    "title": "Metric gaming",
+    "changed": false,
+    "findings": [
+      "Case-closing metrics explain both improvement and avoidance; the distinction between score and purpose remains grounded."
+    ]
+  },
+  {
+    "id": "D027",
+    "type": "technology",
+    "title": "Capture",
+    "changed": true,
+    "findings": [
+      "Replaced a rebuttal to the unintroduced claim that every regulator is captured with the actual distinction between contact and distorted decisions."
+    ]
+  },
+  {
+    "id": "D028",
+    "type": "technology",
+    "title": "Principal-agent problems",
+    "changed": false,
+    "findings": [
+      "The contractor example establishes asymmetric information and conflicting interests before considering controls."
+    ]
+  },
+  {
+    "id": "D029",
+    "type": "technology",
+    "title": "Path dependence",
+    "changed": false,
+    "findings": [
+      "The record-system example explains switching costs; distinguishing persistence from lock-in prevents misidentifying the mechanism."
+    ]
+  },
+  {
+    "id": "D030",
+    "type": "technology",
+    "title": "Norm drift",
+    "changed": true,
+    "findings": [
+      "Kept the term descriptive while removing a claim about what theory had not been established.",
+      "Made the experimental scope explicit and connected it back to the response-time example instead of adding a generic transfer-limit sentence."
+    ]
+  },
+  {
+    "id": "D031",
+    "type": "technology",
+    "title": "Network brokerage",
+    "changed": true,
+    "findings": [
+      "Replaced an abstract causality disclaimer with the missing work between access to ideas and useful cooperation."
+    ]
+  },
+  {
+    "id": "D032",
+    "type": "technology",
+    "title": "Boundary maintenance",
+    "changed": false,
+    "findings": [
+      "The newcomer example introduces boundaries; confidentiality and competence requirements are concrete contrasts to unspoken exclusion."
+    ]
+  }
+]

@@ -1,0 +1,1711 @@
+[
+  {
+    "id": "S001",
+    "title": "Capitalism",
+    "slug": "capitalism",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Private capital, employment, investment, and markets are related but distinct.",
+    "example": "Compare ownership and allocation arrangements.",
+    "sources": [
+      "ECON"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "S002",
+    "title": "Socialism",
+    "slug": "socialism",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "A contested family of social-ownership arrangements, not one operational recipe.",
+    "example": "Compare cooperative, public, and planned forms; further research required.",
+    "sources": [
+      "R-S002"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "Social ownership"
+    ],
+    "research": {
+      "id": "S002",
+      "title": "Socialism",
+      "source_title": "Socialism",
+      "url": "https://plato.stanford.edu/entries/socialism/",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "source_type": "reference",
+      "access": "page sections reviewed",
+      "finding": "Socialism covers several proposals for social or worker control of production. Ownership, workplace authority, and allocation are separate design questions: some versions retain markets, while others propose central or participatory planning.",
+      "limitation": "State ownership alone does not establish worker control. This is a family of contested institutional proposals, not one uniform economic design.",
+      "scenario": "Imagine a town debating whether its energy supplier should be privately owned, municipally owned, or controlled by workers and residents. Ask who actually controls investment and receives the surplus.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "Social ownership"
+      ],
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "S003",
+    "title": "Economic planning",
+    "slug": "economic-planning",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Allocation through plans can coexist with markets.",
+    "example": "Compare centralized planning and participatory planning variants.",
+    "sources": [
+      "R-S003"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Planned economy"
+    ],
+    "terms": [],
+    "research": {
+      "id": "S003",
+      "title": "Economic planning",
+      "source_title": "Socialism, section 4.1: Central and Participatory Planning",
+      "url": "https://plato.stanford.edu/entries/socialism/#CentPartPlan",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "source_type": "reference",
+      "access": "page section reviewed",
+      "finding": "Economic planning coordinates production and resource allocation through explicit plans. Central planning concentrates decisions in an authority; participatory proposals distribute deliberation among worker and consumer councils, with repeated attempts to reconcile production and demand.",
+      "limitation": "Information, incentives, and revision matter in either design. Planning within one organization is not equivalent to planning an entire economy.",
+      "scenario": "Imagine a region coordinating housing, transport, and electricity expansion. Compare who sets priorities, how local needs enter the plan, and what happens when forecasts prove wrong.",
+      "aliases": [
+        "Planned economy"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "S004",
+    "title": "Democracy",
+    "slug": "democracy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Participation, representation, rights, and decision rules vary independently.",
+    "example": "Link assemblies, elections, sortition, and accountability.",
+    "sources": [
+      "DEM",
+      "ATH"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "S006",
+    "title": "Meritocracy",
+    "slug": "meritocracy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "An ideal or legitimating account of rule by merit, distinct from a particular selection procedure.",
+    "example": "Ask who defines merit and who has opportunities to demonstrate it.",
+    "sources": [
+      "MERIT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "S007",
+    "title": "Technocracy",
+    "slug": "technocracy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Authority grounded in claimed technical expertise.",
+    "example": "Compare expert advice with expert control.",
+    "sources": [
+      "R-S007"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Expert rule"
+    ],
+    "terms": [],
+    "research": {
+      "id": "S007",
+      "title": "Technocracy",
+      "source_title": "Expert Knowledge in Democracies: Promises, Limits, and Conflict",
+      "url": "https://doi.org/10.1146/annurev-polisci-033123-020420",
+      "publisher": "Annual Review of Political Science",
+      "source_type": "research review",
+      "access": "search excerpt",
+      "finding": "Technocracy gives expertise a central claim to governing authority. Distinguish experts advising elected decision makers from experts controlling decisions themselves: technical knowledge and the authority to choose public goals are different things.",
+      "limitation": "Expertise cannot by itself settle whose interests count. The source is a review of expertise and democracy, not an endorsement of expert rule.",
+      "scenario": "Imagine a transport board selecting a route. Engineers can estimate capacity and cost, but deciding which neighborhoods benefit raises questions of representation and accountability.",
+      "aliases": [
+        "Expert rule"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "S008",
+    "title": "Monarchy",
+    "slug": "monarchy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Authority vested in a monarch under varying succession and constitutional rules.",
+    "example": "Connect hereditary succession, appointment, and checks on authority.",
+    "sources": [
+      "R-S008"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "Constitutional monarchy",
+      "Absolute monarchy"
+    ],
+    "research": {
+      "id": "S008",
+      "title": "Monarchy",
+      "source_title": "The role of the Monarchy",
+      "url": "https://www.royal.uk/the-role-of-the-monarchy",
+      "publisher": "The Royal Household",
+      "source_type": "institutional account",
+      "access": "page reviewed",
+      "finding": "Monarchy places a monarch at the head of a state, but the office does not specify how much governing power its holder has. The British constitutional model separates the monarch’s role from parliamentary lawmaking.",
+      "limitation": "This institutional self-description concerns the United Kingdom. It cannot stand in for absolute monarchies or establish monarchy’s comparative benefits.",
+      "scenario": "Imagine comparing two constitutions that both name a king. Examine who can make laws, appoint governments, and overrule decisions before treating their political systems as equivalent.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "Constitutional monarchy",
+        "Absolute monarchy"
+      ],
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "S009",
+    "title": "Dynasties",
+    "slug": "dynasties",
+    "kind": "F",
+    "category": "Systems and institutions",
+    "description": "Durable family transmission of authority, assets, or position.",
+    "example": "Distinguish competence succession from inheritance.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Family continuity can carry relationships, resources, and institutional knowledge across generations.",
+      "Card examples": "Family businesses; royal houses; political families.",
+      "What to explain": "Why informal trust and relationships may transfer through families alongside formal positions. Separate this mechanism from an endorsement of hereditary power.",
+      "Examples to expand": "Family-business succession; Burja's historical account of the Khama family in Botswana, explicitly situated in the manuscript's period.",
+      "Conditions and failures": "Preparation, ability, and accepted succession; risks of entitlement, exclusion, family conflict, and incompetent heirs.",
+      "Related": "Adoption, Marriage, Education.",
+      "Source": "“Social Technology,” p. 30; “What Botswana Can Teach Us About Political Stability,” pp. 89–96.",
+      "When to use it": "Analyze continuity in a family-run organization; identify which relationships a succession plan must preserve. Evaluate both successor capability and actual authority, rather than family connection alone."
+    }
+  },
+  {
+    "id": "S010",
+    "title": "Bureaucracy",
+    "slug": "bureaucracy",
+    "kind": "F",
+    "category": "Systems and institutions",
+    "description": "Offices, procedures, records, and delegated responsibilities.",
+    "example": "Explain continuity and scale alongside rigidity.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Defined roles and procedures make recurring work repeatable across many people.",
+      "Card examples": "Permit processing; expense approvals; routine service requests.",
+      "What to explain": "Burja's account of bureaucracy as a way to extend a capable person's reach when suitable delegates are scarce. Distinguish following a procedure from exercising delegated judgment.",
+      "Examples to expand": "A predictable application process; an internal workflow with a clear exception path.",
+      "Conditions and failures": "A well-understood task, maintainable procedures, and someone able to revise them; risks of abandoned processes and procedural compliance replacing results.",
+      "Related": "Government, Law, Strategy.",
+      "Source": "“How to Use Bureaucracies,” pp. 103–110.",
+      "When to use it": "Process frequent, similar requests consistently; make recurring administrative work dependable as a team grows. Check completion quality, delays, and whether exceptions reach someone who can resolve them."
+    }
+  },
+  {
+    "id": "S011",
+    "title": "Government",
+    "slug": "government",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Institutions exercising public authority.",
+    "example": "Link taxation, law, administration, representation, and services.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Recognized authority organizes collective decisions, shared services, and enforcement.",
+      "Card examples": "Municipal administration; public infrastructure; national government.",
+      "What to explain": "How authority, resources, legitimacy, and administration enable collective action. Distinguish formal office from the practical ability to govern.",
+      "Examples to expand": "Maintaining shared infrastructure; coordinating services across a jurisdiction.",
+      "Conditions and failures": "Effective execution and accepted authority; institutional capture, fragmented responsibilities, and formal mandates without capacity.",
+      "Related": "Law, Bureaucracy, Political theory.",
+      "Source": "“Social Technology,” p. 25; “Functional Institutions Are the Exception,” pp. 97–102.",
+      "When to use it": "Understand which public institution can address a shared infrastructure problem; assess why collective rules need both a decision-maker and an implementation process. Use delivery of the public function as the test."
+    }
+  },
+  {
+    "id": "S012",
+    "title": "Law",
+    "slug": "law",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Recognized rules, interpretation, enforcement, and remedies.",
+    "example": "Distinguish legislation, precedent, adjudication, and informal norms.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Recognized rules define obligations and provide ways to resolve disputes.",
+      "Card examples": "Contracts; property rules; dispute procedures.",
+      "What to explain": "How rules, interpretation, and enforcement work together. Written rules alone do not ensure compliance, and enforcement arrangements differ across societies.",
+      "Examples to expand": "A contract establishing responsibilities; Burja's comparison of centralized and distributed enforcement.",
+      "Conditions and failures": "Legibility, credible enforcement, and workable remedies; inaccessible procedures, selective enforcement, and rules disconnected from practice.",
+      "Related": "Government, Diplomacy, Social norms.",
+      "Source": "“Social Technology,” pp. 25–26.",
+      "When to use it": "Understand why a collaboration needs explicit obligations and a dispute process; diagnose why an existing rule fails to settle recurring disagreements. Keep scenarios educational rather than jurisdiction-specific legal advice."
+    }
+  },
+  {
+    "id": "S013",
+    "title": "Diplomacy",
+    "slug": "diplomacy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Practices for managing relations between political actors.",
+    "example": "Link envoys, negotiation, treaties, and confidence-building measures.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Representation, protocol, and negotiation let independent groups coordinate across differences.",
+      "Card examples": "Embassies; diplomatic visits; negotiated agreements.",
+      "What to explain": "How recognized representatives and shared protocols make communication possible without requiring identical cultures or interests.",
+      "Examples to expand": "Diplomatic protocol in the manuscript; an explicitly analogous partnership between independent organizations.",
+      "Conditions and failures": "Representatives with real authority, reliable channels, and credible commitments; ceremonial agreement without implementation.",
+      "Related": "Government, Ritual, Strategy.",
+      "Source": "“Social Technology,” p. 26.",
+      "When to use it": "Establish a dependable point of contact between independent organizations; negotiate a shared project where neither side can direct the other. Look for fewer misunderstandings and commitments that are honored."
+    }
+  },
+  {
+    "id": "S014",
+    "title": "Political theory",
+    "slug": "political-theory",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Ideas used to analyze or justify collective authority.",
+    "example": "Explain theories as intellectual tools rather than executable procedures.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Models of authority and cooperation guide the design and reform of governing institutions.",
+      "Card examples": "Constitutional design; theories of representation; institutional reform.",
+      "What to explain": "Burja's view of political theory as engineering knowledge for governance, and its additional role as ideology. Distinguish an explanation of power from a justification of it.",
+      "Examples to expand": "Designing decision rights; the manuscript's comparison of Confucian and Legalist approaches.",
+      "Conditions and failures": "Explicit assumptions, attention to actual behavior, and revision in response to results; elegant theories with no workable implementation.",
+      "Related": "Government, Ideology, Strategy.",
+      "Source": "“Social Technology,” p. 25; “How Late Zhou China Reverse-Engineered a Civilization,” pp. 174–182.",
+      "When to use it": "Design governance for a new association; investigate why formal decision rights differ from actual influence in an existing institution. Test whether the model explains behavior and helps resolve concrete problems."
+    }
+  },
+  {
+    "id": "S015",
+    "title": "Ideology",
+    "slug": "ideology",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Shared interpretive and normative frameworks.",
+    "example": "Examine coordination, legitimacy, and suppressed disagreement.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Shared beliefs and interpretations help groups align priorities and behavior.",
+      "Card examples": "Religious worldviews; political movements; organizational missions.",
+      "What to explain": "How beliefs shape what people regard as legitimate, desirable, and worth doing. Distinguish the coordinating effect of a belief from whether it is true.",
+      "Examples to expand": "The manuscript's discussion of religious commitments shaping literacy; a hypothetical mission guiding a team's decisions.",
+      "Conditions and failures": "Shared understanding and connection to actual practice; dogmatism, slogans without consequences, and beliefs insulated from correction.",
+      "Related": "Social norms, Ritual, Political theory.",
+      "Source": "“Social Technology,” p. 26.",
+      "When to use it": "Articulate the purpose of a voluntary association; examine why groups with similar resources choose different priorities. Look for consistent decisions and room to recognize contrary evidence."
+    }
+  },
+  {
+    "id": "S016",
+    "title": "Strategy",
+    "slug": "strategy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Connecting aims, resources, actions, and feedback.",
+    "example": "Link scenario exercises, priorities, and adaptation.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Shared reasoning connects actions and resources to a chosen goal.",
+      "Card examples": "Project plans; organizational priorities; contingency planning.",
+      "What to explain": "How goals, constraints, sequences, and feedback guide coordinated action. Distinguish a working strategy from a persuasive plan that no one can execute.",
+      "Examples to expand": "Coordinating teams around a shared objective; adapting a plan when assumptions change.",
+      "Conditions and failures": "Accurate models, sufficient authority, and feedback; prestige-driven goals, rigid plans, and internal competition that consumes the effort needed for the mission.",
+      "Related": "Political theory, Bureaucracy, Education.",
+      "Source": "“Social Technology,” pp. 26–27; “Competition for Power,” pp. 111–117; “Empire Theory,” pp. 118–145.",
+      "When to use it": "Align several teams working toward one outcome; choose what to stop doing when resources become constrained. Evaluate progress toward the goal and the ability to revise the plan."
+    }
+  },
+  {
+    "id": "S017",
+    "title": "Education",
+    "slug": "education",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Arrangements for transmitting and developing knowledge and capability.",
+    "example": "Link apprenticeship, schools, mentorship, and peer learning.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Deliberate teaching passes on the knowledge and abilities needed for shared work.",
+      "Card examples": "Schools; apprenticeships; workplace training.",
+      "What to explain": "How instruction, practice, feedback, and assessment transfer capabilities. Emphasize the difference between repeating explanations and being able to act on them.",
+      "Examples to expand": "A master teaching a craft; a new employee learning how to handle unfamiliar cases.",
+      "Conditions and failures": "Skilled teachers, meaningful practice, and ways to detect misunderstanding; risks of teaching to the test and losing tacit knowledge.",
+      "Related": "Credentials, Bureaucracy, Dynasties.",
+      "Source": "“Social Technology,” p. 27; “On the Loss and Preservation of Knowledge,” pp. 50–58; “Intellectual Dark Matter,” pp. 59–67.",
+      "When to use it": "Prepare a successor before an experienced practitioner leaves; train a growing team without reducing its work to memorized scripts. Check performance on new problems and the ability to teach others."
+    }
+  },
+  {
+    "id": "S018",
+    "title": "Cities",
+    "slug": "cities",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Dense settlements combining many physical and social arrangements.",
+    "example": "Link markets, public services, neighborhood groups, and governance.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Concentrating people and shared services makes exchange, specialization, and cooperation easier.",
+      "Card examples": "Market towns; university cities; industrial districts.",
+      "What to explain": "The city as a durable arrangement of proximity, shared infrastructure, labor markets, and social expectations—not merely a collection of buildings.",
+      "Examples to expand": "Burja's discussion of cities outlasting particular regimes; a hypothetical district where complementary trades cluster.",
+      "Conditions and failures": "Accessible shared services and useful connections; crowding, exclusion, and physical proximity without meaningful exchange.",
+      "Related": "Government, Social norms, Marketing.",
+      "Source": "“Social Technology,” p. 27.",
+      "When to use it": "Assess whether co-locating complementary organizations would improve collaboration; understand why a shared workshop or market district could support specialization. Test whether proximity leads to actual exchange."
+    }
+  },
+  {
+    "id": "S019",
+    "title": "Healthcare",
+    "slug": "healthcare",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Coordinated prevention, treatment, care, and supporting institutions.",
+    "example": "Explain professional roles and care coordination, not clinical instructions.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Specialized roles and institutions coordinate the work of maintaining and restoring health.",
+      "Card examples": "Clinics; hospitals; referral systems.",
+      "What to explain": "How people rely on organized expertise, defined responsibilities, and handoffs rather than each household supplying all care itself.",
+      "Examples to expand": "Coordination between a clinic and a specialist; the organizational roles surrounding a hospital visit.",
+      "Conditions and failures": "Appropriate expertise, continuity, and clear responsibilities; fragmented care and administrative activity that loses sight of its purpose.",
+      "Related": "Credentials, Education, Bureaucracy.",
+      "Source": "“Social Technology,” pp. 27–28.",
+      "When to use it": "Map who is responsible at each stage of a care pathway; understand where institutional handoffs need improvement. Keep applications about coordination, not diagnosis or treatment."
+    }
+  },
+  {
+    "id": "S020",
+    "title": "Psychotherapy",
+    "slug": "psychotherapy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Professional therapeutic practices, with distinct methods and evidence.",
+    "example": "Explain the organized therapeutic relationship, not a general management tactic.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "A structured therapeutic relationship organizes professional support for psychological difficulties.",
+      "Card examples": "Recurring therapy sessions; agreed therapeutic goals; a defined practitioner–client relationship.",
+      "What to explain": "The social arrangement of roles, continuity, expectations, and professional boundaries. Keep the discussion separate from claims about the effectiveness of particular treatments.",
+      "Examples to expand": "Burja's description of the therapeutic setting; his comparison with traditions of spiritual guidance, without treating them as clinically equivalent.",
+      "Conditions and failures": "Appropriate professional competence and clear boundaries; role confusion and institutional incentives that diverge from the purpose of care.",
+      "Related": "Healthcare, Credentials, Social norms.",
+      "Source": "“Social Technology,” pp. 28–29.",
+      "When to use it": "Understand why a dedicated professional relationship differs from informal conversation; examine how an organization can make qualified support easier to access. No self-treatment or amateur therapy instructions."
+    }
+  },
+  {
+    "id": "S021",
+    "title": "Marriage",
+    "slug": "marriage",
+    "kind": "F",
+    "category": "Systems and institutions",
+    "description": "Socially and legally recognized relationships with culturally variable obligations.",
+    "example": "Explain kinship, care, property, and recognition in context.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "A recognized partnership establishes shared expectations and enduring responsibilities.",
+      "Card examples": "Spousal roles; household commitments; kinship relationships.",
+      "What to explain": "How marriage connects personal relationships to a wider structure of recognition, responsibilities, family, and property. Note that its forms and meanings vary.",
+      "Examples to expand": "Shared household expectations; marriage's role in connecting families in Burja's account.",
+      "Conditions and failures": "Consent, compatible expectations, and sustained commitments; coercion, unequal burdens, and conflicting assumptions about roles.",
+      "Related": "Adoption, Law, Social norms.",
+      "Source": "“Social Technology,” p. 29; discussion of marriage and succession, pp. 87–88.",
+      "When to use it": "Understand how private relationships become publicly recognized commitments; examine how family expectations shape household cooperation. These examples explain the institution rather than recommend marriage as a strategy."
+    }
+  },
+  {
+    "id": "S022",
+    "title": "Adoption",
+    "slug": "adoption",
+    "kind": "F",
+    "category": "Systems and institutions",
+    "description": "Arrangements establishing recognized parent-child relationships.",
+    "example": "Center family relationships and obligations rather than organizational analogy.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Recognized family membership creates lasting relationships, responsibilities, and continuity beyond biological ties.",
+      "Card examples": "Child adoption; Roman adult adoption; Japanese family-business succession.",
+      "What to explain": "How social recognition and formal status establish family roles and expectations. Distinguish child welfare from historical uses of adult adoption for succession.",
+      "Examples to expand": "Burja's account of Roman adoptive succession; his discussion of Japanese family businesses. Avoid implying either model transfers directly to other societies.",
+      "Conditions and failures": "Legitimate recognition, sustained obligations, and the difference between transferring a position and transferring the ability to fulfill it.",
+      "Related": "Marriage, Dynasties, Law.",
+      "Source": "“Social Technology,” pp. 29–30; “How Roman Emperors Handled the Succession Problem,” pp. 82–88.",
+      "When to use it": "Understand how adoptive families acquire recognized roles and obligations; analyze why a historical succession mechanism could transfer personal ties as well as formal authority. These are explanatory cases, not personal adoption advice."
+    }
+  },
+  {
+    "id": "S023",
+    "title": "Ritual",
+    "slug": "ritual",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Patterned symbolic action organizing attention, meaning, and belonging.",
+    "example": "Link welcoming, mourning, commemoration, and transitions.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Repeated, shared actions make transitions, commitments, and collective meaning recognizable.",
+      "Card examples": "Graduation ceremonies; civic commemorations; welcoming ceremonies.",
+      "What to explain": "How a repeatable sequence gives participants a shared interpretation of an event. Distinguish meaningful ritual from repetition with no social function.",
+      "Examples to expand": "Marking entry into a community; the Confucian emphasis on rites discussed by Burja.",
+      "Conditions and failures": "Understood meaning and credible participation; empty performance, compulsory conformity, and rituals disconnected from lived practice.",
+      "Related": "Social norms, Awards and honors, Ideology.",
+      "Source": "“Social Technology,” p. 28; “How Late Zhou China Reverse-Engineered a Civilization,” pp. 174–182.",
+      "When to use it": "Welcome newcomers into a voluntary community; mark a handover of responsibility. Look for clearer roles and shared understanding after the event."
+    }
+  },
+  {
+    "id": "S024",
+    "title": "Sacrifice",
+    "slug": "sacrifice",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Historically varied practices involving relinquishment, offering, or costly commitment.",
+    "example": "Distinguish religious meanings from analytical signaling accounts.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Giving up something valued can make collective commitments visible and meaningful.",
+      "Card examples": "Historical religious offerings; communal contributions; voluntary commitments of time.",
+      "What to explain": "Burja's discussion of sacrifice as a historical coordination mechanism, including its violent forms. Clearly label modern, nonviolent analogies as the site's interpretation.",
+      "Examples to expand": "The historical role of offerings; a hypothetical group whose members voluntarily contribute time to a shared undertaking.",
+      "Conditions and failures": "Shared meaning and freely accepted, proportionate costs; coercion, scapegoating, waste, and mistaking suffering for achievement.",
+      "Related": "Ritual, Ideology, Social norms.",
+      "Source": "“Social Technology,” p. 28.",
+      "When to use it": "Understand what a historical offering communicated to its community; consider a modest, voluntary contribution that makes commitment to a shared project tangible. Evaluate the public benefit, not the size of the cost imposed."
+    }
+  },
+  {
+    "id": "S025",
+    "title": "Marketing",
+    "slug": "marketing",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Practices shaping attention, understanding, and exchange.",
+    "example": "Link audience research, positioning, distribution, and reputation.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Communication helps people discover an offering and understand how it fits their lives.",
+      "Card examples": "Product demonstrations; public information campaigns; service launches.",
+      "What to explain": "How awareness, explanation, and adoption connect a useful offering to a sustainable audience. Describe Burja's argument that adoption often requires new social practices as well as inventions.",
+      "Examples to expand": "Teaching people what a new service does; the manuscript's discussion of mass adoption of technologies.",
+      "Conditions and failures": "A real offering, intelligible benefits, and workable adoption; empty promotion, manipulation, and claims that outrun delivery.",
+      "Related": "Awards and honors, Social norms, Strategy.",
+      "Source": "“Social Technology,” p. 29; “How Social Engineering Drives Technology,” pp. 31–39.",
+      "When to use it": "Introduce an unfamiliar tool with concrete demonstrations; help the intended audience find an underused service. Assess successful use and retention, not attention alone."
+    }
+  },
+  {
+    "id": "S026",
+    "title": "Social norms",
+    "slug": "social-norms",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Shared expectations maintained through social responses.",
+    "example": "Link onboarding, conventions, sanctions, and norm change.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "outline": {
+      "Card description": "Shared expectations make everyday behavior predictable without spelling out every interaction.",
+      "Card examples": "Queueing; meeting etiquette; professional conduct.",
+      "What to explain": "How people learn expectations, recognize deviations, and reinforce behavior through ordinary social responses. Contrast informal norms with explicit law and procedures.",
+      "Examples to expand": "Taking turns; a team clarifying how and when to respond to colleagues.",
+      "Conditions and failures": "Understandable expectations and consistent practice; hidden rules, exclusion of newcomers, and norms that suppress useful disagreement.",
+      "Related": "Law, Ritual, Education.",
+      "Source": "“Social Technology,” pp. 21–26; “Functional Institutions Are the Exception,” pp. 100–102.",
+      "When to use it": "Reduce recurring friction in a shared space; help a new team establish dependable communication habits. Check whether misunderstandings decline and newcomers can learn the expectations."
+    }
+  },
+  {
+    "id": "S027",
+    "title": "Sociocracy",
+    "slug": "sociocracy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "A governance family combining consent, circles, selection, and linking.",
+    "example": "Compare a complete system with adopting individual practices.",
+    "sources": [
+      "S3"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "S028",
+    "title": "Polycentric governance",
+    "slug": "polycentric-governance",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Multiple decision centers with overlapping or nested responsibilities.",
+    "example": "Compare resource governance across local and wider levels.",
+    "sources": [
+      "R-S028"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Polycentricity"
+    ],
+    "terms": [],
+    "research": {
+      "id": "S028",
+      "title": "Polycentric governance",
+      "source_title": "A Polycentric Approach for Coping with Climate Change",
+      "url": "https://dlc.dlib.indiana.edu/dlc/items/ce7cf738-5200-46b4-8376-921914080e19",
+      "publisher": "Elinor Ostrom / World Bank; Indiana University repository",
+      "source_type": "research working paper",
+      "access": "abstract reviewed",
+      "finding": "Polycentric governance combines multiple centers of decision making at different scales. Ostrom proposes local, regional, and national experimentation linked by information, monitoring, and learning, rather than relying entirely on one global authority.",
+      "limitation": "Multiple authorities still need coordination and accountability. The paper develops an approach to climate governance, not proof that decentralization always works.",
+      "scenario": "Imagine neighboring towns sharing a watershed. Each manages local runoff while a basin council coordinates monitoring and resolves problems that cross municipal borders.",
+      "aliases": [
+        "Polycentricity"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "S029",
+    "title": "Open-source ecosystems",
+    "slug": "open-source-ecosystems",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Licenses, maintainers, users, contributors, funders, and governance interact.",
+    "example": "Distinguish permission to reuse from power to decide.",
+    "sources": [
+      "OSI",
+      "OSS"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "S030",
+    "title": "Extitutional theory",
+    "slug": "extitutional-theory",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "A relational analytical lens, not an organizational template.",
+    "example": "Study participation and mutual recognition alongside formal roles.",
+    "sources": [
+      "EXT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "S031",
+    "title": "Assembly democracy",
+    "slug": "assembly-democracy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Members exercise collective authority through a convened assembly; distinguish eligibility from attendance and a binding body from an advisory forum.",
+    "example": "Compare a member assembly, a mass referendum, and an elected legislature.",
+    "sources": [
+      "DEM",
+      "ATH"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "S032",
+    "title": "Direct democracy",
+    "slug": "direct-democracy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Eligible participants decide issues themselves; universal turnout and face-to-face discussion are not requirements.",
+    "example": "Compare assembly decisions and referendums; specify proposal rights and voting rules.",
+    "sources": [
+      "DEM"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "S033",
+    "title": "Representative democracy",
+    "slug": "representative-democracy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "Elected representatives exercise decision authority on behalf of constituents.",
+    "example": "Examine mandates, discretion, oversight, and decisions reserved to voters.",
+    "sources": [
+      "DEM"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "S034",
+    "title": "Athenian democracy",
+    "slug": "athenian-democracy",
+    "kind": "S",
+    "category": "Systems and institutions",
+    "description": "A historically changing combination of assembly, council, courts, lot, and elections within a restricted citizen body.",
+    "example": "Study participation and institutional composition without treating it as a small-group model or modern universal suffrage.",
+    "sources": [
+      "ATH"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D001",
+    "title": "Participation-based alignment",
+    "slug": "participation-based-alignment",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Repeated participation shapes coordination beyond formal office.",
+    "example": "What interactions actually hold this group together?",
+    "sources": [
+      "EXT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D002",
+    "title": "Mutual recognition",
+    "slug": "mutual-recognition",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "People respond to one another's perceived contributions and standing.",
+    "example": "Whose contributions become visible?",
+    "sources": [
+      "EXT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D003",
+    "title": "Informal authority",
+    "slug": "informal-authority",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Influence can differ from the organizational chart.",
+    "example": "Map whom people consult and follow.",
+    "sources": [
+      "FREEMAN"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D004",
+    "title": "Cliques and informal exclusion",
+    "slug": "cliques-and-informal-exclusion",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Friendship networks can control access without accountability.",
+    "example": "Make information and selection routes accessible.",
+    "sources": [
+      "FREEMAN"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D005",
+    "title": "Economic embeddedness",
+    "slug": "economic-embeddedness",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Exchange occurs inside ongoing social relationships.",
+    "example": "Which ties make agreements credible or constrain access?",
+    "sources": [
+      "EMBED"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D006",
+    "title": "Weak-tie bridges",
+    "slug": "weak-tie-bridges",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Some acquaintances connect otherwise separated social circles.",
+    "example": "Are opportunities circulating beyond close friends?",
+    "sources": [
+      "TIES"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D007",
+    "title": "Learning through participation",
+    "slug": "learning-through-participation",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "People develop practice by engaging with practitioners.",
+    "example": "Can newcomers do meaningful work with support?",
+    "sources": [
+      "COP"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D008",
+    "title": "Core and peripheral participation",
+    "slug": "core-and-peripheral-participation",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Participation intensity varies across members and time.",
+    "example": "Can occasional contributors remain welcome?",
+    "sources": [
+      "COP"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D009",
+    "title": "Stigmergic coordination",
+    "slug": "stigmergic-coordination",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Shared artifacts provide cues that guide subsequent contributions.",
+    "example": "What work can participants discover without asking a manager?",
+    "sources": [
+      "STIG"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D010",
+    "title": "Growth outrunning onboarding",
+    "slug": "growth-outrunning-onboarding",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "New participation can exceed a group's ability to teach its practices.",
+    "example": "Expand orientation capacity and observe newcomer experience.",
+    "sources": [
+      "BSC"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D011",
+    "title": "Tacit knowledge dependence",
+    "slug": "tacit-knowledge-dependence",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Essential judgment may remain with particular practitioners.",
+    "example": "Can successors perform the work, not just repeat rules?",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D012",
+    "title": "Institutional imitation",
+    "slug": "institutional-imitation",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Visible forms persist without the capability that made them useful.",
+    "example": "Check actual outputs and adaptation.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D013",
+    "title": "Founder dependence",
+    "slug": "founder-dependence",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Coordination relies heavily on a particular person's relationships and judgment.",
+    "example": "Transfer skills, relationships, and authority deliberately.",
+    "sources": [
+      "GFT"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "D014",
+    "title": "Homophily",
+    "slug": "homophily",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Similar people may form ties more readily.",
+    "example": "Does apparent shared interest conceal restricted access?",
+    "sources": [
+      "R-D014"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Similarity in social networks"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D014",
+      "title": "Homophily",
+      "source_title": "Birds of a feather: Homophily in social networks",
+      "url": "https://scholars.duke.edu/publication/652661",
+      "publisher": "McPherson, Smith-Lovin and Cook / Annual Review of Sociology",
+      "source_type": "research review",
+      "access": "abstract reviewed",
+      "finding": "Homophily is the tendency for similar people to be connected. Shared settings, geography, existing relationships, and the persistence of ties can all contribute, shaping whose information and opportunities reach whom.",
+      "limitation": "Similarity in a network does not by itself show deliberate exclusion. Opportunity to meet and preferences about relationships must be distinguished.",
+      "scenario": "Imagine recruiting a new club entirely through members’ friends. The invitations travel easily, but inspecting who hears about the club reveals whole parts of the neighborhood missing.",
+      "aliases": [
+        "Similarity in social networks"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D015",
+    "title": "Reciprocity",
+    "slug": "reciprocity",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Help can create expectations of future return.",
+    "example": "Are those expectations understood and sustainable?",
+    "sources": [
+      "R-D015"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Direct reciprocity",
+      "Indirect reciprocity"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D015",
+      "title": "Reciprocity",
+      "source_title": "Evolution of indirect reciprocity",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16251955/",
+      "publisher": "Nowak and Sigmund / Nature",
+      "source_type": "research review",
+      "access": "abstract in search results",
+      "finding": "Reciprocity connects helping with expectations about later responses. In direct reciprocity a partner can return help; in indirect reciprocity, reputation can influence how other people treat someone who helped or refused to help.",
+      "limitation": "Theoretical mechanisms for cooperation do not guarantee that a favor will be returned. Obligations and reputations can also become unequal or coercive.",
+      "scenario": "Imagine neighbors lending tools. Some return favors directly, while others help a third neighbor because they know the original lender has been generous.",
+      "aliases": [
+        "Direct reciprocity",
+        "Indirect reciprocity"
+      ],
+      "scale": "everyday",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D016",
+    "title": "Trust formation and repair",
+    "slug": "trust-formation-and-repair",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Reliability, interpretation, and vulnerability affect willingness to cooperate.",
+    "example": "What would demonstrate changed behavior after a breach?",
+    "sources": [
+      "R-D016"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Trust repair"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D016",
+      "title": "Trust formation and repair",
+      "source_title": "Removing the Shadow of Suspicion: The Effects of Apology Versus Denial for Repairing Competence- Versus Integrity-Based Trust Violations",
+      "url": "https://ink.library.smu.edu.sg/lkcsb_research/2368/",
+      "publisher": "Kim, Ferrin, Cooper and Dirks / Journal of Applied Psychology",
+      "source_type": "research paper",
+      "access": "abstract reviewed",
+      "finding": "A foundational model distinguishes perceived ability, benevolence, and integrity as contributors to trust. Repair then depends partly on what went wrong: two studies found that responses and later evidence affected trust differently after alleged competence and integrity violations.",
+      "limitation": "These studies do not justify dishonest denial or promise relationship repair. Trust formation and repair require more than choosing an effective statement.",
+      "scenario": "Imagine a collaborator missing a deadline. Find out whether people doubt their ability, believe they concealed a problem, or both; a new schedule alone may not address the actual concern.",
+      "aliases": [
+        "Trust repair"
+      ],
+      "scale": "everyday",
+      "additional_sources": [
+        {
+          "source_title": "An Integrative Model of Organizational Trust",
+          "url": "https://journals.aom.org/doi/10.5465/amr.1995.9508080335",
+          "publisher": "Mayer, Davis and Schoorman / Academy of Management Review",
+          "source_type": "theoretical research paper",
+          "access": "search excerpt",
+          "finding": "The model distinguishes perceived ability, benevolence, and integrity, alongside the trustor’s propensity to trust, from risk-taking behavior."
+        }
+      ],
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D017",
+    "title": "Free riding",
+    "slug": "free-riding",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Some benefit without contributing to maintenance.",
+    "example": "Distinguish unwillingness from inability and unclear expectations.",
+    "sources": [
+      "R-D017"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "Public goods problem"
+    ],
+    "research": {
+      "id": "D017",
+      "title": "Free riding",
+      "source_title": "Cooperation and Punishment in Public Goods Experiments",
+      "url": "https://ideas.repec.org/a/aea/aecrev/v90y2000i4p980-994.html",
+      "publisher": "Fehr and Gächter / American Economic Review; RePEc abstract",
+      "source_type": "research paper",
+      "access": "abstract reviewed",
+      "finding": "Free riding occurs when someone benefits from a shared contribution without contributing correspondingly. In public-goods experiments, participants sometimes paid to punish low contributors, and the availability of punishment changed cooperation.",
+      "limitation": "Laboratory findings do not establish that punishment is the right response in a community. Inability to contribute is different from strategic non-contribution.",
+      "scenario": "Imagine a shared garden where everyone can take vegetables but few people water it. Examine access, ability, and expectations before concluding that absent volunteers are exploiting the others.",
+      "aliases": [],
+      "scale": "communities",
+      "terms": [
+        "Public goods problem"
+      ],
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D018",
+    "title": "Social loafing",
+    "slug": "social-loafing",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Individual effort may decline when contributions are difficult to identify.",
+    "example": "Make responsibilities intelligible without excessive surveillance.",
+    "sources": [
+      "R-D018"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Collective effort loss"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D018",
+      "title": "Social loafing",
+      "source_title": "Many Hands Make Light the Work: The Causes and Consequences of Social Loafing",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Latane_et_al_1979_Many_hands_make_light_the_work.pdf",
+      "publisher": "Latané, Williams and Harkins / Journal of Personality and Social Psychology",
+      "source_type": "research paper",
+      "access": "PDF sections reviewed",
+      "finding": "Social loafing describes reduced individual effort when work is performed collectively. Experiments using shouting and clapping separated motivational losses from simple coordination difficulties by varying what participants believed about the group around them.",
+      "limitation": "Small laboratory tasks are not every kind of teamwork. Reduced output can also result from coordination costs, inaccessible tasks, or unclear responsibilities.",
+      "scenario": "Imagine five people assigned to prepare a meeting, with no named responsibilities. Nobody starts the agenda because each expects the others to handle it.",
+      "aliases": [
+        "Collective effort loss"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D019",
+    "title": "Volunteer burnout",
+    "slug": "volunteer-burnout",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Sustained overload and unsupportive conditions can exhaust volunteers and drive them away.",
+    "example": "Bound commitments, distribute responsibility, and enable succession.",
+    "sources": [
+      "R-D019"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Volunteer exhaustion"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D019",
+      "title": "Volunteer burnout",
+      "source_title": "Why People Leave Community Service Organizations: A Mixed Methods Study",
+      "url": "https://doi.org/10.1007/s11266-018-0005-z",
+      "publisher": "Milbourn, Black and Buchanan / Voluntas",
+      "source_type": "research paper",
+      "access": "abstract reviewed",
+      "finding": "Volunteer exhaustion can be connected to how participation is organized. Interviews and surveys with 64 former volunteers identified overload alongside limited voice, cliques, disconnection, and loss of confidence in leadership among reasons for leaving.",
+      "limitation": "This study reports former volunteers’ accounts in one organizational setting. It does not establish a diagnosis or a universal causal explanation for departure.",
+      "scenario": "Imagine a neighborhood organizer who increasingly covers every unfilled shift. Before asking for more commitment, examine workload, decision power, backup coverage, and whether stepping back is genuinely possible.",
+      "aliases": [
+        "Volunteer exhaustion"
+      ],
+      "scale": "communities",
+      "description": "Sustained overload and unsupportive conditions can exhaust volunteers and drive them away.",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D020",
+    "title": "Status hierarchies",
+    "slug": "status-hierarchies",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Prestige shapes whose speech and work receive attention.",
+    "example": "Are evaluations tracking relevant contributions?",
+    "sources": [
+      "R-D020"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Social status",
+      "Informal rank"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D020",
+      "title": "Status hierarchies",
+      "source_title": "Striving for superiority: The human desire for status",
+      "url": "https://irle.berkeley.edu/publications/working-papers/striving-for-superiority-the-human-desire-for-status/",
+      "publisher": "Anderson and Hildreth / UC Berkeley IRLE",
+      "source_type": "research working paper",
+      "access": "abstract reviewed",
+      "finding": "Status concerns the respect and deference people receive from others. A laboratory experiment and national survey in this paper suggest that people can value their relative standing, not simply the absolute amount of respect they receive.",
+      "limitation": "Status is not identical to wealth or formal office. Findings from these studies do not imply that everyone pursues rank in every setting.",
+      "scenario": "Imagine a project with equal voting rights where everyone waits for one veteran to speak. Map whose judgment carries weight alongside the formal organization chart.",
+      "aliases": [
+        "Social status",
+        "Informal rank"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D021",
+    "title": "Preference falsification",
+    "slug": "preference-falsification",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Public agreement can conceal private disagreement.",
+    "example": "Offer credible channels for dissent.",
+    "sources": [
+      "R-D021"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Public and private preferences"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D021",
+      "title": "Preference falsification",
+      "source_title": "Rationally Speaking 198: Timur Kuran on Private Truths and Public Lies",
+      "url": "https://sites.duke.edu/timurkuran/files/2018/03/rs198transcript-Kuran-Rationall-Speaking-2017.pdf",
+      "publisher": "Timur Kuran / Rationally Speaking; Duke author archive",
+      "source_type": "author interview",
+      "access": "PDF sections reviewed",
+      "finding": "Preference falsification means publicly expressing a preference different from one’s private preference under perceived social pressure. Kuran uses the concept to explain how visible consensus can conceal dissent and sometimes change abruptly.",
+      "limitation": "This is an explanatory model, not a license to assume people are lying. Silence, uncertainty, and mistaken beliefs about others are distinct phenomena.",
+      "scenario": "Imagine every team member praising a plan in the meeting while privately wanting it changed. A confidential discussion may reveal disagreement that the public show of support concealed.",
+      "aliases": [
+        "Public and private preferences"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D022",
+    "title": "Pluralistic ignorance",
+    "slug": "pluralistic-ignorance",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "People can misread one another's private beliefs from public behavior.",
+    "example": "Test assumptions about what others support.",
+    "sources": [
+      "R-D022"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Misperceived group norms"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D022",
+      "title": "Pluralistic ignorance",
+      "source_title": "Pluralistic Ignorance and Alcohol Use on Campus: Some Consequences of Misperceiving the Social Norm",
+      "url": "https://collaborate.princeton.edu/en/publications/pluralistic-ignorance-and-alcohol-use-on-campus-some-consequences/",
+      "publisher": "Prentice and Miller / Journal of Personality and Social Psychology",
+      "source_type": "research paper",
+      "access": "abstract in search results",
+      "finding": "Pluralistic ignorance arises when people misread others’ private views and treat the apparent group norm as real. In four campus studies, students judged other students more comfortable with drinking practices than they themselves were.",
+      "limitation": "The studies concern a particular campus context. A mistaken belief about others differs from deliberately misrepresenting one’s own preference.",
+      "scenario": "Imagine a group where everyone dislikes late-night messages but assumes everyone else expects immediate replies. Comparing private preferences could expose a norm nobody actually wants.",
+      "aliases": [
+        "Misperceived group norms"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D023",
+    "title": "Group polarization",
+    "slug": "group-polarization",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Discussion can shift participants toward more extreme positions.",
+    "example": "Include substantive disagreement and examine information sources.",
+    "sources": [
+      "R-D023"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Deliberative polarization"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D023",
+      "title": "Group polarization",
+      "source_title": "On a Danger of Deliberative Democracy",
+      "url": "https://hls.harvard.edu/bibliography/on-a-danger-of-deliberative-democracy/",
+      "publisher": "Cass Sunstein / Harvard Law School bibliography",
+      "source_type": "research paper",
+      "access": "abstract in search results",
+      "finding": "Group polarization describes discussion moving a group toward a more extreme version of its initial tendency. Sunstein examines this as a risk for deliberation: agreement after talking need not mean the group considered the full range of views.",
+      "limitation": "This is a tendency under particular conditions, not an inevitable consequence of discussion or a reason to treat all agreement as suspicious.",
+      "scenario": "Imagine a campaign group whose members already favor escalation. Compare privately stated positions before and after discussion, and examine which alternatives never entered the room.",
+      "aliases": [
+        "Deliberative polarization"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D024",
+    "title": "Groupthink",
+    "slug": "groupthink",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Pressure for cohesion may suppress critical examination.",
+    "example": "Assign challenge roles and separate proposals from commitments.",
+    "sources": [
+      "R-D024"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Consensus pressure"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D024",
+      "title": "Groupthink",
+      "source_title": "Revisiting the Bay of Pigs and Vietnam Decisions 25 Years Later: How Well Has the Groupthink Hypothesis Stood the Test of Time?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9705804/",
+      "publisher": "Kramer / Organizational Behavior and Human Decision Processes",
+      "source_type": "research paper",
+      "access": "abstract in search results",
+      "finding": "Groupthink is a lens for examining pressure toward agreement and failures to scrutinize decisions. A reanalysis of classic historical cases using newer records challenges parts of the original explanation, including its emphasis on group cohesion.",
+      "limitation": "A bad decision or a cohesive team is not sufficient evidence of groupthink. The causal account and retrospective diagnosis are contested.",
+      "scenario": "Imagine a committee dismissing objections as disloyalty. Investigate what happened to contrary evidence and who could challenge the proposal, rather than labeling the group from the outcome alone.",
+      "aliases": [
+        "Consensus pressure"
+      ],
+      "scale": "groups",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D025",
+    "title": "Goal displacement",
+    "slug": "goal-displacement",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Procedures or proxy measures become objectives themselves.",
+    "example": "Compare measured success with the original purpose.",
+    "sources": [
+      "R-D025"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Means becoming ends"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D025",
+      "title": "Goal displacement",
+      "source_title": "Bureaucratic Structure and Personality",
+      "url": "https://www.d.umn.edu/cla/faculty/jhamlin/4111/Merton/Social%20Theory%20and%20Social%20Structure%20Bureaucratic%20Structure%20a.htm",
+      "publisher": "Robert K. Merton; University of Minnesota Duluth teaching archive",
+      "source_type": "theoretical research essay",
+      "access": "page reviewed",
+      "finding": "Goal displacement happens when a means becomes an end. Merton describes how devotion to procedures can make rule-following more important than the purpose those procedures originally served, particularly when unusual cases require adaptation.",
+      "limitation": "Rules can protect consistency and restrain arbitrary power. This critique does not show that abandoning procedure will serve the original purpose better.",
+      "scenario": "Imagine an aid organization rejecting every application missing one document, even when the document cannot be obtained after a disaster. Compliance has crowded out the reason the process exists.",
+      "aliases": [
+        "Means becoming ends"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D026",
+    "title": "Metric gaming",
+    "slug": "metric-gaming",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Rewards attached to indicators encourage strategic reporting or behavior.",
+    "example": "Examine what the indicator leaves out.",
+    "sources": [
+      "R-D026"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Gaming the metric"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D026",
+      "title": "Metric gaming",
+      "source_title": "Categorizing Variants of Goodhart’s Law",
+      "url": "https://arxiv.org/abs/1803.04585",
+      "publisher": "Manheim and Garrabrant / arXiv",
+      "source_type": "theoretical preprint",
+      "access": "abstract reviewed",
+      "finding": "Metric gaming is one way a measured target can diverge from the underlying goal. The paper distinguishes several failures of optimizing proxies; not every failure requires deliberate cheating, even when the measured score improves.",
+      "limitation": "This is a conceptual taxonomy, not a universal empirical law. Deliberate gaming should be distinguished from noisy measurement and unintended proxy failures.",
+      "scenario": "Imagine a help desk rewarded for closing tickets. If staff close unresolved requests to improve the count, investigate the actual customer outcome alongside the dashboard.",
+      "aliases": [
+        "Gaming the metric"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D027",
+    "title": "Capture",
+    "slug": "capture",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "A subset redirects governance toward its own interests.",
+    "example": "Inspect entry, oversight, appeals, and concentrated benefits.",
+    "sources": [
+      "R-D027"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Regulatory capture",
+      "Institutional capture"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D027",
+      "title": "Capture",
+      "source_title": "The Theory of Economic Regulation",
+      "url": "https://www.rasmusen.org/zg601/readings/Stigler.1971.pdf",
+      "publisher": "George Stigler / Bell Journal of Economics and Management Science",
+      "source_type": "theoretical research paper",
+      "access": "PDF search excerpt",
+      "finding": "Capture describes an institution being steered toward the interests it is supposed to oversee. Stigler’s theory examines how organized industries may obtain regulation that benefits them, instead of treating regulation as automatically serving a general public interest.",
+      "limitation": "This is a theory of regulatory incentives, not evidence that every regulator is captured. Consulting affected stakeholders alone does not establish capture.",
+      "scenario": "Imagine an industry helping draft licensing rules that burden new entrants while exempting established firms. Follow who shaped the rule and who gains from it.",
+      "aliases": [
+        "Regulatory capture",
+        "Institutional capture"
+      ],
+      "scale": "societies",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D028",
+    "title": "Principal-agent problems",
+    "slug": "principal-agent-problems",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Delegates and delegators have differing incentives or information.",
+    "example": "Clarify discretion, reporting, and accountability.",
+    "sources": [
+      "R-D028"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Agency problem",
+      "Principal agent"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D028",
+      "title": "Principal-agent problems",
+      "source_title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
+      "url": "https://doi.org/10.1016/0304-405X%2876%2990026-X",
+      "publisher": "Jensen and Meckling / Journal of Financial Economics",
+      "source_type": "theoretical research paper",
+      "access": "abstract and primary-paper search excerpt",
+      "finding": "A principal-agent problem arises when someone delegates authority to another whose interests may differ. Jensen and Meckling analyze incentives, monitoring, commitments, and the remaining losses when delegation cannot perfectly align those interests.",
+      "limitation": "The model does not assume every delegate is dishonest. Monitoring has costs, and the principal’s objectives may themselves be disputed.",
+      "scenario": "Imagine members hiring a manager for a shared workspace. Members want affordable access while the manager is rewarded only for revenue; the arrangement may encourage decisions members dislike.",
+      "aliases": [
+        "Agency problem",
+        "Principal agent"
+      ],
+      "scale": "institutions",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D029",
+    "title": "Path dependence",
+    "slug": "path-dependence",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Earlier choices constrain later possibilities.",
+    "example": "Identify switching costs before adding another dependency.",
+    "sources": [
+      "R-D029"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "Historical lock-in"
+    ],
+    "research": {
+      "id": "D029",
+      "title": "Path dependence",
+      "source_title": "Competing Technologies, Increasing Returns, and Lock-In by Historical Events",
+      "url": "https://ideas.repec.org/a/ecj/econjl/v99y1989i394p116-31.html",
+      "publisher": "W. Brian Arthur / Economic Journal; RePEc abstract",
+      "source_type": "theoretical research paper",
+      "access": "abstract in search results",
+      "finding": "Path dependence means that the sequence of earlier events helps shape later possibilities. Arthur’s model shows how increasing returns to adoption can amplify early contingencies and make a technological path difficult to leave.",
+      "limitation": "This is a model with particular assumptions. An institution having a history does not by itself demonstrate lock-in or prove that change is impossible.",
+      "scenario": "Imagine an organization retaining awkward software because its training, archives, and partners all depend on it. The original choice now shapes the cost of every alternative.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "Historical lock-in"
+      ],
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D030",
+    "title": "Norm drift",
+    "slug": "norm-drift",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Expectations change through repeated behavior and shifting membership.",
+    "example": "Compare stated norms with actual practice.",
+    "sources": [
+      "R-D030"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "Changing informal norms"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D030",
+      "title": "Norm drift",
+      "source_title": "The spontaneous emergence of conventions: An experimental study of cultural evolution",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4343158/",
+      "publisher": "Centola and Baronchelli / PNAS",
+      "source_type": "research paper",
+      "access": "abstract and article sections reviewed",
+      "finding": "Norm drift is used here as an editorial label for changing informal expectations. Related experiments on convention formation show that network structure can affect how shared conventions emerge without a central organizer imposing agreement.",
+      "limitation": "The experiment concerns simple conventions, not every moral or organizational norm. It supports a related mechanism rather than validating a general theory called norm drift.",
+      "scenario": "Imagine a discussion group whose written rule promises quick replies, but whose members gradually treat a week as normal. Compare the formal rule with expectations expressed in everyday interactions.",
+      "aliases": [
+        "Changing informal norms"
+      ],
+      "scale": "communities",
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D031",
+    "title": "Network brokerage",
+    "slug": "network-brokerage",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Intermediaries connect groups that otherwise interact little.",
+    "example": "Who controls access, interpretation, and introductions?",
+    "sources": [
+      "R-D031"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Structural holes",
+      "Social brokerage"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D031",
+      "title": "Network brokerage",
+      "source_title": "Structural Holes and Good Ideas",
+      "url": "https://doi.org/10.1086/421787",
+      "publisher": "Ronald Burt / American Journal of Sociology",
+      "source_type": "research paper",
+      "access": "abstract in search results",
+      "finding": "Network brokers connect people across gaps between groups. Burt argues that these connections expose people to different approaches; a study of managers in an electronics company found brokerage associated with ideas judged valuable and several career advantages.",
+      "limitation": "The reported associations do not establish that brokerage alone caused better ideas. Brokers can also concentrate access and become bottlenecks.",
+      "scenario": "Imagine a librarian connecting a repair club with a school that needs equipment fixed. The useful contribution is seeing an opportunity that neither group could see from its own network.",
+      "aliases": [
+        "Structural holes",
+        "Social brokerage"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "D032",
+    "title": "Boundary maintenance",
+    "slug": "boundary-maintenance",
+    "kind": "D",
+    "category": "Social dynamics",
+    "description": "Communities negotiate membership and acceptable participation.",
+    "example": "Can boundaries protect purpose without insulating power?",
+    "sources": [
+      "R-D032"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "Group boundaries",
+      "Symbolic boundaries"
+    ],
+    "terms": [],
+    "research": {
+      "id": "D032",
+      "title": "Boundary maintenance",
+      "source_title": "The Study of Boundaries in the Social Sciences",
+      "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107",
+      "publisher": "Lamont and Molnár / Annual Review of Sociology",
+      "source_type": "research review",
+      "access": "abstract reviewed",
+      "finding": "Boundary maintenance concerns how groups distinguish members, outsiders, and legitimate participation. Lamont and Molnár review boundaries across identity, inequality, professions, and communities, emphasizing relations between symbolic distinctions and social divisions.",
+      "limitation": "The review supplies an analytical lens, not a justification for exclusion. Formal access and informal recognition should be examined separately.",
+      "scenario": "Imagine a supposedly open professional meetup where only established members understand the jargon or receive introductions. The invitation is public, but everyday interactions still mark who belongs.",
+      "aliases": [
+        "Group boundaries",
+        "Symbolic boundaries"
+      ],
+      "scale": "communities",
+      "reviewed_on": "2026-11-05"
+    }
+  }
+]

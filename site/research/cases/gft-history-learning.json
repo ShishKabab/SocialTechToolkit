@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "royal-society-journal",
+    "title": "The Royal Society: a journal outlives its founder",
+    "question": "What lets an intellectual network become a durable institution?",
+    "period": "1660–nineteenth century",
+    "location": "England",
+    "scale": "institutions",
+    "technology_ids": [
+      "T146",
+      "T228",
+      "T028",
+      "T293",
+      "T033"
+    ],
+    "summary": "Henry Oldenburg began Philosophical Transactions in 1665 as a personal publishing venture within the Royal Society’s scientific network. Individual successors continued the journal before the Society took responsibility in 1752. Its survival depended on recurring work: selecting papers, maintaining correspondence, editing issues, and finding money to publish them.",
+    "outcome": "success",
+    "outcome_summary": "A durable publication and scientific institution emerged, but through repeated changes rather than an unchanged founding design. Survival did not mean commercial self-sufficiency: publishing drew on support for much of its history.",
+    "observations": [
+      {
+        "claim": "The Royal Society formed in 1660 and received a royal charter in 1662.",
+        "source_ids": [
+          "royal-history"
+        ]
+      },
+      {
+        "claim": "Oldenburg launched Philosophical Transactions in 1665; the Society assumed responsibility in 1752.",
+        "source_ids": [
+          "royal-journal"
+        ]
+      },
+      {
+        "claim": "Reviewing and publication arrangements changed over time. Publishing cost the Society more than it earned during the eighteenth and nineteenth centuries.",
+        "source_ids": [
+          "royal-journal",
+          "royal-money"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Royal recognition helped make the network legitimate and attractive.",
+        "status": "plausible",
+        "source_ids": [
+          "gft",
+          "royal-history"
+        ],
+        "alternative": "Correspondence, experiments and useful publications may have mattered more to participants than royal prestige."
+      },
+      {
+        "claim": "Transferring recurring editorial and financial work to an organization helped continuity.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "royal-journal",
+          "royal-money"
+        ],
+        "alternative": "Individual successors had already kept the journal alive before the Society took ownership; organizational ownership was one stage in a longer process."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Institutionalization and knowledge succession",
+        "evidence_status": "Historical explanation",
+        "source_ids": [
+          "gft",
+          "royal-journal"
+        ],
+        "relevance": "A journal can preserve a founder’s purpose only if later people can inherit the work, contacts, budget, and authority needed to keep publishing. The name and prestige alone do not perform those tasks.",
+        "transfer_limit": "The Royal Society had unusually durable recognition and support. A new journal without those resources faces a different succession problem."
+      }
+    ],
+    "lessons": [
+      "Who will perform the recurring maintenance after the founder leaves?",
+      "Can recognition attract resources without substituting for substantive evaluation?"
+    ],
+    "research_gaps": "How much did royal recognition contribute to the journal’s survival compared with its scientific usefulness and financial support? Its long history also leaves a separate question about who could participate and whose work was excluded.",
+    "sources": [
+      {
+        "id": "royal-history",
+        "title": "History of the Royal Society",
+        "url": "https://royalsociety.org/about-us/who-we-are/history/",
+        "publisher": "Royal Society",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Institutional account of founding, charter, correspondence, experiments and publication."
+      },
+      {
+        "id": "royal-journal",
+        "title": "History of Philosophical Transactions",
+        "url": "https://royalsociety.org/journals/publishing-activities/publishing350/history-philosophical-transactions/",
+        "publisher": "Royal Society",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read the founding, succession, institutional takeover, peer review and finances sections. Same institution as the founding account."
+      },
+      {
+        "id": "royal-money",
+        "title": "Journals, learned societies and money: Philosophical Transactions, ca. 1750–1900",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26495578/",
+        "publisher": "Aileen Fyfe / Notes and Records",
+        "type": "primary-research",
+        "access": "search-excerpt",
+        "note": "Archival study of publishing finances; full article access blocked in this pass."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "Honors Fuel Achievement",
+      "pages": "40–41",
+      "interpretation": "Burja treats royal patronage as a driver of scientific prestige; the journal’s changing operating arrangements complicate a prestige-only explanation."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Add unsuccessful learned societies and contributor perspectives. These sources do not establish the accessibility of the institution to women or excluded classes, or quantify the charter’s effect."
+      }
+    ]
+  },
+  {
+    "id": "lysenko-scientific-authority",
+    "title": "Lysenkoism: when authority can overrule evidence",
+    "question": "What happens when scientific standing depends on political loyalty?",
+    "period": "1930s–1960s",
+    "location": "Soviet Union",
+    "scale": "societies",
+    "technology_ids": [
+      "T228",
+      "T028",
+      "T029",
+      "D020",
+      "D027"
+    ],
+    "summary": "Lysenko’s rise joined political sponsorship to control of scientific appointments and institutions. The 1948 academy session made opposition to established genetics official policy. This is a case of organizational power suppressing correction, rather than merely a scientist holding a mistaken theory.",
+    "outcome": "failure",
+    "outcome_summary": "Political intervention suppressed geneticists and damaged scientific institutions. Reversing official doctrine did not immediately restore the people, appointments, and research traditions that had been disrupted.",
+    "observations": [
+      {
+        "claim": "Stalin-backed intervention at the 1948 academy session prohibited genetics research and promoted Lysenko’s position.",
+        "source_ids": [
+          "lysenko-history"
+        ]
+      },
+      {
+        "claim": "Research traditions were interrupted as geneticists and institutions came under political pressure.",
+        "source_ids": [
+          "lysenko-history"
+        ]
+      },
+      {
+        "claim": "Institutional arrangements associated with Lysenkoism persisted beyond the rejection of its scientific claims, complicating recovery.",
+        "source_ids": [
+          "lysenko-after"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Political control made scientific disagreement costly and helped shield favored claims from correction.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "lysenko-history"
+        ],
+        "alternative": "Career competition, economic pressures and institutional rivalry also contributed; political ideology alone is incomplete."
+      },
+      {
+        "claim": "Changing official doctrine is insufficient if appointments and institutional dependencies persist.",
+        "status": "plausible",
+        "source_ids": [
+          "lysenko-after"
+        ],
+        "alternative": "Recovery may also have been slowed by the loss of trained people and interrupted research, even where appointments or rules had changed."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Capture and suppression of error correction",
+        "evidence_status": "Documented historical process",
+        "source_ids": [
+          "lysenko-history",
+          "lysenko-after"
+        ],
+        "relevance": "When the authority judging a scientific claim also controls the careers of its critics, a mistaken claim can survive challenges that would otherwise expose it.",
+        "transfer_limit": "The decisive feature here was repression of criticism. Disagreement about research priorities is a different situation unless comparable control over dissent is present."
+      }
+    ],
+    "lessons": [
+      "Can evidence overturn the claim of a powerful sponsor?",
+      "What happens to a dissenter’s job, access and ability to publish?"
+    ],
+    "research_gaps": "How much did the later recovery depend on changes in appointments, protection for criticism, or rebuilding research networks? Those processes need to be distinguished from the formal rejection of Lysenko’s ideas.",
+    "sources": [
+      {
+        "id": "lysenko-history",
+        "title": "Lysenkoism Against Genetics: The Meeting of August 1948, Its Background, Causes, and Aftermath",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6499510/",
+        "publisher": "Borinskaya, Ermolaev and Kolchinsky / Genetics",
+        "type": "history",
+        "access": "sections",
+        "note": "Abstract and historical sections reviewed; documents suppression and institutional damage, not a causal estimate of famine deaths."
+      },
+      {
+        "id": "lysenko-after",
+        "title": "Lysenko Unemployed: Soviet Genetics after the Aftermath",
+        "url": "https://www.journals.uchicago.edu/doi/full/10.1086/696937",
+        "publisher": "Michael Gordin / Isis",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Archival historian challenges a simple rise-and-fall narrative; full article not reviewed."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "Honors Fuel Achievement",
+      "pages": "41–42",
+      "interpretation": "The manuscript uses Lysenko to illustrate prestige distortion. Institutional suppression is well documented; broader famine attribution is not established here."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "GFT links Lysenko to major famines. This pass does not verify or quantify those causal claims; exclude them from an outcome summary without dedicated agricultural and famine scholarship."
+      }
+    ]
+  },
+  {
+    "id": "manhattan-project-coordination",
+    "title": "The Manhattan Project: coordination at enormous human cost",
+    "question": "Can mission achievement be separated from the legitimacy and costs of the mission?",
+    "period": "1942–1945",
+    "location": "United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T163",
+      "T115",
+      "T097",
+      "T270"
+    ],
+    "summary": "The Manhattan Project coordinated scientific teams, public resources, contractors, and large sites under wartime military authority to develop atomic weapons. Its leaders could mobilize resources on an extraordinary scale. The same authority could impose decisions on people outside the project, including communities displaced to make room for its facilities.",
+    "outcome": "mixed",
+    "outcome_summary": "The project achieved its weapons-development objective. That technical achievement came with destructive consequences and costs borne by people who did not choose the mission, including displacement at Oak Ridge.",
+    "observations": [
+      {
+        "claim": "General Leslie Groves’s responsibilities included obtaining resources, recruiting expertise, and selecting project sites.",
+        "source_ids": [
+          "manhattan-organization"
+        ]
+      },
+      {
+        "claim": "Acquiring the Oak Ridge site displaced existing rural communities.",
+        "source_ids": [
+          "manhattan-displacement"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A clear mandate and concentrated authority reduced some coordination and resource-allocation obstacles.",
+        "status": "plausible",
+        "source_ids": [
+          "manhattan-organization",
+          "gft"
+        ],
+        "alternative": "Exceptional wartime funding, urgency and accumulated scientific knowledge may explain much of the speed."
+      },
+      {
+        "claim": "Secrecy and administrative power shifted important costs onto people unable to contest the mission.",
+        "status": "plausible",
+        "source_ids": [
+          "manhattan-displacement"
+        ],
+        "alternative": "Urgency, the scale of the facilities, and the site chosen may have contributed to displacement alongside the project’s secrecy and concentrated authority."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Mission-oriented coordination",
+        "evidence_status": "Historical explanation",
+        "source_ids": [
+          "manhattan-organization",
+          "gft"
+        ],
+        "relevance": "Technical leadership needed political authorization and access to resources. Concentrating those powers also limited the ability of affected communities to challenge decisions.",
+        "transfer_limit": "Wartime authority and exceptional public funding changed which actions were possible and who could contest them. A civilian project must establish its mandate and accountability under different conditions."
+      }
+    ],
+    "lessons": [
+      "Whose definition of success is being used?",
+      "Can a project secure resources while preserving challenge and accountability?"
+    ],
+    "research_gaps": "How much of the project’s speed came from its authority structure, and how much from exceptional funding, urgency, and prior scientific work? The experience of displaced residents and workers also matters when judging what the organizational achievement cost.",
+    "sources": [
+      {
+        "id": "manhattan-organization",
+        "title": "Manhattan Project Site Selection",
+        "url": "https://www.nps.gov/articles/000/manhattan-project-site-selection.htm",
+        "publisher": "US National Park Service",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read organization and land-acquisition history. Used only for institutional coordination, not technical weapons information."
+      },
+      {
+        "id": "manhattan-displacement",
+        "title": "Oak Ridge: Displacement",
+        "url": "https://www.nps.gov/mapr/learn/historyculture/oakridge-displacement.htm",
+        "publisher": "US National Park Service",
+        "type": "institutional-record",
+        "access": "full-text",
+        "note": "Documents displacement of communities. Same public-history institution as organization account, not an independent effectiveness evaluation."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "How Social Engineering Drives Technology",
+      "pages": "36",
+      "interpretation": "Burja emphasizes a clear goal and borrowed political authority; this case also asks who bore the costs."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "The two public-history sources share an institution. Add displaced-community testimony, labor history and independent organizational scholarship. Technical weapons design is outside this catalog’s scope."
+      }
+    ]
+  },
+  {
+    "id": "apollo-coalition",
+    "title": "Apollo: a clear goal still needed a coalition",
+    "question": "What makes a large mission survive beyond the person who announced it?",
+    "period": "1961–1972",
+    "location": "United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T163",
+      "T203",
+      "T267",
+      "T181",
+      "T115"
+    ],
+    "summary": "Apollo combined a public deadline with contractors, administrative coordination and continuing political support. A successful landing depended on more than an inspiring goal or one exceptional engineer. The case examines how a coalition can sustain a bounded mission while remaining vulnerable to changing priorities afterward.",
+    "outcome": "success",
+    "outcome_summary": "Apollo achieved the lunar landing in 1969, within the decade set by the 1961 goal. Its coalition sustained a specific mission; continuing a program afterward required renewed agreement about its purpose and cost.",
+    "observations": [
+      {
+        "claim": "Apollo achieved the 1969 landing within the goal announced in 1961.",
+        "source_ids": [
+          "apollo-management"
+        ]
+      },
+      {
+        "claim": "The mission depended on cooperation across technical teams, administrators, contractors, and political supporters.",
+        "source_ids": [
+          "apollo-management"
+        ]
+      },
+      {
+        "claim": "NASA coordinated extensive contracted work rather than producing the entire system in-house.",
+        "source_ids": [
+          "apollo-retrospective"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A shared concrete objective helped align institutions with different interests.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "apollo-management"
+        ],
+        "alternative": "Cold War competition and exceptional public expenditure also supplied commitment."
+      },
+      {
+        "claim": "Contracting let NASA combine dispersed capabilities while retaining systems-level integration.",
+        "status": "plausible",
+        "source_ids": [
+          "apollo-retrospective"
+        ],
+        "alternative": "The ability to integrate contractors may have mattered more than contracting itself; distributing work can also fragment accountability."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Coalition analysis of program implementation",
+        "evidence_status": "Historical analysis",
+        "source_ids": [
+          "apollo-management"
+        ],
+        "relevance": "A deadline coordinates work only while people with different responsibilities continue to supply decisions, funding, and capabilities. Apollo’s coalition made the goal executable.",
+        "transfer_limit": "The visibility and political urgency of a lunar landing helped mobilize resources that routine public services cannot assume."
+      }
+    ],
+    "lessons": [
+      "Which coalition will still support the project after its founder or political sponsor leaves?",
+      "Who integrates work across contractors and resolves tradeoffs?"
+    ],
+    "research_gaps": "How much did the management arrangements contribute compared with Cold War priorities and exceptional expenditure? Achieving the deadline does not reveal what a different contracting or funding arrangement would have cost.",
+    "sources": [
+      {
+        "id": "apollo-management",
+        "title": "Managing America to the Moon: A Coalition Analysis",
+        "url": "https://www.nasa.gov/history/SP-4219/Chapter8.html",
+        "publisher": "W. Henry Lambright / NASA History",
+        "type": "history",
+        "access": "sections",
+        "note": "Historical analysis of coalition, program management and political support; not a controlled comparison."
+      },
+      {
+        "id": "apollo-retrospective",
+        "title": "Apollo: A Retrospective Analysis",
+        "url": "https://www.nasa.gov/wp-content/uploads/2023/04/sp-4503-apollo.pdf",
+        "publisher": "Roger Launius / NASA History",
+        "type": "history",
+        "access": "search-excerpt",
+        "note": "Excerpt on contractor dependence and program management. Shares NASA publishing context with the coalition history."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "How Social Engineering Drives Technology",
+      "pages": "36–37",
+      "interpretation": "GFT attributes extraordinary projects to clear goals backed by authority; coalition history adds the ongoing political and administrative work."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Both external sources are NASA-published histories. Add independent budget and counterfactual analyses before claiming efficiency; GFT’s broad later-decline claims are outside what this case establishes."
+      }
+    ]
+  },
+  {
+    "id": "challenger-escalation",
+    "title": "Challenger: warnings that did not reach the decision",
+    "question": "How can an organization have expertise yet fail to use it?",
+    "period": "1986",
+    "location": "United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T181",
+      "T190",
+      "T159",
+      "T322",
+      "D025"
+    ],
+    "summary": "Before Challenger’s launch, engineers raised concerns that did not reach senior decision-makers intact. Management reversed an initial recommendation against launch, and the decision proceeded without key managers knowing the extent of the dispute. The failure was not simply a lack of expertise: the organization failed to carry that expertise into the decision.",
+    "outcome": "failure",
+    "outcome_summary": "Challenger was lost and seven people died. The investigation identified failures in communication and management alongside the physical failure. Understanding the accident requires both the technical vulnerability and the process through which unresolved concerns were discounted.",
+    "observations": [
+      {
+        "claim": "The commission found incomplete or misleading information, conflict between engineering data and management judgments, and safety problems bypassing key managers.",
+        "source_ids": [
+          "challenger-commission"
+        ]
+      },
+      {
+        "claim": "An initial recommendation against launch was reversed by management; senior managers were not aware of the dispute when the launch went ahead.",
+        "source_ids": [
+          "challenger-history"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Escalation and decision procedures failed to preserve the substance of the engineering objection.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "challenger-commission",
+          "challenger-history"
+        ],
+        "alternative": "The physical vulnerability and environmental conditions were necessary parts of the accident, not merely background."
+      },
+      {
+        "claim": "Organizational incentives may have made uncertain warnings easier to discount.",
+        "status": "plausible",
+        "source_ids": [
+          "challenger-history"
+        ],
+        "alternative": "Managers may have interpreted uncertain evidence through established routines as well as responding to organizational incentives. The decision record is needed to distinguish those influences."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Organizational error correction and voice",
+        "evidence_status": "Investigation findings about the decision process",
+        "source_ids": [
+          "challenger-commission"
+        ],
+        "relevance": "An objection can be raised yet fail to affect a decision if its content, uncertainty, or author’s judgment disappears during escalation. Having a reporting channel is different from preserving what it carries.",
+        "transfer_limit": "A reporting procedure alone cannot be assumed to prevent accidents. Decision-makers also need authority, time, and a defined response to unresolved concerns."
+      }
+    ],
+    "lessons": [
+      "Can decision makers see the strongest unresolved objection in its author’s terms?",
+      "Who can pause the decision, and who owns the response to that pause?"
+    ],
+    "research_gaps": "Why did the warnings lose force as they moved through the organization? Schedule pressures, accepted routines, and judgments about uncertain evidence may have contributed in different ways.",
+    "sources": [
+      {
+        "id": "challenger-commission",
+        "title": "Report of the Presidential Commission on the Space Shuttle Challenger Accident, Volume 1",
+        "url": "https://ntrs.nasa.gov/search.jsp?R=19860015255",
+        "publisher": "Rogers Commission / NASA archive",
+        "type": "institutional-record",
+        "access": "abstract",
+        "note": "Read official record summary of investigation findings on communication, engineering judgment and management bypasses."
+      },
+      {
+        "id": "challenger-history",
+        "title": "Return to Flight: The Challenger Accident",
+        "url": "https://www.nasa.gov/history/SP-4219/Chapter15.html",
+        "publisher": "NASA History",
+        "type": "history",
+        "access": "search-excerpt",
+        "note": "History of launch recommendations, management reversal and escalation failure; builds on the same investigation."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "How Social Engineering Drives Technology",
+      "pages": "37",
+      "interpretation": "Burja cites Challenger as institutional dysfunction; the official investigation supports narrower and more actionable process failures."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "The history and official summary are not independent datasets. A deeper case should examine original testimony and competing normalization-of-deviance analyses rather than treating all explanations as equivalent."
+      }
+    ]
+  },
+  {
+    "id": "nasa-cots-partnership",
+    "title": "COTS: public capability helps build private capability",
+    "question": "What does a market need before suppliers can finance delivery?",
+    "period": "2006–2013",
+    "location": "United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T267",
+      "T270",
+      "T181",
+      "T163"
+    ],
+    "summary": "NASA used milestone-based development partnerships to help firms build cargo transport capability. Firms retained substantial initiative, while NASA supplied funding, expertise, interfaces, and future demand. The program also ended a partnership when the supplier could not obtain financing, making both the support and the limits of the arrangement visible.",
+    "outcome": "mixed",
+    "outcome_summary": "SpaceX and Orbital completed demonstration missions; Rocketplane Kistler did not. Staged commitments produced working capability from some participants, but financing remained uncertain and negotiated service prices exceeded initial proposals.",
+    "observations": [
+      {
+        "claim": "SpaceX completed its COTS demonstration in 2012 and Orbital completed its demonstration in 2013.",
+        "source_ids": [
+          "cots-program"
+        ]
+      },
+      {
+        "claim": "NASA terminated Rocketplane Kistler after missed milestones; the oversight account records $32.1 million spent before termination.",
+        "source_ids": [
+          "cots-audit"
+        ]
+      },
+      {
+        "claim": "Suppliers’ financing depended partly on credible future demand, and negotiated service prices grew beyond their initial proposals.",
+        "source_ids": [
+          "cots-program"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Staged payments and credible customer demand helped turn emerging capability into an investable undertaking.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "cots-program"
+        ],
+        "alternative": "Firm capability, founder capital and the availability of private finance also differed between participants."
+      },
+      {
+        "claim": "Terminating one partner and selecting another limited dependence on a single supplier.",
+        "status": "plausible",
+        "source_ids": [
+          "cots-program",
+          "cots-audit"
+        ],
+        "alternative": "The result could also reflect which firms were selected and what capabilities they already possessed; replacing a partner does not by itself explain overall program costs."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Complementarity of public procurement and entrepreneurial capacity",
+        "evidence_status": "Program history and oversight findings",
+        "source_ids": [
+          "cots-program",
+          "cots-audit"
+        ],
+        "relevance": "An emerging supplier needs more than a promising prototype. Funding, access to expertise, and a credible customer can make the next stage possible while leaving important risks with the firm.",
+        "transfer_limit": "Space transport combines unusually high entry costs with a small number of major customers. A market with many small buyers offers a different basis for financing."
+      }
+    ],
+    "lessons": [
+      "Does a supplier have a credible customer after the prototype?",
+      "What can be stopped or replaced without abandoning the entire mission?"
+    ],
+    "research_gaps": "How would costs and delivery times have differed under another procurement arrangement? Comparing prototypes alone would miss later service prices, continuing public support, and the costs of unsuccessful participants.",
+    "sources": [
+      {
+        "id": "cots-program",
+        "title": "Commercial Orbital Transportation Services: A New Era in Spaceflight",
+        "url": "https://www.nasa.gov/wp-content/uploads/2016/08/sp-2014-617.pdf",
+        "publisher": "NASA, SP-2014-617",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Downloaded and read overview and lessons learned, including Rocketplane Kistler, milestone financing and service-price changes. Program-owned retrospective."
+      },
+      {
+        "id": "cots-audit",
+        "title": "NASA’s Management of Commercial Orbital Transportation Services and ISS Commercial Resupply Contracts",
+        "url": "https://oig.nasa.gov/wp-content/uploads/2024/02/ig-13-016.pdf",
+        "publisher": "NASA Office of Inspector General, IG-13-016",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Separate oversight function; excerpt confirms milestone payment and termination expenditure. Full report inaccessible through browser tool."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "How Social Engineering Drives Technology",
+      "pages": "37–38",
+      "interpretation": "The manuscript frames SpaceX as circumventing declining NASA; NASA’s material and advisory role complicates a simple replacement narrative."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Full independent audit text was not accessible; its available excerpt supports only stated expenditure and milestone mechanics. Cost-effectiveness needs like-for-like comparisons and later procurement data."
+      }
+    ]
+  },
+  {
+    "id": "roman-adoptive-succession",
+    "title": "Roman adoption: an heir is also a political alliance",
+    "question": "How did adoption help an emperor establish a successor?",
+    "period": "First–second centuries CE",
+    "location": "Roman Empire",
+    "scale": "societies",
+    "technology_ids": [
+      "S022",
+      "T293",
+      "S009",
+      "T228"
+    ],
+    "summary": "Imperial adoption made selected adults members of a ruling family and recognizable successors. It could bring someone into the line of succession without making biological descent the only route. The selection still took place within elite family networks and political negotiations, rather than an open competition for the most capable ruler.",
+    "outcome": "mixed",
+    "outcome_summary": "Adoption helped establish recognizable succession arrangements, including the Antonine line. Naming an heir could coordinate expectations, but the heir still needed the support and resources required to govern.",
+    "observations": [
+      {
+        "claim": "Hadrian adopted Antoninus Pius, who adopted Marcus Aurelius and Lucius Verus.",
+        "source_ids": [
+          "roman-museum"
+        ]
+      },
+      {
+        "claim": "The Antonine dynasty drew on wealthy provincial and Italian family connections.",
+        "source_ids": [
+          "roman-museum"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Designating an heir could align the expectations of incumbent, successor and supporters.",
+        "status": "plausible",
+        "source_ids": [
+          "gft",
+          "roman-museum"
+        ],
+        "alternative": "Selection may instead ratify existing military and political power rather than create cooperation."
+      },
+      {
+        "claim": "Familiar family status helped make a negotiated succession socially intelligible.",
+        "status": "plausible",
+        "source_ids": [
+          "gft"
+        ],
+        "alternative": "Legal adoption without elite acceptance would not guarantee a peaceful transfer."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Credible commitment and succession",
+        "evidence_status": "Historical interpretation",
+        "source_ids": [
+          "gft",
+          "roman-politics"
+        ],
+        "relevance": "Naming an heir gives supporters a person around whom to coordinate. Whether they actually accept the successor depends on relationships and resources beyond the legal designation.",
+        "transfer_limit": "Succession within a restricted imperial elite differs from open hiring or democratic selection: the eligible candidates and the means of securing support were fundamentally different."
+      }
+    ],
+    "lessons": [
+      "Does naming a successor transfer informal support as well as a title?",
+      "Are apparent merit criteria explaining selection or rationalizing it afterward?"
+    ],
+    "research_gaps": "How much did adoption itself secure cooperation, and how much did it formalize alliances that already existed? Military backing, family connections, and the exclusion of other candidates complicate any claim that the arrangement selected rulers by merit.",
+    "sources": [
+      {
+        "id": "roman-museum",
+        "title": "The Antonine Dynasty (138–193)",
+        "url": "https://www.metmuseum.org/essays/the-antonine-dynasty-138-193",
+        "publisher": "Metropolitan Museum of Art, Greek and Roman Art",
+        "type": "history",
+        "access": "sections",
+        "note": "Read succession and elite-family connections. Museum synthesis, not a test of adoption as a cause of good government."
+      },
+      {
+        "id": "roman-politics",
+        "title": "An Emperor is Made: Senatorial Politics and Trajan’s Adoption by Nerva in 97",
+        "url": "https://academic.oup.com/book/36344/chapter-abstract/319849468",
+        "publisher": "Oxford University Press",
+        "type": "primary-research",
+        "access": "search-excerpt",
+        "note": "Chapter synopsis challenges the official account of Trajan’s distinguished career. Full chapter blocked."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "How Roman Emperors Handled the Succession Problem",
+      "pages": "82–86",
+      "interpretation": "GFT proposes adult adoption as alignment and skill-transfer machinery; independent history qualifies the meritocratic interpretation."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "The specialist chapter was available only as an excerpt. Avoid Gibbon’s idealized happiness claim as an outcome measure; investigate military backing, coercion and those excluded from selection."
+      }
+    ]
+  },
+  {
+    "id": "tetrarchy-succession",
+    "title": "The Tetrarchy: a succession design that needed its designer",
+    "question": "What breaks when a coordinating founder leaves?",
+    "period": "293–324 CE",
+    "location": "Roman Empire",
+    "scale": "societies",
+    "technology_ids": [
+      "T293",
+      "T294",
+      "T296",
+      "S009"
+    ],
+    "summary": "Diocletian divided rule among senior and junior emperors, combining present authority with an intended succession path. The arrangement addressed a vast empire’s coordination problem, yet its succession mechanism did not endure intact after retirement. Administrative reforms and the four-ruler system must be evaluated separately.",
+    "outcome": "mixed",
+    "outcome_summary": "The four-ruler succession arrangement did not endure after Diocletian’s retirement, while parts of the wider administrative transformation lasted much longer. The failure of one succession mechanism did not erase every other reform.",
+    "observations": [
+      {
+        "claim": "The arrangement named two senior emperors, the Augusti, and two subordinate emperors, the Caesars.",
+        "source_ids": [
+          "tetrarchy-museum"
+        ]
+      },
+      {
+        "claim": "The tetrarchy was short-lived, while broader changes in government helped shape the later empire.",
+        "source_ids": [
+          "tetrarchy-history"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A succession system dependent on the founder’s arbitration was vulnerable when that arbitration disappeared.",
+        "status": "plausible",
+        "source_ids": [
+          "gft",
+          "tetrarchy-history"
+        ],
+        "alternative": "Rival dynastic claims and control of military resources may explain instability better than complexity alone."
+      },
+      {
+        "claim": "Giving juniors current authority created useful experience but also an independent power base.",
+        "status": "plausible",
+        "source_ids": [
+          "gft"
+        ],
+        "alternative": "Regional administrative demands may have required distributed authority regardless of succession concerns."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Founder dependence and power succession",
+        "evidence_status": "Historical hypothesis",
+        "source_ids": [
+          "gft",
+          "tetrarchy-history"
+        ],
+        "relevance": "A founder may resolve disputes that the formal succession rules leave open. Retirement tests whether successors can obtain cooperation through the rules without that person’s intervention.",
+        "transfer_limit": "The emperors controlled military and territorial resources. Ordinary deputy roles do not carry the same independent capacity to contest a succession."
+      }
+    ],
+    "lessons": [
+      "Can successors use the rules to resolve a dispute without the founder?",
+      "Which parts of a reform survived even when its most visible arrangement collapsed?"
+    ],
+    "research_gaps": "Did the succession order fail mainly because the founder could no longer arbitrate, because rivals commanded military support, or because dynastic claims overrode the intended rules? The sequence of alliances and disputes matters for separating these explanations.",
+    "sources": [
+      {
+        "id": "tetrarchy-history",
+        "title": "The Empire of the Tetrarchs: Imperial Pronouncements and Government",
+        "url": "https://academic.oup.com/book/47281",
+        "publisher": "Simon Corcoran / Oxford University Press",
+        "type": "primary-research",
+        "access": "search-excerpt",
+        "note": "Introduction excerpt distinguishes short-lived tetrarchic arrangement from longer-lived administrative reforms. Full book not read."
+      },
+      {
+        "id": "tetrarchy-museum",
+        "title": "The Roman Empire (27 B.C.–393 A.D.)",
+        "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+        "publisher": "Metropolitan Museum of Art",
+        "type": "history",
+        "access": "search-excerpt",
+        "note": "Chronology of the two Augusti and two Caesars; no causal inference from chronology alone."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "How Roman Emperors Handled the Succession Problem",
+      "pages": "86–87",
+      "interpretation": "Burja treats the failure after Diocletian as a warning about complex succession arrangements requiring rare personal skill."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Full historical monograph not reviewed. A detailed case needs chronology of military allegiance and dynastic claims before ranking rival causal explanations."
+      }
+    ]
+  },
+  {
+    "id": "botswana-succession-alternation",
+    "title": "Botswana: continuity also survives an opposition victory",
+    "question": "Can political continuity survive replacement of the governing party?",
+    "period": "1966–2024",
+    "location": "Botswana",
+    "scale": "societies",
+    "technology_ids": [
+      "T293",
+      "T109",
+      "S009",
+      "S033"
+    ],
+    "summary": "Botswana’s long period of government by the Botswana Democratic Party ended with a peaceful handover to the opposition in 2024. President Mokgweetsi Masisi conceded defeat, and Duma Boko took office. The transition showed that orderly succession could extend beyond the ruling party’s own choice of leaders.",
+    "outcome": "mixed",
+    "outcome_summary": "The 2024 handover preserved continuity while replacing the governing party. Election observers assessed the process as peaceful and credible, while identifying weaknesses in electoral inclusion and administration. Orderly transfer and equal access to political participation remain separate achievements.",
+    "observations": [
+      {
+        "claim": "Masisi conceded the 2024 election and a formal handover brought Boko into office.",
+        "source_ids": [
+          "botswana-election"
+        ]
+      },
+      {
+        "claim": "Election observers assessed the process as peaceful and credible, while identifying areas where inclusion and administration needed improvement.",
+        "source_ids": [
+          "botswana-election"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Prepared successors and elite cooperation contributed to continuity before alternation.",
+        "status": "plausible",
+        "source_ids": [
+          "gft",
+          "botswana-development"
+        ],
+        "alternative": "Electoral legitimacy, material interests and public institutions could sustain continuity independently of a single family."
+      },
+      {
+        "claim": "Acceptance of electoral defeat indicates that meaningful succession rules extended beyond the governing party.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "botswana-election"
+        ],
+        "alternative": "The particular margin of defeat and choices of the leaders involved may have mattered alongside established succession rules."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Institutions, elite incentives and leadership",
+        "evidence_status": "Historical institutional analysis and an observed transfer of power",
+        "source_ids": [
+          "botswana-development",
+          "botswana-election"
+        ],
+        "relevance": "Continuity within one party can depend on its internal relationships. A transfer to the opposition tests whether cooperation survives when those relationships no longer determine who holds office.",
+        "transfer_limit": "A peaceful handover reveals something about succession, but does not by itself explain economic growth or show that political participation is equally accessible to everyone."
+      }
+    ],
+    "lessons": [
+      "What event would make the current explanation less convincing?",
+      "Can continuity survive replacement by people outside the incumbent’s chosen circle?"
+    ],
+    "research_gaps": "What enabled incumbents and their supporters to accept defeat? The handover cannot by itself disentangle the roles of electoral institutions, elite cooperation, and economic interests, or explain Botswana’s longer-run economic development.",
+    "sources": [
+      {
+        "id": "botswana-development",
+        "title": "An African Success Story: Botswana",
+        "url": "https://economics.mit.edu/sites/default/files/publications/An%20African%20Success%20Story%20Botswana.pdf",
+        "publisher": "Acemoglu, Johnson and Robinson",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read abstract and opening argument: institutions, elite interests, diamonds and leadership as a comparative historical explanation; not a randomized test."
+      },
+      {
+        "id": "botswana-election",
+        "title": "Botswana Presidential and National Assembly Elections: 30 October 2024",
+        "url": "https://comsec-web-static.s3.eu-west-1.amazonaws.com/s3fs-public/2025-09/botswana-cog-report-2024.pdf",
+        "publisher": "Commonwealth Expert Team",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read transmittal and executive-summary sections documenting concession, handover and electoral shortcomings. Published 2025; updates GFT’s pre-2024 account."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "What Botswana Can Teach Us About Political Stability",
+      "pages": "89–96",
+      "interpretation": "GFT emphasizes dynastic and adoptive succession. The 2024 opposition victory and peaceful transfer require updating that interpretation."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "GFT’s unofficial-monarchy analogy predates 2024 and should not be presented as a current classification. Add minority perspectives and independent measures of inclusion; the observer report does not test causes of long-run growth."
+      }
+    ]
+  },
+  {
+    "id": "japanese-adopted-heirs",
+    "title": "Japanese adopted heirs: succession beyond the bloodline",
+    "question": "Does keeping family control require choosing a biological heir?",
+    "period": "Postwar listed firms; study published 2013",
+    "location": "Japan, with Danish comparison",
+    "scale": "institutions",
+    "technology_ids": [
+      "S022",
+      "T293",
+      "T284",
+      "S009"
+    ],
+    "summary": "Japanese business families can bring adults into the family through adoption or marriage, widening succession beyond biological children while retaining family control. Comparisons of listed firms suggest that these non-blood heirs can perform differently from biological heirs. The distinction matters: family succession is not one uniform way of selecting a leader.",
+    "outcome": "mixed",
+    "outcome_summary": "In the Japanese firm study, non-blood heirs performed better than blood heirs on the measures examined. Research on Danish firms found poorer performance following family CEO succession. The populations and succession arrangements differ, so the findings raise questions about how candidates are selected rather than settling whether family control is generally better.",
+    "observations": [
+      {
+        "claim": "A study of Japanese listed firms grouped adopted sons, sons-in-law, and adopted sons-in-law as non-blood heirs and found favorable performance comparisons with blood heirs.",
+        "source_ids": [
+          "japan-heirs"
+        ]
+      },
+      {
+        "claim": "In a Danish study, family CEO succession was associated with poorer performance in an analysis using firstborn-child gender to help distinguish succession choices from other firm differences.",
+        "source_ids": [
+          "denmark-heirs"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Allowing an outsider to become a family successor can widen the candidate pool while preserving continuity.",
+        "status": "plausible",
+        "source_ids": [
+          "japan-heirs"
+        ],
+        "alternative": "Firms able to attract strong candidates may already differ in ways that drive performance."
+      },
+      {
+        "claim": "The threat of replacement may change effort by biological heirs and professional managers.",
+        "status": "plausible",
+        "source_ids": [
+          "japan-heirs"
+        ],
+        "alternative": "Succession results do not separately identify selection from these proposed incentive effects."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Succession, selection and agency",
+        "evidence_status": "Empirical comparisons in different institutional settings",
+        "source_ids": [
+          "japan-heirs",
+          "denmark-heirs"
+        ],
+        "relevance": "A succession rule changes who can become a candidate and what incentives existing candidates face. Bringing an outsider into the family can widen selection while preserving relationships associated with family control.",
+        "transfer_limit": "Adoption and marriage carry legal, cultural, and personal commitments. A favorable business-performance comparison does not tell us how the people entering those relationships experienced them."
+      }
+    ],
+    "lessons": [
+      "Can the successor pool widen without losing necessary trust and knowledge?",
+      "What evidence distinguishes good selection from a favorable inherited business?"
+    ],
+    "research_gaps": "Were stronger candidates selected, did the prospect of competing for succession change behavior, or were firms attracting non-blood heirs already different? The perspectives of spouses and candidates excluded from succession are also missing from the performance comparison.",
+    "sources": [
+      {
+        "id": "japan-heirs",
+        "title": "Adoptive Expectations: Rising Sons in Japanese Family Firms",
+        "url": "https://randallmorck.ca/wp-content/uploads/2020/02/13-adoptive-expectations-rising-sons-in-japanese-family-firms.pdf",
+        "publisher": "Mehrotra, Morck, Shim and Wiwattanakantang / Journal of Financial Economics",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read abstract, introduction and institutional setting. Observational succession analysis with proposed selection and incentive mechanisms."
+      },
+      {
+        "id": "denmark-heirs",
+        "title": "Inside the Family Firm: The Role of Families in Succession Decisions and Performance",
+        "url": "https://www.nber.org/papers/w12356",
+        "publisher": "Bennedsen, Nielsen, Pérez-González and Wolfenzon / NBER; published in QJE",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Abstract retrieved through search. Danish instrumental-variable analysis using first-child gender; different treatment and setting from Japanese adoption."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "How Roman Emperors Handled the Succession Problem",
+      "pages": "88",
+      "interpretation": "GFT points to mukoyōshi as a continuity mechanism; empirical comparisons make its selection claims testable rather than universally prescriptive."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "The Japanese full empirical tables and Danish full paper need deeper review. Gendered selection and the perspectives of spouses and excluded candidates deserve their own treatment."
+      }
+    ]
+  },
+  {
+    "id": "confucian-transmission",
+    "title": "Confucian transmission: preserving a tradition by changing it",
+    "question": "When is adaptation a form of preservation rather than a failure to copy?",
+    "period": "Late Zhou through Han and later reception",
+    "location": "China and East Asia",
+    "scale": "societies",
+    "technology_ids": [
+      "T305",
+      "S017",
+      "T033",
+      "S015",
+      "T023"
+    ],
+    "summary": "Teaching, texts, ritual practice, and political sponsorship carried Confucian traditions across generations. Transmission also changed the tradition: later teachers and governments selected and interpreted texts for purposes that differed from those of earlier participants. Preserving an influential tradition was not the same as reproducing one founder’s design unchanged.",
+    "outcome": "mixed",
+    "outcome_summary": "Confucian traditions became influential long after Confucius’s lifetime. Their later place in curricula and government depended on interpretation and adaptation. The surviving accounts do not let us reconstruct every aspect of Confucius’s own intentions or teaching with equal confidence.",
+    "observations": [
+      {
+        "claim": "Sources for Confucius’s life postdate his lifetime and differ in character and purpose.",
+        "source_ids": [
+          "confucius-iep"
+        ]
+      },
+      {
+        "claim": "By the Han, texts associated with Confucius had become authoritative in several domains and connected with government teaching positions.",
+        "source_ids": [
+          "confucius-sep"
+        ]
+      },
+      {
+        "claim": "Later Neo-Confucian interpretation placed the Analects within a different curricular and conceptual arrangement.",
+        "source_ids": [
+          "confucius-sep"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Teaching lineages and reusable texts enabled ideas to survive a founder’s limited immediate influence.",
+        "status": "plausible",
+        "source_ids": [
+          "confucius-sep",
+          "gft"
+        ],
+        "alternative": "State adoption and reinterpretation by later thinkers may have been more decisive than fidelity to the founder."
+      },
+      {
+        "claim": "Ritual practice can preserve coordination knowledge that a written rule alone misses.",
+        "status": "plausible",
+        "source_ids": [
+          "gft",
+          "confucius-iep"
+        ],
+        "alternative": "Ritual can also preserve rank and convention without preserving the function attributed to it."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Cultural transmission and institutional reconstruction",
+        "evidence_status": "Historical scholarship with a hypothesis about the role of practice",
+        "source_ids": [
+          "confucius-sep",
+          "confucius-iep",
+          "gft"
+        ],
+        "relevance": "A text can survive while its interpretation changes; a ritual can continue while the relationships around it are transformed. Transmission therefore involves people who teach, interpret, and authorize practice, as well as preserved documents.",
+        "transfer_limit": "The persistence of a tradition does not show that every surviving practice still performs its earlier function, or that it originated with a single founder."
+      }
+    ],
+    "lessons": [
+      "Which parts of a tradition are practiced, and which only quoted?",
+      "What adaptations made transmission possible, and who authorized them?"
+    ],
+    "research_gaps": "Which practices continued from earlier communities, and which were later reconstructions given ancient authority? Texts written after Confucius’s lifetime make it difficult to separate his intentions from the meanings later readers attached to him.",
+    "sources": [
+      {
+        "id": "confucius-sep",
+        "title": "Confucius",
+        "url": "https://plato.stanford.edu/entries/confucius/",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "type": "history",
+        "access": "sections",
+        "note": "Read introduction and sections on reception and interpretation; scholarly synthesis of changing meanings, not a direct record of founder intent."
+      },
+      {
+        "id": "confucius-iep",
+        "title": "Confucius (551–479 BCE)",
+        "url": "https://iep.utm.edu/confucius/",
+        "publisher": "Internet Encyclopedia of Philosophy",
+        "type": "history",
+        "access": "sections",
+        "note": "Read historical-source limitations and overview of ritual, cultivation and later appropriation."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "How Late Zhou China Reverse-Engineered a Civilization",
+      "pages": "174–182",
+      "interpretation": "GFT’s reconstruction thesis is a hypothesis to compare with layered textual transmission and later institutional adoption."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Avoid taking traditional authorship of the Book of Changes or the founder’s inner feelings as established facts. This synthesis needs specialist textual and institutional histories before supporting strong causal claims."
+      }
+    ]
+  },
+  {
+    "id": "lds-mission-training-retention",
+    "title": "Latter-day Saint missions: recruitment is not retention",
+    "question": "How does a repeatable recruitment system connect to durable belonging?",
+    "period": "Twentieth–twenty-first centuries",
+    "location": "International",
+    "scale": "communities",
+    "technology_ids": [
+      "T019",
+      "T020",
+      "T311",
+      "T059",
+      "S025"
+    ],
+    "summary": "Missionary preparation combines a shared curriculum, practice teaching, standards, and language learning. Successive cohorts can learn a recognizable way to conduct outreach. But bringing someone into a religious community is only a beginning: continued participation also depends on local relationships and the experience of membership.",
+    "outcome": "mixed",
+    "outcome_summary": "A repeatable training and outreach system operates across successive missionary cohorts. Conversion and retention vary across settings, and recruitment totals alone do not show how many people develop lasting participation.",
+    "observations": [
+      {
+        "claim": "Missionary training includes study, practice teaching, preparation for missionary life, and initial language learning.",
+        "source_ids": [
+          "lds-training"
+        ]
+      },
+      {
+        "claim": "Centralized administrative changes beginning in the 1960s altered the organization of church activity; conversion and retention varied geographically during later decades.",
+        "source_ids": [
+          "lds-retention"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Shared training and curriculum can make outreach repeatable across cohorts.",
+        "status": "plausible",
+        "source_ids": [
+          "lds-training"
+        ],
+        "alternative": "Participants are self-selected and supported by a wider religious community; training is only one component."
+      },
+      {
+        "claim": "Standardized recruitment may fit local community integration unevenly.",
+        "status": "plausible",
+        "source_ids": [
+          "lds-retention"
+        ],
+        "alternative": "Migration, existing relationships, economic circumstances and different meanings of membership may also explain retention."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Organizational socialization and conversion careers",
+        "evidence_status": "Institutional description and historical research",
+        "source_ids": [
+          "lds-training",
+          "lds-retention"
+        ],
+        "relevance": "Training can make an invitation repeatable, while durable belonging depends on what happens after that invitation is accepted. Local relationships connect the recruitment process to continuing participation.",
+        "transfer_limit": "Religious commitment involves beliefs, family relationships, and personal meaning. Recruitment practices detached from that setting may work differently."
+      }
+    ],
+    "lessons": [
+      "What happens six months after someone joins?",
+      "Does onboarding develop local relationships as well as transmit a standard message?"
+    ],
+    "research_gaps": "How do local relationships, migration, material circumstances, and administrative practices affect participation after conversion? Following people who remain, leave, or participate intermittently would reveal more than a single membership total.",
+    "sources": [
+      {
+        "id": "lds-training",
+        "title": "Missionary Training Centers",
+        "url": "https://www.churchofjesuschrist.org/callings/missionary/missionary-training-centers?lang=eng",
+        "publisher": "Church of Jesus Christ of Latter-day Saints",
+        "type": "institutional-record",
+        "access": "full-text",
+        "note": "Institutional description of curriculum, practice and initial language learning; does not measure conversion or retention effects."
+      },
+      {
+        "id": "lds-retention",
+        "title": "Conversion and Retention in Mormonism",
+        "url": "https://academic.oup.com/edited-volume/34732/chapter-abstract/296518629",
+        "publisher": "Bryant, Gooren, Phillips and Stewart / Oxford Handbook of Religious Conversion",
+        "type": "review",
+        "access": "abstract",
+        "note": "Abstract retrieved through search; discusses administrative reorganization and geographic differences in retention. Full chapter inaccessible."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "How Social Engineering Drives Technology",
+      "pages": "34–35",
+      "interpretation": "GFT treats religious outreach as an example of social engineering and marketing; retention research tests what recruitment metrics leave out."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Full handbook chapter was unavailable. No current global retention rate is asserted. Local longitudinal research and members’ accounts, including departures, are needed."
+      }
+    ]
+  },
+  {
+    "id": "protestant-literacy-prussia",
+    "title": "Protestant literacy: competing explanations for prosperity",
+    "question": "Can an ideology create useful capabilities without its official purpose being economic?",
+    "period": "Historical German lands; nineteenth-century Prussian comparison",
+    "location": "Central Europe",
+    "scale": "societies",
+    "technology_ids": [
+      "S015",
+      "S017",
+      "T311"
+    ],
+    "summary": "Religious expectations about reading could encourage skills useful outside religious life. Historical research on Prussian counties found evidence consistent with literacy explaining much of the prosperity difference associated with Protestantism. A separate study of long-run city growth found no Protestant growth advantage, raising a question about which economic outcomes the proposed mechanism can explain.",
+    "outcome": "mixed",
+    "outcome_summary": "Prussian county results are consistent with literacy explaining much of an observed prosperity gap. A separate city-growth study finds no Protestant growth advantage over its long period. Different units and outcomes prevent treating either finding as a universal verdict on religion and prosperity.",
+    "observations": [
+      {
+        "claim": "Becker and Woessmann use county data and distance to Wittenberg as an instrument for Protestantism.",
+        "source_ids": [
+          "protestant-literacy"
+        ]
+      },
+      {
+        "claim": "They report results consistent with literacy accounting for much of the economic difference.",
+        "source_ids": [
+          "protestant-literacy"
+        ]
+      },
+      {
+        "claim": "Cantoni studies population in 272 cities from 1300–1900 and reports no growth effect of Protestantism.",
+        "source_ids": [
+          "protestant-counter"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Religious reading expectations generated skills useful outside religious practice.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "protestant-literacy"
+        ],
+        "alternative": "The interpretation depends on instrument validity and the separation of religion from other geographically patterned influences."
+      },
+      {
+        "claim": "Different outcome measures and time scales explain part of the apparent disagreement.",
+        "status": "plausible",
+        "source_ids": [
+          "protestant-literacy",
+          "protestant-counter"
+        ],
+        "alternative": "Further comparison might reveal genuinely incompatible results rather than merely different measurements."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Human capital versus cultural work-ethic explanations",
+        "evidence_status": "Quantitative historical studies with different outcomes and comparisons",
+        "source_ids": [
+          "protestant-literacy",
+          "protestant-counter"
+        ],
+        "relevance": "A religious norm might affect economic life through a practical capability such as reading, without economic improvement being its purpose. That is a different explanation from claiming that belief directly produces a stronger work ethic.",
+        "transfer_limit": "The studies concern particular historical populations and periods. Their results do not establish that changing religious affiliation would produce the same capabilities or outcomes elsewhere."
+      }
+    ],
+    "lessons": [
+      "Which observable skill mediates the claimed cultural effect?",
+      "Would the explanation survive a different measure of success or period?"
+    ],
+    "research_gaps": "Could geography or other historical differences explain both religious affiliation and prosperity? The literacy explanation depends on separating those influences. It also remains important to understand why a result about county prosperity does not appear as a general advantage in long-run city growth.",
+    "sources": [
+      {
+        "id": "protestant-literacy",
+        "title": "Was Weber Wrong? A Human Capital Theory of Protestant Economic History",
+        "url": "https://storre.stir.ac.uk/handle/1893/1653",
+        "publisher": "Becker and Woessmann / Quarterly Journal of Economics",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Repository abstract reviewed. Nineteenth-century Prussian county analysis using distance to Wittenberg as an instrument."
+      },
+      {
+        "id": "protestant-counter",
+        "title": "The Economic Effects of the Protestant Reformation: Testing the Weber Hypothesis in the German Lands",
+        "url": "https://academic.oup.com/jeea/article-abstract/13/4/561/2319778",
+        "publisher": "Davide Cantoni / Journal of the European Economic Association",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Abstract retrieved through search. Studies city population growth over a different period and scale; not a direct replication of literacy findings."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "Social Technology",
+      "pages": "26",
+      "interpretation": "GFT’s ideology-to-literacy example becomes a comparison of explicit empirical hypotheses rather than an assumed causal law."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Only abstracts were reviewed. Full specifications, instruments, historical controls and later literature must be examined before judging which causal account is stronger."
+      }
+    ]
+  },
+  {
+    "id": "fogbank-knowledge-loss",
+    "title": "FOGBANK: documentation is not a living capability",
+    "question": "How do institutions discover that a capability they once had no longer exists?",
+    "period": "2000s; public audit in 2009",
+    "location": "United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T033",
+      "T304",
+      "T013",
+      "D011"
+    ],
+    "summary": "When a defense program needed to resume a discontinued production activity, the organization no longer had all the knowledge, expertise, and facilities needed to perform it. Reestablishing the capability took additional time and money. The episode shows how an organization can retain a requirement and records of earlier work while losing the practical ability to carry it out.",
+    "outcome": "failure",
+    "outcome_summary": "Reestablishing the production capability delayed the program by a year and required $69 million to address the problem, according to the public audit. Missing knowledge was part of the failure, alongside weaknesses in managing a known program risk.",
+    "observations": [
+      {
+        "claim": "The public audit identified missing knowledge, expertise, and facilities, together with ineffective execution of a risk-management strategy.",
+        "source_ids": [
+          "fogbank-audit"
+        ]
+      },
+      {
+        "claim": "The audit reported a one-year delay and $69 million associated with resolving the production problem.",
+        "source_ids": [
+          "fogbank-audit"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Capability disappeared when knowledge, people and supporting infrastructure were not maintained together.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "fogbank-audit"
+        ],
+        "alternative": "Budgeting and execution failures contributed; attributing everything to unwritten knowledge would be incomplete."
+      },
+      {
+        "claim": "Periodic demonstrations by successors could reveal hidden capability loss earlier than document reviews.",
+        "status": "plausible",
+        "source_ids": [
+          "gft"
+        ],
+        "alternative": "This proposed intervention was not evaluated in the audit and could be costly or impractical in some settings."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Organizational memory and tacit knowledge",
+        "evidence_status": "Audit findings about a specific loss of capability",
+        "source_ids": [
+          "fogbank-audit",
+          "gft"
+        ],
+        "relevance": "Documentation is useful only alongside people and facilities able to turn it into action. Separately changing staff, budgets, and infrastructure can leave responsibility for the combined capability unclear.",
+        "transfer_limit": "Specialized production can have unusually expensive restart requirements. The size of this loss cannot be used to estimate the cost of ordinary staff turnover."
+      }
+    ],
+    "lessons": [
+      "What critical activity has not been performed successfully by the next generation?",
+      "Who owns continuity risk when facilities, staff and budgets change separately?"
+    ],
+    "research_gaps": "Which losses were most consequential: experienced personnel, practical knowledge, facilities, or failures to act on the known risk? Demonstrations by successor teams might have exposed the gap earlier, but their cost and usefulness were not tested in this episode.",
+    "sources": [
+      {
+        "id": "fogbank-audit",
+        "title": "NNSA and DOD Need to More Effectively Manage the Stockpile Life Extension Program",
+        "url": "https://www.gao.gov/assets/a286696.html",
+        "publisher": "US Government Accountability Office, GAO-09-385",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Read public audit-summary passages on knowledge loss, program oversight, delay and cost; technical production information is excluded."
+      },
+      {
+        "id": "fogbank-followup",
+        "title": "Additional Actions Could Help Improve Management of Activities Involving Explosive Materials",
+        "url": "https://www.gao.gov/assets/gao-19-449.pdf",
+        "publisher": "US Government Accountability Office, GAO-19-449",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Used only the retrospective note on earlier knowledge loss and cost. Repeats the 2009 audit, so not independent corroboration."
+      },
+      {
+        "id": "gft",
+        "title": "Great Founder Theory — 2020 manuscript",
+        "url": "https://samoburja.com/gft/",
+        "publisher": "Samo Burja",
+        "type": "theoretical-essay",
+        "access": "sections",
+        "note": "User-supplied manuscript read at the cited printed pages. Historical synthesis and explanatory hypotheses; not independent validation of the cases."
+      }
+    ],
+    "gft_reference": {
+      "chapter": "Why Civilizations Collapse",
+      "pages": "157–159",
+      "interpretation": "GFT generalizes from capability loss to institutional decline; the audit supports a narrower, multicausal failure."
+    },
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Two GAO references belong to one audit lineage. The manuscript’s ten-year rhetorical framing and the audit’s schedule-delay measure are not interchangeable. No technical remedy is assessed here."
+      }
+    ]
+  },
+  {
+    "id": "bell-labs-compulsory-licensing",
+    "title": "Bell Labs: discovery and diffusion need different arrangements",
+    "question": "Can the institution producing breakthroughs also obstruct their wider use?",
+    "period": "1920s–1960s; 1956 decree studied",
+    "location": "United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T163",
+      "T268",
+      "T270",
+      "T211"
+    ],
+    "summary": "Bell Labs paired sustained industrial research with a powerful incumbent business. The 1956 antitrust settlement required royalty-free licensing of existing patents. This case separates an organization’s ability to invent from the legal and competitive conditions under which others can build on those inventions.",
+    "outcome": "mixed",
+    "outcome_summary": "The laboratory produced important discoveries, while the patent study finds increased follow-on innovation after compulsory licensing outside telecommunications. The sectoral exception matters: access to knowledge did not remove every market barrier.",
+    "observations": [
+      {
+        "claim": "Bell Labs’ research capacity was connected to the telephone system and to an organization combining research with development work.",
+        "source_ids": [
+          "bell-history"
+        ]
+      },
+      {
+        "claim": "The 1956 decree required royalty-free licensing of existing Bell patents.",
+        "source_ids": [
+          "bell-antitrust"
+        ]
+      },
+      {
+        "claim": "A comparison with non-Bell patents found lasting increases in follow-on patenting outside telecommunications, but not inside the sector.",
+        "source_ids": [
+          "bell-antitrust"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Stable resources and links between research and engineering supported discovery.",
+        "status": "plausible",
+        "source_ids": [
+          "bell-history"
+        ],
+        "alternative": "Selection of exceptional researchers and the field’s scientific opportunities could explain much of the output."
+      },
+      {
+        "claim": "Patent access alone was insufficient where other barriers continued to constrain entry.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "bell-antitrust"
+        ],
+        "alternative": "Differences in opportunities and conditions across sectors may also contribute to the contrast; licensing was not the only feature that varied."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Knowledge spillovers and barriers to entry",
+        "evidence_status": "A comparison of affected patents with a control group",
+        "source_ids": [
+          "bell-antitrust"
+        ],
+        "relevance": "Permission to use an invention removes one barrier. Firms may still need customers, equipment, distribution, or access to a market dominated by an incumbent.",
+        "transfer_limit": "Follow-on patenting captures only part of innovation. It does not show every useful improvement, commercial application, or benefit to the public."
+      }
+    ],
+    "lessons": [
+      "Does the research organization enable outsiders to build on its work?",
+      "Which barriers remain after formal access is opened?"
+    ],
+    "research_gaps": "Did wider licensing change Bell’s own incentive to invest in research over the longer term? Which remaining barriers explain the different result inside telecommunications? More follow-on patents do not, by themselves, measure every benefit or cost to users.",
+    "sources": [
+      {
+        "id": "bell-history",
+        "title": "History of Bell Labs",
+        "url": "https://www.nokia.com/bell-labs/about/history/",
+        "publisher": "Nokia Bell Labs",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read institutional origins and fundamental-research history; self-description should not independently establish comparative superiority."
+      },
+      {
+        "id": "bell-antitrust",
+        "title": "How Antitrust Enforcement Can Spur Innovation: Bell Labs and the 1956 Consent Decree",
+        "url": "https://www.aeaweb.org/articles?id=10.1257/pol.20190086",
+        "publisher": "Watzinger, Fackler, Nagler and Schnitzer / AEJ Economic Policy",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Published abstract retrieved through search. Exactly matched non-Bell patents provide controls for follow-on innovation; outcomes differ by sector."
+      }
+    ],
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Published abstract and institutional history reviewed, not the full replication package. Long-run effects on Bell’s own investment require separate evidence; this is not proof that monopoly always helps or harms invention."
+      }
+    ]
+  },
+  {
+    "id": "xerox-parc-spinoffs",
+    "title": "Xerox PARC: invention needs a route into the world",
+    "question": "Why can a productive research organization fail to capture some of what it creates?",
+    "period": "1970s–1990s",
+    "location": "United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T163",
+      "T167",
+      "T211",
+      "T205"
+    ],
+    "summary": "PARC developed prototypes and technical communities whose influence spread beyond Xerox. Some technologies found a route to users through spin-offs with different customers and revenue models. A productive research organization still needed a way to connect its inventions to development, distribution, and a viable business.",
+    "outcome": "mixed",
+    "outcome_summary": "PARC’s inventions had substantial influence, while Xerox and the spin-offs captured value unevenly. In a comparison of selected spin-offs, successful ventures changed their business models more than unsuccessful ventures. The later outcome does not reveal which opportunities were clearly promising when the decisions were made.",
+    "observations": [
+      {
+        "claim": "PARC engineers developed the Alto through intensive prototyping and use within their technical community.",
+        "source_ids": [
+          "parc-engineers"
+        ]
+      },
+      {
+        "claim": "Among the Xerox technology spin-offs compared in the study, successful ventures changed their business models, while failed ventures showed less search and learning.",
+        "source_ids": [
+          "parc-business"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A successful existing business model can narrow which new uses an organization can recognize and support.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "parc-business"
+        ],
+        "alternative": "Markets, complementary technology and timing may make apparently promising uses unviable regardless of management interpretation."
+      },
+      {
+        "claim": "Spin-offs can create room for a different customer and revenue model.",
+        "status": "plausible",
+        "source_ids": [
+          "parc-business"
+        ],
+        "alternative": "Spin-offs also lose resources and coordination benefits; selected survivors exaggerate their apparent advantage."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Business models as an organizational learning mechanism",
+        "evidence_status": "A qualitative comparison of selected ventures",
+        "source_ids": [
+          "parc-business"
+        ],
+        "relevance": "A prototype can be technically impressive while lacking a customer, distribution channel, service arrangement, or source of revenue. Testing those connections is part of learning what the invention can become.",
+        "transfer_limit": "A retrospective account benefits from knowing what later succeeded. It cannot show that every rejected experiment would have been sensible to fund at the time."
+      }
+    ],
+    "lessons": [
+      "Who owns the work of turning a prototype into a usable service?",
+      "Can a new idea test a different business model without satisfying all assumptions of the old one?"
+    ],
+    "research_gaps": "How many apparently promising spin-offs failed, and which inventions were commercialized successfully inside Xerox? Without both sides of that comparison, it is easy to mistake the most memorable successes elsewhere for a complete account of Xerox’s choices.",
+    "sources": [
+      {
+        "id": "parc-business",
+        "title": "The Role of the Business Model in Capturing Value from Innovation: Evidence from Xerox Corporation’s Technology Spinoff Companies",
+        "url": "https://www.hbs.edu/ris/Publication%20Files/01-002_07351ae8-58be-44e5-a6d8-205cbf5b4424.pdf",
+        "publisher": "Chesbrough and Rosenbloom / Harvard Business School; published in Industrial and Corporate Change",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read abstract and opening framework of selected spin-off cases. Qualitative comparison, not random assignment of business models."
+      },
+      {
+        "id": "parc-engineers",
+        "title": "Xerox PARC’s Engineers on How They Invented the Future",
+        "url": "https://spectrum.ieee.org/xerox-parc/laser-printer-history",
+        "publisher": "IEEE Spectrum / interviews with PARC participants",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read opening and Alto development passages; participant recollections are valuable but retrospective and selective."
+      }
+    ],
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "The sample is selected and participant accounts retrospective. Add failed spin-offs and successful commercialization inside Xerox before repeating the myth that it commercialized nothing."
+      }
+    ]
+  },
+  {
+    "id": "nummi-learning-transfer",
+    "title": "NUMMI: changing the work changed the culture",
+    "question": "Can people learn a new way of organizing without replacing the workforce?",
+    "period": "1984–2010",
+    "location": "Fremont, California, and GM/Toyota networks",
+    "scale": "institutions",
+    "technology_ids": [
+      "T330",
+      "T013",
+      "D007",
+      "T188",
+      "T004"
+    ],
+    "summary": "Toyota and GM used the NUMMI joint venture to combine car production with organizational learning. Training and changes in daily management accompanied reported improvements among a workforce previously regarded as difficult. The plant later closed, showing why improving work and sustaining a business need to be examined separately.",
+    "outcome": "mixed",
+    "outcome_summary": "Participants reported improvements in quality and attendance, and research traced learning from Toyota through NUMMI to GM. The plant nevertheless closed after GM’s withdrawal and Toyota’s assessment that continued operation was not viable.",
+    "observations": [
+      {
+        "claim": "John Shook, who participated in the venture, described changes in training and management accompanied by lower absenteeism and better quality.",
+        "source_ids": [
+          "nummi-shook"
+        ]
+      },
+      {
+        "claim": "Knowledge developed through the Toyota–GM partnership was transferred beyond NUMMI into GM.",
+        "source_ids": [
+          "nummi-study"
+        ]
+      },
+      {
+        "claim": "Toyota announced the end of production after GM’s withdrawal, citing economic viability.",
+        "source_ids": [
+          "nummi-close"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Changing routines and how problems receive help can change the experience that sustains workplace norms.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "nummi-shook"
+        ],
+        "alternative": "Restart conditions, selection and economic circumstances may contribute to the reported improvement."
+      },
+      {
+        "claim": "Learning transfers through relationships and participation, not simply copying visible artifacts.",
+        "status": "plausible",
+        "source_ids": [
+          "nummi-study"
+        ],
+        "alternative": "Training, management decisions, and formal documentation may have worked together with relationships; their separate contributions are difficult to isolate."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Organizational learning and knowledge transfer",
+        "evidence_status": "Participant accounts and research on knowledge transfer",
+        "source_ids": [
+          "nummi-shook",
+          "nummi-study"
+        ],
+        "relevance": "People learn an unfamiliar work system through what happens when they identify a problem, ask for help, or attempt a task. The daily response can change expectations more than a statement about organizational culture.",
+        "transfer_limit": "The joint venture had access to Toyota’s training and GM’s organization. Another workplace would need to establish who can teach the practice and support it after training ends."
+      }
+    ],
+    "lessons": [
+      "What changes in the daily handling of a problem?",
+      "Can another part of the organization reproduce the practice with its own people?"
+    ],
+    "research_gaps": "How did workers experience the changes, and how much of the reported improvement came from the work system rather than restart conditions or selection? GM’s withdrawal and Toyota’s commercial judgment also leave questions about how benefits and costs were distributed between the partners.",
+    "sources": [
+      {
+        "id": "nummi-shook",
+        "title": "How to Change a Culture: Lessons from NUMMI",
+        "url": "https://www.lean.org/downloads/35.pdf",
+        "publisher": "John Shook / MIT Sloan Management Review",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read participant account of training, production-system changes and reported quality/attendance improvements."
+      },
+      {
+        "id": "nummi-study",
+        "title": "Learning Through Alliances: General Motors and NUMMI",
+        "url": "https://cmr.berkeley.edu/2005/08/47-4-learning-through-alliances-general-motors-and-nummi/",
+        "publisher": "Andrew Inkpen / California Management Review",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Read journal abstract about alliance learning and transfer to GM; full article not reviewed."
+      },
+      {
+        "id": "nummi-close",
+        "title": "TMC to End Production Contract with NUMMI in March 2010",
+        "url": "https://global.toyota/en/detail/309984",
+        "publisher": "Toyota Motor Corporation",
+        "type": "institutional-record",
+        "access": "full-text",
+        "note": "Contemporaneous closure announcement citing GM withdrawal and economic viability; management’s explanation, not independent causal attribution."
+      }
+    ],
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Obtain original performance data and worker perspectives. Toyota’s closure rationale is an interested account; no one source isolates why the venture ended."
+      }
+    ]
+  },
+  {
+    "id": "surgical-checklists-implementation",
+    "title": "Surgical checklists: a form is not an implementation",
+    "question": "Why can a promising practice produce different results at scale?",
+    "period": "2007–2014 studies",
+    "location": "Eight-country pilot and Ontario, Canada",
+    "scale": "groups",
+    "technology_ids": [
+      "T189",
+      "T190",
+      "T151",
+      "T026"
+    ],
+    "summary": "A surgical checklist organizes pauses, shared confirmation, and critical tasks. An early eight-hospital study found improved outcomes after its introduction; a later Ontario study did not find significant improvements after broad adoption. The contrast raises a concrete question: what must change in daily teamwork for a checklist to affect care?",
+    "outcome": "mixed",
+    "outcome_summary": "The pilot reported lower mortality and complications. Ontario’s 101-hospital comparison found no statistically significant reduction. Both were before-and-after studies, so differences cannot automatically be attributed to implementation quality or the checklist itself.",
+    "observations": [
+      {
+        "claim": "The eight-hospital study compared 3,733 patients before and 3,955 after introduction and reported reductions in death and complications.",
+        "source_ids": [
+          "checklist-pilot"
+        ]
+      },
+      {
+        "claim": "The Ontario study analyzed more than 200,000 procedures across 101 hospitals and found no significant mortality or complication improvement.",
+        "source_ids": [
+          "checklist-ontario"
+        ]
+      },
+      {
+        "claim": "An earlier systematic review reported favorable pooled results but variable compliance and a need for implementation research. It predates Ontario.",
+        "source_ids": [
+          "checklist-review"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Actual team use and integration into work may matter more than formally adopting a checklist.",
+        "status": "plausible",
+        "source_ids": [
+          "checklist-review"
+        ],
+        "alternative": "Different baseline risks, outcomes and observation methods could also explain the contrast."
+      },
+      {
+        "claim": "Before-and-after improvements may partly reflect concurrent changes or observation effects.",
+        "status": "plausible",
+        "source_ids": [
+          "checklist-pilot",
+          "checklist-ontario"
+        ],
+        "alternative": "A real benefit could still exist; absence of randomization limits attribution rather than disproving effectiveness."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Implementation fidelity and context",
+        "evidence_status": "Several empirical studies with differing results",
+        "source_ids": [
+          "checklist-pilot",
+          "checklist-ontario",
+          "checklist-review"
+        ],
+        "relevance": "Official adoption does not show whether staff paused, checked the relevant information, and acted on a problem. Those behaviors connect the checklist to the outcome it is intended to improve.",
+        "transfer_limit": "A checklist’s value depends on the work, baseline practice, and response to an identified problem. Results from surgery cannot supply an effect size for a checklist in a different setting."
+      }
+    ],
+    "lessons": [
+      "Was the practice performed meaningfully or merely recorded as completed?",
+      "What baseline and comparison would show improvement rather than a change in reporting?"
+    ],
+    "research_gaps": "Were teams using the checklist differently, or did the hospitals start from different levels of risk and safety practice? Changes in patient mix, concurrent improvements, and measurement could also affect the comparison. The before-and-after designs cannot cleanly separate those explanations.",
+    "sources": [
+      {
+        "id": "checklist-pilot",
+        "title": "A Surgical Safety Checklist to Reduce Morbidity and Mortality in a Global Population",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19144931/",
+        "publisher": "Haynes and colleagues / New England Journal of Medicine",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Full abstract retrieved through search after direct page access failed. Eight-hospital before-and-after study, not randomized."
+      },
+      {
+        "id": "checklist-ontario",
+        "title": "Introduction of Surgical Safety Checklists in Ontario, Canada",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24620866/",
+        "publisher": "Urbach and colleagues / New England Journal of Medicine",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Full abstract retrieved through search. Administrative before-and-after study across 101 hospitals; lack of significant improvement is not proof of zero effect."
+      },
+      {
+        "id": "checklist-review",
+        "title": "A Systematic Review of the Effectiveness, Compliance, and Critical Factors for Implementation of Safety Checklists in Surgery",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22968074/",
+        "publisher": "Annals of Surgery",
+        "type": "review",
+        "access": "abstract",
+        "note": "Review abstract read directly. Published before the Ontario study; cannot resolve that later contrast."
+      }
+    ],
+    "editorial_research_notes": [
+      {
+        "date": "2026-11-08",
+        "previous_research_gaps": "Abstract-level review only. Compare implementation measures, study adjustments and more recent randomized or stepped-wedge evidence before making a clinical-effectiveness judgment."
+      }
+    ]
+  }
+]

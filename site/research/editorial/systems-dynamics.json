@@ -1,0 +1,1431 @@
+[
+  {
+    "id": "S001",
+    "title": "Capitalism",
+    "description": "Organize production around private investment, ownership, and exchange, linking what gets built to who can fund it.",
+    "opening_html": "<p>A workshop needs equipment before it can sell anything. An investor can supply the money, employ people to do the work, and claim the remaining income after expenses. That arrangement connects a decision about what to produce with ownership, risk, and control.</p><p>Capitalism <a href=\"https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/capitalism\">combines</a> <a href=\"/technologies/private-ownership/\">private ownership</a> and investment with <a href=\"/technologies/markets/\">markets</a>, rather than naming exchange alone. A market stall, a <a href=\"/technologies/worker-cooperatives/\">worker-owned enterprise</a>, and an investor-owned company can all sell goods, while giving different people authority over the work and its returns.</p>",
+    "sections": [
+      {
+        "id": "investment-and-control",
+        "title": "Who gets to build—and decide?",
+        "html": "<p>The possibility of earning a return gives people a reason to commit resources to uncertain projects. Competition can press businesses to improve their offers. But the ability to finance an idea is unevenly distributed, and success at attracting profitable demand does not establish that the activity meets the most urgent social need.</p><p>Ownership matters after the investment too. Workers may know how to improve production without having the authority to change it; communities may bear effects that never enter the company’s accounts. <a href=\"/technologies/contracts/\">Contracts</a>, labor institutions, competition rules, and environmental obligations change these relationships.</p><p>Capitalist economies therefore differ substantially in how they organize bargaining, finance, and public provision. Understanding a particular arrangement means following both the money and the decision rights: who contributes, who controls, who receives the gains, and who absorbs losses.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "What Is Capitalism?",
+        "url": "https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/capitalism",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Introductory economic account, useful for separating markets from the wider system. Broader comparisons require additional perspectives."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S002",
+    "title": "Socialism",
+    "description": "Give people social or collective control over productive resources, with different answers about ownership, markets, and planning.",
+    "opening_html": "<p>If a factory shapes the lives of its workers and neighbors, why should its direction depend mainly on the owners of its capital? Socialist proposals begin from questions about who controls production and who benefits from it. They seek forms of social ownership or control that make economic life more answerable to the people involved.</p><p>This is <a href=\"https://plato.stanford.edu/entries/socialism/\">a family of arrangements</a>, not one operating manual. A <a href=\"/technologies/worker-cooperatives/\">worker cooperative</a> can sell into <a href=\"/technologies/markets/\">markets</a>. Public enterprises can employ professional managers. <a href=\"/technologies/economic-planning/\">Participatory planning</a> can give worker and consumer bodies a role in deciding what gets produced.</p>",
+    "sections": [
+      {
+        "id": "control-in-practice",
+        "title": "Ownership on paper, authority in practice",
+        "html": "<p>Changing the legal owner does not settle who exercises power. A publicly owned service may still be controlled by a distant managerial hierarchy; workers may have little influence over its priorities. Conversely, giving every decision to a meeting can leave people overwhelmed by coordination work.</p><p>The practical challenge is to connect social aims with information, incentives, and accountable authority. Who decides when an enterprise should change direction? How are necessary but unpopular tasks shared? How can people challenge leaders or leave an arrangement?</p><p>These questions distinguish proposals that otherwise share a label. Neither state ownership nor collective language alone establishes that people meaningfully govern their economic lives.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Socialism",
+        "url": "https://plato.stanford.edu/entries/socialism/",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: page sections reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S003",
+    "title": "Economic planning",
+    "description": "Coordinate resources through explicit commitments about what will be produced, by whom, and when.",
+    "opening_html": "<p>An ambulance service cannot wait until an emergency to discover whether someone happens to have a vehicle and a trained crew available. It plans staffing, equipment, and coverage in advance. Planning brings separate contributions into a common account of what needs to happen.</p><p>At larger scales, <a href=\"https://plato.stanford.edu/entries/socialism/#CentPartPlan\">economic planning</a> attempts to reconcile production with expected needs and available resources. Decisions may be concentrated in an authority or developed through repeated exchanges among workplaces, communities, and consumer bodies.</p>",
+    "sections": [
+      {
+        "id": "revision",
+        "title": "A plan has to learn",
+        "html": "<p>The hard part is not producing a document. Conditions change, local knowledge is incomplete, and people have reasons to describe their needs or capacities strategically. A manager may request extra supplies because shortages are costly, while another understates what their team could deliver to avoid a demanding target.</p><p>A useful planning process needs ways to surface those differences and revise commitments. <a href=\"/technologies/subsidiarity/\">Local discretion</a> can absorb unexpected events, but makes the overall plan less exact. Strong central control can maintain priorities while missing circumstances that people on the ground understand better.</p><p>Planning also works alongside exchange: a hospital can plan staffing while <a href=\"/technologies/markets/\">buying equipment from suppliers</a>. The important distinction is which decisions are coordinated by explicit commitments and which are left to other mechanisms, not whether an organization has a plan at all.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Socialism, section 4.1: Central and Participatory Planning",
+        "url": "https://plato.stanford.edu/entries/socialism/#CentPartPlan",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: page section reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S004",
+    "title": "Democracy",
+    "description": "Give people a recognized role in governing shared affairs and in challenging those who exercise public power.",
+    "opening_html": "<p>A decision can affect your life even when you had no part in making it. Democracy addresses that problem by giving members of a political community a share in collective authority. It asks how people can govern together without treating some as the permanent subjects of others.</p><p>The familiar vote is only one component. People also need ways to raise issues, hear competing arguments, organize opposition, and hold decision-makers answerable. A ballot can select leaders or decide a proposal, but it cannot do all those jobs by itself.</p>",
+    "sections": [
+      {
+        "id": "bundles",
+        "title": "Several arrangements working together",
+        "html": "<p>In <a href=\"/technologies/direct-democracy/\">direct decision-making</a>, eligible participants decide an issue themselves. In <a href=\"/technologies/representative-democracy/\">representative arrangements</a>, they choose people who exercise decision authority. <a href=\"/technologies/assemblies/\">Assemblies</a> bring participants together to deliberate and decide; <a href=\"/technologies/referendums/\">referendums</a> <a href=\"https://www.parliament.uk/site-information/glossary/referendum/\">allow decisions without everyone meeting in one room</a>. These features can coexist within the same system.</p><p>Participation has several boundaries: who is eligible, who can realistically take part, what they may decide, and what happens after a decision. A public meeting at an inaccessible time may be formally open while excluding many of the people affected.</p>"
+      },
+      {
+        "id": "disagreement",
+        "title": "Governing without making disagreement disappear",
+        "html": "<p>People can share political standing while disagreeing deeply about the common good. Procedures make it possible to reach decisions despite that disagreement; rights and review mechanisms constrain what a temporary majority or officeholder may do to others.</p><p>Democratic quality therefore depends on more than how frequently votes occur. Are alternatives genuinely available? Can opponents speak and organize? Does losing today leave a credible path to influence tomorrow? Can the public see whether authorized decisions were implemented?</p><p>The challenge grows with scale. A small association can put most members in a room; a country needs arrangements for representation, administration, and scrutiny. Choosing among those arrangements changes whose knowledge reaches decisions and how power can be contested.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Referendum",
+        "url": "https://www.parliament.uk/site-information/glossary/referendum/",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Institutional explanations of direct and representative decision-making. Assembly democracy is an editorial navigation category for the convened, collectively authoritative arrang"
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S006",
+    "title": "Meritocracy",
+    "description": "Allocate positions and rewards by demonstrated ability or contribution, while confronting who gets the chance to demonstrate either.",
+    "opening_html": "<p>A person should not need the right surname or powerful friends to become a judge, engineer, or school leader. Meritocracy makes an appealing promise: opportunities should depend on relevant ability and contribution rather than inherited privilege.</p><p>But <a href=\"https://plato.stanford.edu/entries/meritocracy/\">merit is a choice of standard</a>. <a href=\"/technologies/competitive-examinations/\">An exam</a> can reveal some abilities and miss others. Past performance can be informative while reflecting the resources someone had, the tasks they were assigned, and whose work received credit.</p>",
+    "sections": [
+      {
+        "id": "opportunity",
+        "title": "The competition begins before selection",
+        "html": "<p>Two applicants may take the same test after very different childhoods. Calling the process open does not give them equal preparation, confidence, or access to advice. A system can weaken favoritism at the final selection stage while reproducing advantage much earlier.</p><p>Nor does success in one competition establish a person’s overall worth or an unlimited right to govern others. Selecting a skilled surgeon answers a question about a particular responsibility; it does not rank citizens by human value.</p><p>Meritocratic arrangements become more credible when they specify <a href=\"/technologies/merit-based-selection/\">what a role requires</a>, allow several ways to show competence, and revisit judgments as people develop. The difficulty is preserving the useful demand for capable performance without turning existing winners into a self-justifying social class.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Meritocracy",
+        "url": "https://plato.stanford.edu/entries/meritocracy/",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Discusses merit as a principle of allocation, its relationship to opportunity, and competing interpretations."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S007",
+    "title": "Technocracy",
+    "description": "Give specialized knowledge authority in public decisions, while distinguishing technical judgment from the power to choose collective goals.",
+    "opening_html": "<p>A city deciding how to protect itself from flooding needs engineers, climate knowledge, and reliable estimates. Ignoring expertise can make collective decisions dangerously detached from what is possible. Technocracy goes further than seeking advice: it gives experts a privileged claim to decide.</p><p>That distinction matters. An engineer may estimate which barrier will hold, but the choice between relocating homes and protecting a commercial district also concerns whose losses count. <a href=\"https://doi.org/10.1146/annurev-polisci-033123-020420\">Expertise and democratic authority</a> answer overlapping but different questions.</p>",
+    "sections": [
+      {
+        "id": "expert-disagreement",
+        "title": "Knowledge does not remove the need for judgment",
+        "html": "<p>Experts themselves can disagree about models, assumptions, and acceptable uncertainty. <a href=\"/technologies/peer-review-of-work/\">Peer review</a> gives other specialists a defined opportunity to examine a judgment. Someone must decide which questions to investigate, which evidence to fund, and how much risk to tolerate. Presenting a policy as simply “what the science says” can hide those decisions.</p><p>Technical institutions can still make important contributions by explaining constraints, comparing options, and making their reasoning available for challenge. Independence may protect them from immediate political pressure, while review and public accountability prevent independence from becoming insulation.</p><p>The practical issue is where expertise enters the decision and what authority accompanies it. A specialist recommending an option, an agency applying an agreed standard, and an unelected body setting society’s priorities are distinct arrangements, even when all employ highly qualified people.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Expert Knowledge in Democracies: Promises, Limits, and Conflict",
+        "url": "https://doi.org/10.1146/annurev-polisci-033123-020420",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: search excerpt."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S008",
+    "title": "Monarchy",
+    "description": "Concentrate the headship of a state in a monarch, with powers ranging from largely ceremonial to directly governing.",
+    "opening_html": "<p>A state may have a monarch without that monarch running its <a href=\"/technologies/government/\">government</a>. In a <a href=\"/technologies/constitutions-and-charters/\">constitutional arrangement</a>, the office can represent continuity while ministers and legislatures make political decisions. In other monarchies, the ruler holds substantial executive authority. The title alone does not tell us who governs.</p><p>In Britain, <a href=\"https://www.royal.uk/the-role-of-the-monarchy\">constitutional arrangements separate the enduring royal office from day-to-day party government</a>. Understanding the monarchy therefore requires looking beyond the monarch to the ministers and institutions that exercise political authority.</p>",
+    "sections": [
+      {
+        "id": "continuity",
+        "title": "Continuity brings a succession problem",
+        "html": "<p>An office that is not regularly contested can offer a recognizable focus for ceremonial life. <a href=\"/technologies/dynasties/\">Hereditary succession</a> can also make the next holder predictable, reducing one kind of uncertainty. Yet predictability does not ensure competence or consent, and family disputes can make succession uncertain again.</p><p>Where a monarch governs directly, much depends on the judgment of the person holding the office and on the institutions capable of constraining them. Where the role is constitutional, informal influence and the boundaries of ceremonial authority still matter.</p><p>To understand a monarchy, follow its actual decisions: who appoints officials, controls public resources, interprets the rules, and can challenge the ruler. The same crown can sit above very different distributions of power.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The role of the Monarchy",
+        "url": "https://www.royal.uk/the-role-of-the-monarchy",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: page reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S009",
+    "title": "Dynasties",
+    "description": "Carry authority, assets, and relationships across generations through a family, linking continuity to the hazards of inherited position.",
+    "opening_html": "<p>A family can pass on more than property. Children grow up around trusted associates, learn the history of disputes, and become recognizable to people whose cooperation matters. A dynasty uses those relationships to carry influence across generations.</p><p>That can make a transition easier than replacing a leader with a complete outsider. But the successor inherits a position, not automatically the ability to exercise it. <a href=\"/technologies/succession-planning/\">Succession</a> <a href=\"https://samoburja.com/gft/\">requires knowledge, cooperation, and authority to travel together</a>.</p><p>Imagine a family-owned transport company. The next generation may understand its routes and customers from years of involvement, yet still need to earn the confidence of drivers and managers. <a href=\"/technologies/private-ownership/\">Ownership can be transferred</a> on paper while practical leadership remains with someone else.</p><p>Family continuity also narrows the pool of possible successors. A capable relative may be overlooked because of age or gender; a more capable outsider may never be considered. Disagreements about family obligations can become organizational decisions about appointments or investment.</p><p>Dynasties should therefore be examined as a bundle of inheritance, training, alliances, and selection. Their durability can indicate successful transmission, entrenched privilege, or both. A long family history by itself does not tell us which capabilities are still alive.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Author's manuscript page",
+        "url": "https://samoburja.com/gft/",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  User-supplied PDF, read as extracted text. Original page outlines retain chapter and page references. [Author's manuscript page](https://samoburja.com/gft/). Theory and historical"
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S010",
+    "title": "Bureaucracy",
+    "description": "Make large organizations work through defined offices, procedures, and records, so action does not depend entirely on personal relationships.",
+    "opening_html": "<p>You should not need a personal friendship with a clerk to receive a document you are entitled to. Bureaucracy makes responsibilities belong to offices: a person occupies a role, <a href=\"/technologies/standard-operating-procedures/\">follows a procedure</a>, and leaves records another person can use.</p><p><a href=\"https://www.law.cornell.edu/wex/bureaucracy\">Specialized roles and impersonal rules</a> let an organization handle more work than any one leader could personally oversee. They can preserve continuity when staff change and give people grounds to challenge inconsistent treatment.</p>",
+    "sections": [
+      {
+        "id": "exceptions",
+        "title": "The unusual case meets the standard procedure",
+        "html": "<p>The same arrangement can become inflexible. A rule designed for ordinary cases may fail someone whose circumstances do not fit its categories. Staff may fear making a reasonable exception because the organization can easily punish a procedural deviation but cannot easily recognize good judgment.</p><p>Removing the rule is not an automatic improvement. Discretion can make room for care, favoritism, or arbitrary refusal. The difficult design work concerns who may depart from the usual process, how they explain the decision, and <a href=\"/technologies/appeals-procedures/\">whether others can appeal</a>.</p><p>Records also have to remain useful. A form that nobody reads still consumes time; <a href=\"/technologies/decision-logs/\">a clear record of a decision</a> can save the next employee from reconstructing it. Bureaucracy works through that continuing relationship between procedures and the purposes they are meant to serve.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bureaucracy",
+        "url": "https://www.law.cornell.edu/wex/bureaucracy",
+        "access": "search-excerpt",
+        "note": "Current institutional overview reviewed on specialized agents and impersonal procedures."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S011",
+    "title": "Government",
+    "description": "Organize public authority so collective decisions can be financed, implemented, and challenged across a population.",
+    "opening_html": "<p>Agreeing that a town needs clean water does not build and maintain its water system. Someone must establish responsibilities, collect resources, resolve disputes, and ensure that promises survive changes of leadership. Government organizes authority over shared affairs at a scale where voluntary agreement alone may be difficult.</p><p>Its work combines decision-making with <a href=\"/technologies/bureaucracy/\">administration</a>. <a href=\"/technologies/law/\">A law</a>, a budget, and a service are different parts of the process: approving expenditure does not ensure that a trained team or functioning supply chain exists to deliver it.</p>",
+    "sections": [
+      {
+        "id": "authority-and-capability",
+        "title": "Authority has to become capability",
+        "html": "<p><a href=\"https://www.worldbank.org/en/publication/wdr2017\">Effective public action depends on commitment, coordination, and cooperation</a>. A government must make agreements credible, connect agencies whose work depends on one another, and secure enough cooperation for decisions to take effect. Formal powers can exist without these capabilities.</p><p>Public authority also creates opportunities for exclusion and <a href=\"/dynamics/capture/\">capture</a>. The people who negotiate a policy may differ from those who bear its costs. A technically sensible proposal can fail because powerful participants oppose it, while a harmful arrangement can persist because it protects their position.</p><p>Understanding government therefore means following a decision beyond the announcement: through funding, staffing, implementation, and routes of challenge. The central question is how collective authority becomes reliable action while remaining answerable to the people affected.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Development Report 2017: Governance and the Law",
+        "url": "https://www.worldbank.org/en/publication/wdr2017",
+        "access": "search-excerpt",
+        "note": "Current search reviewed the report overview on commitment, coordination, cooperation, and unequal power."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S012",
+    "title": "Law",
+    "description": "Create recognizable rules and ways to interpret, enforce, and contest them, making cooperation less dependent on personal power.",
+    "opening_html": "<p>Two neighbors disagree about access to a shared path. Without a recognized way to settle the dispute, the outcome may depend on threats, persistence, or influential friends. Law creates rules and procedures through which a claim can be heard and a decision can have consequences beyond the parties’ immediate agreement.</p><p>Written rules are only part of the arrangement. People need to know which rules apply, who may interpret them, what evidence counts, and how a decision can be enforced or <a href=\"/technologies/appeals-procedures/\">challenged</a>.</p>",
+    "sections": [
+      {
+        "id": "law-and-power",
+        "title": "Rules can constrain power—or carry it",
+        "html": "<p>The <a href=\"https://www.un.org/ruleoflaw/en/what-is-the-rule-of-law\">rule of law</a> adds a demanding idea: officials and institutions should themselves be accountable to public rules, rather than using rules only to control others. <a href=\"/technologies/courts/\">Independent adjudication</a>, predictable procedures, and fair access help distinguish that aspiration from merely having many laws.</p><p>But formal availability does not mean practical access. A person unable to afford representation, understand a procedure, or wait through a long dispute may have a right they cannot effectively exercise. Enforcement can also be selective, leaving written equality alongside unequal treatment.</p><p>Law makes complex cooperation possible partly by stabilizing expectations. Its quality also depends on the ability to revise mistaken rules and provide meaningful remedies when those expectations are violated. A code without functioning institutions can promise much more than it delivers.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "What is the Rule of Law?",
+        "url": "https://www.un.org/ruleoflaw/en/what-is-the-rule-of-law",
+        "access": "search-excerpt",
+        "note": "Current search reviewed the UN definition and institutional principles; no jurisdiction-specific advice."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S013",
+    "title": "Diplomacy",
+    "description": "Keep channels open between political actors so they can understand one another, negotiate, and manage disagreement without constant escalation.",
+    "opening_html": "<p>Two <a href=\"/technologies/government/\">governments</a> can disagree sharply and still need to discuss a missing citizen, a shipping route, or a dangerous military misunderstanding. Diplomacy maintains relationships through which that communication remains possible.</p><p>An envoy does more than carry a message. They learn how the other side interprets events, explain what their own side can accept, and explore agreements that leaders may not be ready to discuss publicly. <a href=\"https://untreaty.un.org/ilc/texts/instruments/english/conventions/9_1_1961.pdf\">Representation, negotiation, and reporting</a> are recognized functions of a diplomatic mission.</p><p>A conversation is useful only if participants understand the <a href=\"/technologies/delegated-authority/\">authority behind it</a>. A representative may be able to explore possibilities without being empowered to make a binding commitment. Confusing those roles can turn an exploratory discussion into an apparent betrayal.</p><p>Diplomatic relationships can help clarify intentions, but they do not erase conflicts of interest or unequal power. A weaker party may accept a proposal because its alternatives are worse; a carefully worded agreement may conceal disagreement that later reappears during implementation.</p><p>The work therefore includes maintaining channels after disappointment, distinguishing public positions from negotiable details, and finding ways to make commitments credible. The existence of a conversation is not evidence of agreement. It is infrastructure that can make agreement—or at least a less destructive disagreement—possible.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Vienna Convention on Diplomatic Relations",
+        "url": "https://untreaty.un.org/ilc/texts/instruments/english/conventions/9_1_1961.pdf",
+        "access": "search-excerpt",
+        "note": "Current search reviewed establishment by consent and Article 3 mission functions; no interpretation of immunity claims."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S014",
+    "title": "Political theory",
+    "description": "Make assumptions about authority, justice, and collective life explicit enough to examine and dispute.",
+    "opening_html": "<p>A council proposes demolishing homes to build a railway. Some people defend the project because many will benefit; others object that individuals should not bear such losses without consent. The disagreement concerns more than the transport forecast. It concerns what makes collective power legitimate.</p><p>Political theory supplies concepts for working through those questions. It asks who may govern, what people owe one another, which freedoms deserve protection, and how institutions should handle conflicts among worthwhile aims.</p>",
+    "sections": [
+      {
+        "id": "reasons",
+        "title": "Different answers produce different institutions",
+        "html": "<p>An account that grounds authority in consent will evaluate an institution differently from one that emphasizes beneficial outcomes or inherited obligations. <a href=\"https://plato.sydney.edu.au/entries/legitimacy/\">Theories of political legitimacy</a> examine those differences rather than assuming that effective power already has a right to rule.</p><p>These ideas can guide design: <a href=\"/technologies/democracy/\">whether people should vote</a>, which decisions require stronger protection, and what <a href=\"/technologies/appeals-procedures/\">forms of appeal</a> should exist. They can also justify arrangements that benefit those presenting the argument. An elegant theory may depend on assumptions about people, resources, or consent that the actual institution does not satisfy.</p><p>Political theory is therefore a way of investigating social technologies, not a substitute for seeing how they work. It makes the values behind a rule visible, so disagreements about those values need not remain disguised as disagreements about procedure alone.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Political Legitimacy",
+        "url": "https://plato.sydney.edu.au/entries/legitimacy/",
+        "access": "search-excerpt",
+        "note": "Current indexed discussion reviewed on authority and competing roles of consent."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S015",
+    "title": "Ideology",
+    "description": "Connect explanations of the world with ideas about how it should change, giving people a shared language for collective action.",
+    "opening_html": "<p>People facing the same event can see different problems. A factory closure might be understood as a failure of management, an unavoidable market adjustment, a loss of national independence, or an injustice to workers. Each interpretation makes some responses seem natural and others misguided.</p><p>Ideology connects those interpretations with values and expectations. It helps people identify allies, explain setbacks, and imagine a desirable future. <a href=\"/technologies/shared-symbols/\">Shared language</a> can coordinate action among strangers who have never worked out every disagreement between them.</p>",
+    "sections": [
+      {
+        "id": "seeing-and-missing",
+        "title": "A shared interpretation also directs attention",
+        "html": "<p>The term <a href=\"https://plato.stanford.edu/entries/ideology/\">ideology</a> is used both for broad systems of political ideas and, more critically, for ideas that obscure or justify domination. These meanings should not be collapsed. Having a framework for understanding politics does not by itself mean being deceived.</p><p>Every framework nonetheless makes some features easier to notice than others. A movement may explain each failure as sabotage and <a href=\"/dynamics/groupthink/\">stop investigating its own mistakes</a>. An institution may present inherited arrangements as natural, making alternatives difficult even to articulate.</p><p>The practical force of an ideology lies in those habits of attention as well as its explicit claims. Its usefulness depends partly on whether experience can revise it, and whether people can question its assumptions without being treated as enemies of everything the group values.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ideology",
+        "url": "https://plato.stanford.edu/entries/ideology/",
+        "access": "search-excerpt",
+        "note": "Current indexed passages reviewed distinguishing descriptive and critical uses of ideology."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S016",
+    "title": "Strategy",
+    "description": "Connect a diagnosis of a situation with choices that concentrate effort on changing it.",
+    "opening_html": "<p>A <a href=\"/technologies/neighborhood-associations/\">neighborhood association</a> wants safer streets, but its volunteers have limited time. It could distribute leaflets, <a href=\"/technologies/lobbying/\">lobby for crossings</a>, organize a walking group, or campaign against speeding. Doing all four weakly may accomplish less than understanding the main obstacle and concentrating on it.</p><p>Strategy links an account of the problem to a choice of approach and actions that reinforce one another. <a href=\"https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy\">Diagnosis, guiding policy, and coherent action</a> turn a broad ambition into a reason for choosing some efforts over others.</p>",
+    "sections": [
+      {
+        "id": "choices",
+        "title": "A strategy has consequences for what you stop doing",
+        "html": "<p>If the main obstacle is a dangerous junction controlled by a regional authority, recruiting more volunteers to repaint local signs may not address it. Mapping decision authority, <a href=\"/technologies/coalitions/\">building a coalition</a>, and documenting the junction’s use may fit together more closely.</p><p>A strategy can still be wrong because the diagnosis is wrong or circumstances change. That makes it important to distinguish a commitment to the purpose from loyalty to the original plan. Evidence that the obstacle lies elsewhere should change the approach.</p><p>The social function is coordination: people can act independently when they understand what the group is trying to change and why particular choices matter. A slogan supplies direction only vaguely. A strategy helps resolve actual tradeoffs over attention, resources, and responsibility.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The perils of bad strategy",
+        "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy",
+        "access": "search-excerpt",
+        "note": "Current author-written article passages reviewed on diagnosis, guiding policy, and coherent action."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S017",
+    "title": "Education",
+    "description": "Organize the development of knowledge and capability, linking learners, teachers, practice, and recognition over time.",
+    "opening_html": "<p>A society cannot rely on every generation rediscovering how to read, care for others, build things, or evaluate claims. Education makes learning a sustained collective undertaking. It brings together people who can teach, opportunities to practice, materials, expectations, and ways to recognize progress.</p><p>Schools are one arrangement within that wider activity. <a href=\"/technologies/apprenticeship/\">Apprenticeships</a>, families, workplaces, and community groups also transmit knowledge. Their purposes can differ: developing a craft, preparing citizens, opening opportunities, or preserving a tradition.</p>",
+    "sections": [
+      {
+        "id": "learning",
+        "title": "Attendance is easier to count than understanding",
+        "html": "<p><a href=\"https://www.worldbank.org/en/publication/wdr2018\">Schooling and learning are not the same achievement</a>. A system can expand enrollment while learners lack the support or teaching needed to develop capability. <a href=\"/technologies/credentials/\">Certificates</a> can become valuable signals even when their connection to actual understanding weakens.</p><p>The work depends on relationships between its parts. A curriculum that assumes knowledge learners have not acquired leaves teachers struggling. An assessment that rewards memorization can steer effort away from reasoning. Conditions outside the classroom also shape who can concentrate, attend, and continue.</p><p>Education therefore involves choices about what is worth learning and how people get a fair chance to learn it. Its success is visible when learners can do, understand, and question things they previously could not—not simply when the institution completes its scheduled activities.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "World Development Report 2018: Learning to Realize Education’s Promise",
+        "url": "https://www.worldbank.org/en/publication/wdr2018",
+        "access": "search-excerpt",
+        "note": "Current report overview reviewed distinguishing schooling and learning and identifying institutional alignment problems."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S018",
+    "title": "Cities",
+    "description": "Bring people and activities close enough to support specialized work, shared infrastructure, and encounters that would otherwise be unlikely.",
+    "opening_html": "<p>A specialist repair shop may need customers from thousands of households to survive. A city brings enough people within reach for that service—and many others—to become possible. Nearby workplaces, schools, suppliers, and public spaces create opportunities that depend on density and connection.</p><p>Physical proximity alone is not enough. Transport, water systems, <a href=\"/technologies/private-ownership/\">property arrangements</a>, public safety, and the use of shared space determine whether people can benefit from being close to one another.</p>",
+    "sections": [
+      {
+        "id": "proximity",
+        "title": "The same concentration creates costs",
+        "html": "<p><a href=\"https://www.oecd.org/en/publications/does-it-pay-to-live-in-big-ger-cities_e0490ba8-en.html\">Agglomeration brings benefits alongside housing and living costs</a>. A person may earn more in a large city yet spend much of the gain on rent and travel. Businesses can draw on a larger pool of skills while contributing to congestion and competition for space.</p><p>Cities also connect people unevenly. A neighborhood may be geographically near employment but poorly served by transit. A public square may exist without being welcoming or accessible to everyone. The map of buildings does not show the full map of opportunity.</p><p>Treating a city as a social technology means examining the arrangements that make proximity useful: how streets connect, how land is allocated, where <a href=\"/technologies/third-places/\">third places</a> let people meet, and who can remain as a place becomes desirable. Urban growth can create possibilities while displacing the people who helped create them.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Does It Pay to Live in Big(ger) Cities?",
+        "url": "https://www.oecd.org/en/publications/does-it-pay-to-live-in-big-ger-cities_e0490ba8-en.html",
+        "access": "search-excerpt",
+        "note": "Research overview reviewed on productivity, amenities, and living costs; examples are editorial, not estimated effects."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S019",
+    "title": "Healthcare",
+    "description": "Connect prevention, diagnosis, treatment, and ongoing care through institutions that people can actually reach and rely on.",
+    "opening_html": "<p>A treatment can exist without being available to the person who needs it. A clinic may lack trained staff, a referral may never reach the next service, or the cost of attending may make care impractical. Healthcare depends on coordination as well as medical knowledge.</p><p>The system includes <a href=\"/technologies/education/\">professional training</a>, supplies, records, financing, standards, and relationships between services. These arrangements carry a person from one encounter to another rather than treating each appointment as an isolated event.</p>",
+    "sections": [
+      {
+        "id": "continuity",
+        "title": "Care has to hold together",
+        "html": "<p>The goal of <a href=\"https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-%28uhc%29\">universal health coverage</a> includes access to needed quality services without financial hardship, across prevention, treatment, rehabilitation, and palliative care. Insurance enrollment or the number of facilities alone does not establish that people receive effective care.</p><p>A service can make one stage efficient by pushing difficulty onto another: a rapid discharge may leave a family without support, while a centralized specialist service may be hard to reach. Professional boundaries can preserve expertise while complicating <a href=\"/technologies/handoff-protocols/\">handovers</a>.</p><p>Healthcare is thus a family of social arrangements with different consequences for continuity, access, and trust. Patient experience matters alongside organizational measures because the person receiving care encounters the whole chain, including the gaps between institutions that each consider their own task complete.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Universal health coverage — WHO",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-%28uhc%29",
+        "access": "search-excerpt",
+        "note": "Current 2025 fact-sheet overview reviewed for care continuum and financial protection, without reproducing statistics."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S020",
+    "title": "Psychotherapy",
+    "description": "Create a professional relationship and structured practices through which people can work on psychological distress and patterns that trouble them.",
+    "opening_html": "<p>Some difficulties persist even when a person understands that something needs to change. Psychotherapy provides a professional setting in which experiences, emotions, thoughts, and behavior can be explored and worked on over time.</p><p>It is not one conversational technique. <a href=\"https://www.nimh.nih.gov/health/topics/psychotherapies\">Different psychotherapies use different approaches</a>, and evidence varies by the difficulty being treated and the method used. The relationship, the practitioner’s competence, and the structure of the work all matter.</p>",
+    "sections": [
+      {
+        "id": "professional-setting",
+        "title": "More than having someone to talk to",
+        "html": "<p>A friend may offer support, but a therapeutic relationship has explicit boundaries, responsibilities, and a professional purpose. Those arrangements can make it possible to discuss things that are difficult to raise elsewhere. Questions about <a href=\"/technologies/professional-licensing/\">professional licensing</a> concern who may offer a service; they are distinct from whether a particular therapeutic relationship is useful. They also create a power imbalance: the practitioner has influence over a person who may be distressed or uncertain.</p><p>Choosing an approach involves its fit with the person’s concerns, the evidence behind it, and whether the work feels understandable and respectful. A theory that explains every possible outcome is difficult to evaluate; a relationship that discourages questions can undermine the independence it is meant to support.</p><p>Psychotherapy combines professional knowledge, protected attention, and repeated work on a person’s concerns. The relationship needs enough structure to support that work and enough openness for the person to question how it is helping.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Psychotherapies — NIMH",
+        "url": "https://www.nimh.nih.gov/health/topics/psychotherapies",
+        "access": "search-excerpt",
+        "note": "Current indexed passages reviewed on treatment variety, evidence, and professional fit; no treatment prescription."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S021",
+    "title": "Marriage",
+    "description": "Give a relationship public recognition and a structured set of commitments, with meanings and obligations that vary across societies.",
+    "opening_html": "<p>Two people can care for one another without marrying. Marriage adds a recognized social and, often, <a href=\"/technologies/law/\">legal relationship</a>: others can understand that certain commitments exist without negotiating their meaning from scratch each time.</p><p>Those commitments may concern care, property, children, inheritance, kinship, or religious obligation. <a href=\"https://plato.stanford.edu/entries/marriage/\">Marriage has been understood both as an institution and as a relationship shaped by the participants’ choices</a>. Different understandings give different answers about which obligations are fixed and which can be revised.</p><p>Public recognition can make cooperation easier by clarifying expectations and giving a relationship standing with institutions and families. It can also bring <a href=\"/technologies/social-norms/\">expectations the participants did not choose</a>, especially where gender, family authority, or social status determines whose preferences count.</p><p>The ability to enter a marriage is only part of its design. The ability to refuse, negotiate, own resources independently, or leave matters too. An arrangement can promise protection while making dependence difficult to escape.</p><p>The same name can therefore cover different commitments and distributions of power. What matters to the people involved is which obligations others recognize, what each partner can decide, and what happens when care or cooperation breaks down.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Marriage and Domestic Partnership",
+        "url": "https://plato.stanford.edu/entries/marriage/",
+        "access": "search-excerpt",
+        "note": "Current indexed sections reviewed on institutional and contractual accounts and unequal historical arrangements."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S022",
+    "title": "Adoption",
+    "description": "Establish recognized parent–child relationships through an institutional process, making care and belonging durable beyond biological descent.",
+    "opening_html": "<p>Children need care that continues beyond a person’s temporary willingness to help. Adoption can establish an enduring parent–child relationship, with <a href=\"/technologies/law/\">recognized responsibilities</a> and membership in a family. Its social force comes from making that relationship legible to other people and institutions.</p><p>The arrangement involves more than identifying adults willing to parent. A child has an existing history, relationships, identity, and interests that cannot be reduced to the preferences of prospective parents.</p>",
+    "sections": [
+      {
+        "id": "interests",
+        "title": "Whose needs organize the process?",
+        "html": "<p>In intercountry adoption, <a href=\"https://www.hcch.net/en/instruments/conventions/specialised-sections/intercountry-adoption\">international safeguards emphasize the child’s best interests and protection against improper adoption</a>. The need for safeguards shows why demand from adults is not enough to justify a placement. Reliable processes must address consent, family circumstances, and the legitimacy of decisions.</p><p>Adoption also has forms outside contemporary child placement: historically, adult adoption has sometimes transferred family membership or supported <a href=\"/technologies/dynasties/\">dynastic succession</a>. Those arrangements should not be treated as interchangeable with providing care for a child.</p><p>Across these differences, the central mechanism is recognized kinship. Its consequences depend on the rights and obligations attached to it, the people whose voices count in establishing it, and the support available afterward. Creating a formal relationship is a significant beginning, not proof that every emotional or practical need has been resolved.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "HCCH Adoption Section",
+        "url": "https://www.hcch.net/en/instruments/conventions/specialised-sections/intercountry-adoption",
+        "access": "search-excerpt",
+        "note": "Current overview reviewed for child-centered safeguards in intercountry adoption; not all adoption systems."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S023",
+    "title": "Ritual",
+    "description": "Use repeated, meaningful actions to organize shared attention, mark transitions, and make belonging publicly recognizable.",
+    "opening_html": "<p>A graduation does not create the learning that preceded it. It makes <a href=\"/technologies/rites-of-passage/\">a transition visible</a>: people gather, names are spoken, and an achievement becomes something others witness. Ritual gives an event a recognizable shape that participants can enter together.</p><p>The same pattern appears in <a href=\"/technologies/welcoming-ceremonies/\">welcoming a new member</a>, mourning a death, or opening a shared undertaking. Repetition reduces the need to invent a response in an emotionally or socially important moment, while familiar actions connect the occasion to earlier ones.</p><p>Ritual can coordinate attention and feeling, but people do not experience it identically. <a href=\"https://pubmed.ncbi.nlm.nih.gov/21536887/\">A field study of a fire-walking ritual</a> found linked physiological responses between performers and related spectators, not a uniform response from everyone present. Shared form does not erase differences in relationship or interpretation.</p><p>A practice may become meaningful through participation, or feel empty when people are required to perform it without understanding its purpose. The details also determine who belongs: language, dress, physical demands, and assumptions about belief can welcome some people while excluding others.</p><p>Ritual is therefore more than decoration added to a group. It can make commitments and transitions recognizable, but its value depends on what people actually bring to the occasion and whether they have room to participate honestly.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Synchronized arousal between performers and related spectators in a fire-walking ritual",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21536887/",
+        "access": "search-excerpt",
+        "note": "Abstract excerpts reviewed; field finding limited to the studied ritual and relationships."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S024",
+    "title": "Sacrifice",
+    "description": "Make a commitment visible by relinquishing something valued, while recognizing that cost alone does not establish worth or consent.",
+    "opening_html": "<p><a href=\"/technologies/public-pledges/\">Promises</a> are easy to make when nothing changes after making them. Giving up time, resources, or an opportunity can show that a commitment has consequences for the person making it. In religious settings, sacrifice also carries meanings of offering, obligation, and relationship that cannot be reduced to a calculation of incentives.</p><p>A demanding contribution may make commitment more credible because it is harder to offer casually. That is the possibility examined by <a href=\"https://journals.sagepub.com/doi/10.1177/1069397103037002003\">costly-signaling explanations of religious commitment</a>. Whether the contribution sustains a community also depends on who bears its cost and what the community does with it.</p>",
+    "sections": [
+      {
+        "id": "cost",
+        "title": "A costly commitment can become a trap",
+        "html": "<p>The same requirement weighs differently on different people. A <a href=\"/technologies/membership-dues/\">financial contribution</a> that is modest for one member may be severe for another. Treating equal payments as equal devotion can confuse resources with commitment.</p><p>Groups can also escalate demands, turning previous sacrifices into a reason people feel unable to leave. Public admiration for endurance may discourage members from acknowledging harm or questioning the purpose of the demand.</p><p>The important distinction is between a freely chosen contribution that sustains something valuable and an ordeal used to secure compliance. A group’s ability to recognize quieter forms of care and allow refusal reveals as much about its commitments as the costs it asks members to bear.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cooperation and Commune Longevity: A Test of the Costly Signaling Theory of Religion",
+        "url": "https://journals.sagepub.com/doi/10.1177/1069397103037002003",
+        "access": "search-excerpt",
+        "note": "Abstract excerpts reviewed; theory and historical comparison do not establish that costly sacrifice reliably causes cooperation."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S025",
+    "title": "Marketing",
+    "description": "Connect an offer with the people who may value it, shaping what they notice, understand, and choose.",
+    "opening_html": "<p>A useful service can remain unused because the people who need it do not know it exists or cannot see how it fits their lives. Marketing connects an offer with an audience: it involves learning about needs, shaping the offer, explaining it, and <a href=\"/technologies/markets/\">making exchange possible</a>.</p><p><a href=\"https://www.ama.org/the-definition-of-marketing-what-is-marketing/\">Marketing includes creating and delivering value</a>, not only advertising a finished product. A community theater deciding its schedule, ticket options, and message is making connected choices about whom it can reach and what experience it offers.</p>",
+    "sections": [
+      {
+        "id": "attention",
+        "title": "Getting noticed is not the same as being useful",
+        "html": "<p>The feedback can be misleading. A message may attract attention without bringing people who benefit from the service. A simplified promise may increase initial interest while creating disappointment afterward. When <a href=\"/dynamics/metric-gaming/\">success is measured only by immediate response</a>, there is pressure to exaggerate or exploit uncertainty.</p><p>Listening to users can improve the offer, but the loudest or most profitable audience may not represent everyone the organization hopes to serve. Marketing therefore shapes priorities as well as communication.</p><p>The useful mechanism is a continuing exchange of understanding: people learn what an organization offers, and the organization learns what people need and experience. Its quality depends on whether that learning changes the substance of the offer, rather than merely finding a more persuasive way to describe it.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Definition of Marketing",
+        "url": "https://www.ama.org/the-definition-of-marketing-what-is-marketing/",
+        "access": "search-excerpt",
+        "note": "Professional association definition and product discussion reviewed in current search; no efficacy claims."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S026",
+    "title": "Social norms",
+    "description": "Coordinate behavior through shared expectations about what people do and what others will approve, tolerate, or challenge.",
+    "opening_html": "<p>In one group, arriving ten minutes late is ordinary. In another, it is taken as disrespect. The clock is the same; the shared expectations differ. Social norms let people anticipate one another without negotiating every interaction.</p><p>A norm is more than a common behavior. People may expect others to follow it and believe that others expect them to do so too. <a href=\"https://plato.stanford.edu/archives/spr2023/entries/social-norms/\">Those expectations</a> can be supported by <a href=\"/technologies/public-appreciation/\">praise</a>, embarrassment, criticism, exclusion, or the quiet desire not to disappoint someone.</p><p>An organization may announce that junior staff should challenge decisions while continuing to reward deference. People learn from what happens to the first person who speaks, not only from the announcement. Visible responses can sustain an old norm or help establish a new one.</p><p>Norms can make cooperation easier, but they can also preserve harmful arrangements. A practice may continue because <a href=\"/dynamics/pluralistic-ignorance/\">everyone expects others to defend it, even when many privately dislike it</a>. Conversely, a behavior can be widespread because people face similar constraints, without being a norm they endorse.</p><p>Understanding the mechanism means looking at the relevant audience, the expected response, and the situations where the expectation applies. A rule in a handbook and a norm in everyday interaction can point in opposite directions.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Social Norms",
+        "url": "https://plato.stanford.edu/archives/spr2023/entries/social-norms/",
+        "access": "search-excerpt",
+        "note": "Indexed discussion reviewed on empirical and normative expectations; conceptual account rather than intervention evidence."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S027",
+    "title": "Sociocracy",
+    "description": "Connect small decision-making groups through consent and linking roles, allowing local responsibility within a wider organization.",
+    "opening_html": "<p>A growing organization faces two familiar frustrations: a central meeting becomes overloaded, while independent teams make decisions that collide. Sociocracy organizes work into <a href=\"/technologies/circles-with-domains/\">circles with defined areas of responsibility</a> and ways to connect their decisions.</p><p><a href=\"/technologies/consent-decision-making/\">Consent</a> means working through relevant objections to a proposal rather than requiring everyone to regard it as their favorite choice. A decision can be good enough to try while remaining open to review. That makes proposals revisable commitments rather than permanent victories for one side.</p>",
+    "sections": [
+      {
+        "id": "connections",
+        "title": "Local authority needs connections",
+        "html": "<p>In the sociocratic circle model, <a href=\"/technologies/double-linking/\">double linking</a> <a href=\"https://www.sociocracyforall.org/double-linking/\">connects circles through people who participate in both</a>, carrying information and concerns in more than one direction. The aim is to avoid leaving a team dependent on a single manager’s account of what another part of the organization needs.</p><p>The arrangement still requires real authority, clear domains, and time to participate. A circle cannot meaningfully govern work if an owner can quietly reverse every decision. Nor does calling a concern an objection make its relevance self-evident; participants need practice distinguishing risks to the shared purpose from personal preference.</p><p>Different sociocratic approaches package these elements differently. The name describes a governance family. What matters in an organization is whether people can locate responsibility, raise consequential objections, and revise decisions without every issue returning to the same central bottleneck.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Double linking",
+        "url": "https://www.sociocracyforall.org/double-linking/",
+        "access": "search-excerpt",
+        "note": "Practitioner explanation reviewed; power-equality claims not adopted as established outcomes."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S028",
+    "title": "Polycentric governance",
+    "description": "Coordinate multiple centers of authority so local decisions and larger-scale problems can inform one another.",
+    "opening_html": "<p>A river passes through several towns. Each knows its own water needs, but none can manage flooding or pollution entirely alone. One central authority may miss local knowledge; disconnected local authorities may pass costs downstream.</p><p><a href=\"https://dlc.dlib.indiana.edu/dlc/items/ce7cf738-5200-46b4-8376-921914080e19\">Polycentric governance</a> works with multiple decision centers at different scales. They retain some autonomy while using agreements, <a href=\"/technologies/community-monitoring/\">monitoring</a>, and shared institutions to address dependencies. The idea is not simply to divide authority into ever smaller pieces.</p>",
+    "sections": [
+      {
+        "id": "overlap",
+        "title": "Overlap can support learning—or create confusion",
+        "html": "<p>Different places can try different approaches and learn from one another. Local participants may recognize emerging problems before a distant agency does. A wider institution can supply information, resolve cross-boundary disputes, or coordinate resources beyond any one locality’s capacity.</p><p>But overlapping authority also creates opportunities to avoid responsibility. Each agency may claim that another should act, while well-connected actors choose the venue most favorable to them. Local autonomy can preserve exclusion as readily as it can support adaptation.</p><p>A polycentric arrangement therefore needs intelligible relationships among its centers: <a href=\"/technologies/subsidiarity/\">which decisions are local</a>, which consequences require coordination, and how disagreements move toward resolution. Its strength comes from linking multiple sources of knowledge and action, not from treating fragmentation itself as a virtue.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Polycentric Approach for Coping with Climate Change",
+        "url": "https://dlc.dlib.indiana.edu/dlc/items/ce7cf738-5200-46b4-8376-921914080e19",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S029",
+    "title": "Open-source ecosystems",
+    "description": "Sustain shared software through interacting licenses, contributors, users, organizations, and funding arrangements.",
+    "opening_html": "<p>A program can be freely available while depending on a handful of people who understand how to maintain it. Open-source software begins with <a href=\"/technologies/open-licensing/\">permissions to use, inspect, modify, and redistribute code</a>, but an ecosystem includes the relationships that keep useful work happening around it.</p><p><a href=\"https://opensource.org/osd\">The license defines important freedoms</a>. It does not decide which changes the main project accepts, who responds to failures, or who pays for maintenance. Users, volunteers, employers, foundations, and commercial services can all depend on the same project while having different priorities.</p>",
+    "sections": [
+      {
+        "id": "maintenance",
+        "title": "Availability is not the same as stewardship",
+        "html": "<p>Someone still has to <a href=\"/technologies/peer-review-of-work/\">review contributions</a>, explain decisions, maintain compatibility, and help newcomers become capable contributors. <a href=\"https://opensource.guide/leadership-and-governance/\">Governance arrangements</a> determine how that responsibility is distributed and what happens when people disagree.</p><p>A company can benefit greatly from shared work while contributing little to its upkeep. A volunteer maintainer can acquire substantial influence without receiving enough support to continue. <a href=\"/technologies/forking/\">Forking</a> offers an exit when code can be copied, but rebuilding relationships and trust is much harder than copying files.</p><p>The ecosystem becomes more understandable when its different layers are separated: legal permissions, practical authority, technical knowledge, money, and the community’s expectations. Openness at one layer does not guarantee openness or sustainability at the others.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Open Source Definition",
+        "url": "https://opensource.org/osd",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Primary definition of software licensing requirements. Open-source licensing alone does not entail participatory project governance. Open licensing beyond software needs domain-sp"
+      },
+      {
+        "title": "Open Source Guides: Leadership and Governance",
+        "url": "https://opensource.guide/leadership-and-governance/",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Contributor roles and governance models. Roles and actual powers vary by project."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S030",
+    "title": "Extitutional theory",
+    "description": "Look at how relationships, participation, and mutual recognition organize people alongside formal rules and roles.",
+    "opening_html": "<p>An organization chart tells you who holds office. It may not tell you who brings people together, whose judgment others seek, or why an unassigned task gets done. Those relationships can explain coordination that a diagram of formal authority leaves obscure.</p><p><a href=\"https://extitutions.org/about\">Extitutional theory</a> treats this as a different lens on the same social arrangement. It attends to people’s interactions and the ways <a href=\"/dynamics/participation-based-alignment/\">participation and recognition draw them into alignment</a>. It is not a proposal to replace every institution with an informal network.</p>",
+    "sections": [
+      {
+        "id": "two-views",
+        "title": "Look at the meeting—and what surrounds it",
+        "html": "<p>Imagine a neighborhood association. Its constitution gives members voting rights, but newcomers learn what matters through conversations with regular participants. <a href=\"/dynamics/network-brokerage/\">Someone who introduces people across factions</a> may keep the group functioning <a href=\"/dynamics/informal-authority/\">without holding any office</a>. Another person may formally chair meetings while having little influence outside them.</p><p>An <a href=\"https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53\">institutional and relational reading</a> can be used together. The first shows authorized decisions and responsibilities; the second helps investigate how attention, trust, and participation actually move.</p><p>The framework directs attention to relationships; it does not predict that informal arrangements will work better. Those relationships can carry knowledge and care, but also favoritism and exclusion. Following who is heard, helped, or overlooked makes these differences visible alongside the formal chart.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "About Extitutional Theory",
+        "url": "https://extitutions.org/about",
+        "access": "full-text",
+        "note": "Short original project explanation read directly; conceptual lens, not an outcome evaluation."
+      },
+      {
+        "title": "An Introduction to Extitutional Theory",
+        "url": "https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53",
+        "access": "sections",
+        "note": "Original introduction read on different lenses and institutional versus relational ordering."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S031",
+    "title": "Assembly democracy",
+    "description": "Give a convened body of members authority to deliberate and decide shared affairs.",
+    "opening_html": "<p>When members of an association meet to approve a budget, they do more than send preferences to someone else. They hear proposals, question one another, and exercise collective authority in the meeting itself. Assembly democracy organizes decision-making around that <a href=\"/technologies/assemblies/\">convened body</a>.</p><p>Its defining feature is not that every eligible person attends. Eligibility, practical access, attendance, <a href=\"/technologies/quorum-rules/\">quorum</a>, and the scope of authority are separate choices. An open discussion without power to decide is not the same arrangement as a binding assembly.</p>",
+    "sections": [
+      {
+        "id": "attendance",
+        "title": "The people in the room are not automatically the whole community",
+        "html": "<p>A meeting time, travel cost, or expectation of confident public speaking can shape who participates. Frequent attendees may accumulate knowledge and influence; absent members may still be bound by decisions. Providing notice, accessible materials, and opportunities to contribute matters alongside the voting rule.</p><p>An assembly can be a form of <a href=\"/technologies/direct-democracy/\">direct decision-making</a> while delegating daily administration to officers. A <a href=\"/technologies/referendums/\">referendum</a> <a href=\"https://www.parliament.uk/site-information/glossary/referendum/\">puts a question to a direct vote</a> without requiring a deliberative meeting. It can also coexist with representatives and specialized committees. Treating assembly democracy as a completely separate alternative to direct democracy obscures those combinations.</p><p>The attraction is the connection between discussion and authority: people can revise a proposal in response to what they hear. The difficulty is maintaining that opportunity as participation grows, while preventing <a href=\"/technologies/agenda-setting-procedures/\">control of the agenda</a> or meeting procedure from quietly determining the outcome.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Referendum",
+        "url": "https://www.parliament.uk/site-information/glossary/referendum/",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Institutional explanations of direct and representative decision-making. Assembly democracy is an editorial navigation category for the convened, collectively authoritative arrang"
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S032",
+    "title": "Direct democracy",
+    "description": "Let eligible participants decide a public question themselves, through arrangements such as referendums or binding assemblies.",
+    "opening_html": "<p>A community can elect people to decide on its behalf, or it can put a particular decision directly to its members. Direct democracy uses the second route. A vote on a proposed rule can settle that question without giving representatives the final choice.</p><p>A <a href=\"/technologies/referendums/\">referendum</a> <a href=\"https://www.parliament.uk/site-information/glossary/referendum/\">puts an issue to a direct vote</a>. A <a href=\"/technologies/assembly-democracy/\">binding assembly</a> is another. Direct decision-making does not require everyone to gather in person, and it does not imply that every eligible person actually participates.</p>",
+    "sections": [
+      {
+        "id": "framing",
+        "title": "Who gets to write the question?",
+        "html": "<p>The final vote may be direct while earlier stages are tightly controlled. <a href=\"/technologies/agenda-setting-procedures/\">Someone selects the issue</a>, drafts the alternatives, decides when the vote happens, and supplies information. A yes-or-no ballot can conceal many possible versions of a proposal.</p><p>Participation also asks people to develop judgments about issues they may encounter only occasionally. Deliberative forums, accessible explanations, and time for public challenge can improve the decision environment, but do not remove conflicts among interests or values.</p><p>Direct and <a href=\"/technologies/representative-democracy/\">representative mechanisms</a> can therefore complement one another. Representatives may formulate options while citizens retain a final decision, or citizens may initiate proposals that institutions must consider. The substance lies in that distribution of initiative, deliberation, and authority—not simply in whether a ballot is labeled direct.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Referendum",
+        "url": "https://www.parliament.uk/site-information/glossary/referendum/",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Institutional explanations of direct and representative decision-making. Assembly democracy is an editorial navigation category for the convened, collectively authoritative arrang"
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "S033",
+    "title": "Representative democracy",
+    "description": "Entrust elected people with decision-making authority, connecting public participation to ongoing political work.",
+    "opening_html": "<p>Most people cannot spend every day examining legislation, negotiating budgets, and overseeing public administration. Representative democracy creates a division of political work: citizens choose representatives who make decisions and can later be challenged or replaced.</p><p>Representation involves judgment as well as transmission. A representative may need to respond to an unexpected event, reconcile conflicting demands, or consider information unavailable during the election. That makes the relationship more complicated than simply following a fixed list of instructions.</p>",
+    "sections": [
+      {
+        "id": "answerability",
+        "title": "Delegation needs more than an election day",
+        "html": "<p><a href=\"https://plato.stanford.edu/entries/democracy/index.html\">Political equality and the division of political labor</a> can pull in different directions. People retain a vote, while officeholders acquire time, information, and access that others lack. Parties, organized interests, and media influence which choices citizens can realistically make.</p><p><a href=\"/technologies/elections/\">Elections</a> provide one route of accountability, but voters often choose among bundles of positions and cannot isolate every decision. <a href=\"/technologies/public-decision-records/\">Public records</a>, scrutiny, opposition, and <a href=\"/technologies/lobbying/\">access to representatives</a> help make authority answerable between elections.</p><p>The arrangement works through the continuing relationship between citizens and those acting in their name. A representative’s ability to exercise independent judgment is valuable only alongside credible ways for people to question the use of that independence. The practical design concerns both who gets selected and how power remains contestable afterward.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Democracy",
+        "url": "https://plato.stanford.edu/entries/democracy/index.html",
+        "access": "search-excerpt",
+        "note": "Current conceptual discussion reviewed on participation, political equality, and the division of political labor."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D001",
+    "title": "Participation-based alignment",
+    "description": "Notice how doing things together can align people’s expectations and actions without every agreement being formally stated.",
+    "opening_html": "<p>People assembling a neighborhood festival may begin with different assumptions about what matters. As they book performers, solve problems, and see what others reliably do, they develop shared expectations. Coordination grows through participation itself.</p><p><a href=\"https://extitutions.org/about\">Participation-based alignment</a> is an <a href=\"/technologies/extitutional-theory/\">extitutional lens</a> on that process. It directs attention to interactions through which people discover compatible purposes and adjust to one another, rather than looking only for a written mission or explicit order.</p>",
+    "sections": [
+      {
+        "id": "alignment",
+        "title": "Shared activity can also hide disagreement",
+        "html": "<p>A group can act together while understanding the activity differently. One participant may see the festival as a cultural tradition, another as a business opportunity, and another as a route into community life. Cooperation need not require those purposes to become identical.</p><p>Repeated interaction can clarify differences, but it can also make unspoken expectations harder to challenge. <a href=\"/dynamics/learning-through-participation/\">Newcomers may copy the behavior of established members</a> without knowing which parts are negotiable. People who cannot attend often may never acquire the shared context others take for granted.</p><p>The festival can therefore run smoothly while participants disagree about its future. A conversation about priorities may reveal differences that shared work has accommodated rather than resolved. Who gets to take part shapes both the coordination and the disagreements that remain invisible.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "About Extitutional Theory",
+        "url": "https://extitutions.org/about",
+        "access": "full-text",
+        "note": "Short original project explanation read directly; conceptual lens, not an outcome evaluation."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D002",
+    "title": "Mutual recognition",
+    "description": "Notice how people’s acknowledgment of one another’s contributions shapes trust, standing, and opportunities to participate.",
+    "opening_html": "<p>A newcomer repairs equipment before a community event. Someone notices, thanks them, and asks for their view on the next practical problem. Their contribution becomes visible, and others begin to treat them as a person whose judgment matters.</p><p><a href=\"https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53\">Mutual recognition</a> draws attention to these interactions. Standing can grow through how people respond to one another, even when no committee formally awards a role. Recognition helps participants understand what others value and where their own efforts fit.</p>",
+    "sections": [
+      {
+        "id": "visibility",
+        "title": "What gets noticed becomes part of the hierarchy",
+        "html": "<p>Not every contribution is equally visible. The person who speaks confidently at the meeting may receive more recognition than the person who quietly made attendance possible for others. Existing friendships can make some efforts easier to interpret generously.</p><p>Recognition can therefore support cooperation while reproducing inequality. A group may sincerely value care and still overlook the people doing it. <a href=\"/technologies/public-appreciation/\">Public praise</a> also differs from giving someone actual resources, influence, or a sustainable role.</p><p>Following recognition means noticing who receives attention, whose work is taken for granted, and how acknowledgment changes future opportunities. Repeated acknowledgment can become <a href=\"/dynamics/informal-authority/\">informal authority</a>: a person’s judgment starts to carry weight beyond the particular contribution that first made them visible.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "An Introduction to Extitutional Theory",
+        "url": "https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53",
+        "access": "sections",
+        "note": "Original introduction read on different lenses and institutional versus relational ordering."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D003",
+    "title": "Informal authority",
+    "description": "Recognize influence that comes from trust, experience, relationships, or control of information rather than an official position.",
+    "opening_html": "<p>The meeting has a chair, but everyone waits for one long-standing member before settling the difficult question. That person may hold no title. Others trust their judgment, know that they can secure cooperation, or fear the consequences of proceeding without them.</p><p>Informal authority can make an organization work when its formal rules are incomplete. It can also make the real distribution of power difficult to see. <a href=\"https://www.jofreeman.com/joreen/tyranny.htm\">A group without formal hierarchy still has relationships of influence</a>.</p>",
+    "sections": [
+      {
+        "id": "visible-power",
+        "title": "Authority that cannot be named is difficult to challenge",
+        "html": "<p>Experience and trust take time to develop; pretending they do not matter will not make them disappear. The problem arises when participants cannot tell which decisions are genuinely open, who has effective veto power, or how someone else could acquire comparable standing.</p><p>Consider a volunteer group where one person alone knows the venue owner. Their practical help may be essential, but control over that relationship can become control over the group’s choices. Sharing contacts through an <a href=\"/technologies/expert-directories/\">expert directory</a> and explaining decisions can reduce dependence without denying the person’s contribution.</p><p>The lens is useful because it separates an organization’s declared structure from its working relationships. Formal responsibility and informal influence can support one another, but neither should be mistaken for the other.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Tyranny of Structurelessness",
+        "url": "https://www.jofreeman.com/joreen/tyranny.htm",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Analysis of informal power and accountability; an argument to examine, not a guarantee that formal structure solves exclusion."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D004",
+    "title": "Cliques and informal exclusion",
+    "description": "See how close relationships can become hidden gates to information, opportunities, and decisions.",
+    "opening_html": "<p>Friends in a group often coordinate easily. They share history, know how to interpret one another, and can settle small matters quickly. But when important decisions happen during private conversations, other members may discover that the public meeting only confirms what has already been agreed.</p><p>A clique is not simply any friendship. The concern is <a href=\"https://www.jofreeman.com/joreen/tyranny.htm\">informal control over collective affairs</a>: access to a social circle begins to determine access to opportunities or influence.</p>",
+    "sections": [
+      {
+        "id": "entry",
+        "title": "An invitation may not be enough",
+        "html": "<p>A newcomer can be formally welcome and still lack the context needed to participate. Jokes, unstated expectations, and assumptions about who is competent may signal that their contribution will not carry the same weight. They may leave without anyone deliberately deciding to exclude them.</p><p>Making decisions legible helps distinguish friendship from authority. People can remain friends while <a href=\"/technologies/public-decision-records/\">recording consequential agreements</a>, <a href=\"/technologies/nomination-with-reasons/\">explaining selection</a>, and creating routes into responsibility that do not require personal sponsorship from the same few members.</p><p>This does not mean every private conversation should become public. Groups need space for intimacy and discretion. The issue is whether private relationships quietly become a requirement for exercising rights or opportunities that the organization claims are available to everyone.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Tyranny of Structurelessness",
+        "url": "https://www.jofreeman.com/joreen/tyranny.htm",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Analysis of informal power and accountability; an argument to examine, not a guarantee that formal structure solves exclusion."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D005",
+    "title": "Economic embeddedness",
+    "description": "Understand exchange as something shaped by continuing relationships, reputations, and social obligations.",
+    "opening_html": "<p>A shopkeeper may trust a familiar supplier to deliver later rather than demand immediate payment. A new supplier offering the same price may not receive that trust. The transaction depends on a relationship as well as on the written terms.</p><p><a href=\"https://sociology.stanford.edu/publications/economic-action-and-social-structure-problem-embeddedness\">Economic embeddedness</a> describes how economic action takes place inside social networks. People learn whom to trust, what conduct is acceptable, and which opportunities exist through relationships that extend beyond a single exchange.</p><p>Continuing relationships can reduce uncertainty and make cooperation possible when <a href=\"/technologies/contracts/\">contracts</a> cannot specify everything. A supplier who expects future business has a reason to resolve a problem rather than exploit a temporary advantage.</p><p>But closeness does not guarantee honesty. Trust can make deception easier, and obligations to friends can protect poor performance. Established networks may exclude capable outsiders who cannot obtain <a href=\"/technologies/introductions-by-a-connector/\">introductions</a> or demonstrate reliability through familiar channels.</p><p>Looking at embeddedness therefore changes the account of <a href=\"/technologies/markets/\">a market</a> or workplace. Prices and formal incentives remain important, but they are not the entire explanation. The useful question is how particular relationships alter access, expectations, and the consequences of disappointing someone—and whether those relationships make cooperation more reliable or merely more exclusive.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Economic Action and Social Structure: The Problem of Embeddedness",
+        "url": "https://sociology.stanford.edu/publications/economic-action-and-social-structure-problem-embeddedness",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Research publication record and abstract."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D006",
+    "title": "Weak-tie bridges",
+    "description": "Recognize acquaintances who connect otherwise separate social circles and bring information your close contacts may not have.",
+    "opening_html": "<p>Your closest friends often know many of the same people and hear the same news. An acquaintance from another workplace or neighborhood may introduce an opportunity that never enters that familiar circle. Their importance comes from the connection between different parts of a network.</p><p><a href=\"https://sociology.stanford.edu/publications/strength-weak-ties\">Weak-tie bridges</a> can carry information across those gaps. The useful feature is not simply that the relationship is distant; it is that it reaches people and knowledge otherwise difficult to access.</p>",
+    "sections": [
+      {
+        "id": "bridges",
+        "title": "Reach and support are different benefits",
+        "html": "<p>A casual contact may help you discover an opening but be unable to support you through a crisis. Close relationships often provide trust and sustained care that a broad acquaintance network cannot. These functions complement one another.</p><p>Nor does every weak tie connect different circles. Collecting contacts from the same setting can expand a list without expanding the range of information available. A bridge may also be difficult to use if asking for help feels unsafe or if the other side has little reason to respond.</p><p>The practical insight is to notice where your relationships lead. <a href=\"/technologies/cross-community-exchanges/\">Shared activities across professions, generations, or neighborhoods</a> can create encounters beyond an existing circle. Their value depends on actual exchange and mutual regard, not on maximizing the number of people you can claim to know.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Strength of Weak Ties",
+        "url": "https://sociology.stanford.edu/publications/strength-weak-ties",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Research publication record and abstract; avoid interpreting every weak tie as a useful bridge."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D007",
+    "title": "Learning through participation",
+    "description": "Develop practical understanding by taking part in meaningful work with people who already know the practice.",
+    "opening_html": "<p>A new volunteer may understand the written instructions for running an event yet still not know which problems deserve immediate attention. <a href=\"/technologies/apprenticeship/\">Working alongside experienced people</a> lets them see priorities in action: what gets checked, what can wait, and when someone asks for help.</p><p><a href=\"https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf\">Learning through participation</a> treats knowledge as connected to doing the work with others. The learner gradually gains context, feedback, and <a href=\"/technologies/graduated-responsibility/\">increasing responsibility</a>, rather than receiving all the relevant understanding before beginning.</p><p>Participation has to provide access to meaningful activity. Someone assigned only repetitive errands may spend years near experts without seeing how important judgments are made. A person who can observe decisions but never attempt them may acquire familiarity without capability.</p><p>The arrangement depends on experienced participants having time to explain, tolerate mistakes, and make responsibility available. It also depends on the learner being able to ask questions without losing standing. Unspoken expectations can make the environment especially difficult for newcomers from unfamiliar backgrounds.</p><p>This lens helps distinguish genuine development from simple attendance. The question is whether involvement changes what the person can understand and undertake, and whether the community’s practices allow them to move beyond their initial <a href=\"/dynamics/core-and-peripheral-participation/\">peripheral role</a>.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Introduction to communities of practice",
+        "url": "https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Conceptual resources on shared practice and varying involvement."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D008",
+    "title": "Core and peripheral participation",
+    "description": "Recognize that people contribute at different intensities and that movement between the center and the edges shapes a community’s life.",
+    "opening_html": "<p>A reading group may include people who organize every session, regular participants, and others who attend only when a topic interests them. These are different forms of involvement, not automatically different levels of commitment or worth.</p><p><a href=\"https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf\">Core and peripheral participation</a> helps describe that variation. A small core may preserve continuity, while less frequent participants bring fresh interests and keep the group connected to wider circles.</p>",
+    "sections": [
+      {
+        "id": "movement",
+        "title": "Can people move between roles?",
+        "html": "<p>The arrangement becomes fragile if the same few people must organize indefinitely. They may <a href=\"/dynamics/volunteer-burnout/\">burn out</a> or acquire control simply because nobody else knows how things work. Conversely, demanding equal effort from everyone can drive away people whose available time changes.</p><p>A healthy path inward requires more than an invitation. People need access to information, <a href=\"/technologies/graduated-responsibility/\">manageable responsibilities</a>, and some confidence that established members will share authority. A path outward matters too: someone should be able to reduce participation without being treated as disloyal.</p><p>The important dynamics are therefore movement and dependence. Who can become more involved, who can step back, and what knowledge must travel when they do? A lively edge and a reliable center can support one another, provided neither becomes a permanent category that fixes people’s standing.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Introduction to communities of practice",
+        "url": "https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Conceptual resources on shared practice and varying involvement."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D009",
+    "title": "Stigmergic coordination",
+    "description": "Coordinate contributions through visible traces of work, so one person’s action helps others see what to do next.",
+    "opening_html": "<p><a href=\"/technologies/shared-task-boards/\">A shared repair list</a> shows that a window has been measured but the replacement glass has not been ordered. Someone with supplier contacts can take the next step without receiving a personal instruction. The record left by one contribution becomes a cue for another.</p><p><a href=\"https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2229119\">Stigmergic coordination</a> names this indirect interaction through a shared environment or artifact. It can connect work across time and distance when participants can see both what has changed and what remains possible.</p>",
+    "sections": [
+      {
+        "id": "traces",
+        "title": "The trace must mean something to the next person",
+        "html": "<p>A board full of cards does not coordinate itself. Participants need <a href=\"/technologies/protocols-and-interfaces/\">shared conventions about what a status means</a>, who may change it, and which changes require discussion. Outdated or ambiguous traces can send people in incompatible directions.</p><p>The mechanism can reduce the need for a central dispatcher, but it does not eliminate power. Someone chooses what appears on the board, which problems are visible, and what counts as completed work. Tasks that leave little visible trace—care, mediation, prevention—may receive less attention.</p><p>This is a useful lens for shared documents, maintenance logs, and other artifacts that organize ongoing contributions. Its strength depends on making the state of the work intelligible, while retaining ways to discuss conflicts and responsibilities that the artifact cannot settle alone.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stigmergy in Open Collaboration",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/07421222.2023.2229119",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Research on coordination through shared artifacts; abstract/excerpts used, not a full evidence review."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D010",
+    "title": "Growth outrunning onboarding",
+    "description": "Notice when new participation grows faster than a group can transmit its habits, expectations, and practical knowledge.",
+    "opening_html": "<p>A gathering that once welcomed three newcomers each month suddenly attracts thirty. Previously, regulars could introduce everyone, explain the customs, and help them find a place. Now most participants may encounter one another before they encounter anyone who knows why the gathering worked.</p><p>Growth changes the balance between people who can transmit a practice and people still learning it. The issue is not that newcomers are inherently disruptive. The group’s capacity to welcome and orient people has become a scarce resource.</p>",
+    "sections": [
+      {
+        "id": "transmission",
+        "title": "Popularity can change the thing people came for",
+        "html": "<p>A conference’s atmosphere can depend on <a href=\"https://www.dgtlgrove.com/p/the-magic-of-the-better-software\">relationships and expectations that participants carry into it</a>. Adding places does not add experienced hosts in the same proportion. The challenge is preserving opportunities to learn those expectations as attendance grows.</p><p>A group can respond by making tacit expectations discussable, using <a href=\"/technologies/cohort-onboarding/\">cohort onboarding</a> to orient newcomers in smaller groups, or <a href=\"/technologies/train-the-trainer/\">developing more people who can host and explain</a>. Each choice changes the experience: more structure may preserve accessibility while reducing some spontaneity.</p><p>The useful distinction is between increasing attendance and reproducing the conditions that made participation worthwhile. If expansion outruns those conditions, the group may keep its name and schedule while becoming a substantially different social arrangement.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Magic of the Better Software Conference",
+        "url": "https://www.dgtlgrove.com/p/the-magic-of-the-better-software",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  First-person account of a 2025 event. The inventory abstracts event-design possibilities; the article does not establish a universal law of inevitable institutional decline."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D011",
+    "title": "Tacit knowledge dependence",
+    "description": "Recognize when an organization’s ability to act depends on judgments that particular people cannot fully put into instructions.",
+    "opening_html": "<p>An experienced caretaker can hear that a machine is running unusually, while a new colleague sees no warning on the checklist. Years of attention have produced distinctions that are difficult to explain before a relevant situation occurs.</p><p><a href=\"https://samoburja.com/gft/\">Tacit knowledge</a> includes this practical judgment: recognizing patterns, interpreting exceptions, and knowing which details matter. An organization can have extensive documentation while remaining dependent on people who supply that understanding.</p>",
+    "sections": [
+      {
+        "id": "continuity",
+        "title": "The document and the practitioner do different work",
+        "html": "<p><a href=\"/technologies/standard-operating-procedures/\">Writing down procedures</a> can preserve steps and reduce avoidable mistakes. It may not preserve the ability to know when the usual procedure is inappropriate. Replacing experienced people with a manual can therefore leave the organization less capable even when every formal instruction survives.</p><p>Continuity often requires <a href=\"/technologies/overlapping-handovers/\">people to work together long enough</a> for judgment to become discussable through examples. A successor needs opportunities to try, receive feedback, and encounter unusual cases—not merely access to the predecessor’s files.</p><p>The danger is most visible during turnover, but the dependence already exists beforehand. Mapping who can interpret problems, and whether others are developing comparable understanding, reveals a different picture from counting how many tasks have written instructions.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Author's manuscript page",
+        "url": "https://samoburja.com/gft/",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  User-supplied PDF, read as extracted text. Original page outlines retain chapter and page references. [Author's manuscript page](https://samoburja.com/gft/). Theory and historical"
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D012",
+    "title": "Institutional imitation",
+    "description": "Notice when an organization copies the visible form of a successful institution without reproducing the capabilities that made it work.",
+    "opening_html": "<p>A new organization creates a prestigious advisory board, an annual conference, and a <a href=\"/technologies/peer-review-of-work/\">formal review process</a>. It looks like an established institution. Yet advisers rarely engage, the conference produces little collaboration, and reviewers lack the knowledge needed to distinguish strong work from weak work.</p><p><a href=\"https://samoburja.com/gft/\">Institutional imitation</a> focuses on the gap between recognizable form and functioning capability. Copying a structure can be a reasonable starting point, but the structure may depend on relationships, skills, resources, and authority that do not arrive with it.</p>",
+    "sections": [
+      {
+        "id": "appearance",
+        "title": "The missing part may be hard to see",
+        "html": "<p>A successful review process might work because respected practitioners devote serious attention to it. The visible form is a committee and a deadline; the consequential part is capable judgment that people trust. Reproducing the first without the second produces a different institution.</p><p>The opposite mistake is to assume that every inherited procedure is empty. An unfamiliar <a href=\"/technologies/ritual/\">ritual</a> or rule may preserve an important function that newcomers do not yet understand. Appearance alone cannot establish either competence or decay.</p><p>The useful investigation follows actual work: which decisions the institution makes, what knowledge they require, and how people recognize and correct mistakes. An institution remains alive through those capabilities, rather than through resemblance to a famous predecessor.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Author's manuscript page",
+        "url": "https://samoburja.com/gft/",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  User-supplied PDF, read as extracted text. Original page outlines retain chapter and page references. [Author's manuscript page](https://samoburja.com/gft/). Theory and historical"
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D013",
+    "title": "Founder dependence",
+    "description": "Recognize when an organization relies on one person to connect knowledge, relationships, and decisions that others cannot yet carry together.",
+    "opening_html": "<p>A founder may know which supporter will fund an unusual project, which colleague can solve a difficult problem, and which apparent opportunity would distract from the purpose. Many decisions become easy because that person connects information others hold separately.</p><p>This can be a source of remarkable capability. It is also a dependence. The organization may appear more mature than it is because the founder continually supplies coordination that its formal processes do not explain.</p>",
+    "sections": [
+      {
+        "id": "succession",
+        "title": "Delegating tasks is not enough",
+        "html": "<p>When the founder leaves, individual roles may still be filled while the connections among them weaken. A successor can inherit the title without inheriting trusted relationships, practical judgment, or the confidence to make exceptions.</p><p><a href=\"/technologies/succession-planning/\">Succession</a> and <a href=\"/dynamics/tacit-knowledge-dependence/\">institutional knowledge</a> therefore <a href=\"https://samoburja.com/gft/\">concern more than identifying a replacement</a>. Other people need to develop <a href=\"/technologies/delegated-authority/\">real authority</a>, understand the reasons behind consequential choices, and work with relationships previously held by one person.</p><p>Trying to remove dependence too quickly can also damage the capability being transferred. The aim is not to pretend the founder’s contribution was unnecessary. It is to discover what that contribution consists of and create conditions in which others can carry it, adapt it, and eventually make good decisions the founder would never have encountered.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Author's manuscript page",
+        "url": "https://samoburja.com/gft/",
+        "access": "existing-research-notes",
+        "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  User-supplied PDF, read as extracted text. Original page outlines retain chapter and page references. [Author's manuscript page](https://samoburja.com/gft/). Theory and historical"
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D014",
+    "title": "Homophily",
+    "description": "Notice how similarity and shared settings shape who meets, connects, and receives information from whom.",
+    "opening_html": "<p>A group keeps recruiting people who resemble its existing members, even though nobody has written a rule requiring that resemblance. Members invite friends, share opportunities in familiar places, and feel comfortable with people whose experiences they recognize.</p><p><a href=\"https://scholars.duke.edu/publication/652661\">Homophily</a> describes the tendency for similar people to be connected. It can reflect preferences, but also geography, workplaces, schools, and other circumstances that determine who has opportunities to meet. A pattern of similarity does not by itself identify the cause.</p>",
+    "sections": [
+      {
+        "id": "opportunities",
+        "title": "The network shapes what becomes available",
+        "html": "<p>Once relationships form, they carry information and <a href=\"/technologies/introductions-by-a-connector/\">introductions</a>. If a professional circle is socially narrow, opportunities may circulate among people with similar backgrounds long before any <a href=\"/technologies/merit-based-selection/\">formal selection</a> begins. An open application process cannot entirely undo that earlier distribution of access.</p><p>Similarity can make communication easier and support trust, but it can also reduce the range of experience a group encounters. Members may mistake familiar assumptions for obvious truths because few people around them have reason to question them.</p><p>Understanding homophily requires looking at both choice and opportunity. Where do people meet, who feels welcome there, and which relationships persist? Changing only the language of an invitation may accomplish little if the settings through which relationships develop remain unchanged.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Birds of a feather: Homophily in social networks",
+        "url": "https://scholars.duke.edu/publication/652661",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D015",
+    "title": "Reciprocity",
+    "description": "Connect present help with expectations about how people will respond later, sustaining cooperation beyond isolated transactions.",
+    "opening_html": "<p>A neighbor helps you move a heavy table. You may later offer to collect a parcel for them, not because you signed <a href=\"/technologies/contracts/\">a contract</a>, but because their help changes what you feel willing or obliged to do. Reciprocity makes a relationship carry expectations across time.</p><p>Help can return directly from the person who received it, or indirectly because others learn that someone is a reliable contributor. A reputation for helping can make <a href=\"https://pubmed.ncbi.nlm.nih.gov/16251955/\">people beyond the original recipient more willing to cooperate</a>.</p><p>Reciprocity does not require an immediate or identical return. A community can exchange different forms of help according to people’s abilities and circumstances. Insisting on exact equivalence can make ordinary generosity feel like accounting.</p><p>But vague obligations can also become coercive. A powerful person may offer assistance and later treat it as entitlement to loyalty. Someone with fewer resources may find that they can never repay what others count as a debt. Reputation can amplify unfair judgments if people see the refusal but not the circumstances behind it.</p><p>The mechanism works through expectations, so its character depends on how those expectations are understood. Help that leaves people able to decline a later request creates a different relationship from help that quietly purchases control over them.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Evolution of indirect reciprocity",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16251955/",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract in search results."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D016",
+    "title": "Trust formation and repair",
+    "description": "Understand how people become willing to rely on one another, and why rebuilding that willingness depends on what damaged it.",
+    "opening_html": "<p>You can believe that someone means well while doubting that they can complete a task. You can also believe they are highly capable while doubting that they will tell you the truth. These are different reasons to hesitate before relying on them.</p><p>Trust develops through experience and interpretation. People notice whether commitments are kept, whether problems are disclosed, and how another person behaves when their interests diverge. A relationship becomes consequential when someone accepts vulnerability on that basis.</p>",
+    "sections": [
+      {
+        "id": "repair",
+        "title": "A new promise may not answer the actual concern",
+        "html": "<p>Suppose a colleague misses a deadline. If the problem was insufficient skill, support and evidence of improved capability may matter. If the colleague concealed the delay, a new schedule alone may leave the central doubt untouched. The same apology can <a href=\"https://ink.library.smu.edu.sg/lkcsb_research/2368/\">receive a different response depending on whether competence or integrity is in doubt</a>.</p><p>That does not make trust repair a matter of choosing the right apology or denial. Words are interpreted alongside later evidence, the costs imposed, and the possibility of repetition. The person harmed may reasonably require time, safeguards, or less dependence rather than a return to the old arrangement.</p><p>A <a href=\"/technologies/repair-conversations/\">repair conversation</a> can clarify what the breach changed and what the person affected would need. Rebuilding trust is therefore about making reliance credible again. It cannot be demanded simply because the person who caused the breach wants the relationship to continue.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Removing the Shadow of Suspicion: The Effects of Apology Versus Denial for Repairing Competence- Versus Integrity-Based Trust Violations",
+        "url": "https://ink.library.smu.edu.sg/lkcsb_research/2368/",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D017",
+    "title": "Free riding",
+    "description": "Recognize when people receive shared benefits without contributing correspondingly, while distinguishing exploitation from barriers to participation.",
+    "opening_html": "<p>Everyone in a shared garden can enjoy the vegetables, but only a few people regularly water and weed. The contributors may begin to wonder why they should continue carrying the work if the benefits are available regardless.</p><p>That is the free-rider problem: some shared benefits are difficult to restrict to contributors. If enough people withhold effort, the resource or activity can deteriorate even when everyone would prefer it to continue.</p>",
+    "sections": [
+      {
+        "id": "contribution",
+        "title": "An absence does not explain itself",
+        "html": "<p>Someone may be taking advantage, but they may also lack time, have a disability, or contribute in ways that others do not see. A group needs to understand the pattern before treating every unequal contribution as misconduct.</p><p>Sanctions change the incentives as well as the relationship between participants. In <a href=\"https://ideas.repec.org/a/aea/aecrev/v90y2000i4p980-994.html\">public-goods experiments</a>, some people paid to sanction low contributors, and the availability of punishment changed cooperation. In a community, applying such a response also requires deciding which contributions are possible and which absences have been misunderstood.</p><p>Groups can make responsibilities visible through a <a href=\"/technologies/responsibility-matrices/\">responsibility matrix</a>, offer different ways to contribute, and decide which benefits should remain available regardless of contribution. These choices involve values as well as incentives. A <a href=\"/technologies/mutual-aid-networks/\">mutual-aid group</a> may deliberately support people who currently cannot reciprocate; that is part of its purpose, not automatically a failure of cooperation.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cooperation and Punishment in Public Goods Experiments",
+        "url": "https://ideas.repec.org/a/aea/aecrev/v90y2000i4p980-994.html",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D018",
+    "title": "Social loafing",
+    "description": "Notice when shared work reduces individual effort, and distinguish that motivational effect from the ordinary difficulty of coordinating people.",
+    "opening_html": "<p>When a task belongs to everyone, each person may assume someone else will carry it. A group can contain capable, willing people and still produce less effort than expected because individual contributions feel less consequential or less visible.</p><p><a href=\"https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Latane_et_al_1979_Many_hands_make_light_the_work.pdf\">Social loafing experiments</a> separated some of this motivational effect from coordination problems by changing what participants believed about the group working alongside them. The finding concerns particular conditions; it does not mean people inevitably become lazy in teams.</p>",
+    "sections": [
+      {
+        "id": "diagnosis",
+        "title": "Low output can have several explanations",
+        "html": "<p>A planning committee may be waiting for a decision, missing information, or dividing work badly. Calling that social loafing would direct attention toward motivation while overlooking the actual obstacle. People may also withdraw because their suggestions are repeatedly ignored.</p><p>Making contributions identifiable can help, but excessive monitoring can replace cooperation with defensive self-presentation. A person may concentrate on visible tasks that earn credit while neglecting work that supports everyone else.</p><p>The useful distinction is whether effort has declined because participation feels dispensable, or whether effort is being lost through unclear responsibilities and blocked dependencies. A <a href=\"/technologies/responsibility-matrices/\">responsibility matrix</a> can clarify who owns the work; <a href=\"/technologies/what-i-need-from-you/\">What I Need From You</a> makes requests between contributors explicit. A shared purpose becomes more actionable when people can see how their contribution connects to the result, without treating every collective activity as a contest for individual credit.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Many Hands Make Light the Work: The Causes and Consequences of Social Loafing",
+        "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Dynamics/Latane_et_al_1979_Many_hands_make_light_the_work.pdf",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: PDF sections reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D019",
+    "title": "Volunteer burnout",
+    "description": "Recognize how a voluntary commitment can become exhausting when responsibility grows without sufficient support, voice, or room to step back.",
+    "opening_html": "<p>A volunteer begins by helping with one event. Soon they hold the keys, answer the messages, and know how to solve problems nobody else understands. Each request seems reasonable, but the role has become much larger than the commitment they originally made.</p><p>Leaving can feel like abandoning people they care about. The group may interpret continued effort as proof that the arrangement is sustainable, while the volunteer experiences increasing resentment and exhaustion.</p>",
+    "sections": [
+      {
+        "id": "organization",
+        "title": "The problem can be in the arrangement",
+        "html": "<p>Former volunteers have described <a href=\"https://doi.org/10.1007/s11266-018-0005-z\">overload, limited voice, cliques, and disconnection as reasons for leaving</a>. Exhaustion can therefore be connected to how the role is organized and whose concerns are heard, rather than only to the amount of work.</p><p>A group that relies on <a href=\"/technologies/sacrifice/\">sacrifice</a> may praise dedication without noticing that <a href=\"/technologies/backup-ownership/\">essential work has no backup</a>. Encouraging someone to rest is difficult to act on when every task waits for their return. Sharing knowledge, reducing commitments, and <a href=\"/technologies/time-boxed-commitments/\">allowing responsibilities to end</a> can change that dependence.</p><p>Volunteer participation remains voluntary only when people can renegotiate or leave without undue punishment. The ability to sustain the activity should not depend on a few people repeatedly overriding their own limits because the organization has made itself unable to function without them.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Why People Leave Community Service Organizations: A Mixed Methods Study",
+        "url": "https://doi.org/10.1007/s11266-018-0005-z",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D020",
+    "title": "Status hierarchies",
+    "description": "See how differences in respect and deference shape whose judgments count, whose work is noticed, and who gains opportunities.",
+    "opening_html": "<p>Two people make the same suggestion in a meeting. When the newcomer says it, little happens. When a respected member repeats it, the group takes it seriously. Status changes how a contribution is received before its substance is fully assessed.</p><p>Status is distinct from formal office or wealth, although they can interact. It concerns the <a href=\"/dynamics/mutual-recognition/\">standing people accord one another</a>. People can care about <a href=\"https://irle.berkeley.edu/publications/working-papers/striving-for-superiority-the-human-desire-for-status/\">their standing relative to others</a>, so an increase in someone else’s prestige can change how they experience their own position.</p>",
+    "sections": [
+      {
+        "id": "deference",
+        "title": "A shortcut for judgment can become self-reinforcing",
+        "html": "<p>Deference can save effort when someone has earned a reputation for sound judgment. A group cannot independently verify every claim from the beginning. But reputation can persist after competence changes, and attention to established members can deny others opportunities to demonstrate ability.</p><p>Status competition also shapes what people attempt. If public presentations receive admiration while preparation and repair remain invisible, effort may move toward the stage and away from the work supporting it.</p><p>The question is not whether a group can declare itself free of status. It is how standing is produced and revised: <a href=\"/technologies/awards/\">which contributions earn respect</a>, how mistakes affect reputations, and whether unfamiliar people can become credible without first receiving endorsement from the existing elite.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Striving for superiority: The human desire for status",
+        "url": "https://irle.berkeley.edu/publications/working-papers/striving-for-superiority-the-human-desire-for-status/",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D021",
+    "title": "Preference falsification",
+    "description": "Recognize how pressure to express acceptable opinions can make public agreement conceal private disagreement.",
+    "opening_html": "<p>At a meeting, everyone praises a plan. Several participants privately expect it to fail, but each believes that saying so would damage their position. Observers see apparent unanimity and conclude that the plan has broad support.</p><p><a href=\"https://sites.duke.edu/timurkuran/files/2018/03/rs198transcript-Kuran-Rationall-Speaking-2017.pdf\">Preference falsification</a> describes a gap between a person’s privately held preference and the preference they publicly express under social pressure. It can help explain why an arrangement seems stable until a change makes previously hidden disagreement visible.</p>",
+    "sections": [
+      {
+        "id": "visibility",
+        "title": "A shift in expression can look like a sudden change of mind",
+        "html": "<p>One respected person speaking openly may lower the perceived cost for others. The public picture can then change faster than the underlying private opinions did. But that is a possible mechanism, not grounds for assuming that every surprising reversal reveals secret beliefs.</p><p>People can be silent because they are uncertain, uninterested, or still thinking. They can also sincerely change their minds. Treating disagreement as always hidden somewhere would make the explanation impossible to test.</p><p>The useful investigation concerns incentives for expression: what happens to dissenters, whether people can <a href=\"/technologies/anonymous-ballots/\">disagree privately or anonymously</a>, and whether leaders receive information that challenges their preferred account. A public consensus is easier to interpret when the conditions allow people to reveal genuine disagreement without disproportionate personal cost.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rationally Speaking 198: Timur Kuran on Private Truths and Public Lies",
+        "url": "https://sites.duke.edu/timurkuran/files/2018/03/rs198transcript-Kuran-Rationall-Speaking-2017.pdf",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: PDF sections reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D022",
+    "title": "Pluralistic ignorance",
+    "description": "Notice when people misunderstand one another’s private views and collectively uphold a norm many of them do not actually support.",
+    "opening_html": "<p>Several members of a group would prefer shorter meetings, but each assumes everyone else values the long discussions. They continue attending politely, and each person’s politeness becomes evidence to the others that the current arrangement is popular.</p><p>Pluralistic ignorance is this mistaken picture of other people’s views. Unlike <a href=\"/dynamics/preference-falsification/\">deliberate concealment</a>, the central problem is a belief about the group. <a href=\"https://collaborate.princeton.edu/en/publications/pluralistic-ignorance-and-alcohol-use-on-campus-some-consequences/\">Studies of campus drinking norms</a> found students perceiving others as more comfortable with prevailing practices than they themselves were.</p><p>Because people use one another’s behavior as evidence, an unpopular practice may continue without anyone explicitly demanding it. A few highly visible participants can also seem representative of a much larger group.</p><p>Making private views visible can help, but the method matters. A public show of hands may reproduce the same pressure; an <a href=\"/technologies/anonymous-ballots/\">anonymous poll</a> may ask a question that does not capture the actual concern. Differences in how people interpret the options can create a new misunderstanding.</p><p>The point is to distinguish what people prefer from what they think others prefer. A group may discover that changing a practice requires less persuasion than expected because the supposed opposition existed mainly in people’s assumptions about one another.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Pluralistic Ignorance and Alcohol Use on Campus: Some Consequences of Misperceiving the Social Norm",
+        "url": "https://collaborate.princeton.edu/en/publications/pluralistic-ignorance-and-alcohol-use-on-campus-some-consequences/",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract in search results."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D023",
+    "title": "Group polarization",
+    "description": "Notice when discussion strengthens a group’s initial leaning rather than bringing it closer to a balanced assessment.",
+    "opening_html": "<p>People who already lean toward a proposal meet to discuss it. Each contributes reasons in its favor, hears those reasons repeated by others, and leaves more confident than before. The group has deliberated, but the discussion may have narrowed the range of considerations rather than widened it.</p><p><a href=\"https://hls.harvard.edu/bibliography/on-a-danger-of-deliberative-democracy/\">Group polarization</a> names the tendency for some discussions to move participants toward a more extreme version of their initial inclination. It is not the claim that every conversation produces extremism or that strong agreement is necessarily mistaken.</p>",
+    "sections": [
+      {
+        "id": "discussion",
+        "title": "More arguments can still mean less variety",
+        "html": "<p>If participants draw from <a href=\"/dynamics/homophily/\">similar experience</a>, a long discussion may circulate closely related information. People may also adjust their expressed position to fit what they believe the group respects. These possibilities make the composition and incentives of discussion important.</p><p>Inviting different perspectives can broaden the material available, but simply placing opponents together does not guarantee careful listening. Participants need reasons to examine evidence rather than perform loyalty to their side.</p><p>The useful question is what changed during the conversation. Did people encounter information that could have challenged their initial view, or mainly discover that others shared it? Confidence after discussion is more informative when the process has allowed meaningful disagreement and tested assumptions, rather than treating agreement itself as proof of sound judgment.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "On a Danger of Deliberative Democracy",
+        "url": "https://hls.harvard.edu/bibliography/on-a-danger-of-deliberative-democracy/",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract in search results."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D024",
+    "title": "Groupthink",
+    "description": "Examine how pressure for agreement can weaken scrutiny, without treating every cohesive group or bad decision as evidence of the same syndrome.",
+    "opening_html": "<p>A team may value unity so strongly that raising a serious concern feels like letting everyone down. Doubts get softened, objections arrive too late, and people interpret the absence of open disagreement as evidence that the decision is sound.</p><p>Groupthink gives a name to this family of concerns about conformity and decision quality. It draws attention to how groups handle dissent, uncertainty, and alternatives, rather than assuming that intelligent members necessarily produce intelligent decisions together.</p>",
+    "sections": [
+      {
+        "id": "diagnosis",
+        "title": "The label can explain too much after the event",
+        "html": "<p>A failed decision makes earlier confidence look foolish, but failure alone does not establish how the group reached it. <a href=\"https://pubmed.ncbi.nlm.nih.gov/9705804/\">Reanalysis of classic groupthink cases</a> has challenged parts of the original explanation, including assumptions about cohesion. A close team can scrutinize decisions well; a divided team can make serious mistakes.</p><p>Useful evidence concerns the process: whether objections were heard, alternatives seriously examined, and leaders’ preferences treated as conclusions or as proposals. <a href=\"/technologies/decision-logs/\">Contemporaneous records</a> are more informative than a story assembled only after the outcome is known.</p><p>The lens is therefore most useful as a prompt to inspect how judgment is formed. It becomes less useful when it turns into a diagnosis applied to any group whose decision an observer dislikes.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Revisiting the Bay of Pigs and Vietnam Decisions 25 Years Later: How Well Has the Groupthink Hypothesis Stood the Test of Time?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9705804/",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract in search results."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D025",
+    "title": "Goal displacement",
+    "description": "Recognize when a procedure or intermediate target becomes more important than the purpose it was created to serve.",
+    "opening_html": "<p>A service introduces a form so staff can understand what applicants need. Over time, completing every field becomes the main test of whether someone receives help—even when a missing answer is irrelevant to the case. The means has become an end.</p><p><a href=\"https://www.d.umn.edu/cla/faculty/jhamlin/4111/Merton/Social%20Theory%20and%20Social%20Structure%20Bureaucratic%20Structure%20a.htm\">Goal displacement</a> describes this shift. It can happen because <a href=\"/technologies/standard-operating-procedures/\">procedures</a> are easier to check than purposes: an organization can quickly see whether a form was completed, while evaluating whether someone received appropriate help may require judgment.</p>",
+    "sections": [
+      {
+        "id": "rules",
+        "title": "The rule may still be doing valuable work",
+        "html": "<p>Procedures can protect fairness, preserve memory, and limit arbitrary treatment. Abandoning them whenever someone invokes the larger purpose can create new problems. The issue is whether the connection between the procedure and its purpose remains open to examination.</p><p>An unusual case reveals that connection especially clearly. Can staff explain why the requirement matters? Is there a legitimate route for an exception? Does correcting a mistake threaten someone’s standing more than continuing it?</p><p>Organizations need ways to <a href=\"/technologies/policy-review-dates/\">revise rules</a> without requiring every participant to reinvent them. Otherwise, people may become highly skilled at satisfying the institution’s visible requirements while the activity those requirements were meant to support steadily deteriorates.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bureaucratic Structure and Personality",
+        "url": "https://www.d.umn.edu/cla/faculty/jhamlin/4111/Merton/Social%20Theory%20and%20Social%20Structure%20Bureaucratic%20Structure%20a.htm",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: page reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D026",
+    "title": "Metric gaming",
+    "description": "Notice when improving a measured score stops improving the underlying outcome—and sometimes makes it worse.",
+    "opening_html": "<p>A service rewards staff for closing cases quickly. Some learn to resolve straightforward problems faster; others learn to close difficult cases before the person’s problem is actually solved. The same rising score can contain real improvement and strategic avoidance.</p><p><a href=\"https://arxiv.org/abs/1803.04585\">Failures of proxy optimization</a> include deliberate gaming, but also less intentional effects. A measure may be noisy, work only within familiar conditions, or cease to represent the goal once people reorganize their behavior around it.</p>",
+    "sections": [
+      {
+        "id": "proxy",
+        "title": "The number becomes part of the situation",
+        "html": "<p>Before becoming a target, a measure may summarize behavior. After becoming a target, it also helps cause behavior. People decide what to prioritize, which cases to accept, and what to record in response to its consequences.</p><p>Adding more measures can reveal some distortions, but it can also increase <a href=\"/technologies/bureaucracy/\">reporting work</a> and produce a more complicated game. Independent observation, attention to neglected outcomes, and opportunities for people affected by the service to describe their experience can provide different kinds of evidence.</p><p>The important distinction is between the score and the reason for caring about it. A useful measure remains a tool for understanding the work. It becomes dangerous when improving the number is treated as sufficient proof that the work has improved.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Categorizing Variants of Goodhart’s Law",
+        "url": "https://arxiv.org/abs/1803.04585",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D027",
+    "title": "Capture",
+    "description": "Notice when an institution’s decisions become aligned with the interests it was meant to oversee or constrain.",
+    "opening_html": "<p>A regulator needs detailed information from the industry it supervises. Over time, its staff may rely on the same firms for expertise, future employment, and interpretations of what is practical. The relationship can shift from informed oversight toward protecting the industry’s position.</p><p>Organized interests can <a href=\"https://www.rasmusen.org/zg601/readings/Stigler.1971.pdf\">shape regulation for their own benefit</a> when their influence displaces the purpose of oversight. The relevant question is what happens to decisions, not merely whether officials meet the people they regulate.</p>",
+    "sections": [
+      {
+        "id": "dependence",
+        "title": "Influence can work through ordinary decisions",
+        "html": "<p>Capture need not begin with an explicit bargain. It can operate through which problems receive attention, <a href=\"/technologies/lobbying/\">who is invited to advise</a>, and which assumptions become normal. A rule that looks technical may raise barriers to entry or distribute costs in ways that favor established participants.</p><p>The challenge is that regulators cannot simply avoid all contact with the people they regulate. They need knowledge of the activity. The question is whether they can obtain independent information, hear competing interests, and make decisions that those with privileged access oppose.</p><p>To investigate capture, follow patterns of decisions and dependencies rather than relying on a single meeting or shared background. An institution’s stated purpose and its practical incentives may point in different directions, but that divergence requires evidence.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Theory of Economic Regulation",
+        "url": "https://www.rasmusen.org/zg601/readings/Stigler.1971.pdf",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: PDF search excerpt."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D028",
+    "title": "Principal-agent problems",
+    "description": "Understand the difficulties created when someone acts on another’s behalf while holding different information, incentives, or priorities.",
+    "opening_html": "<p>You hire a contractor because they know more about the work than you do. That expertise makes <a href=\"/technologies/delegated-authority/\">delegation useful</a>, but also makes it hard to judge whether every recommendation serves your interests. The person doing the work knows things the person authorizing it cannot easily verify.</p><p><a href=\"https://doi.org/10.1016/0304-405X%2876%2990026-X\">Principal-agent problems</a> arise from this combination of delegation, differing interests, and incomplete information. They do not require either party to be dishonest. A contractor and client can disagree sincerely about quality, urgency, or acceptable cost.</p>",
+    "sections": [
+      {
+        "id": "alignment",
+        "title": "Control has a cost too",
+        "html": "<p>Monitoring can reduce uncertainty, but it consumes time and may interfere with the work. Incentive payments can reward a desired outcome while encouraging neglect of aspects that are harder to measure. Detailed <a href=\"/technologies/contracts/\">contracts</a> still leave unexpected situations to someone’s judgment.</p><p>The relationship may also contain several principals. A public official answers to <a href=\"/technologies/representative-democracy/\">elected leaders</a>, professional standards, and citizens whose preferences differ. Treating one instruction as the sole objective can conceal those conflicts.</p><p>Good delegation therefore involves a workable combination of authority, information, incentives, and trust. The useful question is which decisions the delegate can make independently and how the consequences become visible, rather than how to eliminate every difference between the people involved.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
+        "url": "https://doi.org/10.1016/0304-405X%2876%2990026-X",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract and primary-paper search excerpt."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D029",
+    "title": "Path dependence",
+    "description": "See how earlier choices alter the costs and possibilities of later ones, sometimes making an arrangement difficult to replace.",
+    "opening_html": "<p>A group adopts a particular system for keeping records. Members learn it, create templates, and build routines around it. Years later, a better alternative appears, but changing would require retraining, conversion, and agreement among people whose work is already connected to the old system.</p><p><a href=\"https://ideas.repec.org/a/ecj/econjl/v99y1989i394p116-31.html\">Path dependence</a> describes how the sequence of earlier events can shape later possibilities. Some arrangements become more attractive as more people adopt them, so an early advantage can grow beyond its original cause.</p><p>Continuing with the familiar system may be reasonable given the costs of transition, even if it would not be chosen from scratch. That is different from claiming that it is intrinsically the best option.</p><p>History alone does not establish lock-in. Some practices persist because they still work well; others are easier to change than participants assume. The mechanism needs to be identified: accumulated skills, complementary investments, coordination requirements, or people whose position depends on the arrangement.</p><p>Change becomes more practical when those dependencies are addressed directly. A replacement may need a transition period, compatibility with existing work through shared <a href=\"/technologies/protocols-and-interfaces/\">protocols and interfaces</a>, and a way to distribute the costs of moving. Simply demonstrating that a new design is better can leave the reasons for staying exactly where they were.</p>",
+    "sections": [],
+    "sources": [
+      {
+        "title": "Competing Technologies, Increasing Returns, and Lock-In by Historical Events",
+        "url": "https://ideas.repec.org/a/ecj/econjl/v99y1989i394p116-31.html",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract in search results."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D030",
+    "title": "Norm drift",
+    "description": "Notice gradual changes in informal expectations that may occur without anyone formally deciding to change the rules.",
+    "opening_html": "<p>A discussion group once expected replies within a day. A few members become busy, others adjust, and eventually a week feels normal. The written welcome message still promises quick responses, but the <a href=\"/technologies/social-norms/\">lived expectation</a> has changed.</p><p>“Norm drift” describes this gradual movement in what people expect. Repeated behavior, changing membership, and responses to exceptions can move the group away from its earlier understanding without a formal decision to change it.</p>",
+    "sections": [
+      {
+        "id": "expectations",
+        "title": "The old rule can survive on paper",
+        "html": "<p>Simple coordination experiments have produced <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4343158/\">shared conventions through repeated interaction without central direction</a>. A discussion group’s response times also depend on practical constraints: people may start taking longer because their available time changes, and others then adjust what they expect.</p><p>Drift may be useful adaptation or unnoticed deterioration. Slower replies may reflect a healthier pace, or make newcomers feel ignored. The judgment depends on what the practice does for participants, not simply on whether it matches the past.</p><p>Comparing the <a href=\"/technologies/community-agreements/\">formal account</a> with everyday expectations can reveal the change. The next conversation can then concern what the group wants to preserve or revise, rather than blaming individuals for violating a rule that the collective has quietly stopped following.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The spontaneous emergence of conventions: An experimental study of cultural evolution",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4343158/",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract and article sections reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D031",
+    "title": "Network brokerage",
+    "description": "Recognize the people who connect separated groups, bringing different knowledge together while sometimes becoming gatekeepers themselves.",
+    "opening_html": "<p>A person active in both a tenants’ association and a local trades network notices that one group needs repairs while the other wants community work. They can <a href=\"/technologies/introductions-by-a-connector/\">connect needs and capabilities</a> that remain invisible within either circle alone.</p><p><a href=\"https://doi.org/10.1086/421787\">Network brokerage</a> concerns these positions across gaps in a network. They can expose people to different approaches and make combinations possible. Access is only the beginning: someone still has to recognize a useful combination and help the people involved act on it.</p>",
+    "sections": [
+      {
+        "id": "connection",
+        "title": "A bridge can become a bottleneck",
+        "html": "<p>The broker may translate unfamiliar language, establish initial trust, and help each side understand why the other is worth meeting. A formal <a href=\"/technologies/boundary-spanning-roles/\">boundary-spanning role</a> can make that connecting work an explicit responsibility. Their contribution is more than forwarding a contact detail.</p><p>But controlling the connection can also confer power. If every exchange must pass through one person, they can decide what information travels and which opportunities become visible. Others may remain dependent even after cooperation is established.</p><p>The distinction is whether brokerage develops relationships that can eventually stand on their own or preserves an exclusive route between groups. Both can bring the broker standing, but they create different possibilities for everyone else. A useful connection expands the network’s capacity to cooperate rather than merely increasing the indispensability of its connector.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Structural Holes and Good Ideas",
+        "url": "https://doi.org/10.1086/421787",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract in search results."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  },
+  {
+    "id": "D032",
+    "title": "Boundary maintenance",
+    "description": "Understand how groups define who belongs, what participation requires, and which differences become barriers to access.",
+    "opening_html": "<p>A community may describe itself as open while newcomers quickly discover unwritten tests: knowing the right language, sharing the right references, or being introduced by someone established. Membership is formally available, but belonging is negotiated through everyday interactions.</p><p><a href=\"https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107\">Boundary maintenance</a> concerns these distinctions between insiders, outsiders, and legitimate participation. Boundaries can protect a group’s purpose and make expectations understandable. They can also preserve privilege while appearing merely cultural or practical.</p>",
+    "sections": [
+      {
+        "id": "purpose",
+        "title": "A boundary needs a reason—and a way to be questioned",
+        "html": "<p>A <a href=\"/technologies/peer-support-groups/\">peer-support group</a> may need <a href=\"/technologies/confidentiality-agreements/\">confidentiality</a> and a defined purpose to make participation safe. A professional association may require demonstrated competence for particular responsibilities. Those boundaries do different work from excluding people because their background feels unfamiliar.</p><p>The consequences depend on who defines the boundary, how people learn about it, and whether there is a credible route across it. An <a href=\"/technologies/membership-curation/\">entry requirement</a> that nobody explains can be more exclusionary than a demanding but intelligible one.</p><p>Groups also change as their purposes and membership change. A boundary once useful may become an obstacle to needed knowledge or cooperation. Examining it means asking what it protects and whom it keeps out, without assuming either that every boundary is oppressive or that an inherited distinction still serves its original purpose.</p>"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Study of Boundaries in the Social Sciences",
+        "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.28.110601.141107",
+        "access": "existing-research-notes",
+        "note": "Reviewed saved research finding and limitations; original access: abstract reviewed."
+      }
+    ],
+    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
+    "reviewed_on": "2026-11-06"
+  }
+]

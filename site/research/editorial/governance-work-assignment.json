@@ -1,0 +1,3901 @@
+[
+  {
+    "id": "T101",
+    "title": "Assemblies",
+    "slug": "assemblies",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "A convened body deliberates on shared matters.",
+    "example": "Bring members together for consequential choices.",
+    "sources": [
+      "OECD"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T102",
+    "title": "Citizens' assemblies",
+    "slug": "citizens-assemblies",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "A broadly representative recruited group deliberates on public issues.",
+    "example": "Examine a complex policy question in depth.",
+    "sources": [
+      "OECD"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T103",
+    "title": "Citizens' juries",
+    "slug": "citizens-juries",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "A smaller deliberative panel hears evidence and forms recommendations.",
+    "example": "Review a bounded public question.",
+    "sources": [
+      "OECD"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T104",
+    "title": "Town halls",
+    "slug": "town-halls",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "An open meeting gathers questions and discussion.",
+    "example": "Hear concerns; distinguish consultation from binding decisions.",
+    "sources": [
+      "R-T104"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "public forums"
+    ],
+    "terms": [
+      "town meetings"
+    ],
+    "research": {
+      "id": "T104",
+      "title": "Town halls",
+      "source_title": "Conducting Public Forums and Listening Sessions",
+      "url": "https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-public-forums/main",
+      "publisher": "University of Kansas Community Tool Box",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "A public forum gathers people around a shared issue, using facilitation and recorded discussion to surface experiences, concerns, and possible responses. It creates a visible place for community input before subsequent decisions.",
+      "limitation": "Attendance is self-selected; the discussion does not automatically represent absent residents or give participants binding decision authority.",
+      "scenario": "A neighborhood could convene an evening forum about unreliable buses, collect residents' experiences, and publish recurring concerns for the transport authority to address.",
+      "aliases": [
+        "public forums"
+      ],
+      "scale": "communities",
+      "terms": [
+        "town meetings"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T105",
+    "title": "Public consultations",
+    "slug": "public-consultations",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Invite input before an authority decides.",
+    "example": "Collect affected people's knowledge about a proposal.",
+    "sources": [
+      "OECD"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T106",
+    "title": "Petitions",
+    "slug": "petitions",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Aggregate support for a request to an authority.",
+    "example": "Demonstrate demand for reconsidering a decision.",
+    "sources": [
+      "R-T106"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "signature campaigns"
+    ],
+    "research": {
+      "id": "T106",
+      "title": "Petitions",
+      "source_title": "How petitions work",
+      "url": "https://petition.parliament.uk/help",
+      "publisher": "UK Parliament",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Petitions turn a specific request into a document other people can publicly support. An institutional petition system can connect accumulated signatures to defined response or consideration procedures, making support legible to officials.",
+      "limitation": "The cited rules describe the UK parliamentary system; signatures do not guarantee a debate, policy change, or universal eligibility.",
+      "scenario": "Residents could write a precise request for safer crossings, gather signatures, and submit it through an authority's established petition procedure to seek a response.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "signature campaigns"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T107",
+    "title": "Referendums",
+    "slug": "referendums",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Eligible voters decide a specified question directly.",
+    "example": "Resolve an issue assigned to the electorate.",
+    "sources": [
+      "R-T107"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "popular votes"
+    ],
+    "research": {
+      "id": "T107",
+      "title": "Referendums",
+      "source_title": "Referendum",
+      "url": "https://www.parliament.uk/site-information/glossary/referendum/",
+      "publisher": "UK Parliament",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "A referendum submits a specific question to an electorate for a direct vote. It separates deciding an issue from selecting representatives, although institutions still determine the question, eligible electorate, and consequences of the result.",
+      "limitation": "Binding force, turnout requirements, campaign rules, and the power to initiate a referendum vary across legal systems and institutions.",
+      "scenario": "An association could submit a proposed constitutional change to its eligible members, publishing the exact question and explaining beforehand what result would authorize adoption.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "popular votes"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T108",
+    "title": "Sortition",
+    "slug": "sortition",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Select participants by lottery, sometimes with stratification.",
+    "example": "Reduce dependence on self-selection or campaigning.",
+    "sources": [
+      "OECD"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T109",
+    "title": "Elections",
+    "slug": "elections",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Participants select officeholders through a defined ballot process.",
+    "example": "Authorize representatives for a term.",
+    "sources": [
+      "R-T109"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "electoral systems"
+    ],
+    "research": {
+      "id": "T109",
+      "title": "Elections",
+      "source_title": "Electoral Systems",
+      "url": "https://aceproject.org/ero-en/misc/idea-2018international-obligations-for-elections",
+      "publisher": "International IDEA / ACE Electoral Knowledge Network",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Elections translate eligible voters' choices into officeholders through specified ballots, districts, and counting formulas. Changing these components changes how votes become representation, so the procedure is part of the institution rather than administrative decoration.",
+      "limitation": "The source compares electoral design choices; it does not establish one system as best regardless of political and geographic context.",
+      "scenario": "A new federation could choose how local chapters elect its council, comparing district seats with proportional representation before fixing the ballot and counting rules.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "electoral systems"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T110",
+    "title": "Appointment",
+    "slug": "appointment",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "An authorized person or body chooses a role holder.",
+    "example": "Fill a responsibility requiring specific judgment.",
+    "sources": [
+      "R-T110"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "appointed office"
+    ],
+    "research": {
+      "id": "T110",
+      "title": "Appointment",
+      "source_title": "Governance Code on Public Appointments",
+      "url": "https://www.gov.uk/government/publications/governance-code-for-public-appointments/governance-code-on-public-appointments-html",
+      "publisher": "UK Cabinet Office",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Appointment assigns an authorized person or body responsibility for selecting someone for an office. The public appointments code combines that selection power with merit criteria, assessment processes, and oversight rather than treating appointment as unrestricted personal discretion.",
+      "limitation": "This is a UK public appointments framework; other offices have different appointing authorities, eligibility rules, and oversight arrangements.",
+      "scenario": "A foundation could authorize its board to appoint a director, publish selection criteria, assess applicants consistently, and record why the chosen person meets the role.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "appointed office"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T111",
+    "title": "Nomination with reasons",
+    "slug": "nomination-with-reasons",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Explain role nominations before selection.",
+    "example": "Make selection criteria discussable.",
+    "sources": [
+      "S3"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T112",
+    "title": "Term limits",
+    "slug": "term-limits",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Limit how long someone may retain an office.",
+    "example": "Create predictable leadership turnover.",
+    "sources": [
+      "R-T112"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "tenure limits"
+    ],
+    "research": {
+      "id": "T112",
+      "title": "Term limits",
+      "source_title": "Constitution Annotated: Twenty-Second Amendment",
+      "url": "https://constitution.congress.gov/static/files/GPO-CONAN-2024-SUPP.pdf",
+      "publisher": "Library of Congress",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Term limits restrict how long or how often an individual may hold a specified office. The US presidential example limits repeated election and distinguishes ordinary terms from time served after succeeding another officeholder.",
+      "limitation": "The constitutional example supports the mechanism, not a universal limit; partial terms, consecutive service, and eligibility rules require explicit definitions.",
+      "scenario": "A membership organization could limit its president to two elected terms, specifying whether a partial replacement term counts and how former presidents may later return.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "tenure limits"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T113",
+    "title": "Rotating chairmanship",
+    "slug": "rotating-chairmanship",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Rotate responsibility for chairing meetings.",
+    "example": "Spread facilitation experience and reduce dependence.",
+    "sources": [
+      "R-T113"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "rotating presidency"
+    ],
+    "research": {
+      "id": "T113",
+      "title": "Rotating chairmanship",
+      "source_title": "The presidency of the Council of the EU",
+      "url": "https://www.consilium.europa.eu/en/council-eu/presidency-council-eu/",
+      "publisher": "Council of the European Union",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Rotating chairmanship transfers responsibility for organizing and chairing meetings among members on a schedule. The Council presidency illustrates rotation combined with shared planning across successive holders to preserve continuity while distributing agenda and coordination responsibilities.",
+      "limitation": "The EU presidency has exceptions and specialized arrangements; rotating a chair does not necessarily rotate every substantive decision-making power.",
+      "scenario": "A network of regional associations could rotate its meeting chair every six months and require outgoing and incoming chairs to maintain a shared work plan.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "rotating presidency"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T114",
+    "title": "Recall procedures",
+    "slug": "recall-procedures",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Provide a defined route to remove a representative.",
+    "example": "Respond to lost confidence before a term expires.",
+    "sources": [
+      "R-T114"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "recall elections"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T114",
+      "title": "Recall procedures",
+      "source_title": "Recall of State Officials",
+      "url": "https://www.ncsl.org/elections-and-campaigns/recall-of-state-officials",
+      "publisher": "National Conference of State Legislatures",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Recall creates a procedure for voters to seek removal of an elected officeholder before the normal term ends. In the surveyed US systems, qualifying petitions can trigger a recall election rather than ordinary reelection timing.",
+      "limitation": "Availability, signature requirements, grounds, and replacement procedures vary by jurisdiction; recall is distinct from impeachment or a general dissatisfaction poll.",
+      "scenario": "A federation could establish a member-initiated recall procedure for elected delegates, defining a petition threshold, verification process, and removal vote before any dispute arises.",
+      "aliases": [
+        "recall elections"
+      ],
+      "scale": "societies",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T115",
+    "title": "Delegated authority",
+    "slug": "delegated-authority",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Give another person specified decision rights.",
+    "example": "Move decisions closer to relevant expertise.",
+    "sources": [
+      "R-T115"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "domains",
+      "delegation"
+    ],
+    "research": {
+      "id": "T115",
+      "title": "Delegated authority",
+      "source_title": "Domains and Delegation",
+      "url": "https://patterns.sociocracy30.org/domain.html",
+      "publisher": "Sociocracy 3.0",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Delegation gives a person or group responsibility and decision authority within an explicitly bounded domain. Sociocracy 3.0 distinguishes the delegate's autonomy from the delegator's continuing accountability and recommends clarifying constraints, resources, and expectations.",
+      "limitation": "This practitioner pattern describes role design rather than proving effectiveness; unclear boundaries or unavailable resources can undermine apparent autonomy.",
+      "scenario": "An events organization could let a programming team choose speakers within a fixed budget while reserving venue contracts and safeguarding policies to the board.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "domains",
+        "delegation"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T116",
+    "title": "Subsidiarity",
+    "slug": "subsidiarity",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Assign decisions to the lowest competent level.",
+    "example": "Avoid escalating choices that local groups can handle.",
+    "sources": [
+      "R-T116"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "local decision authority"
+    ],
+    "research": {
+      "id": "T116",
+      "title": "Subsidiarity",
+      "source_title": "Principle of subsidiarity",
+      "url": "https://eur-lex.europa.eu/EN/legal-content/glossary/principle-of-subsidiarity.html",
+      "publisher": "European Union EUR-Lex",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Subsidiarity asks whether action belongs at a more local level or requires coordination above it. In EU law, action outside exclusive competences requires justification that member states cannot sufficiently achieve the objectives themselves.",
+      "limitation": "The source concerns EU competences; adapting the principle to organizations requires an explicit test for local capability and cross-boundary effects.",
+      "scenario": "A national volunteer network could leave local event formats to chapters while coordinating a shared safety standard where one chapter's failures affect the whole network.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "local decision authority"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T117",
+    "title": "Single accountable decision maker",
+    "slug": "single-accountable-decision-maker",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "One named person decides within a stated remit.",
+    "example": "Avoid unclear ownership for a time-sensitive choice.",
+    "sources": [
+      "SN-D"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T118",
+    "title": "Advice process",
+    "slug": "advice-process",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "A decision maker consults affected people and relevant experts.",
+    "example": "Combine initiative with informed input.",
+    "sources": [
+      "ADV"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T119",
+    "title": "Majority voting",
+    "slug": "majority-voting",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Adopt an option exceeding half of the relevant votes.",
+    "example": "Resolve a binary question under agreed voting rules.",
+    "sources": [
+      "R-T119"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "simple majority"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T119",
+      "title": "Majority voting",
+      "source_title": "Frequently Asked Questions",
+      "url": "https://robertsrules.com/frequently-asked-questions/",
+      "publisher": "Robert's Rules Association",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Majority voting adopts an option when it exceeds half of the relevant voting base. Robert's Rules normally uses votes cast, making the denominator and treatment of abstentions crucial parts of the rule.",
+      "limitation": "Law, bylaws, or special rules can specify another denominator; a majority of votes cast is not necessarily a majority of members.",
+      "scenario": "A club could decide an ordinary motion by more than half of votes cast, explaining abstentions and quorum separately before members vote.",
+      "aliases": [
+        "simple majority"
+      ],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T120",
+    "title": "Plurality voting",
+    "slug": "plurality-voting",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "The option receiving the most votes wins.",
+    "example": "Choose among candidates without requiring a majority.",
+    "sources": [
+      "R-T120"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "first past the post",
+      "FPTP"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T120",
+      "title": "Plurality voting",
+      "source_title": "First Past the Post",
+      "url": "https://aceproject.org/ace-en/topics/es/ese/ese01/ese01a",
+      "publisher": "ACE Electoral Knowledge Network",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Plurality voting selects the candidate receiving more votes than any competitor, even without support from over half the voters. First-past-the-post applies this rule to a contest for a single district seat.",
+      "limitation": "Winning depends on the field of candidates; the largest vote share does not establish majority support for the winner.",
+      "scenario": "A small association could elect a single representative by choosing the candidate with the most votes, explicitly warning members that no runoff will occur.",
+      "aliases": [
+        "first past the post",
+        "FPTP"
+      ],
+      "scale": "societies",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T121",
+    "title": "Supermajority voting",
+    "slug": "supermajority-voting",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Require a specified threshold greater than half.",
+    "example": "Raise the bar for consequential changes.",
+    "sources": [
+      "R-T121"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "qualified majority",
+      "two-thirds rule"
+    ],
+    "research": {
+      "id": "T121",
+      "title": "Supermajority voting",
+      "source_title": "About Voting",
+      "url": "https://www.senate.gov/about/powers-procedures/voting.htm",
+      "publisher": "United States Senate",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Supermajority rules require a specified fraction above one half for particular decisions. Senate procedures illustrate different thresholds for different actions, showing why the proportion and the population being counted must both be stated.",
+      "limitation": "The examples concern US Senate procedures; thresholds cannot be transferred without specifying attendance, membership, abstentions, and any applicable governing law.",
+      "scenario": "A cooperative could require two-thirds of votes cast to amend its charter while retaining a simple majority for ordinary spending decisions within its approved budget.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "qualified majority",
+        "two-thirds rule"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T122",
+    "title": "Unanimity",
+    "slug": "unanimity",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Require every eligible decision maker's agreement.",
+    "example": "Give each party a veto over a shared commitment.",
+    "sources": [
+      "R-T122"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "unanimous decisions"
+    ],
+    "research": {
+      "id": "T122",
+      "title": "Unanimity",
+      "source_title": "How does the Council vote?",
+      "url": "https://www.consilium.europa.eu/en/council-eu/how-does-the-council-vote/",
+      "publisher": "Council of the European Union",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Unanimity gives each participating decision-maker the ability to prevent adoption through opposition. The Council's procedure illustrates that unanimity can mean no opposing votes rather than every member casting an affirmative vote.",
+      "limitation": "Abstentions do not block the cited Council procedure; other unanimity rules may differ, so the meaning must be agreed explicitly.",
+      "scenario": "A small partnership could require no opposing votes to admit a new partner, specifying whether abstention permits the proposal and what happens if it fails.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "unanimous decisions"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T123",
+    "title": "Consensus process",
+    "slug": "consensus-process",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Seek an agreement participants can support or accept under explicit rules.",
+    "example": "Work through concerns before committing collectively.",
+    "sources": [
+      "SEEDS"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T124",
+    "title": "Consent decision-making",
+    "slug": "consent-decision-making",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Test proposals for reasoned objections.",
+    "example": "Try a revisable policy.",
+    "sources": [
+      "S3"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T125",
+    "title": "Rough consensus",
+    "slug": "rough-consensus",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Address substantive objections without equating agreement to a vote tally.",
+    "example": "Resolve technical proposals through reasoned discussion.",
+    "sources": [
+      "IETF"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T126",
+    "title": "Fist-to-five checks",
+    "slug": "fist-to-five-checks",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Participants signal degrees of support with their hands.",
+    "example": "Locate reservations before deciding; specify binding rules separately.",
+    "sources": [
+      "SN-D"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T127",
+    "title": "Approval voting",
+    "slug": "approval-voting",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Voters mark every acceptable candidate; the highest total wins.",
+    "example": "Choose among several acceptable alternatives.",
+    "sources": [
+      "R-T127"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "approval ballots"
+    ],
+    "research": {
+      "id": "T127",
+      "title": "Approval voting",
+      "source_title": "What is Approval Voting?",
+      "url": "https://electionscience.org/education/approval-voting",
+      "publisher": "Center for Election Science",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Approval voting lets each voter support any number of candidates rather than selecting only one. Each approval counts equally, and the candidate with the most approvals wins the single-winner contest.",
+      "limitation": "The source advocates the method; its procedural explanation does not independently establish claims about polarization, strategy, or voter satisfaction.",
+      "scenario": "A conference committee could choose a keynote speaker by letting each member approve every acceptable candidate, then inviting the candidate with the most approvals.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [
+        "approval ballots"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T128",
+    "title": "Ranked-choice voting",
+    "slug": "ranked-choice-voting",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Voters rank options; a specified counting rule determines outcomes.",
+    "example": "Capture preferences beyond a single first choice.",
+    "sources": [
+      "R-T128"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "instant runoff voting",
+      "IRV"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T128",
+      "title": "Ranked-choice voting",
+      "source_title": "Ranked Choice Voting",
+      "url": "https://portal.311.nyc.gov/article/?kanumber=KA-03692",
+      "publisher": "New York City 311",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Single-winner ranked-choice voting lets voters order candidates by preference. If no candidate wins initially, the lowest candidate is eliminated and affected ballots transfer to their next continuing preference through successive counting rounds.",
+      "limitation": "The source describes New York City's single-winner implementation; ranking limits and exhausted ballots vary, and proportional ranked systems use different counting rules.",
+      "scenario": "A student association could elect its president with ranked ballots, publishing transfer and exhaustion rules so members understand how later preferences may count.",
+      "aliases": [
+        "instant runoff voting",
+        "IRV"
+      ],
+      "scale": "societies",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T129",
+    "title": "Score voting",
+    "slug": "score-voting",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Voters rate options on a defined scale.",
+    "example": "Compare degrees of support with explicit tally rules.",
+    "sources": [
+      "R-T129"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "range voting"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T129",
+      "title": "Score voting",
+      "source_title": "A proposal for British Columbia",
+      "url": "https://rangevoting.org/BC2018.html",
+      "publisher": "Center for Range Voting",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Score voting asks voters to rate candidates on a common numerical scale instead of selecting only one. Aggregating those ratings produces a winner, with the cited proposal using average scores and rules for unrated candidates.",
+      "limitation": "This is an advocacy proposal, not an effectiveness evaluation; blank ratings, aggregation, and strategic use of the scale need explicit rules.",
+      "scenario": "A design collective could rate proposed projects from zero to five, agree how missing ratings count, and select the project with the highest aggregate score.",
+      "aliases": [
+        "range voting"
+      ],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T130",
+    "title": "Dot voting",
+    "slug": "dot-voting",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Participants allocate limited marks across options.",
+    "example": "Prioritize discussion topics; avoid treating it as full deliberation.",
+    "sources": [
+      "R-T130"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "dotmocracy",
+      "sticker voting"
+    ],
+    "research": {
+      "id": "T130",
+      "title": "Dot voting",
+      "source_title": "Dot Voting",
+      "url": "https://gamestorming.com/dot-voting/",
+      "publisher": "Gamestorming",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Dot voting gives participants a limited number of marks to distribute among visible options. Counting the marks reveals a group's expressed priorities and can narrow a long list for further discussion or selection.",
+      "limitation": "Visible voting can influence later participants, and prioritization does not substitute for examining feasibility, objections, or the reasons behind preferences.",
+      "scenario": "After generating twenty workshop ideas, a team could give everyone three dots and discuss the highest-ranked options before committing time or money.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [
+        "dotmocracy",
+        "sticker voting"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T131",
+    "title": "Quadratic voting",
+    "slug": "quadratic-voting",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Additional voting intensity costs progressively more credits.",
+    "example": "Explore preference intensity; design identity and budget rules carefully.",
+    "sources": [
+      "R-T131"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "QV"
+    ],
+    "terms": [
+      "voice credits"
+    ],
+    "research": {
+      "id": "T131",
+      "title": "Quadratic voting",
+      "source_title": "Quadratic Voting: How Mechanism Design Can Radicalize Democracy",
+      "url": "https://www.aeaweb.org/articles?id=10.1257/pandp.20181002",
+      "publisher": "American Economic Association",
+      "source_type": "research paper",
+      "access": "abstract",
+      "finding": "Quadratic voting allows participants to express different intensities of preference by spending credits on votes whose cost grows quadratically. Additional influence on one question therefore consumes disproportionately more of a participant's available voting budget.",
+      "limitation": "The paper's efficiency claims depend on model assumptions; identity, credit allocation, coordination, and implementation cannot be treated as automatically solved.",
+      "scenario": "A grant committee could experiment with equal credit budgets across several proposals, requiring increasingly expensive additional votes and reviewing whether participants understand the allocation tradeoffs.",
+      "aliases": [
+        "QV"
+      ],
+      "scale": "societies",
+      "terms": [
+        "voice credits"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T132",
+    "title": "Liquid democracy",
+    "slug": "liquid-democracy",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Participants vote directly or delegate revocable voting authority.",
+    "example": "Allow issue-specific representation.",
+    "sources": [
+      "R-T132"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "delegative democracy"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T132",
+      "title": "Liquid democracy",
+      "source_title": "Power in Liquid Democracy: A Network Centrality Approach",
+      "url": "https://arxiv.org/abs/2608.13188",
+      "publisher": "arXiv / Grossi and colleagues",
+      "source_type": "research paper",
+      "access": "abstract",
+      "finding": "Liquid democracy combines direct voting with delegating voting power to another participant, potentially through chains of delegation. The paper studies how these delegation networks distribute influence rather than assuming delegates remain equally powerful.",
+      "limitation": "This theoretical preprint analyzes power measures; it does not demonstrate successful large-scale governance or remove risks of concentrated delegated influence.",
+      "scenario": "An association could let members vote directly on proposals or delegate to trusted peers, while displaying accumulated delegation power and allowing members to reclaim votes.",
+      "aliases": [
+        "delegative democracy"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T133",
+    "title": "Proxy voting",
+    "slug": "proxy-voting",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Authorize another person to cast a vote under stated rules.",
+    "example": "Represent an absent member.",
+    "sources": [
+      "R-T133"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "voting by proxy"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T133",
+      "title": "Proxy voting",
+      "source_title": "Apply for a proxy vote",
+      "url": "https://www.gov.uk/apply-proxy-vote",
+      "publisher": "UK Government",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Proxy voting authorizes another person to cast a vote on someone's behalf. The government procedure illustrates permission, eligibility, and formal application requirements that distinguish a recognized proxy from simply asking someone to impersonate a voter.",
+      "limitation": "The source describes UK electoral arrangements; permitted reasons, deadlines, and proxy powers vary across elections and membership organizations.",
+      "scenario": "An association could allow an absent member to appoint an eligible proxy using its bylaws, recording the authorization before the meeting and checking its scope.",
+      "aliases": [
+        "voting by proxy"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T134",
+    "title": "Delegation poker",
+    "slug": "delegation-poker",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Discuss and compare desired levels of delegated authority.",
+    "example": "Clarify how much autonomy a team has.",
+    "sources": [
+      "R-T134"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "delegation levels"
+    ],
+    "research": {
+      "id": "T134",
+      "title": "Delegation poker",
+      "source_title": "Delegation Poker",
+      "url": "https://management30.com/practice/delegation-poker/",
+      "publisher": "Management 3.0",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Delegation Poker makes expectations about decision authority discussable through seven levels ranging from managerial decisions to team delegation. Participants compare their chosen levels for a concrete decision and negotiate a shared understanding of authority.",
+      "limitation": "The exercise clarifies expectations but does not itself legally or operationally transfer authority; the resulting agreements need explicit application and review.",
+      "scenario": "A manager and team could play through hiring, purchasing, and scheduling decisions, then document which decisions require consultation and which the team can make independently.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [
+        "delegation levels"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T135",
+    "title": "Decision thresholds by impact",
+    "slug": "decision-thresholds-by-impact",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Match required participation to consequences and reversibility.",
+    "example": "Separate minor purchases from membership decisions.",
+    "sources": [
+      "SN-D"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T136",
+    "title": "Doocracy",
+    "slug": "doocracy",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "People take initiative within understood boundaries.",
+    "example": "Complete low-risk reversible work without repeated approval.",
+    "sources": [
+      "SN-P"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T137",
+    "title": "BDFL governance",
+    "slug": "bdfl-governance",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "A recognized leader retains final authority over project direction.",
+    "example": "Understand founder-led coordination and its succession problem.",
+    "sources": [
+      "OSS"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T138",
+    "title": "Steering councils",
+    "slug": "steering-councils",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "A small group holds defined governance responsibilities.",
+    "example": "Distribute project leadership beyond one founder.",
+    "sources": [
+      "PY"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T139",
+    "title": "Boards of trustees",
+    "slug": "boards-of-trustees",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "A governing body stewards an organization's purpose and assets.",
+    "example": "Separate enduring oversight from daily management.",
+    "sources": [
+      "R-T139"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "trustee boards"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T139",
+      "title": "Boards of trustees",
+      "source_title": "The essential trustee",
+      "url": "https://www.gov.uk/government/publications/the-essential-trustee-what-you-need-to-know-what-you-need-to-do-cc3/the-essential-trustee-what-you-need-to-know-what-you-need-to-do",
+      "publisher": "Charity Commission for England and Wales",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "A board of trustees holds collective responsibility for an organization's purposes, resources, and administration. The Charity Commission describes trustees as independently controlling a charity while remaining accountable for decisions made in its interests.",
+      "limitation": "The legal duties described apply to charities in England and Wales; trustee powers and liabilities differ elsewhere and across organizational forms.",
+      "scenario": "A new charitable organization could recruit trustees to oversee its mission and finances, leaving routine delivery to staff while reviewing major commitments and conflicts.",
+      "aliases": [
+        "trustee boards"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T140",
+    "title": "Worker councils",
+    "slug": "worker-councils",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "Workers select representatives for collective workplace participation.",
+    "example": "Create recurring representation within an enterprise.",
+    "sources": [
+      "R-T140"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "works councils"
+    ],
+    "terms": [
+      "employee councils"
+    ],
+    "research": {
+      "id": "T140",
+      "title": "Worker councils",
+      "source_title": "Greece: Actors and institutions",
+      "url": "https://www.eurofound.europa.eu/en/countries/greece/actors-and-institutions",
+      "publisher": "Eurofound",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Worker councils provide an elected channel for employees to receive information and be consulted within an enterprise. Eurofound's Greek example distinguishes these councils from trade unions and from the separate role of collective bargaining.",
+      "limitation": "This country-specific account does not establish universal council powers; eligibility, establishment thresholds, bargaining rights, and employer obligations vary substantially.",
+      "scenario": "Employees in a growing organization could establish a representative consultation council to discuss workplace changes, clarifying how it relates to existing unions and management authority.",
+      "aliases": [
+        "works councils"
+      ],
+      "scale": "institutions",
+      "terms": [
+        "employee councils"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T141",
+    "title": "Circles with domains",
+    "slug": "circles-with-domains",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "A team governs a defined responsibility.",
+    "example": "Clarify the scope of self-management.",
+    "sources": [
+      "S3"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T142",
+    "title": "Double linking",
+    "slug": "double-linking",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Connect groups through representation in both directions.",
+    "example": "Coordinate adjacent governance domains.",
+    "sources": [
+      "S3"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T143",
+    "title": "Federations",
+    "slug": "federations",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "Autonomous member bodies coordinate through shared arrangements.",
+    "example": "Act jointly while retaining local control.",
+    "sources": [
+      "R-T143"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "federalism"
+    ],
+    "research": {
+      "id": "T143",
+      "title": "Federations",
+      "source_title": "What is Federalism?",
+      "url": "https://www.forumfed.org/what-is-federalism/",
+      "publisher": "Forum of Federations",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Federal arrangements combine self-government for constituent units with shared government for common matters. Authority is divided through a constitutional framework, allowing regional autonomy and collective decisions to coexist rather than treating every unit as centrally subordinate.",
+      "limitation": "The source concerns governmental federalism; organizational adaptations need their own allocation of powers, amendment procedures, and ways to resolve jurisdictional disputes.",
+      "scenario": "Regional cooperatives could form a federation that jointly negotiates suppliers while protecting each cooperative's authority over membership, daily operations, and locally raised funds.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "federalism"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T144",
+    "title": "Confederations",
+    "slug": "confederations",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "Members retain substantial autonomy under limited shared authority.",
+    "example": "Coordinate independent organizations around narrow commitments.",
+    "sources": [
+      "R-T144"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "confederal arrangements"
+    ],
+    "research": {
+      "id": "T144",
+      "title": "Confederations",
+      "source_title": "Articles of Confederation (1777)",
+      "url": "https://www.archives.gov/milestone-documents/articles-of-confederation",
+      "publisher": "United States National Archives",
+      "source_type": "history",
+      "access": "search excerpt",
+      "finding": "A confederation joins constituent bodies around agreed common purposes while preserving substantial authority in those bodies. The Articles of Confederation explicitly reserved state powers except those delegated to the common Congress.",
+      "limitation": "This historical constitution illustrates one confederation; it does not define every possible arrangement or prove that weak central authority is desirable.",
+      "scenario": "Independent associations could create a confederation for shared advocacy, specifying the narrow tasks delegated to a common council and which commitments still require member approval.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "confederal arrangements"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T145",
+    "title": "Separation of powers",
+    "slug": "separation-of-powers",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Allocate governing functions to different bodies.",
+    "example": "Reduce concentrated control through mutual constraints.",
+    "sources": [
+      "R-T145"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "checks and balances"
+    ],
+    "research": {
+      "id": "T145",
+      "title": "Separation of powers",
+      "source_title": "Understanding Federal Courts: The Basics",
+      "url": "https://ord.uscourts.gov/index.php/court-info/about-the-judiciary",
+      "publisher": "US District Court for the District of Oregon",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Separation of powers allocates different governmental functions to distinct branches, while checks require some decisions to involve more than one branch. The US example separates lawmaking, execution, and adjudication without making them wholly isolated.",
+      "limitation": "The source describes the US federal system; separating functions does not automatically ensure independence, accountability, or effective limits on concentrated power.",
+      "scenario": "An organization could separate writing rules, applying them, and hearing disputes, requiring an independent review panel when members challenge an executive committee's disciplinary decision.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "checks and balances"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T146",
+    "title": "Constitutions and charters",
+    "slug": "constitutions-and-charters",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Define basic purposes, rights, offices, and amendment rules.",
+    "example": "Make foundational governance commitments explicit.",
+    "sources": [
+      "R-T146"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "founding charters"
+    ],
+    "research": {
+      "id": "T146",
+      "title": "Constitutions and charters",
+      "source_title": "What is a Constitution? Principles and Concepts",
+      "url": "https://www.idea.int/publications/catalogue/what-is-a-constitution",
+      "publisher": "International IDEA",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Constitutions establish basic principles, rights, governing structures, and decision procedures with higher authority than ordinary decisions. Organizational charters can similarly make foundational commitments explicit, although their legal status differs from state constitutions.",
+      "limitation": "The primer concerns constitutions; applying its ideas to association charters is an analogy, and formal text alone does not ensure compliance.",
+      "scenario": "A new association could write a charter specifying membership rights, decision authority, amendment rules, and dispute procedures before disagreements make those boundaries politically contentious.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "founding charters"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T147",
+    "title": "Bylaws",
+    "slug": "bylaws",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Codify internal governance procedures.",
+    "example": "Maintain organizational continuity.",
+    "sources": [
+      "S3"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T148",
+    "title": "Quorum rules",
+    "slug": "quorum-rules",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Require minimum participation for valid decisions.",
+    "example": "Prevent a tiny attendance from committing everyone.",
+    "sources": [
+      "R-T148"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "minimum attendance"
+    ],
+    "research": {
+      "id": "T148",
+      "title": "Quorum rules",
+      "source_title": "Frequently Asked Questions",
+      "url": "https://robertsrules.com/frequently-asked-questions/",
+      "publisher": "Robert's Rules Association",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "A quorum specifies the minimum presence required for an assembly to conduct substantive business. It prevents a small attendance from exercising the full body's authority, separately from how votes on motions are counted.",
+      "limitation": "The required number comes from applicable rules; quorum establishes permission to act, not agreement or representative attendance by itself.",
+      "scenario": "A club could require one-third of members present before binding decisions, postponing votes when turnout falls below that threshold while allowing informal discussion.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [
+        "minimum attendance"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T149",
+    "title": "Agenda-setting procedures",
+    "slug": "agenda-setting-procedures",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Specify how issues reach a decision forum.",
+    "example": "Make control of discussion visible and contestable.",
+    "sources": [
+      "R-T149"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "meeting agendas"
+    ],
+    "research": {
+      "id": "T149",
+      "title": "Agenda-setting procedures",
+      "source_title": "Facilitating Meetings",
+      "url": "https://seedsforchange.org.uk/downloads/facilitationmeeting.pdf",
+      "publisher": "Seeds for Change",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Agenda-setting turns possible discussion topics into an agreed sequence with aims and time allocations. The facilitation guide recommends gathering issues, identifying priorities, and agreeing the agenda so participants know what the meeting must accomplish.",
+      "limitation": "The guide offers facilitation practice, not causal evidence; control of topic selection can still exclude concerns or privilege established participants.",
+      "scenario": "A volunteer committee could collect agenda proposals beforehand, distinguish decisions from updates, and agree time allocations at the start so urgent issues receive adequate discussion.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [
+        "meeting agendas"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T150",
+    "title": "Speaking queues",
+    "slug": "speaking-queues",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Maintain an explicit order for contributions.",
+    "example": "Reduce competition for attention in a meeting.",
+    "sources": [
+      "R-T150"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "speaker lists",
+      "speaking stacks"
+    ],
+    "research": {
+      "id": "T150",
+      "title": "Speaking queues",
+      "source_title": "Facilitation Tools for meetings and workshops",
+      "url": "https://www.seedsforchange.org.uk/tools",
+      "publisher": "Seeds for Change",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Speaking queues allocate turns by recording who wants to contribute, reducing dependence on interruption or quickness. Facilitation tools can add agreed signals for urgent information or process suggestions while making exceptions to ordinary turn order visible.",
+      "limitation": "Strict arrival order can fragment discussion, and hand signals need explanation; a queue alone does not equalize confidence or influence.",
+      "scenario": "A crowded assembly could use a visible speaker list, with clearly explained exceptions for urgent factual corrections, so quieter participants can request a predictable turn.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [
+        "speaker lists",
+        "speaking stacks"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T151",
+    "title": "Facilitated rounds",
+    "slug": "facilitated-rounds",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Offer each participant a turn.",
+    "example": "Hear voices beyond frequent speakers.",
+    "sources": [
+      "S3"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T152",
+    "title": "Anonymous ballots",
+    "slug": "anonymous-ballots",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Separate voter identity from recorded choice.",
+    "example": "Reduce interpersonal pressure on a sensitive decision.",
+    "sources": [
+      "R-T152"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "secret ballots"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T152",
+      "title": "Anonymous ballots",
+      "source_title": "Secrecy of the Vote",
+      "url": "https://aceproject.org/ace-es/topics/ei_new/eif/eif09/eif09a?set_language=en",
+      "publisher": "ACE Electoral Knowledge Network",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Anonymous ballots separate a voter's identity from the recorded choice. Privacy screens, standardized ballots, and mixing ballots before counting illustrate how procedures can make individual choices harder for others to observe or verify.",
+      "limitation": "Secrecy depends on implementation; poorly positioned screens, identifiable ballots, or remote voting environments can expose choices despite a nominally anonymous procedure.",
+      "scenario": "A workplace association could use identical paper ballots and a private voting area when choosing representatives, then count mixed ballots without recording individual choices.",
+      "aliases": [
+        "secret ballots"
+      ],
+      "scale": "societies",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T153",
+    "title": "Conflict-of-interest disclosure",
+    "slug": "conflict-of-interest-disclosure",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Reveal interests relevant to a decision.",
+    "example": "Let others evaluate potential bias.",
+    "sources": [
+      "R-T153"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "interest declarations"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T153",
+      "title": "Conflict-of-interest disclosure",
+      "source_title": "Identifying and managing conflicts of interest in a charity",
+      "url": "https://www.gov.uk/government/publications/identifying-and-managing-conflicts-of-interest-in-a-charity-cc29",
+      "publisher": "Charity Commission for England and Wales",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Conflict-of-interest processes identify when personal or connected interests may interfere with organizational duties. Disclosure makes those relationships available for scrutiny so the organization can decide how to manage the conflict before taking action.",
+      "limitation": "Disclosure is only an initial control, not a cure; the source's legal duties apply specifically to charities in England and Wales.",
+      "scenario": "A grant panel could ask members to disclose ties to applicants before reviewing proposals, then decide whether each connection requires recusal or another safeguard.",
+      "aliases": [
+        "interest declarations"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T154",
+    "title": "Recusal",
+    "slug": "recusal",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "A decision maker steps aside from a particular matter.",
+    "example": "Address a specific conflict of interest.",
+    "sources": [
+      "R-T154"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "disqualification"
+    ],
+    "research": {
+      "id": "T154",
+      "title": "Recusal",
+      "source_title": "28 U.S. Code § 455: Disqualification of justice, judge, or magistrate judge",
+      "url": "https://www.law.cornell.edu/uscode/text/28/455",
+      "publisher": "Cornell Legal Information Institute / US Code",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Recusal removes a decision-maker from a matter when involvement threatens impartiality or creates a specified conflict. US judicial disqualification law illustrates both a general impartiality test and particular relationships or interests requiring withdrawal.",
+      "limitation": "The statute governs US federal judges and includes exceptions; organizational recusal policies require their own criteria and replacement decision procedures.",
+      "scenario": "A hiring committee member whose close relative applies could withdraw from reviewing that application, with the remaining panel recording the recusal and following its agreed procedure.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "disqualification"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T155",
+    "title": "Appeals procedures",
+    "slug": "appeals-procedures",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Permit review by another authority under defined grounds.",
+    "example": "Correct decisions without relying on personal influence.",
+    "sources": [
+      "R-T155"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "review procedures"
+    ],
+    "research": {
+      "id": "T155",
+      "title": "Appeals procedures",
+      "source_title": "Appeals",
+      "url": "https://www.uscourts.gov/about-federal-courts/types-cases/appeals",
+      "publisher": "Administrative Office of the US Courts",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Appeal procedures allow a decision to be reviewed by another authorized body through defined grounds and submissions. Federal appellate practice illustrates structured review using briefs and sometimes oral argument rather than simply repeating the original decision.",
+      "limitation": "The judicial example is jurisdiction-specific; appeal rights, review standards, deadlines, and whether new evidence is allowed differ across systems.",
+      "scenario": "A professional association could let disciplined members appeal to a separate panel, specifying acceptable grounds, submission deadlines, and whether the panel may overturn or return decisions.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "review procedures"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T156",
+    "title": "Ombuds offices",
+    "slug": "ombuds-offices",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "Provide an independent channel for concerns and navigation.",
+    "example": "Surface problems outside ordinary reporting lines.",
+    "sources": [
+      "R-T156"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "ombudsperson"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T156",
+      "title": "Ombuds offices",
+      "source_title": "Comparison Table for IOA Standards of Practice",
+      "url": "https://www.ombudsassociation.org/assets/docs/docs_2022/2022-03_IOA_Comparison_Table_for_IOA_Standards_of_Practice.pdf",
+      "publisher": "International Ombuds Association",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "An organizational ombuds provides an independent, impartial, confidential, and informal place to discuss concerns. The standards describe listening, clarifying issues, developing options, and sometimes facilitating informal intervention without replacing formal organizational decision channels.",
+      "limitation": "The cited document explains organizational ombuds practice; statutory ombuds may have different powers, and confidentiality or informality can have defined exceptions.",
+      "scenario": "A university could provide an ombuds office where a student confidentially explores a departmental dispute and learns available options before deciding whether to file a formal complaint.",
+      "aliases": [
+        "ombudsperson"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T157",
+    "title": "Sunset clauses",
+    "slug": "sunset-clauses",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Expire a rule unless it is deliberately renewed.",
+    "example": "Prevent temporary measures from persisting automatically.",
+    "sources": [
+      "R-T157"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "expiry clauses"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T157",
+      "title": "Sunset clauses",
+      "source_title": "Explanatory Memorandum: Product Safety and Metrology amendment regulations",
+      "url": "https://www.legislation.gov.uk/ukdsi/2020/9780348213393/pdfs/ukdsiem_9780348213393_en.pdf",
+      "publisher": "UK Government / legislation.gov.uk",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "A sunset clause gives a rule or authorization an explicit expiry point rather than allowing indefinite continuation by default. The explanatory memorandum illustrates using a sunset provision to end a temporary recognition arrangement.",
+      "limitation": "The source is a specific legislative example; expiry does not itself ensure evaluation, and replacement or renewal procedures must be specified separately.",
+      "scenario": "A committee could authorize a temporary spending exception for three months, stating that it expires unless members review the experience and explicitly renew it.",
+      "aliases": [
+        "expiry clauses"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T158",
+    "title": "Policy review dates",
+    "slug": "policy-review-dates",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Schedule reconsideration of agreements.",
+    "example": "Adapt rules as circumstances change.",
+    "sources": [
+      "S3"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T159",
+    "title": "Public decision records",
+    "slug": "public-decision-records",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Make decisions and reasons accessible to affected people.",
+    "example": "Support accountability beyond meeting attendees.",
+    "sources": [
+      "R-T159"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "decision logs",
+      "meeting minutes"
+    ],
+    "research": {
+      "id": "T159",
+      "title": "Public decision records",
+      "source_title": "Charity meetings",
+      "url": "https://www.gov.uk/government/publications/charities-and-meetings-cc48/charities-and-meetings",
+      "publisher": "Charity Commission for England and Wales",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Decision records preserve what was decided, the reasons, supporting information, attendance, and declared conflicts. Charity meeting guidance illustrates minutes as an accountable record and requires access for specified organizational audiences rather than a verbatim transcript.",
+      "limitation": "The source supports recordkeeping and member access, not universal public disclosure; privacy, governing documents, and jurisdiction affect what may be published.",
+      "scenario": "A cooperative could publish a redacted decision log showing resolutions and reasons, while retaining a fuller internal record for sensitive personnel or contractual matters.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "decision logs",
+        "meeting minutes"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T160",
+    "title": "Emergency authority with limits",
+    "slug": "emergency-authority-with-limits",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Predefine temporary decision powers and their expiry.",
+    "example": "Coordinate urgent responses while preserving later review.",
+    "sources": [
+      "R-T160"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "temporary emergency powers"
+    ],
+    "research": {
+      "id": "T160",
+      "title": "Emergency authority with limits",
+      "source_title": "France: Final Opinion on Article 49.3 of the Constitution",
+      "url": "https://docs-venice.coe.int/api/Document?pdffile=CDL-AD%282025%29025-e",
+      "publisher": "Venice Commission",
+      "source_type": "institutional guide",
+      "access": "page",
+      "finding": "Emergency authority can temporarily concentrate powers for exceptional conditions while limiting their subject matter and duration. The Venice Commission emphasizes a legal basis, relevance to the emergency, and expiry unless the legislature confirms continuation.",
+      "limitation": "This constitutional guidance concerns government powers; emergency labels do not justify unlimited scope, and actual safeguards depend on enforceable review arrangements.",
+      "scenario": "An association could authorize a crisis coordinator to make urgent safety expenditures for one week, requiring documented decisions and a board vote for any extension.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "temporary emergency powers"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T315",
+    "title": "Collective bargaining",
+    "slug": "collective-bargaining",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Worker and employer representatives negotiate shared employment conditions.",
+    "example": "Create agreements beyond individual negotiations.",
+    "sources": [
+      "ILO"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T316",
+    "title": "Trade unions",
+    "slug": "trade-unions",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "Workers organize representation and collective interests.",
+    "example": "Maintain a continuing basis for workplace voice.",
+    "sources": [
+      "ILO"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T317",
+    "title": "Arbitration",
+    "slug": "arbitration",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Parties submit a dispute to a designated decision maker.",
+    "example": "Resolve a defined dispute through an agreed process.",
+    "sources": [
+      "R-T317"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "arbitral proceedings"
+    ],
+    "research": {
+      "id": "T317",
+      "title": "Arbitration",
+      "source_title": "Your Questions About Arbitration, Answered",
+      "url": "https://www.adr.org/news-and-insights/your-questions-about-arbitration-answered/",
+      "publisher": "American Arbitration Association",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Arbitration assigns a dispute to a neutral decision-maker who hears the parties and issues an award under agreed procedures. The association's explanation distinguishes this adjudicative role from helping parties negotiate their own settlement.",
+      "limitation": "The source describes a service provider's model; enforceability, consent, costs, and review rights depend on agreements and applicable law.",
+      "scenario": "Two organizations could agree to submit a contractual dispute to an independent arbitrator, specifying selection, procedure, costs, and how the resulting award will be treated.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "arbitral proceedings"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T318",
+    "title": "Courts",
+    "slug": "courts",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "Authorized bodies hear disputes and apply recognized law.",
+    "example": "Understand adjudication, remedies, and procedural protections.",
+    "sources": [
+      "R-T318"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "judicial institutions"
+    ],
+    "research": {
+      "id": "T318",
+      "title": "Courts",
+      "source_title": "Court Role and Structure",
+      "url": "https://www.uscourts.gov/about-federal-courts/court-role-and-structure",
+      "publisher": "Administrative Office of the US Courts",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Courts provide institutional procedures for determining facts, applying law, and resolving disputes within a defined jurisdiction. The US federal structure separates trial functions from appellate review and relies on other institutions to enforce judgments.",
+      "limitation": "This describes US federal courts, not a universal judicial design; jurisdiction, independence, accessibility, and enforcement differ substantially between legal systems.",
+      "scenario": "A hypothetical institutional comparison could examine how two court systems assign contract disputes, establish facts, and enforce decisions when parties cannot resolve disagreements themselves.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "judicial institutions"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T319",
+    "title": "Jury trials",
+    "slug": "jury-trials",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Selected lay participants assess specified questions within a trial.",
+    "example": "Distinguish legal adjudication from a citizens' policy jury.",
+    "sources": [
+      "R-T319"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "trial by jury",
+      "petit juries"
+    ],
+    "research": {
+      "id": "T319",
+      "title": "Jury trials",
+      "source_title": "Types of Juries",
+      "url": "https://www.uscourts.gov/court-programs/jury-service/types-juries",
+      "publisher": "Administrative Office of the US Courts",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Trial juries place verdict decisions with a selected group of lay participants who hear evidence and deliberate under legal instructions. The federal court explanation distinguishes these trial juries from grand juries deciding whether prosecution may proceed.",
+      "limitation": "Jury size, eligibility, proof standards, and decision thresholds vary by jurisdiction and case type; this source explains US federal practice.",
+      "scenario": "A civic education workshop could simulate a jury trial, assigning participants to weigh a fictional evidentiary record under stated instructions and reach a reasoned verdict.",
+      "aliases": [],
+      "scale": "societies",
+      "terms": [
+        "trial by jury",
+        "petit juries"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T320",
+    "title": "Parliamentary procedure",
+    "slug": "parliamentary-procedure",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Rules organize motions, debate, amendments, and votes.",
+    "example": "Handle competing proposals in a formal assembly.",
+    "sources": [
+      "R-T320"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "rules of order"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T320",
+      "title": "Parliamentary procedure",
+      "source_title": "Sample Rules for Electronic Meetings",
+      "url": "https://robertsrules.com/wp-content/uploads/2020/08/electronic-meeting-sample-rules.pdf",
+      "publisher": "Robert's Rules Association",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Parliamentary procedure structures collective decisions through recognized speakers, motions, amendments, and formal voting rules. The electronic-meeting examples show how written motions and chair recognition make the same procedural sequence usable in online assemblies.",
+      "limitation": "These are adaptable sample meeting rules, not universal requirements; adopting procedure without explaining it can advantage participants already familiar with parliamentary conventions.",
+      "scenario": "A large membership association could use written motions, a chair-managed speaker order, and explicit amendment votes to keep its online annual meeting's decisions traceable.",
+      "aliases": [
+        "rules of order"
+      ],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T321",
+    "title": "Spokescouncils",
+    "slug": "spokescouncils",
+    "kind": "F",
+    "category": "Decisions and authority",
+    "description": "Small groups coordinate through selected spokespeople with defined mandates.",
+    "example": "Coordinate many groups while retaining local deliberation.",
+    "sources": [
+      "R-T321"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "spokes councils"
+    ],
+    "terms": [
+      "delegates' meetings"
+    ],
+    "research": {
+      "id": "T321",
+      "title": "Spokescouncils",
+      "source_title": "The Spokescouncil",
+      "url": "https://www.seedsforchange.org.uk/spokescouncil",
+      "publisher": "Seeds for Change",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Spokescouncils connect smaller discussion groups through delegates who carry their groups' concerns and proposals into a shared meeting. Clear mandates and communication back to the groups preserve participation while reducing the size of central deliberation.",
+      "limitation": "This is a practitioner consensus method, not evidence that any large group will reach agreement; delegate mandates and feedback arrangements are essential.",
+      "scenario": "Several neighborhood groups could coordinate a campaign through spokes who bring local proposals to a joint meeting and return unresolved changes for their groups to discuss.",
+      "aliases": [
+        "spokes councils"
+      ],
+      "scale": "movements",
+      "terms": [
+        "delegates' meetings"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T322",
+    "title": "Whistleblowing channels",
+    "slug": "whistleblowing-channels",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Provide routes for reporting wrongdoing outside implicated authority.",
+    "example": "Surface concerns that normal reporting relationships suppress.",
+    "sources": [
+      "R-T322"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "protected reporting"
+    ],
+    "research": {
+      "id": "T322",
+      "title": "Whistleblowing channels",
+      "source_title": "How to File a Whistleblower Complaint",
+      "url": "https://www.whistleblowers.gov/complaint_page",
+      "publisher": "US Occupational Safety and Health Administration",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Whistleblowing channels create a designated route for reporting concerns or retaliation outside ordinary managerial conversation. OSHA's complaint process illustrates an external channel with submissions, investigative procedures, and defined coverage for retaliation allegations.",
+      "limitation": "The source concerns retaliation complaints under specified US statutes, not every kind of misconduct report; protections and deadlines vary.",
+      "scenario": "An employer could publish internal reporting routes alongside applicable external options, so an employee concerned about retaliation knows how to document and raise the issue.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "protected reporting"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T323",
+    "title": "Freedom-of-information processes",
+    "slug": "freedom-of-information-processes",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Define rights and procedures for requesting public records.",
+    "example": "Make official activity more inspectable.",
+    "sources": [
+      "R-T323"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "FOI",
+      "access to information"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T323",
+      "title": "Freedom-of-information processes",
+      "source_title": "Request handling, Freedom of Information: Frequently Asked Questions",
+      "url": "https://ico.org.uk/for-organisations/foi/freedom-of-information-and-environmental-information-regulations/request-handling-freedom-of-information/",
+      "publisher": "UK Information Commissioner's Office",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Freedom-of-information procedures turn requests for recorded public information into a recognized institutional obligation to consider and respond. The ICO guidance explains identifying valid requests even when applicants do not explicitly name the legislation.",
+      "limitation": "The guidance concerns UK legislation; covered bodies, exemptions, identity requirements, deadlines, and appeal routes differ across jurisdictions and information regimes.",
+      "scenario": "A residents' group could request existing records about a public procurement decision, using the relevant authority's information process and checking what exemptions or review options apply.",
+      "aliases": [
+        "FOI",
+        "access to information"
+      ],
+      "scale": "societies",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T324",
+    "title": "Social audits",
+    "slug": "social-audits",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "Community participants examine records and actual delivery together.",
+    "example": "Compare public commitments with lived implementation.",
+    "sources": [
+      "R-T324"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "community audits"
+    ],
+    "research": {
+      "id": "T324",
+      "title": "Social audits",
+      "source_title": "The CDF Social Audit Guide: A Handbook for Communities",
+      "url": "https://connect4impact.worldbank.org/system/files/2025-12/Social%20Audit%20Handbook%20for%20Constituency%20Devt%20Fund%20-%20Kenya.pdf",
+      "publisher": "Open Society Initiative of East Africa (World Bank-hosted copy)",
+      "source_type": "institutional guide",
+      "access": "page",
+      "finding": "Social audits bring public project records and community experience into collective scrutiny, often through public meetings. The Kenyan handbook includes spending, responsibility, information access, participation, and accountability rather than limiting scrutiny to financial statements.",
+      "limitation": "This handbook addresses Kenyan constituency development funds; a public meeting alone does not guarantee accurate records, official cooperation, or corrective action.",
+      "scenario": "Residents could compare a funded water project's budget and promised outputs with site observations, then hold a documented public meeting to ask officials about discrepancies.",
+      "aliases": [],
+      "scale": "communities",
+      "terms": [
+        "community audits"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T325",
+    "title": "Independent audits",
+    "slug": "independent-audits",
+    "kind": "P",
+    "category": "Decisions and authority",
+    "description": "An external evaluator examines records or practices against criteria.",
+    "example": "Add scrutiny beyond self-reporting.",
+    "sources": [
+      "R-T325"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "external audits"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T325",
+      "title": "Independent audits",
+      "source_title": "AS 1000: General Responsibilities of the Auditor in Conducting an Audit",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/as-1000--general-responsibilities-of-the-auditor-in-conducting-an-audit",
+      "publisher": "Public Company Accounting Oversight Board",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Independent financial audits gather and evaluate evidence to support an opinion about material misstatement. PCAOB's issued standard requires reasonable assurance, professional care, and compliance with independence requirements, distinguishing the auditor's judgment from management's responsibility for financial statements.",
+      "limitation": "This standard governs covered PCAOB audits; it does not promise detection of every error or fraud or apply identically to all organizations.",
+      "scenario": "A publicly traded company could engage an independent auditor to examine its financial statements, while its board asks what evidence supports the opinion and what remains outside scope.",
+      "aliases": [
+        "external audits"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T161",
+    "title": "Open-source collaboration",
+    "slug": "open-source-collaboration",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Combine reusable licensed code with contribution and maintenance processes.",
+    "example": "Let independent contributors improve a shared tool.",
+    "sources": [
+      "OSI"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T162",
+    "title": "Commons-based peer production",
+    "slug": "commons-based-peer-production",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Participants contribute to a shared resource without one employment hierarchy.",
+    "example": "Understand collaborative knowledge projects.",
+    "sources": [
+      "R-T162"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [
+      "commons based peer production"
+    ],
+    "research": {
+      "id": "T162",
+      "title": "Commons-based peer production",
+      "source_title": "Coase's Penguin, or, Linux and the Nature of the Firm",
+      "url": "https://www.benkler.org/CoasesPenguin.PDF",
+      "publisher": "Yochai Benkler",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "Commons-based peer production coordinates contributions to shared resources without relying solely on employer commands or market transactions. Benkler develops the concept through networked projects whose outputs remain broadly available for others to use and improve.",
+      "limitation": "This theoretical account explains an organizational form; openness alone does not solve integration, maintenance, participation inequality, or sustainable funding.",
+      "scenario": "A community could build an openly reusable map, allowing volunteers to choose tasks while maintainers define contribution standards and combine contributions into a coherent shared resource.",
+      "aliases": [],
+      "scale": "communities",
+      "terms": [
+        "commons based peer production"
+      ],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T163",
+    "title": "Project teams",
+    "slug": "project-teams",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Assign a group responsibility for a defined outcome.",
+    "example": "Coordinate work with an identifiable completion condition.",
+    "sources": [
+      "R-T163"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T163",
+      "title": "Project teams",
+      "source_title": "Project teams as learning entities",
+      "url": "https://www.pmi.org/learning/library/project-teams-learning-entities-9015",
+      "publisher": "Project Management Institute",
+      "source_type": "research paper",
+      "access": "search excerpt",
+      "finding": "Project teams assemble people around a defined undertaking with a beginning, an end, and a distinct output. The paper examines how temporary collaboration can also develop shared knowledge and connections between participants' established professional communities.",
+      "limitation": "The paper explores project teams as learning entities; a temporary assignment does not automatically produce shared understanding or preserve learning afterward.",
+      "scenario": "An association could assemble a temporary team to launch a new library, define its deliverable and completion date, and document lessons before disbanding.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T164",
+    "title": "Working groups",
+    "slug": "working-groups",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Convene participants around a bounded issue or responsibility.",
+    "example": "Develop a proposal across existing teams.",
+    "sources": [
+      "R-T164"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T164",
+      "title": "Working groups",
+      "source_title": "Guide to IETF Working Groups",
+      "url": "https://www.ietf.org/process/wgs/",
+      "publisher": "Internet Engineering Task Force",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Working groups concentrate continuing discussion and production around a defined problem or deliverable. IETF groups illustrate charters, facilitated public discussion, document editors, and consensus processes that connect individual contributions to a collectively maintained specification.",
+      "limitation": "This describes the IETF's open technical process; other working groups may have restricted membership, different authority, or less formal output expectations.",
+      "scenario": "A standards association could charter a working group to draft accessibility guidance, define its remit, and use a public discussion archive to develop revisions.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T165",
+    "title": "Task forces",
+    "slug": "task-forces",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Temporarily concentrate people on an urgent objective.",
+    "example": "Address an exceptional problem with dedicated capacity.",
+    "sources": [
+      "R-T165"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T165",
+      "title": "Task forces",
+      "source_title": "ICS Position Training: Foundations Course Reference Guide",
+      "url": "https://training.fema.gov/emiweb/is/icsresource/assets/ics_training_reference_guide.pdf",
+      "publisher": "Federal Emergency Management Agency",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Task forces combine different kinds of resources for a particular mission or operational need. FEMA's incident-management definition requires a designated leader and common communications, making the mixed resources usable as a coordinated unit.",
+      "limitation": "The cited definition belongs to incident command; applying it to ordinary organizational task forces requires adapting authority, duration, and reporting arrangements.",
+      "scenario": "After severe storm damage, a municipality could assemble a temporary debris task force combining public works, transport, and utility personnel under one coordinator and communication plan.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T166",
+    "title": "Cross-functional teams",
+    "slug": "cross-functional-teams",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Combine different specialties within one working unit.",
+    "example": "Reduce repeated handoffs across departments.",
+    "sources": [
+      "R-T166"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T166",
+      "title": "Cross-functional teams",
+      "source_title": "The Scrum Guide (2020)",
+      "url": "https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf",
+      "publisher": "Ken Schwaber and Jeff Sutherland",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Cross-functional teams bring together the skills needed to complete an outcome within one team. The Scrum Guide describes collective capability, reducing dependence on passing each stage of a deliverable through separately managed specialist groups.",
+      "limitation": "The source describes Scrum teams; cross-functionality means combined team capability, not that every member is equally skilled in every discipline.",
+      "scenario": "A service redesign team could include operations, design, engineering, and customer support so it can test a complete improvement rather than queue work across departments.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T167",
+    "title": "Autonomous microenterprise units",
+    "slug": "autonomous-microenterprise-units",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Small internal units hold business responsibilities within a larger enterprise.",
+    "example": "Study Haier's approach to distributed entrepreneurship.",
+    "sources": [
+      "HAIER"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T168",
+    "title": "Independent microenterprises",
+    "slug": "independent-microenterprises",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Very small businesses organize production and exchange.",
+    "example": "Provide local services with a small operating unit.",
+    "sources": [
+      "R-T168"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "micro-enterprises"
+    ],
+    "research": {
+      "id": "T168",
+      "title": "Independent microenterprises",
+      "source_title": "Extending social security to workers in micro and small enterprises",
+      "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf",
+      "publisher": "International Labour Organization",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Microenterprises organize economic activity in very small firms rather than large managerial structures. The ILO brief uses an employee-based definition and examines how limited administrative and financial capacity affects workers' access to social protection.",
+      "limitation": "Definitions vary and may exclude self-employment; enterprise size alone does not establish independence, worker autonomy, profitability, or adequate employment protections.",
+      "scenario": "A few repair specialists could establish a small independent workshop, choosing how to share administration and customer relationships while accounting for their responsibilities toward employees.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [
+        "micro-enterprises"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T169",
+    "title": "Guilds across teams",
+    "slug": "guilds-across-teams",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Practitioners coordinate standards and learning across delivery teams.",
+    "example": "Keep a specialty connected without centralizing all work.",
+    "sources": [
+      "R-T169"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T169",
+      "title": "Guilds across teams",
+      "source_title": "Scaling Agile at Spotify",
+      "url": "https://scrummaster.dk/lib/AgileLeanLibrary/People/HenrikKniberg/SpotifyScaling.pdf",
+      "publisher": "Henrik Kniberg and Anders Ivarsson",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Cross-team guilds connect people with a shared professional interest across their normal delivery teams. The Spotify account describes voluntary communities for exchanging practices and knowledge without replacing the teams responsible for day-to-day work.",
+      "limitation": "This is a historical practitioner snapshot, not a universal organizational model; a guild's authority and participation incentives need separate clarification.",
+      "scenario": "Designers scattered across product teams could form a monthly guild to compare accessibility practices, share reusable examples, and propose improvements without taking over product decisions.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T170",
+    "title": "Hackathons",
+    "slug": "hackathons",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Time-bound gatherings concentrate collaborative making.",
+    "example": "Prototype ideas and identify potential collaborators.",
+    "sources": [
+      "R-T170"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T170",
+      "title": "Hackathons",
+      "source_title": "Run an AI hackathon",
+      "url": "https://academy.openai.com/public/clubs/champions-ecqup/resources/hackathon-playbook-2025-09-15",
+      "publisher": "OpenAI Academy",
+      "source_type": "practitioner method",
+      "access": "page",
+      "finding": "Hackathons reserve a short, defined period for participants to explore problems and build prototypes together. The playbook distinguishes learning, exploration, prototyping, and validation goals and stresses documenting results and deciding what deserves follow-up.",
+      "limitation": "This practitioner guide focuses on internal AI events; a prototype is not a production-ready service or evidence of lasting organizational adoption.",
+      "scenario": "A civic group could run a weekend hackathon to prototype tools for local accessibility problems, then select one promising idea for further testing with residents.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T171",
+    "title": "Sprints",
+    "slug": "sprints",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Commit to a short work cycle followed by review.",
+    "example": "Deliver progress in manageable increments.",
+    "sources": [
+      "R-T171"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T171",
+      "title": "Sprints",
+      "source_title": "The Scrum Guide: The Sprint",
+      "url": "https://scrumguides.org/scrum-guide.html",
+      "publisher": "Ken Schwaber and Jeff Sutherland",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Sprints organize work into repeating, fixed-length periods with a goal, delivery effort, and opportunities to inspect and adapt. In Scrum, each sprint lasts no more than a month and contains planning, review, and retrospective activities.",
+      "limitation": "The guide defines Scrum practice, not every use of the word sprint; a deadline alone does not create its feedback cycle.",
+      "scenario": "A team could work toward one demonstrable improvement over two weeks, review it with users, and use a retrospective to adjust the next sprint.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T172",
+    "title": "Work parties",
+    "slug": "work-parties",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Convene people to complete a shared physical task.",
+    "example": "Maintain a garden or improve a common space.",
+    "sources": [
+      "R-T172"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T172",
+      "title": "Work parties",
+      "source_title": "Practical Conservation: Leeds Midweek Practical Team",
+      "url": "https://www2.tcv.org.uk/cgi-bin/volunteer/activity-details?id=42637%3Bdate%3D20261112",
+      "publisher": "The Conservation Volunteers",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Work parties gather participants for a scheduled block of practical collective work. The conservation example coordinates a meeting place, transport, equipment expectations, and a shared task so volunteers can contribute together without taking permanent roles.",
+      "limitation": "This event listing illustrates the arrangement rather than measuring outcomes; practical tasks still require suitable supervision, permissions, equipment, and accessibility planning.",
+      "scenario": "Neighbors could organize a Saturday work party to restore a shared garden, arranging tools, task supervision, refreshments, and clear arrival and finish times.",
+      "aliases": [],
+      "scale": "communities",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T173",
+    "title": "Barn-raising",
+    "slug": "barn-raising",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Community members pool labor for a substantial construction effort.",
+    "example": "Understand reciprocal labor beyond individual household capacity.",
+    "sources": [
+      "R-T173"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T173",
+      "title": "Barn-raising",
+      "source_title": "Mutual Aid",
+      "url": "https://groups.etown.edu/amishstudies/cultural-practices/mutual-aid/",
+      "publisher": "Elizabethtown College Young Center for Anabaptist and Pietist Studies",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Barn-raising concentrates community labor on a substantial construction task that would overwhelm a household alone. The Amish example places this coordinated effort within reciprocal mutual aid, including rebuilding after disasters and supporting members in need.",
+      "limitation": "The source describes a particular religious community's practices; transferring the format does not transfer its relationships, construction expertise, or obligations.",
+      "scenario": "A rural community could organize skilled volunteers to help rebuild a neighbor's damaged outbuilding, coordinating materials and supervision while treating safety and necessary approvals as prerequisites.",
+      "aliases": [],
+      "scale": "communities",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T174",
+    "title": "Pair work",
+    "slug": "pair-work",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Two people work together on the same task.",
+    "example": "Share judgment and catch misunderstandings early.",
+    "sources": [
+      "R-T174"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "pairing"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T174",
+      "title": "Pair work",
+      "source_title": "On Pair Programming",
+      "url": "https://martinfowler.com/articles/on-pair-programming.html",
+      "publisher": "Birgitta Böckeler and Nina Siessegger / MartinFowler.com",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Pair work puts two people on one task with complementary attention. Pair programming's driver and navigator roles illustrate one person handling immediate execution while the other reviews, anticipates problems, and considers the broader direction.",
+      "limitation": "The source concerns programming; pairing styles require adaptation, and differences in confidence or experience can turn collaboration into one person's domination.",
+      "scenario": "Two colleagues could draft a difficult proposal together, alternating between writing and reviewing assumptions so both understand the argument and can challenge weak sections.",
+      "aliases": [
+        "pairing"
+      ],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T175",
+    "title": "Mob or ensemble work",
+    "slug": "mob-or-ensemble-work",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "A group collaborates on one task with rotating active roles.",
+    "example": "Combine expertise on a difficult shared problem.",
+    "sources": [
+      "R-T175"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "mob programming",
+      "ensemble programming"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T175",
+      "title": "Mob or ensemble work",
+      "source_title": "Mob Programming",
+      "url": "https://agilealliance.org/glossary/mob-programming/",
+      "publisher": "Agile Alliance",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Ensemble work has a whole team collaborate on one work item at the same time, sharing execution and review. The mob programming example extends pairing to design, coding, testing, and other coordinated development work.",
+      "limitation": "The description is a practitioner approach, not proof of universal productivity gains; participation, facilitation, fatigue, and task suitability influence the experience.",
+      "scenario": "A software team could tackle an unfamiliar integration together around one shared workspace, discussing choices and rotating execution so knowledge remains distributed across the team.",
+      "aliases": [
+        "mob programming",
+        "ensemble programming"
+      ],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T176",
+    "title": "Shared task boards",
+    "slug": "shared-task-boards",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Make pending work, ownership, and progress visible.",
+    "example": "Coordinate distributed contributions.",
+    "sources": [
+      "R-T176"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T176",
+      "title": "Shared task boards",
+      "source_title": "The Kanban Guide (May 2025)",
+      "url": "https://kanbanguides.org/the-kanban-guide/2025.5/",
+      "publisher": "Kanban Guides",
+      "source_type": "practitioner method",
+      "access": "page",
+      "finding": "Shared task boards make work items and their movement through agreed states visible. The Kanban Guide connects this visualization to explicit definitions of starting, finishing, and workflow policies rather than prescribing a particular board layout.",
+      "limitation": "A board can expose work without resolving overload; its usefulness depends on current information and shared definitions of each state.",
+      "scenario": "A volunteer team could display requests as waiting, active, blocked, and finished, reviewing blocked items together so help goes where progress has stalled.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T177",
+    "title": "Pull systems",
+    "slug": "pull-systems",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Take new work when capacity becomes available.",
+    "example": "Limit overload.",
+    "sources": [
+      "S3"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T178",
+    "title": "Work-in-progress limits",
+    "slug": "work-in-progress-limits",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Cap concurrent tasks at a chosen stage.",
+    "example": "Expose bottlenecks and encourage completion.",
+    "sources": [
+      "R-T178"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "WIP limits"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T178",
+      "title": "Work-in-progress limits",
+      "source_title": "The Kanban Guide (May 2025)",
+      "url": "https://kanbanguides.org/the-kanban-guide/2025.5/",
+      "publisher": "Kanban Guides",
+      "source_type": "practitioner method",
+      "access": "page",
+      "finding": "Work-in-progress controls limit how many items occupy a workflow or stage. New work is pulled when capacity becomes available, making finishing and unblocking existing work part of the decision to begin anything else.",
+      "limitation": "Limits need agreed exceptions and context-sensitive adjustment; reducing the number of active items does not guarantee faster delivery under every constraint.",
+      "scenario": "A support team could allow at most five active investigations, helping finish or unblock one before accepting another item into that stage.",
+      "aliases": [
+        "WIP limits"
+      ],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T179",
+    "title": "Issue triage",
+    "slug": "issue-triage",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Sort incoming requests by relevance, urgency, and ownership.",
+    "example": "Keep a public project backlog usable.",
+    "sources": [
+      "R-T179"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T179",
+      "title": "Issue triage",
+      "source_title": "Triaging an issue with AI",
+      "url": "https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/triaging-an-issue-with-ai",
+      "publisher": "GitHub Docs",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Issue triage evaluates incoming reports before they enter the working backlog. GitHub's intake example distinguishes actionable issues from those needing more information, making clarification and classification part of maintaining usable shared work records.",
+      "limitation": "The cited implementation uses AI assistance; it supports the intake mechanism, not a requirement to automate or trust classifications without review.",
+      "scenario": "Maintainers could review new bug reports weekly, request missing reproduction details, and distinguish actionable problems from incomplete submissions before scheduling development work.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T180",
+    "title": "Request-for-comments processes",
+    "slug": "request-for-comments-processes",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Circulate written proposals before adopting changes.",
+    "example": "Gather review from people who cannot meet together.",
+    "sources": [
+      "R-T180"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "RFC processes"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T180",
+      "title": "Request-for-comments processes",
+      "source_title": "Introduction: The Rust RFC Book",
+      "url": "https://rust-lang.github.io/rfcs/introduction.html",
+      "publisher": "Rust Project",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "A request-for-comments process asks contributors to write substantial proposed changes before implementation and expose them to discussion. Rust's process uses feedback, alternatives, and drawbacks to refine proposals and support an explicit decision about adoption.",
+      "limitation": "The source defines one project's governance; an RFC is neither automatic approval nor necessarily an Internet standards document.",
+      "scenario": "An open project could require a written proposal for a major compatibility change, giving contributors time to examine alternatives before maintainers decide whether implementation should proceed.",
+      "aliases": [
+        "RFC processes"
+      ],
+      "scale": "communities",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T181",
+    "title": "Design reviews",
+    "slug": "design-reviews",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Review a proposed solution before committing to implementation.",
+    "example": "Catch incompatible assumptions across specialties.",
+    "sources": [
+      "R-T181"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T181",
+      "title": "Design reviews",
+      "source_title": "NASA Systems Engineering Handbook: Life-Cycle Reviews",
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/04/nasa_systems_engineering_handbook_0.pdf",
+      "publisher": "NASA",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Design reviews create checkpoints where a proposed design is examined against requirements, risks, interfaces, and constraints before further commitment. NASA's preliminary design review asks whether the evidence supports moving into detailed design.",
+      "limitation": "NASA's spaceflight context is demanding and specialized; copying its full review apparatus may burden smaller projects without proportionate benefit.",
+      "scenario": "A team designing a community facility could review accessibility, operating costs, and unresolved interfaces before commissioning detailed plans, documenting issues that must be resolved first.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T182",
+    "title": "Contribution guidelines",
+    "slug": "contribution-guidelines",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Explain how to submit, review, and accept work.",
+    "example": "Reduce newcomer guesswork in a shared project.",
+    "sources": [
+      "OSS"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T183",
+    "title": "Maintainer delegation",
+    "slug": "maintainer-delegation",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Assign responsibility for reviewing and integrating contributions.",
+    "example": "Scale work beyond one central reviewer.",
+    "sources": [
+      "OSS"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T184",
+    "title": "Forking",
+    "slug": "forking",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Create an independently governed derivative of a shared project.",
+    "example": "Allow divergent directions where licensing permits.",
+    "sources": [
+      "OSI"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T185",
+    "title": "Release governance",
+    "slug": "release-governance",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Specify who can authorize and coordinate a release.",
+    "example": "Make publication responsibilities predictable.",
+    "sources": [
+      "R-T185"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T185",
+      "title": "Release governance",
+      "source_title": "Apache HTTP Server Release Guidelines",
+      "url": "https://httpd.apache.org/dev/release.html",
+      "publisher": "Apache HTTP Server Project",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Release governance separates creating a candidate from authorizing an official release. Apache's example assigns a release manager, establishes approval voting, and controls official artifacts and announcements so publication carries a recognizable project's endorsement.",
+      "limitation": "These are one project's rules, not universal open-source requirements; a release vote does not guarantee that every defect has been found.",
+      "scenario": "An open-source project could designate a release coordinator, invite testing of a candidate, and require its maintainers' recorded approval before publishing an official version.",
+      "aliases": [],
+      "scale": "communities",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T186",
+    "title": "Standards bodies",
+    "slug": "standards-bodies",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Participants negotiate shared technical or procedural specifications.",
+    "example": "Enable interoperability across independent organizations.",
+    "sources": [
+      "R-T186"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T186",
+      "title": "Standards bodies",
+      "source_title": "Developing standards",
+      "url": "https://committee.iso.org/developing-standards.html",
+      "publisher": "International Organization for Standardization",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Standards bodies convene experts and affected interests to negotiate shared specifications. ISO describes proposals responding to a recognized need, technical committees developing scope and content, and a consensus process that considers stakeholder comments.",
+      "limitation": "ISO describes its formal process; participation does not automatically remove unequal resources or make a resulting standard mandatory in law.",
+      "scenario": "Manufacturers, users, and accessibility advocates could work through a standards body to agree a common connector specification so independently produced devices can work together.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T187",
+    "title": "Protocols and interfaces",
+    "slug": "protocols-and-interfaces",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Agree how separate actors exchange requests and results.",
+    "example": "Coordinate without sharing every internal process.",
+    "sources": [
+      "R-T187"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T187",
+      "title": "Protocols and interfaces",
+      "source_title": "RFC 1958: Architectural Principles of the Internet",
+      "url": "https://www.rfc-editor.org/rfc/rfc1958.html",
+      "publisher": "Internet Architecture Board / RFC Editor",
+      "source_type": "reference",
+      "access": "page",
+      "finding": "Protocols specify shared rules that independently implemented systems follow when exchanging information. The Internet architecture guidance emphasizes consistent specifications and terminology, illustrating how agreed interfaces can coordinate separate implementations without dictating their entire internal design.",
+      "limitation": "The source concerns technical networking; using protocols as a social coordination analogy requires defining human responsibilities, exceptions, and interpretation explicitly.",
+      "scenario": "Several partner organizations could agree a common referral format and acknowledgement procedure so requests move between them reliably while each retains its own internal workflow.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T188",
+    "title": "Standard operating procedures",
+    "slug": "standard-operating-procedures",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Document repeatable operations and escalation points.",
+    "example": "Make routine work transferable.",
+    "sources": [
+      "R-T188"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "SOPs"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T188",
+      "title": "Standard operating procedures",
+      "source_title": "Guidance for Preparing Standard Operating Procedures",
+      "url": "https://www.epa.gov/sites/default/files/2015-06/documents/g6-final.pdf",
+      "publisher": "US Environmental Protection Agency",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Standard operating procedures document repeatable work as clear, ordered steps with an identified scope, approval, and revision history. EPA guidance stresses tailoring detail to the activity and making instructions understandable to appropriately knowledgeable users.",
+      "limitation": "The guide supports consistency, not infallibility; obsolete instructions, unusual conditions, or inadequate training can make routine compliance insufficient.",
+      "scenario": "A community laboratory could document equipment setup and shutdown, assign responsibility for approving updates, and review the procedure when equipment or working conditions change.",
+      "aliases": [
+        "SOPs"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T189",
+    "title": "Checklists",
+    "slug": "checklists",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Prompt verification of specified steps or conditions.",
+    "example": "Reduce omissions in repeatable workflows.",
+    "sources": [
+      "R-T189"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T189",
+      "title": "Checklists",
+      "source_title": "WHO Surgical Safety Checklist: Tools and resources",
+      "url": "https://www.who.int/teams/integrated-health-services/quality-of-care-and-patient-safety/patient-safety-guidance-and-tools/safe-surgery/tool-and-resources",
+      "publisher": "World Health Organization",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Checklists externalize critical reminders and create moments for coordinated confirmation. WHO's surgical example asks team members to pause and verbally verify items using a reference tool, making the checklist a communication process as well as a memory aid.",
+      "limitation": "The source concerns surgical safety; benefits in another setting cannot be assumed, and mechanical box-ticking can miss the intended team discussion.",
+      "scenario": "An event crew could use a short pre-opening checklist to confirm exits, communications, and assigned responsibilities together before admitting visitors to the venue.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T190",
+    "title": "Handoff protocols",
+    "slug": "handoff-protocols",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Transfer responsibility with explicit context and acknowledgment.",
+    "example": "Preserve continuity between shifts or teams.",
+    "sources": [
+      "R-T190"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "handover protocols"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T190",
+      "title": "Handoff protocols",
+      "source_title": "Tool: Handoff",
+      "url": "https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/handoff.html",
+      "publisher": "Agency for Healthcare Research and Quality",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Handoff protocols structure the transfer of information, responsibility, and accountability between people. TeamSTEPPS guidance requires the receiver to recognize the transfer and gives both parties opportunities to clarify uncertainty, ask questions, and review the plan.",
+      "limitation": "The source concerns clinical teamwork; adapting it elsewhere requires choosing relevant information and confirming that the receiving person has actual authority.",
+      "scenario": "A support volunteer ending a shift could brief the incoming volunteer on unresolved cases, confirm who now owns each action, and allow questions before leaving.",
+      "aliases": [
+        "handover protocols"
+      ],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T191",
+    "title": "Responsibility matrices",
+    "slug": "responsibility-matrices",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "State who acts, approves, advises, and is informed.",
+    "example": "Resolve overlapping expectations in a project.",
+    "sources": [
+      "R-T191"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "responsibility assignment matrices"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T191",
+      "title": "Responsibility matrices",
+      "source_title": "PMI Lexicon of Project Management Terms",
+      "url": "https://www.pmi.org/-/media/pmi/documents/registered/pdf/pmbok-standards/pmi-lexicon-pm-terms.pdf?rev=447328d841c249af985d14177ddd5f95",
+      "publisher": "Project Management Institute",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Responsibility matrices map project work to the people or resources assigned to it. The PMI definition treats the matrix as a grid linking work packages and resources, making assignment visible across the project.",
+      "limitation": "The cited definition supports assignment mapping; it does not prescribe a particular RACI variant or prove that documenting ownership resolves conflict.",
+      "scenario": "A festival team could map venue booking, volunteer scheduling, and ticketing to named owners, reviewing gaps or overlaps before tasks begin falling between teams.",
+      "aliases": [
+        "responsibility assignment matrices"
+      ],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T192",
+    "title": "Service-level agreements",
+    "slug": "service-level-agreements",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Define expected service, measurement, and response obligations.",
+    "example": "Coordinate between teams providing and consuming a service.",
+    "sources": [
+      "R-T192"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [
+      "SLAs"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T192",
+      "title": "Service-level agreements",
+      "source_title": "What is an SLA?",
+      "url": "https://aws.amazon.com/what-is/sla/",
+      "publisher": "Amazon Web Services",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Service-level agreements specify the service a provider promises, measurable performance targets, and what happens when commitments are missed. The explanation includes responsibilities, exclusions, and escalation arrangements alongside metrics such as availability or response time.",
+      "limitation": "This is a provider's explanatory guide; contractual force and remedies depend on actual terms, and a target is not a guarantee.",
+      "scenario": "A shared-services team and its partner organizations could agree response-time commitments, escalation contacts, measurement methods, and exclusions before relying on the service for daily work.",
+      "aliases": [
+        "SLAs"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T193",
+    "title": "Rotating duty rosters",
+    "slug": "rotating-duty-rosters",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Allocate recurring coverage through a schedule.",
+    "example": "Maintain support while sharing undesirable shifts.",
+    "sources": [
+      "R-T193"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "on-call rotations"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T193",
+      "title": "Rotating duty rosters",
+      "source_title": "On-Call",
+      "url": "https://sre.google/workbook/on-call/",
+      "publisher": "Google Site Reliability Engineering",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Duty rosters assign time-bounded responsibility for attending to a shared service or recurring need. Google's on-call guidance illustrates rotating coverage, explicit shift lengths, and attention to workload so responsibility remains identifiable across time.",
+      "limitation": "The source concerns engineering operations; fair rotation alone does not ensure sufficient staffing, recovery time, training, or manageable interruption rates.",
+      "scenario": "A community venue could rotate opening-duty shifts among trained volunteers, publish a backup contact, and review whether unpopular shifts are being distributed fairly.",
+      "aliases": [
+        "on-call rotations"
+      ],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T194",
+    "title": "Incident command",
+    "slug": "incident-command",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Temporarily organize response around explicit command and coordination roles.",
+    "example": "Manage a complex disruption.",
+    "sources": [
+      "R-T194"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "ICS",
+      "incident command system"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T194",
+      "title": "Incident command",
+      "source_title": "NIMS Overview for Senior Officials: Instructor Guide",
+      "url": "https://training.fema.gov/gstate/xcr3wnlp/g0402%20-%20ics-402%20-%20incident%20command%20system%20%28ics%29%20overview%20for%20executives%20and%20senior%20officials/04%20ig/g402_complete_ig.pdf",
+      "publisher": "Federal Emergency Management Agency",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Incident command creates an expandable coordination structure matched to an incident's size, complexity, and hazards. FEMA's model activates needed functions and assigns someone in charge of each, rather than requiring the full structure for every event.",
+      "limitation": "This is an emergency-management framework; authority, training, and interagency arrangements must be established rather than improvised from an organizational chart alone.",
+      "scenario": "A multi-agency exercise could practice expanding from a single incident coordinator to separate operations and logistics roles as a fictional emergency grows more complex.",
+      "aliases": [
+        "ICS",
+        "incident command system"
+      ],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T195",
+    "title": "Blameless postmortems",
+    "slug": "blameless-postmortems",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Examine contributing conditions without defaulting to individual blame.",
+    "example": "Learn from failure while retaining responsibility for improvements.",
+    "sources": [
+      "R-T195"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T195",
+      "title": "Blameless postmortems",
+      "source_title": "Lessons Learned from Other Industries: Postmortem Culture",
+      "url": "https://sre.google/sre-book/lessons-learned/",
+      "publisher": "Google Site Reliability Engineering",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Blameless postmortems examine what happened, how the response worked, and what changes could prevent recurrence without centering personal accusation. Google's account includes publishing lessons across teams and assigning follow-up actions to turn investigation into organizational learning.",
+      "limitation": "The source describes a practitioner culture, not a guarantee of candor; avoiding blame should not mean avoiding responsibility for corrective work.",
+      "scenario": "After a failed event registration launch, a team could reconstruct decisions and conditions, identify missing safeguards, and assign improvements without treating one person's mistake as the explanation.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T196",
+    "title": "Communities of contribution",
+    "slug": "communities-of-contribution",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Participants organize around maintaining a shared artifact or cause.",
+    "example": "Connect occasional help to durable stewardship.",
+    "sources": [
+      "R-T196"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T196",
+      "title": "Communities of contribution",
+      "source_title": "Building Welcoming Communities",
+      "url": "https://opensource.guide/building-community/",
+      "publisher": "GitHub Open Source Guides",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Communities of contribution make participation in a shared project easier through welcoming interactions, accessible entry tasks, and paths toward sustained responsibility. The open-source guide describes movement from users to contributors and, potentially, maintainers.",
+      "limitation": "The source offers contributor-development practices, not a standardized governance form; welcoming newcomers does not automatically distribute decision power or maintenance labor.",
+      "scenario": "A neighborhood data project could offer small documented tasks, acknowledge first contributions, and invite reliable contributors into maintenance roles as their interests and capacity grow.",
+      "aliases": [],
+      "scale": "communities",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T197",
+    "title": "Volunteer matching",
+    "slug": "volunteer-matching",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Match available skills and time to specified needs.",
+    "example": "Turn willingness to help into concrete commitments.",
+    "sources": [
+      "R-T197"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T197",
+      "title": "Volunteer matching",
+      "source_title": "Your next steps to apply for a UN Volunteer assignment",
+      "url": "https://learning.unv.org/local/uvp_user_sync/candidate_learning.php",
+      "publisher": "United Nations Volunteers",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Volunteer matching connects defined assignments with people whose skills, interests, and availability fit the work. UNV's platform illustrates profiles, descriptions, applications, and selection rather than assuming goodwill alone identifies an appropriate contribution.",
+      "limitation": "The source describes UNV's recruitment process; matching does not establish suitability without assessment or eliminate onboarding, supervision, and accessibility needs.",
+      "scenario": "A mutual-aid network could list translation tasks with language requirements and expected time, then match interested volunteers whose availability fits the project's deadlines.",
+      "aliases": [],
+      "scale": "communities",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T198",
+    "title": "Time-boxed commitments",
+    "slug": "time-boxed-commitments",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Agree on bounded periods of responsibility.",
+    "example": "Let volunteers contribute without indefinite obligations.",
+    "sources": [
+      "R-T198"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T198",
+      "title": "Time-boxed commitments",
+      "source_title": "Engage an Online Volunteer",
+      "url": "https://www.unv.org/engage-online-volunteers",
+      "publisher": "United Nations Volunteers",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Time-boxed commitments define an assignment's task, deliverable, and maximum duration before participation begins. UNV's online volunteering rules illustrate a bounded engagement with weekly hour limits and a formal conclusion acknowledging the volunteer's contribution.",
+      "limitation": "This is a particular volunteering program's design, not proof that short commitments improve retention; unfinished work still needs an explicit handover plan.",
+      "scenario": "A community archive could ask a volunteer to digitize a specified collection over six weeks, agreeing an hours ceiling and how remaining work will be handed over.",
+      "aliases": [],
+      "scale": "groups",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T199",
+    "title": "Public pledges",
+    "slug": "public-pledges",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Make a commitment visible to an audience.",
+    "example": "Coordinate expectations around a future contribution.",
+    "sources": [
+      "R-T199"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T199",
+      "title": "Public pledges",
+      "source_title": "Committed (dis)honesty: A systematic meta-analytic review",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38619478/",
+      "publisher": "Psychological Bulletin / PubMed",
+      "source_type": "research paper",
+      "access": "abstract",
+      "finding": "Pledges make an intended commitment explicit, potentially connecting behavior to a stated norm. The review distinguishes honesty oaths or pledges from commitments to particular people or groups, finding these commitment types can have different behavioral effects.",
+      "limitation": "The evidence concerns dishonest behavior, not every public pledge; it does not establish that publicity itself reliably improves follow-through on unrelated goals.",
+      "scenario": "A group organizing a shared project could invite voluntary, specific commitments to report expenses honestly, then pair those statements with transparent records and practical review procedures.",
+      "aliases": [],
+      "scale": "everyday",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T200",
+    "title": "Accountability partners",
+    "slug": "accountability-partners",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Peers periodically check progress on agreed commitments.",
+    "example": "Sustain work that otherwise receives little feedback.",
+    "sources": [
+      "R-T200"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [
+      "accountability buddies"
+    ],
+    "terms": [],
+    "research": {
+      "id": "T200",
+      "title": "Accountability partners",
+      "source_title": "Accountability Partners: A Short Guide",
+      "url": "https://www.gsas.columbia.edu/sites/default/files/content/docs/Accountability%20Partners%20%28updated%20April%202023%29.pdf",
+      "publisher": "Columbia University GSAS Writing Studio",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Accountability partners agree to check in about self-chosen goals and progress. Columbia's writing guide combines specific commitments with encouragement and realistic planning, allowing the partner to support follow-through without becoming the person's supervisor.",
+      "limitation": "The guide addresses writing practice and provides advice rather than experimental evidence; pressure without trust or realistic goals may undermine useful support.",
+      "scenario": "Two friends could set a weekly check-in about personal writing projects, each choosing a modest goal and discussing what helped or obstructed progress.",
+      "aliases": [
+        "accountability buddies"
+      ],
+      "scale": "everyday",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T201",
+    "title": "Coworking sessions",
+    "slug": "coworking-sessions",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "People work alongside one another at an agreed time.",
+    "example": "Create social support for independent tasks.",
+    "sources": [
+      "R-T201"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T201",
+      "title": "Coworking sessions",
+      "source_title": "Getting started",
+      "url": "https://support.focusmate.com/en/articles/9110188-getting-started",
+      "publisher": "Focusmate",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Coworking sessions create a shared appointment for people to work on their own tasks. Focusmate's format opens with stated goals, continues with quiet work, and closes with a brief report on what each participant accomplished.",
+      "limitation": "The source describes a commercial service's format, not independent effectiveness evidence; preferences about video, privacy, and social pressure differ.",
+      "scenario": "Two remote workers could meet online for fifty minutes, announce separate tasks, work quietly, and finish by sharing what they completed and what remains.",
+      "aliases": [],
+      "scale": "everyday",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T202",
+    "title": "Distributed campaigns",
+    "slug": "distributed-campaigns",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Independent local actors coordinate around shared objectives and materials.",
+    "example": "Adapt collective action to different local contexts.",
+    "sources": [
+      "R-T202"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T202",
+      "title": "Distributed campaigns",
+      "source_title": "Register Your Local Group",
+      "url": "https://350.org/register-a-local-group/",
+      "publisher": "350.org",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Distributed campaigns connect locally led groups through common principles and occasional shared actions. The 350 network illustrates local organizing aligned with a wider mission, shared visibility, and participation in national or global campaign moments.",
+      "limitation": "This is one movement's organizing model; affiliation does not eliminate coordination costs, unequal capacity, or disagreements between local priorities and shared campaigns.",
+      "scenario": "Local climate groups could organize actions suited to their towns while coordinating a common campaign date, shared demands, and a public directory for new participants.",
+      "aliases": [],
+      "scale": "movements",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T203",
+    "title": "Coalitions",
+    "slug": "coalitions",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Separate organizations cooperate on a shared objective.",
+    "example": "Combine capabilities without requiring a merger.",
+    "sources": [
+      "R-T203"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T203",
+      "title": "Coalitions",
+      "source_title": "Coalition Building I: Starting a Coalition",
+      "url": "https://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/checklist",
+      "publisher": "University of Kansas Community Tool Box",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Coalitions bring individuals or organizations together around a shared objective while retaining their separate identities. The Community Tool Box describes pooling resources, communicating across groups, and developing an action plan around a recognized common need.",
+      "limitation": "The guide describes organizing practice rather than guaranteed impact; partners may differ in power, priorities, resources, and willingness to sustain participation.",
+      "scenario": "Tenant groups, disability advocates, and neighborhood associations could form a coalition for accessible housing, agreeing shared demands while continuing their distinct local organizing.",
+      "aliases": [],
+      "scale": "movements",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T204",
+    "title": "Collective impact partnerships",
+    "slug": "collective-impact-partnerships",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Organizations align goals, measures, and ongoing coordination.",
+    "example": "Study sustained cooperation across service providers.",
+    "sources": [
+      "R-T204"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T204",
+      "title": "Collective impact partnerships",
+      "source_title": "Collective Impact",
+      "url": "https://www.fsg.org/resource/collective-impact/",
+      "publisher": "FSG / John Kania and Mark Kramer",
+      "source_type": "practitioner method",
+      "access": "search excerpt",
+      "finding": "Collective impact structures collaboration among organizations through a common agenda, shared measurement, complementary activities, continuing communication, and dedicated coordinating support. The original framework treats this coordination capacity as distinct from occasional partnership meetings.",
+      "limitation": "The source proposes a framework rather than proving all five conditions cause success; representation, power, and measurement choices require scrutiny.",
+      "scenario": "Schools, libraries, and youth organizations could coordinate a literacy initiative, agree shared outcomes, divide complementary tasks, and resource a small team to maintain communication.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T205",
+    "title": "Boundary-spanning roles",
+    "slug": "boundary-spanning-roles",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Assign someone to connect groups with different vocabularies or priorities.",
+    "example": "Reduce misunderstandings across organizational interfaces.",
+    "sources": [
+      "R-T205"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T205",
+      "title": "Boundary-spanning roles",
+      "source_title": "The active client: The boundary-spanning roles of internal consultants",
+      "url": "https://journals.sagepub.com/doi/10.1177/1350507611401536",
+      "publisher": "Organization / Andrew Sturdy and Christopher Wright",
+      "source_type": "research paper",
+      "access": "abstract",
+      "finding": "Boundary-spanning roles connect groups that otherwise have different knowledge, practices, or access. The study identifies internal consultants acting as gatekeepers, brokers, and partners in relationships with external consultants and the knowledge they bring.",
+      "limitation": "This study concerns consultancy relationships; boundary spanners can filter or control access as well as connect groups, so their incentives matter.",
+      "scenario": "A hospital could assign a liaison to translate between clinicians and software vendors, making needs understandable while documenting which concerns are being prioritized or excluded.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T206",
+    "title": "Minimum specifications",
+    "slug": "minimum-specifications",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Specify only essential constraints.",
+    "example": "Leave room for local methods.",
+    "sources": [
+      "LS"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T207",
+    "title": "15% Solutions",
+    "slug": "15-solutions",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Identify actions within existing discretion.",
+    "example": "Start without waiting for additional authority.",
+    "sources": [
+      "LS"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T208",
+    "title": "Discovery-and-Action Dialogue",
+    "slug": "discovery-and-action-dialogue",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Explore obstacles and locally successful behaviors.",
+    "example": "Find practical responses within a group.",
+    "sources": [
+      "LS"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T209",
+    "title": "What I Need From You",
+    "slug": "what-i-need-from-you",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Exchange concrete requests across groups.",
+    "example": "Clarify dependencies.",
+    "sources": [
+      "LS"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T210",
+    "title": "Purpose-to-Practice",
+    "slug": "purpose-to-practice",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Connect purpose with participants and working arrangements.",
+    "example": "Design a shared initiative.",
+    "sources": [
+      "LS"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": []
+  },
+  {
+    "id": "T326",
+    "title": "Strikes",
+    "slug": "strikes",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Workers collectively withhold labor around stated demands.",
+    "example": "Understand bargaining power and collective coordination.",
+    "sources": [
+      "R-T326"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [
+      "industrial action"
+    ],
+    "research": {
+      "id": "T326",
+      "title": "Strikes",
+      "source_title": "ILO Helpdesk: Questions and answers on business and collective bargaining",
+      "url": "https://www.ilo.org/ilo-helpdesk-questions-and-answers-business-and-collective-bargaining",
+      "publisher": "International Labour Organization",
+      "source_type": "institutional guide",
+      "access": "search excerpt",
+      "finding": "Strikes collectively withhold labor to press workers' economic or social demands. The ILO discussion situates strike action within freedom of association and collective bargaining while identifying conditions and restrictions that can apply to its exercise.",
+      "limitation": "The source does not provide universal legal permission; notice, voting requirements, protected activities, and restrictions depend on jurisdiction and employment context.",
+      "scenario": "A hypothetical labor-relations case could examine workers coordinating a stoppage after failed negotiations, including how representation, member support, and applicable procedures shape the action.",
+      "aliases": [],
+      "scale": "movements",
+      "terms": [
+        "industrial action"
+      ],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T327",
+    "title": "Boycotts",
+    "slug": "boycotts",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Participants coordinate refusal to purchase or cooperate.",
+    "example": "Express pressure through organized nonparticipation.",
+    "sources": [
+      "R-T327"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T327",
+      "title": "Boycotts",
+      "source_title": "The Montgomery Bus Boycott",
+      "url": "https://www.nps.gov/articles/montgomery-bus-boycott.htm",
+      "publisher": "US National Park Service",
+      "source_type": "history",
+      "access": "search excerpt",
+      "finding": "Boycotts coordinate refusal to use a target's goods or services to press demands. The Montgomery account shows communication, an organizing association, and negotiation turning individual refusal into a sustained collective challenge to discriminatory practices.",
+      "limitation": "This is a historical example, not a universal success formula; leverage depends on participation, alternatives, target dependence, and wider political conditions.",
+      "scenario": "Community organizations could consider a coordinated consumer boycott over a specific policy, defining demands, communication responsibilities, and practical alternatives for participants before beginning.",
+      "aliases": [],
+      "scale": "movements",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T328",
+    "title": "Citizen journalism",
+    "slug": "citizen-journalism",
+    "kind": "P",
+    "category": "Collaboration and production",
+    "description": "Community participants gather and publish public-interest reporting.",
+    "example": "Document issues overlooked by established media.",
+    "sources": [
+      "R-T328"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T328",
+      "title": "Citizen journalism",
+      "source_title": "Global Media and Information Literacy Assessment Framework",
+      "url": "https://uis.unesco.org/sites/default/files/documents/global-media-and-information-literacy-assessment-framework-country-readiness-and-competencies-2013-en.pdf",
+      "publisher": "UNESCO",
+      "source_type": "reference",
+      "access": "search excerpt",
+      "finding": "Citizen journalism lets members of the public contribute information, commentary, or perspectives that reshape news through digital media. UNESCO's definition emphasizes participation in producing and interpreting information rather than exclusive reliance on professional newsroom gatekeepers.",
+      "limitation": "The definition does not certify accuracy or independence; citizen contributions still require verification, contextual judgment, and attention to privacy and consent.",
+      "scenario": "Residents could document inaccessible crossings with dated photographs and checked locations, then publish a community report that distinguishes direct observations from interpretations and unverified claims.",
+      "aliases": [],
+      "scale": "communities",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T329",
+    "title": "Monastic orders",
+    "slug": "monastic-orders",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Religious communities organize life through shared rules and commitments.",
+    "example": "Study durable collective practice in its historical tradition.",
+    "sources": [
+      "R-T329"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T329",
+      "title": "Monastic orders",
+      "source_title": "The Rule of Benedict: Chapter 1, On the Kinds of Monks",
+      "url": "https://archive.osb.org/rb/text/rbejms1.html",
+      "publisher": "Order of Saint Benedict archive",
+      "source_type": "history",
+      "access": "search excerpt",
+      "finding": "Monastic communities organize shared life around a religious rule and recognized authority. Benedict's account of cenobitic monks illustrates a durable community whose commitments govern membership and conduct rather than merely coordinating a temporary task.",
+      "limitation": "This primary text concerns Benedictine communal monasticism; other traditions differ, and its religious commitments should not be reduced to a productivity technique.",
+      "scenario": "Someone studying intentional communities could compare how a monastery's shared rule and recognized leadership sustain collective life, while separating religious purposes from possible organizational analogies.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T330",
+    "title": "Joint ventures",
+    "slug": "joint-ventures",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Separate organizations establish a shared undertaking.",
+    "example": "Combine resources while retaining distinct parent organizations.",
+    "sources": [
+      "R-T330"
+    ],
+    "published": true,
+    "adaptation": true,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T330",
+      "title": "Joint ventures",
+      "source_title": "IFRS 11 Joint Arrangements",
+      "url": "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-11-joint-arrangements/",
+      "publisher": "IFRS Foundation",
+      "source_type": "issued standard overview",
+      "access": "page",
+      "finding": "Joint ventures coordinate participants around a shared undertaking with agreed control. IFRS 11 explains joint control as a contractual arrangement requiring unanimous consent of the parties sharing control for decisions about the activities that significantly affect returns.",
+      "limitation": "This source supplies an accounting definition of joint control, not a universal formation guide; legal structure, liabilities, and ordinary business terminology can differ.",
+      "scenario": "Two manufacturers could explore jointly producing a component, agreeing contributed resources, shared decisions, revenue allocation, and exit terms before choosing an appropriate legal structure.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": true,
+      "reviewed_on": "2026-11-05"
+    }
+  },
+  {
+    "id": "T331",
+    "title": "Franchising",
+    "slug": "franchising",
+    "kind": "F",
+    "category": "Collaboration and production",
+    "description": "Independent operators use a shared brand and operating arrangement.",
+    "example": "Study replication through contractual standards and support.",
+    "sources": [
+      "R-T331"
+    ],
+    "published": true,
+    "adaptation": false,
+    "aliases": [],
+    "terms": [],
+    "research": {
+      "id": "T331",
+      "title": "Franchising",
+      "source_title": "A Consumer's Guide to Buying a Franchise",
+      "url": "https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise",
+      "publisher": "US Federal Trade Commission",
+      "source_type": "institutional guide",
+      "access": "page",
+      "finding": "Franchising lets a local operator use an established business's name and operating system under an agreement. The FTC guide explains the combination of fees, support, brand access, controls, and contractual obligations that coordinates separate businesses.",
+      "limitation": "The guide concerns US franchise purchases; brand recognition and operational support do not guarantee profitability, and the contract may substantially restrict local discretion.",
+      "scenario": "An entrepreneur comparing expansion models could examine whether operating an established brand's outlet offers useful support, while evaluating fees, operating constraints, and the agreement's obligations.",
+      "aliases": [],
+      "scale": "institutions",
+      "terms": [],
+      "adaptation": false,
+      "reviewed_on": "2026-11-05"
+    }
+  }
+]

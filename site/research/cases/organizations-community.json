@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "cocoon-projects-liquido",
+    "title": "Cocoon Projects: contribution-weighted governance with LiquidO",
+    "question": "Can open participation coexist with authority weighted by assessed contribution?",
+    "period": "Model documented in 2013; external mapping in 2016–2017",
+    "location": "Italy; distributed professional organization",
+    "scale": "institutions",
+    "technology_ids": [
+      "T176",
+      "T177",
+      "T178",
+      "T119",
+      "T278",
+      "T277",
+      "S006"
+    ],
+    "summary": "Stelio Verzera describes LiquidO as Cocoon Projects’ operating model: people pull collectively prioritized work from a shared board, assess contributions after delivery, and receive credits convertible into compensation. Some consequential votes are weighted by earned credits. It is therefore a specific combination of open participation and differentiated influence, rather than equal-vote democracy or an absence of structure.",
+    "outcome": "uncertain",
+    "outcome_summary": "LiquidO combined open participation with contribution-weighted compensation and voting inside a privately owned company. Verzera reported close agreement between self-assessment and peer assessments, but agreement alone cannot show whether less visible work received fair credit or whether newcomers could gain influence.",
+    "observations": [
+      {
+        "claim": "The 2013 LiquidO design combined time-boxed voting, work-in-progress limits, voluntary task uptake, and peer evaluation of completed contributions.",
+        "source_ids": [
+          "design"
+        ]
+      },
+      {
+        "claim": "Credits determine compensation and, for decisions deemed important, differentiated voting weight. The founder reports assessment discrepancies below 10%, without publishing the underlying dataset.",
+        "source_ids": [
+          "design"
+        ]
+      },
+      {
+        "claim": "Cocoon remained privately owned while opening parts of its governance to participants. Participation in decisions did not itself give contributors ownership rights.",
+        "source_ids": [
+          "mapping"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Visible contribution records could make informal influence discussable and reward neglected organizational work.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "design"
+        ],
+        "alternative": "A closely selected professional group and repeated relationships may explain cooperative behavior independently of the credit system."
+      },
+      {
+        "claim": "Accumulated credits could also reinforce incumbents’ influence rather than keep authority responsive to current expertise.",
+        "status": "plausible",
+        "source_ids": [
+          "design"
+        ],
+        "alternative": "Credit expiry or decision rules tied to relevant expertise could limit this effect. Whether those safeguards operated in LiquidO remains unclear."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Stigmergic coordination",
+        "evidence_status": "Explicit participant framing, not a tested causal explanation",
+        "source_ids": [
+          "design"
+        ],
+        "relevance": "The shared board provides visible traces that guide subsequent work without assigning every task centrally.",
+        "transfer_limit": "A shared task board can decentralize task choice while leaving evaluation, conflict resolution, and ownership concentrated."
+      }
+    ],
+    "lessons": [
+      "Which decisions are open to everyone, and which give more weight to past contributors?",
+      "How are disputed assessments, essential invisible work, and newcomers’ influence handled?"
+    ],
+    "research_gaps": [
+      "How did voting weight change as credits accumulated, and how much influence could a newcomer acquire?",
+      "The durability of the arrangement, the treatment of departures, and the experience of people dissatisfied with their assessments remain unclear."
+    ],
+    "sources": [
+      {
+        "id": "design",
+        "title": "Liquid organizations: building the next evolutionary stage of anti-fragility",
+        "url": "https://www.managementexchange.com/hack/liquid-organizations-realizing-next-evolutionary-stage-anti-fragility?csort=likes",
+        "publisher": "Management Innovation eXchange / Stelio Verzera",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Original 2013 founder account; detailed mechanisms and self-reported results, not independent validation."
+      },
+      {
+        "id": "mapping",
+        "title": "Positive Platforms Identity: Italian ecosystem mapping",
+        "url": "https://legacy.iftf.org/fileadmin/user_upload/downloads/ppj/PositivePlatformsIdentity_MapAnalysis_ItalianEcosystem_for_IFTF.pdf",
+        "publisher": "Institute for the Future Positive Platforms Fellowship",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read scope and Cocoon sections, especially page 15; external descriptive mapping, with a direct citation to Cocoon for LiquidO."
+      }
+    ]
+  },
+  {
+    "id": "enspiral-network-care-and-control",
+    "title": "Enspiral: support networks can develop their own forms of pressure",
+    "question": "What replaces managerial control when work, friendship, and care overlap?",
+    "period": "Network founded around 2010; an 18-month field study published in 2021",
+    "location": "Wellington, New Zealand, with international participants",
+    "scale": "communities",
+    "technology_ids": [
+      "T063",
+      "T058",
+      "T032",
+      "T164",
+      "T218",
+      "D019",
+      "D008"
+    ],
+    "summary": "Enspiral connects people and ventures pursuing socially meaningful work through shared relationships, support practices, and organizational infrastructure. It is a network containing distinct ventures, not one uniformly managed company. Formal agreements coexist with editable guides, while work, friendship, personal growth, and belonging overlap in everyday participation.",
+    "outcome": "mixed",
+    "outcome_summary": "During an 18-month field study, participants experienced practical generosity and early opportunities to contribute, alongside exhaustion, pressure to disclose personal feelings, and strained boundaries. Support could open doors while expectations of openness made participation demanding. These experiences concern particular people and occasions, not every member or the network today.",
+    "observations": [
+      {
+        "claim": "Enspiral distinguishes agreements requiring formal change from guides contributors can edit, and combines nodes and working groups with a foundation holding formal roles.",
+        "source_ids": [
+          "handbook"
+        ]
+      },
+      {
+        "claim": "The network included roughly 200–350 participants during the field-study period, spanning relationships beyond any one venture.",
+        "source_ids": [
+          "study"
+        ]
+      },
+      {
+        "claim": "Check-ins gave participants opportunities to share personal circumstances. Some also described excessive disclosure, overextended care, and discomfort about what participation seemed to require.",
+        "source_ids": [
+          "study"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Relational openness can become an informal admission test for being trusted with important work.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "study"
+        ],
+        "alternative": "Some discomfort may reflect particular meetings or facilitator choices rather than an unavoidable feature of network organizing."
+      },
+      {
+        "claim": "Clearer boundaries and named support responsibilities might preserve care without leaving a few people feeling responsible for everyone.",
+        "status": "plausible",
+        "source_ids": [
+          "study",
+          "handbook"
+        ],
+        "alternative": "Resource scarcity and uneven availability may still concentrate the work even when responsibilities are documented."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Affective control in collaborative work",
+        "evidence_status": "Interpretive Lacanian analysis grounded in a multi-source field study",
+        "source_ids": [
+          "study"
+        ],
+        "relevance": "Desires for purpose, growth, and belonging can generate commitment and pressure without a conventional boss. The term “affective control” draws attention to how those desires influence participation.",
+        "transfer_limit": "The same check-in may feel supportive to one person and intrusive to another; meeting design and relationships affect how pressure develops."
+      }
+    ],
+    "lessons": [
+      "Can someone decline emotional disclosure and remain a trusted participant?",
+      "Who performs care and coordination, and what happens when those people stop?",
+      "Separate the network’s support function from the governance and employment rules of individual ventures."
+    ],
+    "research_gaps": [
+      "How do people who leave Enspiral experience these expectations, and which participants carry the greatest care burden?",
+      "The fieldwork and later handbook describe different periods; changes in formal rules may also have changed everyday experiences."
+    ],
+    "sources": [
+      {
+        "id": "handbook",
+        "title": "Enspiral Handbook: Introduction and Structure",
+        "url": "https://handbook.enspiral.com/",
+        "publisher": "Enspiral",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Documents the distinction between agreements, guides, ventures, and foundation; no outcome evaluation."
+      },
+      {
+        "id": "study",
+        "title": "Affective Control in New Collaborative Work: Communal Fantasies of Purpose, Growth and Belonging",
+        "url": "https://research.vu.nl/ws/files/222790823/Affective_Control_in_New_Collaborative_Work.pdf",
+        "publisher": "Organization Studies / Resch, Hoyer and Steyaert",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read methods and findings on exhaustion and boundaries; fieldwork plus management texts, with an explicit interpretive framework."
+      }
+    ]
+  },
+  {
+    "id": "enspiral-cobudget-funding-rounds",
+    "title": "Enspiral’s Cobudget: open proposals still need timing and strategy",
+    "question": "Why can a transparent participatory budget leave money idle or miss shared priorities?",
+    "period": "2013–2019 account of successive funding models",
+    "location": "Enspiral network, New Zealand and distributed",
+    "scale": "communities",
+    "technology_ids": [
+      "T232",
+      "T258",
+      "T227",
+      "T198",
+      "T149"
+    ],
+    "summary": "Enspiral developed collaborative funding after a small support crew became overwhelmed by coordination. Members could propose funding buckets, while contributors allocated discretionary money after core costs. Later experience revealed that continuous proposal flows, scattered attention, and idle balances did not automatically produce a coherent shared budget, prompting facilitated rounds and strategic conversations.",
+    "outcome": "mixed",
+    "outcome_summary": "Early organizers reported broader participation and lower coordination costs. Later, steward Francesca Pick encountered low-priority spending, timing advantages, and unused allocations. She judged the projects more strategic after three facilitated rounds, although that judgment leaves open whether the funded work produced better long-term results.",
+    "observations": [
+      {
+        "claim": "The 2014 design reserved core expenses before discretionary allocation; anyone could propose a bucket, while allocation rights initially followed financial contributions.",
+        "source_ids": [
+          "origin"
+        ]
+      },
+      {
+        "claim": "During continuous funding, money remained unused in some accounts, proposals were difficult to compare, and attention was scattered across the network.",
+        "source_ids": [
+          "revision"
+        ]
+      },
+      {
+        "claim": "Time-boxed rounds added strategic discussion and a facilitator. Pick reported three rounds allocating about US$40,000; her favorable judgment concerned the strategic quality of the selected projects.",
+        "source_ids": [
+          "revision"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Synchronized rounds may improve comparison by placing competing proposals in view at the same time.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "revision"
+        ],
+        "alternative": "Different proposers, funding levels, or greater organizer experience could also account for the changed portfolio."
+      },
+      {
+        "claim": "Giving every contributor control over an allocation can spread power while still leaving coordination work concentrated.",
+        "status": "plausible",
+        "source_ids": [
+          "origin",
+          "revision"
+        ],
+        "alternative": "A network with stable priorities and experienced participants may require less facilitation than this transition did."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Distinguish permission to propose from rights to allocate money.",
+      "Can members compare alternatives before committing their allocations?",
+      "Provide a separate route for urgent proposals that cannot wait for a round."
+    ],
+    "research_gaps": [
+      "Did the projects funded through facilitated rounds produce more lasting value than those selected through continuous allocation?",
+      "How did unequal allocation rights and members who rarely participated affect the resulting budget?"
+    ],
+    "sources": [
+      {
+        "id": "origin",
+        "title": "Collaborative Funding: dissolve authority, empower everyone, and crowdsource a smarter, transparent budget",
+        "url": "https://www.managementexchange.com/story/collaborative-funding-dissolve-authority-empower-everyone-and-crowdsource-smarter-transparent",
+        "publisher": "Management Innovation eXchange / Alanna Krause",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "2014 organizer account; mechanism, preceding support-crew overload, and self-reported metrics."
+      },
+      {
+        "id": "revision",
+        "title": "Sharing power by sharing money: the evolution of collaborative funding in Enspiral",
+        "url": "https://medium.com/enspiral-tales/sharing-power-by-sharing-money-the-evolution-of-collaborative-funding-in-enspiral-a56643e9cd3",
+        "publisher": "Enspiral Tales / Francesca Pick",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Later steward account explicitly reports problems and subjective evaluation of facilitated rounds; not independent of Enspiral."
+      }
+    ]
+  },
+  {
+    "id": "microsolidarity-practice-programs",
+    "title": "Microsolidarity practice programs: from strangers to small support groups",
+    "question": "Can a short program help strangers form support groups that continue meeting?",
+    "period": "2018 proposal, 2020 update, 2020–2021 practice programs",
+    "location": "Online, internationally distributed participants",
+    "scale": "groups",
+    "technology_ids": [
+      "T020",
+      "T064",
+      "T041",
+      "T027",
+      "T099",
+      "T198"
+    ],
+    "summary": "Richard D. Bartlett’s microsolidarity proposal names a small recurring support group a crew and a wider environment for forming crews a congregation. Drawing partly on Enspiral experience, Bartlett and Nati Lombardo ran online practice programs that moved participants through paired encounters, small-group support, and reflection. The aim was to give people experience of offering and receiving support, with a path toward continuing relationships.",
+    "outcome": "uncertain",
+    "outcome_summary": "The organizers ran programs in 2020–2021 and described participants experiencing connection and insight. Whether those encounters became durable support relationships remains unclear: a satisfying session and a crew that continues exchanging practical help are different achievements.",
+    "observations": [
+      {
+        "claim": "Crews and congregations name patterns Bartlett recognized in Enspiral and other communities, rather than a single organization with uniform membership rules.",
+        "source_ids": [
+          "proposal"
+        ]
+      },
+      {
+        "claim": "Programs used four weekly 90-minute sessions for about 20–30 participants, with at least two hosts and theoretical material outside the calls.",
+        "source_ids": [
+          "program"
+        ]
+      },
+      {
+        "claim": "Sessions combined brief pair encounters, Troika Consulting, Case Clinic, and a retrospective, ending with feedback and consideration of subsequent actions.",
+        "source_ids": [
+          "program"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Repeated practice across progressively larger groupings may reduce the difficulty of approaching strangers for meaningful support.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "program"
+        ],
+        "alternative": "Self-selection, skilled hosts, or the novelty of the event may explain positive reactions more than the sequence itself."
+      },
+      {
+        "claim": "A crew’s recurring commitment may help turn retreat enthusiasm into sustained support.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "proposal"
+        ],
+        "alternative": "Existing friendships, available time, and compatible work may determine continuity regardless of the crew label."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Microsolidarity’s nested relational scales",
+        "evidence_status": "Practitioner framework and working proposal",
+        "source_ids": [
+          "proposal"
+        ],
+        "relevance": "It distinguishes personal reflection, pairs, small crews, and a larger congregation rather than assuming one group size serves every purpose.",
+        "transfer_limit": "The proposed sizes organize different kinds of interaction; they are not established optimal group sizes, and the program is peer support rather than clinical care."
+      }
+    ],
+    "lessons": [
+      "A crew becomes consequential through the help exchanged after the program, not just the closeness felt during it.",
+      "Optional disclosure lets people seek peer support without being required to expose private experiences.",
+      "Hosting and follow-up require time even when the eventual relationships are voluntary."
+    ],
+    "research_gaps": [
+      "How many crews continued meeting, what help changed hands, and why did others dissolve?",
+      "The experience of people who withdrew or felt uncomfortable is less visible than the organizers’ positive accounts."
+    ],
+    "sources": [
+      {
+        "id": "proposal",
+        "title": "Update 2020: Three Essential Pillars for a New Mutual Aid Community",
+        "url": "https://www.microsolidarity.cc/articles/2-update-2020",
+        "publisher": "Microsolidarity / Richard D. Bartlett",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read proposal, Enspiral relationship, and crew integration hypothesis; assertions are explicitly personal guesses."
+      },
+      {
+        "id": "program",
+        "title": "How To Run a Practice Program",
+        "url": "https://www.microsolidarity.cc/practices/how-to-run-a-practice-program",
+        "publisher": "Microsolidarity / Richard D. Bartlett and Nati Lombardo",
+        "type": "participant-account",
+        "access": "full-text",
+        "note": "Complete short program account read; actual delivery described but no published outcome dataset."
+      }
+    ]
+  },
+  {
+    "id": "buurtzorg-netherlands",
+    "title": "Buurtzorg: small nursing teams with a shared backbone",
+    "question": "What replaces middle management when a professional service scales?",
+    "period": "Founded 2006; evaluations and organizational studies 2015–2025",
+    "location": "Netherlands",
+    "scale": "institutions",
+    "technology_ids": [
+      "T163",
+      "T115",
+      "T116",
+      "T188"
+    ],
+    "summary": "Buurtzorg organizes home nursing around small teams that coordinate patients, schedules, recruitment, and local relationships. Coaches, software, and a central office support those teams. The distinctive arrangement is not simply removing supervisors: it redistributes managerial work while retaining shared infrastructure and relying on qualified professionals delivering a locally organized service.",
+    "outcome": "mixed",
+    "outcome_summary": "Buurtzorg grew substantially and attracted favorable patient and staff assessments. A historical KPMG comparison found relatively low adjusted home-care costs but roughly average total healthcare costs. Lower spending within the nursing service therefore did not translate into an equivalent reduction across all care, and the contribution of team autonomy remains difficult to separate from nursing expertise and patient differences.",
+    "observations": [
+      {
+        "claim": "Teams carried responsibilities normally assigned to managers, with coaches and a central office supplying support.",
+        "source_ids": [
+          "organization"
+        ]
+      },
+      {
+        "claim": "Adjusted home-care expenditure was below the comparison average, while total healthcare expenditure was around average.",
+        "source_ids": [
+          "evaluation"
+        ]
+      },
+      {
+        "claim": "Qualified nurses coordinated relatively separable local services, reducing the need for every daily decision to pass through a central office.",
+        "source_ids": [
+          "organization"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Local decision rights may reduce handoffs between the person who knows a patient and the person authorizing care.",
+        "status": "plausible",
+        "source_ids": [
+          "organization"
+        ],
+        "alternative": "Professional selection, nursing skill, or continuity of staffing could account for benefits without the entire governance model."
+      },
+      {
+        "claim": "Shared administrative support may be as important as team autonomy to keeping coordination manageable.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "organization"
+        ],
+        "alternative": "A different service with heavy cross-team dependencies may need more centralized scheduling and integration."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Functional substitutes for hierarchy",
+        "evidence_status": "Case-based organizational explanation",
+        "source_ids": [
+          "organization"
+        ],
+        "relevance": "Managerial functions still need owners when managerial positions disappear.",
+        "transfer_limit": "Services with tightly interdependent teams may require more central integration than local home-nursing teams do."
+      }
+    ],
+    "lessons": [
+      "List the work performed by managers before deciding which positions to remove.",
+      "Measure total costs and patient outcomes, not just the budget line that the new team controls."
+    ],
+    "research_gaps": [
+      "How much of the cost difference reflected the patients served, staffing continuity, or nursing expertise rather than decision rights?",
+      "The workload of coaches, teams that struggled, and care supplied informally by relatives may change the apparent balance of costs and benefits."
+    ],
+    "sources": [
+      {
+        "id": "organization",
+        "title": "Buurtzorg: scaling up an organization with hundreds of self-managing teams but no middle managers",
+        "url": "https://link.springer.com/article/10.1007/s41469-024-00184-y",
+        "publisher": "Journal of Organization Design / Martela and Nandram",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read organizational mechanisms and boundary conditions; descriptive case, not an intervention trial."
+      },
+      {
+        "id": "evaluation",
+        "title": "Home Care by Self-Governing Nursing Teams: The Netherlands’ Buurtzorg Model",
+        "url": "https://www.commonwealthfund.org/publications/case-study/2015/may/home-care-self-governing-nursing-teams-netherlands-buurtzorg-model",
+        "publisher": "Commonwealth Fund",
+        "type": "review",
+        "access": "sections",
+        "note": "Read interviews and KPMG cost comparison; distinguishes home-care from all healthcare spending."
+      }
+    ]
+  },
+  {
+    "id": "east-london-buurtzorg-adaptation",
+    "title": "East London: importing self-management into an NHS organization",
+    "question": "What happens when an autonomous-team model meets an existing institution?",
+    "period": "Pilot 2017–2018; evaluation published 2019",
+    "location": "Tower Hamlets, London, United Kingdom",
+    "scale": "institutions",
+    "technology_ids": [
+      "T163",
+      "T115",
+      "T116",
+      "D012"
+    ],
+    "summary": "An East London community nursing pilot adapted Buurtzorg within an established NHS provider. Nurses sought more continuous relationships with patients and greater control of daily work, while the parent organization retained significant operational and financial authority. Changing the team format did not automatically transfer the surrounding permissions over staffing and spending.",
+    "outcome": "mixed",
+    "outcome_summary": "Participants valued continuity and accessibility but also encountered staffing difficulties and disagreement over how much autonomy nurses actually had. The evaluation included 23 interviews, only four with patients or carers, so those favorable experiences give a limited view of patient outcomes. Clinical and financial advantages over ordinary services remained unresolved.",
+    "observations": [
+      {
+        "claim": "Patient and carer perspectives came from four interviewees within a 23-interview evaluation, limiting how widely their experiences can be generalized.",
+        "source_ids": [
+          "pilot"
+        ]
+      },
+      {
+        "claim": "Nurses described meaningful clinical discretion but limitations on operational and budgetary autonomy; managerial interpretations differed.",
+        "source_ids": [
+          "pilot"
+        ]
+      },
+      {
+        "claim": "Buurtzorg-inspired teams in other settings have also encountered constraints from their parent organizations and national health systems, alongside reported communication benefits.",
+        "source_ids": [
+          "review"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Unchanged organizational approval systems can limit autonomy even when teams are described as self-managing.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "pilot"
+        ],
+        "alternative": "Some retained controls may respond to statutory accountability or temporary implementation risks rather than simple resistance."
+      },
+      {
+        "claim": "Continuity may be a more transferable mechanism than the complete Dutch organizational structure.",
+        "status": "plausible",
+        "source_ids": [
+          "pilot",
+          "review"
+        ],
+        "alternative": "A small pilot with committed staff and favorable relationships may deliver attention that routine services cannot sustain."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Specify which staffing, spending, and clinical decisions transfer before adopting a new team label.",
+      "Evaluate the adaptation against local aims and constraints, not only fidelity to an admired foreign model."
+    ],
+    "research_gaps": [
+      "Could the pilot sustain staffing, continuity, and patient outcomes as it expanded?",
+      "How would total resource use compare with ordinary services once the support needed to establish the pilot was included?"
+    ],
+    "sources": [
+      {
+        "id": "pilot",
+        "title": "Transforming community nursing services in the UK: lessons from a participatory evaluation of the implementation of a new community nursing model in East London",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10088609/1/s12913-019-4804-8.pdf",
+        "publisher": "BMC Health Services Research / Lalani and colleagues",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read methods, patient and staff accounts, and autonomy findings."
+      },
+      {
+        "id": "review",
+        "title": "Implementing Buurtzorg-derived models in the home care setting: a Scoping Review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38745628/",
+        "publisher": "International Journal of Nursing Studies Advances / Hegedus and colleagues",
+        "type": "review",
+        "access": "search-excerpt",
+        "note": "Read indexed abstract; publisher full text blocked. Broader transfer evidence, not independent replication of this pilot."
+      }
+    ]
+  },
+  {
+    "id": "haier-rendanheyi-microenterprises",
+    "title": "Haier: markets and microenterprises inside a giant company",
+    "question": "How much autonomy can small enterprises have within a large corporate platform?",
+    "period": "RenDanHeYi from 2005; microenterprise reform from 2014",
+    "location": "China and international subsidiaries",
+    "scale": "institutions",
+    "technology_ids": [
+      "T167",
+      "T211",
+      "T258",
+      "T115",
+      "D013"
+    ],
+    "summary": "Haier reorganized parts of its business into small entrepreneurial units with substantial discretion over work, staffing, and remuneration. These units operate within a larger system of platforms, resources, and corporate direction. RenDanHeYi therefore combines decentralized enterprise activity with a powerful framework designer; it is not simply a collection of independent small businesses.",
+    "outcome": "uncertain",
+    "outcome_summary": "Haier substantially redesigned its management, with different implementations across international businesses. By 2018 the newer microenterprise system was still young. Executives later associated it with growth and faster innovation, but acquisitions, investment, and market conditions also changed; the governance contribution is difficult to disentangle.",
+    "observations": [
+      {
+        "claim": "Small units gained discretion over recruitment and pay within a continuing corporate platform, with ownership stakes varying across arrangements.",
+        "source_ids": [
+          "case"
+        ]
+      },
+      {
+        "claim": "Overseas businesses adapted the model rather than implementing one uniform structure. The newer microenterprise arrangement was still developing in 2018.",
+        "source_ids": [
+          "case"
+        ]
+      },
+      {
+        "claim": "Zhang Ruimin described a long transition before performance improved and emphasized the continuing role of common principles and leadership.",
+        "source_ids": [
+          "later"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Direct exposure to customer demand may help units test opportunities without routing every decision through a functional hierarchy.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "case",
+          "later"
+        ],
+        "alternative": "Industry demand, access to capital, distribution, and acquisitions may explain commercial results independently of the structure."
+      },
+      {
+        "claim": "Local autonomy may depend on centrally maintained interfaces and resources rather than a general retreat of leadership.",
+        "status": "plausible",
+        "source_ids": [
+          "case",
+          "later"
+        ],
+        "alternative": "Informal founder authority may resolve coordination problems that formal platform rules alone cannot handle."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Organizational modularity",
+        "evidence_status": "Conceptual explanation consistent with the case",
+        "source_ids": [
+          "later"
+        ],
+        "relevance": "Small units can experiment while shared platforms connect them.",
+        "transfer_limit": "When production dependencies are dense, a local experiment can disrupt other units; shared platforms still need ways to manage those connections."
+      }
+    ],
+    "lessons": [
+      "Distinguish a unit’s operating discretion, ownership, and exposure to financial losses.",
+      "Identify which shared services and integration decisions must remain reliable as units multiply."
+    ],
+    "research_gaps": [
+      "How were income risk, unsuccessful units, and disputes handled within the microenterprise system?",
+      "Executive accounts leave workers’ experiences and unsuccessful transfers less visible than the intended advantages."
+    ],
+    "sources": [
+      {
+        "id": "case",
+        "title": "Management innovation made in China: Haier’s Rendanheyi",
+        "url": "https://oro.open.ac.uk/56044/1/Haier%27s%20Rendanheyi%20%28CMR%202018%29%20final%20accepted%20version.pdf",
+        "publisher": "California Management Review",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read organizational evolution, overseas differences, and evaluation caveat; based on executive interviews and case research."
+      },
+      {
+        "id": "later",
+        "title": "The Leader as Ecosystem Architect",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-032-36361-9_9",
+        "publisher": "Springer",
+        "type": "review",
+        "access": "sections",
+        "note": "Read Haier and GE Appliances sections; historical synthesis heavily dependent on leader interviews."
+      }
+    ]
+  },
+  {
+    "id": "morning-star-colleague-commitments",
+    "title": "Morning Star: negotiating responsibilities with colleagues",
+    "question": "Can explicit peer commitments replace routine supervisory assignment?",
+    "period": "Practices documented in a 2018 field visit and company model",
+    "location": "California, United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T083",
+      "T085",
+      "T086",
+      "T117"
+    ],
+    "summary": "At the tomato processor Morning Star, individual missions and agreements among colleagues define responsibilities between people whose activities depend on one another. These commitments replace routine assignment through a conventional supervisory chain. Coordination still requires negotiation, influence, and dispute resolution, even when job titles no longer identify a boss.",
+    "outcome": "uncertain",
+    "outcome_summary": "The commitment system gave individuals substantial responsibility while requiring time to persuade colleagues and resolve disagreements. Favorable descriptions of that autonomy do not tell us how newcomers or dissatisfied employees experienced it, or whether the additional negotiation improved productivity enough to justify its cost.",
+    "observations": [
+      {
+        "claim": "Colleague Letters of Understanding sit alongside personal, business-unit, and enterprise missions. Changes require affected colleagues’ knowledge and consent.",
+        "source_ids": [
+          "model"
+        ]
+      },
+      {
+        "claim": "During a 2018 plant visit, expertise-based influence operated alongside a staged disagreement process involving conversation, mediation, and peers.",
+        "source_ids": [
+          "visit"
+        ]
+      },
+      {
+        "claim": "Employees carried expanded responsibility and had to invest time in persuading colleagues instead of issuing orders.",
+        "source_ids": [
+          "visit"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Writing mutual commitments may make dependencies visible before missed work becomes a supervisory problem.",
+        "status": "plausible",
+        "source_ids": [
+          "model"
+        ],
+        "alternative": "Experienced colleagues and stable production routines may already coordinate effectively without a formal letter."
+      },
+      {
+        "claim": "Removing routine command can shift coordination costs into negotiation rather than eliminate them.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "visit"
+        ],
+        "alternative": "Longer negotiation could be worthwhile if it produces better decisions; the balance between those gains and the time spent remains unclear."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Clarify who can change a commitment and how disagreements move toward a decision.",
+      "Include coordination time when comparing self-management with conventional supervision."
+    ],
+    "research_gaps": [
+      "What happened when colleagues repeatedly failed to agree, or when a newcomer had little influence?",
+      "Compensation decisions, ownership authority, and the experiences of people who left remain important to understanding how much power the agreements distributed."
+    ],
+    "sources": [
+      {
+        "id": "model",
+        "title": "Interactive Self-Management Model",
+        "url": "https://www.morningstarco.com/interactive-smi-model/",
+        "publisher": "The Morning Star Company",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read mission and CLOU components; official account of intended practice."
+      },
+      {
+        "id": "visit",
+        "title": "Building Great Teams: Hierarchy, self-management, scorecards, candour and coaching",
+        "url": "https://www.nuffieldscholar.org/sites/default/files/2021-04/Matthew%20Gunningham_Nuffield%20Report%20FINAL.pdf",
+        "publisher": "Nuffield / Matthew Gunningham",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read Morning Star field-visit section; visitor observations and colleague testimony, not audited performance evidence."
+      }
+    ]
+  },
+  {
+    "id": "valve-flat-project-selection",
+    "title": "Valve: choosing projects inside a company with owners",
+    "question": "Does removing formal managers remove hierarchy or coordination bottlenecks?",
+    "period": "2012 handbook; retrospective analysis through 2022",
+    "location": "United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T136",
+      "T163",
+      "T291",
+      "D003"
+    ],
+    "summary": "Valve’s 2012 employee handbook offered workers a choice of projects, opportunities to assemble teams, and peer assessment without a conventional managerial ladder. Initiative was unusually visible, but ownership, reputation, and influence remained consequential. A period of unfinished game projects raised a practical question: who sustains a shared priority when employees can choose where to work?",
+    "outcome": "mixed",
+    "outcome_summary": "Valve operated a distinctive project-selection and peer-evaluation system while retaining ownership authority and informal influence. Some game projects stalled before the eventual production of Half-Life: Alyx. Whether project choice caused those delays is contested: long development cycles, experimentation, and the company’s platform business could also explain the pattern.",
+    "observations": [
+      {
+        "claim": "The 2012 arrangement included self-selected projects and peer review, with comparative evaluations used in compensation.",
+        "source_ids": [
+          "handbook"
+        ]
+      },
+      {
+        "claim": "Employee initiative coexisted with strategic authority tied to ownership and the judgment of influential people.",
+        "source_ids": [
+          "analysis"
+        ]
+      },
+      {
+        "claim": "Unfinished game projects preceded the eventual production of Half-Life: Alyx, creating pressure to explain how ambitious shared work was brought to completion.",
+        "source_ids": [
+          "analysis"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Freedom to join appealing projects may leave difficult shared priorities under-resourced.",
+        "status": "contested",
+        "source_ids": [
+          "analysis"
+        ],
+        "alternative": "Long game-development cycles, platform revenues, and deliberate experimentation could produce the same apparent output pattern."
+      },
+      {
+        "claim": "Peer assessment may replace managerial judgment with reputation-dependent influence rather than equal authority.",
+        "status": "plausible",
+        "source_ids": [
+          "handbook",
+          "analysis"
+        ],
+        "alternative": "Domain expertise can create legitimate differences in influence without an entrenched informal hierarchy."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Entrepreneurial judgment and persistent hierarchy",
+        "evidence_status": "Scholarly interpretation, not a demonstrated causal law",
+        "source_ids": [
+          "analysis"
+        ],
+        "relevance": "Someone still selects and sustains firm-wide commitments under uncertainty.",
+        "transfer_limit": "Ownership gives a private company a particular source of strategic authority. A cooperative or voluntary association would have to locate that authority elsewhere."
+      }
+    ],
+    "lessons": [
+      "Ask who resolves conflicts between attractive projects and essential shared work.",
+      "Examine promotion, pay, and ownership alongside the formal organization chart."
+    ],
+    "research_gaps": [
+      "How did employees with different reputations experience project choice, peer review, and pay decisions?",
+      "The 2012 handbook describes a historical arrangement; the extent to which those practices continued or changed is unclear."
+    ],
+    "sources": [
+      {
+        "id": "handbook",
+        "title": "Valve Handbook for New Employees",
+        "url": "https://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf",
+        "publisher": "Valve",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read project choice and peer-evaluation sections; official 2012 self-description."
+      },
+      {
+        "id": "analysis",
+        "title": "Who’s the boss? The persistence of entrepreneurial hierarchy in flat organizations",
+        "url": "https://link.springer.com/article/10.1007/s41469-022-00132-8",
+        "publisher": "Journal of Organization Design / Matthew McCaffrey",
+        "type": "review",
+        "access": "sections",
+        "note": "Read Valve discussion; interpretive synthesis drawing on published reporting, including development accounts."
+      }
+    ]
+  },
+  {
+    "id": "zappos-holacracy-transition",
+    "title": "Zappos: changing the rules and offering an exit",
+    "question": "What can a forced governance transition reveal about consent and implementation?",
+    "period": "Holacracy transition, especially March–April 2015",
+    "location": "Las Vegas, United States",
+    "scale": "institutions",
+    "technology_ids": [
+      "T141",
+      "T115",
+      "D013"
+    ],
+    "summary": "Zappos attempted to replace conventional management with Holacracy while its retail business continued operating. After a period of overlapping arrangements, Tony Hsieh announced a stronger transition and offered severance to employees who did not want to continue. The case exposes a tension between decentralizing day-to-day authority and using concentrated leadership power to impose the transition.",
+    "outcome": "mixed",
+    "outcome_summary": "Within a month of the 2015 severance offer, 14% of employees, including 20% of technology staff, departed. This concentrated disruption during an organizational transition, but the departures could reflect the package’s appeal as well as objections to the new rules. The immediate loss of staff and the long-term performance of Holacracy are separate questions.",
+    "observations": [
+      {
+        "claim": "Hsieh said overlapping legacy management and Holacracy were slowing change and set a deadline for removing people-manager roles.",
+        "source_ids": [
+          "memo"
+        ]
+      },
+      {
+        "claim": "Hsieh treated Holacracy as one tool within a broader ambition of self-management and offered transition support for former managers.",
+        "source_ids": [
+          "memo"
+        ]
+      },
+      {
+        "claim": "Departures following the severance offer included technology staff needed during an ongoing technology transition.",
+        "source_ids": [
+          "case"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A decisive deadline may break organizational limbo but concentrate transition costs into a short period.",
+        "status": "plausible",
+        "source_ids": [
+          "memo",
+          "case"
+        ],
+        "alternative": "The severance package itself may attract departures independently of employees’ assessment of the governance model."
+      },
+      {
+        "claim": "Founder-driven decentralization can preserve founder power over the rules under which others gain autonomy.",
+        "status": "plausible",
+        "source_ids": [
+          "memo"
+        ],
+        "alternative": "An initial directive could establish lasting distributed authority rather than preserve founder control; the later distribution of power determines which interpretation fits."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Separate adoption of a governance constitution from acceptance, work continuity, and long-term results.",
+      "Plan for loss of critical skills when offering an exit during a major redesign."
+    ],
+    "research_gaps": [
+      "Why did employees leave, and how did their departures affect the work that remained?",
+      "Did distributed decision-making become durable after the founder-led transition, and what happened to operating performance?"
+    ],
+    "sources": [
+      {
+        "id": "memo",
+        "title": "Zappos CEO Tony Hsieh: Adopt Holacracy Or Leave",
+        "url": "https://www.fastcompany.com/3044417/zappos-ceo-tony-hsieh-adopt-holacracy-or-leave",
+        "publisher": "Fast Company / reproduced Tony Hsieh memo",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read primary memo reproduced with company permission; leadership rationale, not independent outcome evidence."
+      },
+      {
+        "id": "case",
+        "title": "Tony Hsieh at Zappos: Structure, Culture and Change",
+        "url": "https://www.insead.edu/faculty-research/publications/case-studies/tony-hsieh-zappos-structure-culture-and-change",
+        "publisher": "INSEAD",
+        "type": "history",
+        "access": "abstract",
+        "note": "Read public teaching-case abstract; quantitative departure figures are a specific historical snapshot."
+      }
+    ]
+  },
+  {
+    "id": "favi-customer-focused-teams",
+    "title": "FAVI: autonomy under customers and peers",
+    "question": "Where does control go when a factory removes supervisory layers?",
+    "period": "Reorganization from the late 1980s; studies published 2014 and 2017–2018",
+    "location": "Hallencourt, France",
+    "scale": "institutions",
+    "technology_ids": [
+      "T166",
+      "T115",
+      "D003",
+      "D016"
+    ],
+    "summary": "FAVI organized production around customer-focused teams, giving workers substantial room to coordinate and improve daily work. Autonomy did not eliminate constraints: customer requirements, peer expectations, and leadership continued to shape what workers could do. Control moved partly into relationships with customers and colleagues.",
+    "outcome": "mixed",
+    "outcome_summary": "Workers participated in consequential production and team decisions while remaining subject to customer standards and pressure to fit their teams. Authority changed form rather than disappearing. Whether that change produced superior economic performance, and how its benefits and burdens were distributed among workers, remains uncertain.",
+    "observations": [
+      {
+        "claim": "Customer-focused production units used coopted team leaders and combined operational, sales, and technical expertise.",
+        "source_ids": [
+          "participation"
+        ]
+      },
+      {
+        "claim": "Workers described pressure on newcomers to fit team expectations. Reduced supervision did not remove social sanctions.",
+        "source_ids": [
+          "participation"
+        ]
+      },
+      {
+        "claim": "Customer relationships shaped both procedures and informal expectations, influencing how the factory organized and controlled its work.",
+        "source_ids": [
+          "customer"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Closer contact with a customer may make priorities clearer without detailed instructions from a supervisor.",
+        "status": "plausible",
+        "source_ids": [
+          "customer"
+        ],
+        "alternative": "Stable contracts and customer-imposed standards may themselves provide much of the coordination."
+      },
+      {
+        "claim": "Peer accountability may become coercive when fitting the group is necessary to remain employed.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "participation"
+        ],
+        "alternative": "Some peer expectations may protect reliability and shared work rather than enforce arbitrary conformity."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Social and bureaucratic control in customer–supplier relations",
+        "evidence_status": "Interpretive case research",
+        "source_ids": [
+          "customer"
+        ],
+        "relevance": "Trust-based relationships coexist with standards and monitoring rather than replacing them completely.",
+        "transfer_limit": "A supplier’s bargaining power and production dependencies affect how much a trusting customer relationship leaves room for autonomy."
+      }
+    ],
+    "lessons": [
+      "Map customer and peer constraints alongside formal reporting lines.",
+      "Ask how a newcomer can challenge a team norm without losing their place in the organization."
+    ],
+    "research_gaps": [
+      "How did workers’ experiences change over time, particularly when teams struggled or customer demands tightened?",
+      "Would similar suppliers under comparable commercial pressure achieve the same results through different forms of supervision?"
+    ],
+    "sources": [
+      {
+        "id": "participation",
+        "title": "The liberated firm, a radical innovation or a mere avatar of participatory management?",
+        "url": "https://www.annales.org/gc/GC-english-language-online-edition/2017/GC-2017-03-gilbert.pdf",
+        "publisher": "Gérer & Comprendre / Gilbert, Teglborg and Raulet-Croset",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read methods, FAVI comparisons, peer pressure, and externalized controls; observations span three firms, so claims above identify FAVI where applicable."
+      },
+      {
+        "id": "customer",
+        "title": "Figures du client et management: un processus de structuration sous contrôle(s)",
+        "url": "https://cime-innovation-management-expertise.com/content/uploads/2018/04/gc-_favi.pdf",
+        "publisher": "Gérer & Comprendre / Gilbert, Teglborg and Raulet-Croset",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read French framing and FAVI customer-control analysis; related research by the same authors."
+      }
+    ]
+  },
+  {
+    "id": "semco-participation-and-information",
+    "title": "Semco: participation backed by business information",
+    "question": "What makes employee discretion more than permission to give suggestions?",
+    "period": "1980s–2005 accounts",
+    "location": "São Paulo, Brazil",
+    "scale": "institutions",
+    "technology_ids": [
+      "T115",
+      "T259",
+      "T260",
+      "T291"
+    ],
+    "summary": "Semco became a prominent example of participative management through employee involvement in work arrangements, supervisor selection, and business choices. Access to financial information and sharing financial results accompanied that discretion. The combination gave workers information and incentives to use their authority, rather than merely permission to offer suggestions.",
+    "outcome": "uncertain",
+    "outcome_summary": "Semco continued operating and grew commercially while expanding employee involvement. Semler and sympathetic observers attributed importance to the participative arrangements, but diversification, partnerships, economic conditions, and leadership also mattered. Commercial growth alone cannot reveal which of those changes contributed most.",
+    "observations": [
+      {
+        "claim": "By 2005, employees had influence over work arrangements, supervisor selection, and business direction.",
+        "source_ids": [
+          "profile"
+        ]
+      },
+      {
+        "claim": "The company continued operating during Semler’s prolonged recovery after an accident. His temporary absence left ownership and previously established relationships intact.",
+        "source_ids": [
+          "profile"
+        ]
+      },
+      {
+        "claim": "Smaller business units combined participation with access to financial information and profit sharing.",
+        "source_ids": [
+          "bbc"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Sharing financial information may let local decisions reflect the economic consequences that managers otherwise interpret for workers.",
+        "status": "plausible",
+        "source_ids": [
+          "bbc"
+        ],
+        "alternative": "Financially skilled colleagues or informal leaders may still do most interpretation, limiting effective participation."
+      },
+      {
+        "claim": "Distributed operating knowledge may reduce dependence on the chief executive’s everyday availability.",
+        "status": "plausible",
+        "source_ids": [
+          "profile"
+        ],
+        "alternative": "A temporary absence leaves ownership, prior strategy, and trusted senior colleagues intact; permanent succession is a harder test."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "McGregor’s Theory Y",
+        "evidence_status": "Management framework invoked by contemporary reporting",
+        "source_ids": [
+          "profile"
+        ],
+        "relevance": "The design assumes people can exercise responsibility when given information and meaningful discretion.",
+        "transfer_limit": "Responsibility depends on whether people can actually understand the information, influence consequential choices, and bear the risks of acting."
+      }
+    ],
+    "lessons": [
+      "Connect participation rights to usable information and the ability to act on it.",
+      "Test continuity during absence separately from ownership transfer or leadership succession."
+    ],
+    "research_gaps": [
+      "How did employees who disliked the arrangements experience them, and how consistently were they used across different ventures?",
+      "The accounts concern the 1980s through 2005; later changes may have altered both participation and leadership dependence."
+    ],
+    "sources": [
+      {
+        "id": "profile",
+        "title": "Ricardo Semler Won’t Take Control",
+        "url": "https://www.strategy-business.com/article/05408",
+        "publisher": "strategy+business / Lawrence M. Fisher",
+        "type": "history",
+        "access": "sections",
+        "note": "Read contemporary reporting, plant visit, and interviews; performance figures and causal claims rely heavily on insiders."
+      },
+      {
+        "id": "bbc",
+        "title": "The Handy Guide to the Gurus of Management: Ricardo Semler",
+        "url": "https://downloads.bbc.co.uk/worldservice/learningenglish/handy/semler.pdf",
+        "publisher": "BBC World Service / Charles Handy",
+        "type": "history",
+        "access": "sections",
+        "note": "Read narrative account of units, information, profit sharing, and employee decisions; celebratory rather than comparative."
+      }
+    ]
+  },
+  {
+    "id": "gitlab-handbook-and-dri",
+    "title": "GitLab: written context with one accountable decision-maker",
+    "question": "How can a distributed team combine wide input with clear decisions?",
+    "period": "Public handbook practices documented through 2026",
+    "location": "Distributed international company",
+    "scale": "institutions",
+    "technology_ids": [
+      "T117",
+      "T188",
+      "T034",
+      "T115"
+    ],
+    "summary": "GitLab combines durable written context with a named person responsible for a decision. Its handbook asks workers to update documentation when practices change, while a directly responsible individual seeks relevant input and then decides. This pairs accessible organizational memory with differentiated authority in a company whose workers cannot rely on being in the same room.",
+    "outcome": "uncertain",
+    "outcome_summary": "GitLab makes decision ownership and documentation procedures publicly inspectable. Writing a durable update can initially take longer than sending a message, creating a recurring tension between immediate convenience and future usefulness. The written rules show how the arrangement is intended to work; how consistently people follow them and whether they save time overall remain open questions.",
+    "observations": [
+      {
+        "claim": "A directly responsible individual consults stakeholders but holds ultimate responsibility for the decision without needing everyone’s agreement.",
+        "source_ids": [
+          "dri"
+        ]
+      },
+      {
+        "claim": "The proposed workflow connects issues, edits, merging, and announcements so a changed practice has a durable written location.",
+        "source_ids": [
+          "handbook"
+        ]
+      },
+      {
+        "claim": "Quicker conversations can bypass the handbook, so keeping the shared record current requires continuing effort.",
+        "source_ids": [
+          "handbook"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "A named decision owner can prevent consultation from becoming an unresolved demand for unanimity.",
+        "status": "plausible",
+        "source_ids": [
+          "dri"
+        ],
+        "alternative": "If relevant knowledge is missed or authority is mistrusted, a faster decision may simply move conflict downstream."
+      },
+      {
+        "claim": "Updating shared context at the time of change may reduce repeated explanation across locations and time zones.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "handbook"
+        ],
+        "alternative": "The benefit depends on discoverability and reading habits; a large stale handbook could instead increase search costs."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Document who decides, who must be consulted, and where the final decision lives.",
+      "Treat documentation maintenance as work with owners rather than an optional cleanup activity."
+    ],
+    "research_gaps": [
+      "When decisions are contested, how much influence do consultation and the named decision owner each carry?",
+      "How often does documentation become stale, and who bears the effort of finding and repairing it?"
+    ],
+    "sources": [
+      {
+        "id": "dri",
+        "title": "Directly Responsible Individuals (DRIs)",
+        "url": "https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/",
+        "publisher": "GitLab",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read responsibility, consultation, and decision authority sections."
+      },
+      {
+        "id": "handbook",
+        "title": "Handbook usage",
+        "url": "https://handbook.gitlab.com/handbook/about/handbook-usage/",
+        "publisher": "GitLab",
+        "type": "institutional-record",
+        "access": "sections",
+        "note": "Read handbook-first workflow and discussion of initial friction; policy and self-explanation, not external evaluation."
+      }
+    ]
+  },
+  {
+    "id": "loomio-cooperative-decision-spaces",
+    "title": "Loomio: different rooms have different decision rights",
+    "question": "What must an online discussion space specify before its decisions mean anything?",
+    "period": "Handbook mainly circa 2016; explicit archive update in 2022",
+    "location": "Wellington, New Zealand; distributed collaboration",
+    "scale": "institutions",
+    "technology_ids": [
+      "T251",
+      "T164",
+      "T115",
+      "T034"
+    ],
+    "summary": "Loomio is both decision-making software and a worker cooperative that uses it. Its archived handbook distinguishes spaces for co-owners, workers, directors, and public contributors, with different kinds of authority. The example shows how participation software depends on social agreements about membership, facilitation, privacy, and the consequences of a vote.",
+    "outcome": "uncertain",
+    "outcome_summary": "Loomio’s earlier arrangement separated binding decisions from advice and gave working groups a route to escalate matters beyond their mandates. The cooperative later became smaller and changed its practices; the circa-2016 rules describe that earlier design, not its current procedures. Their practical effect on disputed decisions and participation remains unclear.",
+    "observations": [
+      {
+        "claim": "Each online group was expected to specify its purpose, membership, facilitation, privacy, and the meaning of its decisions.",
+        "source_ids": [
+          "practice"
+        ]
+      },
+      {
+        "claim": "Co-owner, worker, and board spaces held different binding powers; public groups could be advisory or lack decision authority. Working groups could escalate decisions beyond their mandates.",
+        "source_ids": [
+          "practice"
+        ]
+      },
+      {
+        "claim": "By 2022, the operational team was smaller, and many procedures preserved in the handbook belonged to an earlier phase.",
+        "source_ids": [
+          "archive"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Explicitly distinguishing recommendations from binding decisions may prevent apparent participation from creating false expectations.",
+        "status": "plausible",
+        "source_ids": [
+          "practice"
+        ],
+        "alternative": "Participants may still infer authority from visibility or status unless the distinction is repeatedly explained."
+      },
+      {
+        "claim": "Persistent discussion can include colleagues absent from a particular meeting, but participation still needs active facilitation.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "practice"
+        ],
+        "alternative": "Digital access and available attention may reproduce exclusion even when conversations remain open longer."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Label who a discussion includes and what authority its eventual result carries.",
+      "Give small working groups a path for escalating decisions beyond their mandate."
+    ],
+    "research_gaps": [
+      "How did participants resolve disputes about which group had authority?",
+      "Which members participated consistently, and how did the later reduction in team size change decision-making?"
+    ],
+    "sources": [
+      {
+        "id": "practice",
+        "title": "Loomio Using Loomio",
+        "url": "https://www.loomio.coop/using_loomio.html",
+        "publisher": "Loomio Cooperative",
+        "type": "institutional-record",
+        "access": "full-text",
+        "note": "Complete substantive page read; historical internal instructions with explicit authority distinctions."
+      },
+      {
+        "id": "archive",
+        "title": "Loomio Cooperative Handbook: Introduction",
+        "url": "https://www.loomio.coop/",
+        "publisher": "Loomio Cooperative",
+        "type": "institutional-record",
+        "access": "full-text",
+        "note": "Read archive scope and 2022 update; establishes that many procedures are historical."
+      }
+    ]
+  },
+  {
+    "id": "occupy-wall-street-assemblies",
+    "title": "Occupy Wall Street: the assembly and the time it consumes",
+    "question": "When does open participation need smaller delegated structures?",
+    "period": "New York occupation in 2011 and subsequent organizing",
+    "location": "Zuccotti Park, New York City, United States",
+    "scale": "movements",
+    "technology_ids": [
+      "T101",
+      "T123",
+      "T164",
+      "T321",
+      "T150"
+    ],
+    "summary": "Occupy Wall Street made a general assembly central to its political practice, using modified consensus and public discussion. Working groups carried out practical tasks, and organizers later introduced a spokescouncil to coordinate them. This was both a way to organize a protest and an attempt to enact the more participatory society participants wanted.",
+    "outcome": "mixed",
+    "outcome_summary": "The occupation created solidarity, participation, and a visible alternative political culture while also encountering long meetings, obstruction, and unequal ability to spend time in deliberation. Introducing a spokescouncil changed how working groups coordinated. Police eviction sharply interrupted the experiment, so organizational difficulties alone do not explain its end.",
+    "observations": [
+      {
+        "claim": "Modified consensus included a high-threshold fallback when a proposal remained blocked, rather than requiring unanimous approval in every instance.",
+        "source_ids": [
+          "analysis"
+        ]
+      },
+      {
+        "claim": "Meeting duration and disruption became problems, and a spokescouncil was approved in late October 2011.",
+        "source_ids": [
+          "analysis"
+        ]
+      },
+      {
+        "claim": "Assemblies and collective life drew on earlier radical traditions. Eviction ended the occupation of the site, interrupting the development of its institutions.",
+        "source_ids": [
+          "history"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Direct participation may strengthen commitment among people sharing the risks of an occupation.",
+        "status": "contested",
+        "source_ids": [
+          "analysis"
+        ],
+        "alternative": "Shared danger, material support, and the emotional force of protest may generate solidarity independently of consensus rules."
+      },
+      {
+        "claim": "An open meeting can give disproportionate influence to people with abundant time.",
+        "status": "supported-in-case",
+        "source_ids": [
+          "analysis"
+        ],
+        "alternative": "Speaking norms, facilitation skill, and existing social status may matter as much as time availability."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Prefigurative politics",
+        "evidence_status": "Historical and participant interpretive framework",
+        "source_ids": [
+          "history"
+        ],
+        "relevance": "Organizing practices are intended to embody desired social relations in the present.",
+        "transfer_limit": "Experiencing a different political relationship does not by itself establish durable institutional capacity or broader policy change."
+      }
+    ],
+    "lessons": [
+      "Measure the time cost of participation and who cannot afford it.",
+      "Distinguish decisions needing a whole assembly from work that can be delegated with accountability."
+    ],
+    "research_gaps": [
+      "Whose participation diminished as meetings lengthened, and did the spokescouncil change that pattern?",
+      "Which relationships and organizing capacities survived the eviction? New York’s trajectory was only one part of the wider Occupy movement."
+    ],
+    "sources": [
+      {
+        "id": "analysis",
+        "title": "What the Left Can Learn from Occupy Wall Street",
+        "url": "https://escholarship.org/content/qt2fx026tj/qt2fx026tj_noSplash_1e64d552ca0f9bfbcf43d844a439cf95.pdf",
+        "publisher": "Studies in Political Economy / James K. Rowe and Myles Carroll",
+        "type": "history",
+        "access": "sections",
+        "note": "Read horizontalism, participation limits, and spokescouncil sections; interpretive political analysis."
+      },
+      {
+        "id": "history",
+        "title": "The Occupy Wall Street Movement in the American Radical Tradition",
+        "url": "https://usabroad.unibo.it/article/download/9869/10504",
+        "publisher": "USAbroad",
+        "type": "history",
+        "access": "sections",
+        "note": "Read radical traditions, horizontal movement, prefiguration, and occupation chronology; uses participant accounts and secondary literature."
+      }
+    ]
+  },
+  {
+    "id": "alcoholics-anonymous-autonomous-fellowship",
+    "title": "Alcoholics Anonymous: local groups and shared traditions",
+    "question": "What does evidence for a peer fellowship tell us about its governance?",
+    "period": "Traditions endorsed in 1950; treatment evidence reviewed in 2020",
+    "location": "International fellowship; research largely in the United States",
+    "scale": "communities",
+    "technology_ids": [
+      "T099",
+      "T085",
+      "T116",
+      "T143"
+    ],
+    "summary": "Alcoholics Anonymous combines local peer groups with shared traditions concerning autonomy, service, anonymity, and financial independence. Local groups have room to organize their activities while remaining connected to a recognizable fellowship. Professional Twelve-Step Facilitation can help people engage with AA, but its clinical effects answer a different question from how the fellowship distributes authority.",
+    "outcome": "mixed",
+    "outcome_summary": "For adults with alcohol use disorder, a 2020 Cochrane review found strong evidence that manualized AA/Twelve-Step Facilitation improved continuous abstinence compared with some established alternatives, while other outcomes were often similar. That result concerns a defined route into participation, not a guarantee about any meeting or person. It also leaves open which organizational practices contributed to the benefit.",
+    "observations": [
+      {
+        "claim": "Shared traditions allow local autonomy within limits concerning other groups, place leaders in service to their groups, and call for financial self-support.",
+        "source_ids": [
+          "traditions"
+        ]
+      },
+      {
+        "claim": "Accountable service boards and employed specialist workers support the fellowship. Local autonomy and nonprofessional peer relationships coexist with organizational infrastructure.",
+        "source_ids": [
+          "traditions"
+        ]
+      },
+      {
+        "claim": "Clinical comparisons differed in their facilitation methods, alternatives, and measured outcomes. The strongest abstinence finding concerned structured, manualized AA/Twelve-Step Facilitation.",
+        "source_ids": [
+          "review"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Shared traditions may help local groups reproduce a recognizable practice without requiring detailed central administration.",
+        "status": "plausible",
+        "source_ids": [
+          "traditions"
+        ],
+        "alternative": "Informal norms, literature, and experienced members may do more coordinating work than formal statements alone."
+      },
+      {
+        "claim": "Peer relationships may help sustain participation, but the outcome evidence does not identify governance as the mechanism.",
+        "status": "plausible",
+        "source_ids": [
+          "review"
+        ],
+        "alternative": "Professional facilitation, motivation, social-network change, and selection into attendance may contribute in different combinations."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Separate evidence for participation or facilitation from evidence for particular organizational rules.",
+      "Study service infrastructure and local accountability alongside the rhetoric of autonomy."
+    ],
+    "research_gaps": [
+      "How do differences in local governance affect participation, accountability, and experiences of exclusion?",
+      "The clinical findings principally concern noncoerced treatment contexts for adults with alcohol use disorder; whether similar organizational arrangements help unrelated peer groups is a separate question."
+    ],
+    "sources": [
+      {
+        "id": "traditions",
+        "title": "12 Traditions",
+        "url": "https://www.alcoholics-anonymous.org.uk/about-aa/what-is-aa/traditions/",
+        "publisher": "Alcoholics Anonymous Great Britain",
+        "type": "institutional-record",
+        "access": "full-text",
+        "note": "Read complete traditions and historical introduction; normative organizational text, not outcome research."
+      },
+      {
+        "id": "review",
+        "title": "Alcoholics Anonymous (AA) and other 12-step programs for alcohol use disorder",
+        "url": "https://www.cochrane.org/evidence/CD012880_alcoholics-anonymous-aa-and-other-12-step-programs-alcohol-use-disorder",
+        "publisher": "Cochrane / Kelly, Humphreys and Ferri",
+        "type": "review",
+        "access": "sections",
+        "note": "Read review summary, study scope, and outcome distinctions; AA and professionally delivered TSF must not be conflated."
+      }
+    ]
+  },
+  {
+    "id": "guerrilla-translation-disco-care-accounting",
+    "title": "Guerrilla Translation and DisCO: making care visible in the accounts",
+    "question": "Can a collective pay for commons work without ignoring the work of maintaining itself?",
+    "period": "Guerrilla Translation/Media Collective model, redesigned in 2018; later DisCO documentation",
+    "location": "Spain-based distributed collective",
+    "scale": "groups",
+    "technology_ids": [
+      "T251",
+      "T278",
+      "T258",
+      "T124",
+      "T061"
+    ],
+    "summary": "Guerrilla Translation and the wider Guerrilla Media Collective provided an early setting for DisCO governance. Their model distinguishes paid client work, freely shared translations, and the care and administration that sustain the collective. Contribution accounting and income allocation are intended to connect these activities, with membership commitments determining participation in binding decisions.",
+    "outcome": "uncertain",
+    "outcome_summary": "The collective developed and revised a governance model that connects commercial income, freely shared translations, and the care required to maintain the group. The accounting makes those commitments visible, but a recorded contribution is not cash in hand. Whether the arrangement consistently financed unpaid work or reduced unequal burdens remains unclear.",
+    "observations": [
+      {
+        "claim": "The model distinguishes livelihood, pro-bono, and care work, giving them different accounting treatment and linking participation rights to membership commitments.",
+        "source_ids": [
+          "model"
+        ]
+      },
+      {
+        "claim": "Guerrilla Media Collective became the first DisCO Lab and collaboratively redesigned its arrangements in 2018.",
+        "source_ids": [
+          "elements"
+        ]
+      },
+      {
+        "claim": "One version directs a defined share of available income toward previously recorded pro-bono contributions. The allocation rules can be revised as circumstances change.",
+        "source_ids": [
+          "elements"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Recording maintenance and relational work may make unequal burdens discussable before they become invisible obligations.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "model"
+        ],
+        "alternative": "Tracking can become another administrative burden, while the people doing care may still lack bargaining power."
+      },
+      {
+        "claim": "Reserving income for commons contributions may sustain work that clients would not directly buy.",
+        "status": "participant-explanation",
+        "source_ids": [
+          "elements"
+        ],
+        "alternative": "The arrangement depends on adequate paid demand; accounting recognition cannot itself create money or guarantee timely payment."
+      }
+    ],
+    "theory_connections": [
+      {
+        "theory": "Feminist economics and recognition of reproductive work",
+        "evidence_status": "Explicit design commitment, not independently validated causal theory",
+        "source_ids": [
+          "elements"
+        ],
+        "relevance": "The model treats sustaining people and the collective as economically relevant activity.",
+        "transfer_limit": "Recording care leaves difficult choices about its value, who judges it, and whether enough income exists to compensate the people doing it."
+      }
+    ],
+    "lessons": [
+      "Distinguish recognition of a contribution from cash actually available to compensate it.",
+      "Track the cost of accounting and who decides what counts as care."
+    ],
+    "research_gaps": [
+      "How long did recorded contributions remain unpaid, and what happened when members left or disputed their balances?",
+      "Did tracking care redistribute its burden, or mainly give existing work a more visible record?"
+    ],
+    "sources": [
+      {
+        "id": "model",
+        "title": "Distributed Cooperative Organization (DisCO) Governance Model V 3.0",
+        "url": "https://mothership.disco.coop/Distributed_Cooperative_Organization_%28DisCO%29_Governance_Model_V_3.0",
+        "publisher": "DisCO Mothership / Guerrilla Media Collective",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read contribution streams, membership, decisions, and care accounting; versioned design documentation."
+      },
+      {
+        "id": "elements",
+        "title": "Groove is in the Heart: The DisCO Elements",
+        "url": "https://disco.coop/wp-content/uploads/2023/10/DisCO_Elements_def_MONO.pdf",
+        "publisher": "DisCO.coop",
+        "type": "participant-account",
+        "access": "sections",
+        "note": "Read chapter 4 historical origin and income allocation, pages 50–52; describes practice and normative ambitions without independent audit."
+      }
+    ]
+  },
+  {
+    "id": "elderspirit-neighborly-support",
+    "title": "ElderSpirit: choosing neighbors and organizing help",
+    "question": "How can a neighborhood make mutual support dependable without promising unlimited care?",
+    "period": "Initial research published 2009; follow-up published 2013; current community guidance",
+    "location": "Abingdon, Virginia, United States",
+    "scale": "communities",
+    "technology_ids": [
+      "T071",
+      "T065",
+      "T066",
+      "T123",
+      "T164"
+    ],
+    "summary": "ElderSpirit is an intentional elder cohousing community where residents organize shared life and neighborly assistance. Its support system asks a member to identify two coordinators who can help arrange practical assistance when needed. The case makes the social infrastructure of friendship concrete while explicitly distinguishing independent living and volunteer help from an assisted-living service.",
+    "outcome": "mixed",
+    "outcome_summary": "Residents described valued interdependence, comfort, and mutual support after an initially demanding period of community building. The early group was small and self-selected, with a narrow demographic composition. Its experience therefore leaves open how accessible the arrangement would be to people with different resources and needs. Volunteer support also had limits: some residents needed outside help or a different living arrangement.",
+    "observations": [
+      {
+        "claim": "The 33 charter residents studied in 2009 were all white and mostly women. They had actively chosen the community, with mutual support an important motivation.",
+        "source_ids": [
+          "initial"
+        ]
+      },
+      {
+        "claim": "Residents later described improvement after the initial setup work, alongside disputes about participation, privacy concerns, and physical-design barriers.",
+        "source_ids": [
+          "followup"
+        ]
+      },
+      {
+        "claim": "Members identify two neighborly support coordinators to help arrange short-term practical assistance. The arrangement has limits when independent living is no longer feasible.",
+        "source_ids": [
+          "practice"
+        ]
+      }
+    ],
+    "hypotheses": [
+      {
+        "claim": "Named coordinators may lower the effort required to ask for help and distribute requests among neighbors.",
+        "status": "plausible",
+        "source_ids": [
+          "practice"
+        ],
+        "alternative": "Pre-existing relationships and residents’ willingness to help may matter more than the coordinator role itself."
+      },
+      {
+        "claim": "An initially difficult formation period may build the agreements that make later cooperation easier.",
+        "status": "plausible",
+        "source_ids": [
+          "followup"
+        ],
+        "alternative": "Adaptation, selective departures, or changing expectations could also explain more favorable later reports."
+      }
+    ],
+    "theory_connections": [],
+    "lessons": [
+      "Agree on practical help, responsibility for coordinating it, and limits before a crisis occurs.",
+      "Budget time for building community agreements rather than assuming shared housing produces support automatically."
+    ],
+    "research_gaps": [
+      "What happened to people who left, and how evenly did remaining neighbors share the care work?",
+      "Could people with fewer resources or different access needs obtain comparable support?",
+      "The early accounts came from a self-selected group and a researcher previously involved in community planning, leaving dissatisfied and outside perspectives less visible."
+    ],
+    "sources": [
+      {
+        "id": "initial",
+        "title": "Aging in a Community of Mutual Support: The Emergence of an Elder Intentional Cohousing Community in the United States",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/02763890903326970",
+        "publisher": "Journal of Housing For the Elderly / Anne P. Glass",
+        "type": "primary-research",
+        "access": "abstract",
+        "note": "Read publisher abstract and additional indexed author-uploaded sections documenting the researcher’s role in early community planning. Direct publisher opening returned 403."
+      },
+      {
+        "id": "followup",
+        "title": "Lessons Learned From a New Elder Cohousing Community",
+        "url": "https://www.researchgate.net/publication/257523024_Lessons_Learned_From_a_New_Elder_Cohousing_Community",
+        "publisher": "Journal of Housing For the Elderly / Anne P. Glass",
+        "type": "primary-research",
+        "access": "sections",
+        "note": "Read author-uploaded introduction, community description and methods, plus indexed findings on participation disputes, design barriers, and improvement. Uses Parkside and connects the earlier 2009 study; related research, not independent replication."
+      },
+      {
+        "id": "practice",
+        "title": "Mutual Support",
+        "url": "https://elderspirit.org/mutualsupport",
+        "publisher": "ElderSpirit Community",
+        "type": "institutional-record",
+        "access": "search-excerpt",
+        "note": "Substantive indexed page text read, including coordinators and care limits; community website opening timed out."
+      }
+    ]
+  }
+]
