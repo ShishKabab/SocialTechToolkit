@@ -1,6 +1,6 @@
 # Social Tech Toolkit
 
-The website lives in [`site/`](site/README.md). The research and content plan is in [`site-outline.md`](site-outline.md).
+The website lives in [`site/`](site/README.md).
 
 The [public case drafts](site/content/cases/articles.json) contain 72 examples needing editorial guidance. Read the [evidence guide](site/content/cases/evidence-guide.md), or browse http://localhost:4173/cases/ while the local server is running.
 

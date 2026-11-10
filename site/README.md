@@ -34,9 +34,7 @@ Checks cover fuzzy and synonym ranking, invalid index data, generated links and 
 - `research/cases/`: internal dossiers and historical report; never copied to public output.
 - `research/README.md`: findings, limits, source access, and example situations for all 282 previously omitted entries.
 - `research/baseline.json`: the original omission audit; the four topic files preserve the research records.
-- `scripts/apply_research.py`: validates all 282 IDs and applies the research to the catalog, source registry, scale placements, report, and outline.
-- `content/site-outline.md`: the research and planning document used for the initial import.
-- `scripts/import_outline.py`: explicitly reimports the outline. This rebuilds catalog and source records, then reapplies the completed research batches; it is not part of the normal build.
+- `scripts/apply_research.py`: validates all 282 IDs and applies the research to the catalog, source registry, scale placements, and report.
 - `templates/base.html`: shared page shell.
 - `scripts/build.py`: homepage, entry, case-study, guide, search index, and sitemap generation.
 - `assets/`: self-hosted CSS, SVG favicon, and dependency-free search.

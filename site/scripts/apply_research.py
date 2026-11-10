@@ -1,8 +1,7 @@
-"""Apply the completed research batches; safe to rerun after importing the outline."""
+"""Apply the completed research batches to the catalog and research records."""
 from pathlib import Path
 from collections import Counter
 import json
-import re
 
 ROOT = Path(__file__).resolve().parents[1]
 FILES = {'learning-community': 79, 'governance-work': 93,
@@ -78,29 +77,5 @@ for category in dict.fromkeys(e['category'] for e in baseline.values()):
             report += [f'**Source:** [{ref["source_title"]}]({ref["url"]}) — {ref["publisher"]}. {ref["source_type"]}; **access:** {ref["access"]}.', '']
 (ROOT / 'research/README.md').write_text('\n'.join(report))
 
-outline = (ROOT / 'content/site-outline.md').read_text()
-lines = []
-for line in outline.splitlines():
-    match = re.match(r'\| ([TSD]\d{3}) \|', line)
-    if match and match[1] in by_id:
-        r = by_id[match[1]]
-        cells = line.split('|')
-        code = 'R-' + r['id']
-        cells[-2] = ' ' + ('Adaptation: ' if r.get('adaptation') else '') + f'[{code}](#source-{code.lower()}) '
-        if r.get('description'):
-            cells[3 if r['id'].startswith('D') else 4] = ' ' + r['description'] + ' '
-        line = '|'.join(cells)
-    lines.append(line)
-outline = '\n'.join(lines) + '\n'
-outline = re.sub(r'\n<!-- research-sources-start -->.*?<!-- research-sources-end -->\n', '\n', outline, flags=re.S)
-register = '\n<!-- research-sources-start -->\n' + '\n'.join(
-    f'\n<a id="source-{code.lower()}"></a>\n{src["text"]}\n' for code, src in sorted(new_sources.items())) + '\n<!-- research-sources-end -->\n'
-next_section = outline.index('\n## 10.')
-outline = outline[:next_section] + register + outline[next_section:]
-outline = re.sub(r'The breadth here exceeds the evidence depth\. \*\*282 entries remain marked C\*\*;[^\n]+',
-                 'All 404 entries now have introductory source trails. The 282 previously marked C have individual research records with findings, limitations, access labels, and example situations in `site/research/README.md`. Evidence depth varies: some records rely on abstracts or search excerpts, and inclusion does not establish effectiveness. Full-text review, comparative evidence, and documented cases remain areas for further work.', outline)
-outline = outline.replace('Search-result extracts were sufficient for discovery of some entries; full entry drafting still requires reading and checking the primary material.', 'Access levels are recorded explicitly. Entries supported only by abstracts or search excerpts remain introductory; deeper claims require full-text review.')
-for path in (ROOT / 'content/site-outline.md', ROOT.parent / 'site-outline.md'):
-    path.write_text(outline)
 print(f'Applied {len(research)} records; {sum(e["published"] for e in catalog)} entries available locally.')
 print('Access levels:', dict(Counter(r['access'] for r in research)))
