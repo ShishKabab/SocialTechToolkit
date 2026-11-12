@@ -532,7 +532,7 @@ Adoption helped establish recognizable succession arrangements, including the An
 
 **Setting:** 293–324 CE · Roman Empire
 
-**Technologies:** Succession planning (T293), Deputy roles (T294), Graduated responsibility (T296), Dynasties (S009)
+**Technologies:** Succession planning (T293), Deputy roles (T294), Dynasties (S009)
 
 Diocletian divided rule among senior and junior emperors, combining present authority with an intended succession path. The arrangement addressed a vast empire’s coordination problem, yet its succession mechanism did not endure intact after retirement. Administrative reforms and the four-ruler system must be evaluated separately.
 
@@ -848,7 +848,7 @@ Prussian county results are consistent with literacy explaining much of an obser
 
 **Setting:** 2000s; public audit in 2009 · United States
 
-**Technologies:** Institutional archives (T033), Knowledge succession demonstrations (T304), Cross-training (T013), Tacit knowledge dependence (D011)
+**Technologies:** Institutional archives (T033), Succession planning (T293), Cross-training (T013), Tacit knowledge dependence (D011)
 
 When a defense program needed to resume a discontinued production activity, the organization no longer had all the knowledge, expertise, and facilities needed to perform it. Reestablishing the capability took additional time and money. The episode shows how an organization can retain a requirement and records of earlier work while losing the practical ability to carry it out.
 
@@ -1050,7 +1050,7 @@ Participants reported improvements in quality and attendance, and research trace
 
 **Setting:** 2007–2014 studies · Eight-country pilot and Ontario, Canada
 
-**Technologies:** Checklists (T189), Handoff protocols (T190), Facilitated rounds (T151), After-action reviews (T026)
+**Technologies:** Checklists (T189), Handoff protocols (T190), After-action reviews (T026)
 
 A surgical checklist organizes pauses, shared confirmation, and critical tasks. An early eight-hospital study found improved outcomes after its introduction; a later Ontario study did not find significant improvements after broad adoption. The contrast raises a concrete question: what must change in daily teamwork for a checklist to affect care?
 
@@ -1374,7 +1374,7 @@ Across survey experiments covering reviews in Oregon and elsewhere, readers of p
 
 **Setting:** Comparative studies published in 1994 and 2012 · Nepal, multiple irrigation systems
 
-**Technologies:** Commons governance (T245), Community monitoring (T248)
+**Technologies:** Commons governance (T245)
 
 In Nepal, farmer-managed irrigation systems often operated with simpler physical works than agency-managed systems while devising and enforcing their own rules. Yet they could perform better. Water delivery depended not only on engineering but on who maintained the works, how water was allocated, and whether users could make one another keep their commitments.
 
@@ -1428,7 +1428,7 @@ In the systems examined, farmer-managed irrigation had higher average performanc
 
 **Setting:** Historical commoner institutions described in twentieth-century research · Törbel, Valais, Switzerland
 
-**Technologies:** Commons governance (T245), Community monitoring (T248)
+**Technologies:** Commons governance (T245)
 
 Törbel's alpine economy combined private household land with collectively managed pasture, forest, and irrigation resources. Rules linked summer grazing to the animals households could support in winter and organized maintenance obligations. This was neither open access nor an entirely communal economy: belonging, property, and participation rights determined who could benefit and influence decisions.
 
@@ -1590,7 +1590,7 @@ The historical account describes workable coordination and more evenly shared ac
 
 **Setting:** 1987–2022 assessment; unexpected emissions episode in the 2010s · Global
 
-**Technologies:** Grants (T229), Policy review dates (T158)
+**Technologies:** Grants (T229), Diplomacy (S013)
 
 The Montreal Protocol connected controls on ozone-depleting substances with scientific assessment and financial assistance for eligible developing countries. Its social architecture includes differentiated obligations and a fund for compliance costs. Atmospheric measurements supplied an external check on reported activity, including evidence of unexpected emissions that complicated the otherwise strong record of reducing controlled substances.
 
@@ -1808,7 +1808,7 @@ The national analysis estimated improvements in both forest and poverty outcomes
 
 **Setting:** Randomized trial reported in 2021 · 110 villages, Uganda
 
-**Technologies:** Community monitoring (T248)
+**Technologies:** Commons governance (T245)
 
 Community forest monitoring was introduced in a randomized trial across Ugandan villages. Resource use was measured inside and outside monitored areas, allowing changes beyond the intervention boundary to become visible. Watching particular forest areas did not necessarily reduce the pressure on forests overall.
 
@@ -2030,7 +2030,7 @@ Both processes ended without an enacted replacement constitution. Voters rejecte
 
 **Setting:** Social audits institutionalized from 2006; evaluations published in 2014–2015 · Andhra Pradesh, India, under the boundaries and program arrangements studied
 
-**Technologies:** Social audits (T324), Community monitoring (T248)
+**Technologies:** Social audits (T324)
 
 Andhra Pradesh institutionalized social audits of a rural employment program, allowing beneficiaries and auditors to inspect records and raise irregularities publicly. The audits made wrongdoing more visible, but exposure was not reliably connected to consequences. Officials could adapt to scrutiny, leaving a gap between detecting irregularities and deterring them.
 
@@ -2792,7 +2792,7 @@ Fagor failed, while the network helped absorb some consequences through relocati
 
 **Setting:** Early-2000s redesign; fieldwork through 2003 · Bangladesh
 
-**Technologies:** Community monitoring (T248), Path dependence (D029)
+**Technologies:** Contracts (T267), Path dependence (D029)
 
 Grameen II introduced more flexible loan arrangements while retaining borrower groups and regular meetings. Its rules rejected making members repay another borrower’s debt. Yet early fieldwork found meeting practices that pressured members to cover shortfalls. Changing the written terms did not immediately change how staff secured repayment or how borrowers experienced responsibility.
 
@@ -2842,7 +2842,7 @@ No dedicated theory connection assessed.
 
 **Setting:** 2005 assignment; 2006–2010 rollout and follow-up; published 2015 · Hyderabad, India
 
-**Technologies:** Independent microenterprises (T168)
+**Technologies:** Contracts (T267)
 
 Spandana expanded group-lending services into randomly selected Hyderabad neighborhoods, allowing researchers to compare earlier access with later access. Borrowing and some business investment increased. But greater access did not produce significant average improvements in several wider measures of household welfare: the step from more credit to a transformed livelihood was far from automatic.
 
@@ -3044,7 +3044,7 @@ LiquidO combined open participation with contribution-weighted compensation and 
 
 **Setting:** Network founded around 2010; an 18-month field study published in 2021 · Wellington, New Zealand, with international participants
 
-**Technologies:** Check-in rounds (T063), Buddy systems (T058), Community wikis (T032), Working groups (T164), Gift economies (T218), Volunteer burnout (D019), Core and peripheral participation (D008)
+**Technologies:** Buddy systems (T058), Community wikis (T032), Working groups (T164), Gift economies (T218), Volunteer burnout (D019), Core and peripheral participation (D008)
 
 Enspiral connects people and ventures pursuing socially meaningful work through shared relationships, support practices, and organizational infrastructure. It is a network containing distinct ventures, not one uniformly managed company. Formal agreements coexist with editable guides, while work, friendship, personal growth, and belonging overlap in everyday participation.
 
@@ -3098,7 +3098,7 @@ During an 18-month field study, participants experienced practical generosity an
 
 **Setting:** 2013–2019 account of successive funding models · Enspiral network, New Zealand and distributed
 
-**Technologies:** Participatory budgeting (T232), Revenue sharing (T258), Membership dues (T227), Time-boxed commitments (T198), Agenda-setting procedures (T149)
+**Technologies:** Participatory budgeting (T232), Revenue sharing (T258), Membership dues (T227), Time-boxed commitments (T198)
 
 Enspiral developed collaborative funding after a small support crew became overwhelmed by coordination. Members could propose funding buckets, while contributors allocated discretionary money after core costs. Later experience revealed that continuous proposal flows, scattered attention, and idle balances did not automatically produce a coherent shared budget, prompting facilitated rounds and strategic conversations.
 
@@ -3152,7 +3152,7 @@ No dedicated theory connection assessed.
 
 **Setting:** 2018 proposal, 2020 update, 2020–2021 practice programs · Online, internationally distributed participants
 
-**Technologies:** Learning cohorts (T020), Listening pairs (T064), Troika Consulting (T041), Retrospectives (T027), Peer support groups (T099), Time-boxed commitments (T198)
+**Technologies:** Learning cohorts (T020), Retrospectives (T027), Peer support groups (T099), Time-boxed commitments (T198)
 
 Richard D. Bartlett’s microsolidarity proposal names a small recurring support group a crew and a wider environment for forming crews a congregation. Drawing partly on Enspiral experience, Bartlett and Nati Lombardo ran online practice programs that moved participants through paired encounters, small-group support, and reflection. The aim was to give people experience of offering and receiving support, with a path toward continuing relationships.
 
@@ -3726,7 +3726,7 @@ No dedicated theory connection assessed.
 
 **Setting:** New York occupation in 2011 and subsequent organizing · Zuccotti Park, New York City, United States
 
-**Technologies:** Assemblies (T101), Consensus process (T123), Working groups (T164), Spokescouncils (T321), Speaking queues (T150)
+**Technologies:** Assemblies (T101), Consensus process (T123), Working groups (T164), Spokescouncils (T321)
 
 Occupy Wall Street made a general assembly central to its political practice, using modified consensus and public discussion. Working groups carried out practical tasks, and organizers later introduced a spokescouncil to coordinate them. This was both a way to organize a protest and an attempt to enact the more participatory society participants wanted.
 

@@ -793,7 +793,6 @@
     "technology_ids": [
       "T293",
       "T294",
-      "T296",
       "S009"
     ],
     "summary": "Diocletian divided rule among senior and junior emperors, combining present authority with an intended succession path. The arrangement addressed a vast empire’s coordination problem, yet its succession mechanism did not endure intact after retirement. Administrative reforms and the four-ruler system must be evaluated separately.",
@@ -1447,7 +1446,7 @@
     "scale": "institutions",
     "technology_ids": [
       "T033",
-      "T304",
+      "T293",
       "T013",
       "D011"
     ],

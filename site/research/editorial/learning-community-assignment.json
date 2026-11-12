@@ -256,43 +256,6 @@
     }
   },
   {
-    "id": "T010",
-    "title": "Deliberate practice with feedback",
-    "slug": "deliberate-practice-with-feedback",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Repeat targeted tasks with feedback on specific weaknesses.",
-    "example": "Improve a clearly defined component of a skill.",
-    "sources": [
-      "R-T010"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "deliberate practice",
-      "targeted practice"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T010",
-      "title": "Deliberate practice with feedback",
-      "source_title": "The Role of Deliberate Practice in the Acquisition of Expert Performance",
-      "url": "https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf",
-      "publisher": "Psychological Review / Ericsson, Krampe and Tesch-Römer",
-      "source_type": "research paper",
-      "access": "search excerpt",
-      "finding": "Deliberate practice organizes effort around improving a specific aspect of performance, with informative feedback and opportunities to correct errors. Its mechanism differs from merely accumulating time doing familiar tasks without targeted revision.",
-      "limitation": "This influential account concerns expert performance; it does not establish that practice alone explains every difference in ability or achievement.",
-      "scenario": "Hypothetically, a public speaker could rehearse only the opening minute, receive feedback on unclear sentences, revise them, and repeat before practicing the entire talk.",
-      "aliases": [
-        "deliberate practice",
-        "targeted practice"
-      ],
-      "scale": "everyday",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
     "id": "T011",
     "title": "Job shadowing",
     "slug": "job-shadowing",
@@ -476,96 +439,6 @@
         "ask me anything"
       ],
       "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T016",
-    "title": "Lightning talks",
-    "slug": "lightning-talks",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Short presentations expose a group to many interests.",
-    "example": "Discover fellow residents' skills.",
-    "sources": [
-      "SN-L"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T017",
-    "title": "Show-and-tell sessions",
-    "slug": "show-and-tell-sessions",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "People demonstrate work and explain choices.",
-    "example": "Share progress through concrete artifacts.",
-    "sources": [
-      "R-T017"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "demo session",
-      "show and tell"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T017",
-      "title": "Show-and-tell sessions",
-      "source_title": "Agile Tools and Techniques",
-      "url": "https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques",
-      "publisher": "UK Government Digital Service",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Show-and-tell sessions make work in progress visible to people outside the immediate task. Demonstrating actual outputs and discussing learning creates an opportunity for questions and feedback before work becomes a finished announcement.",
-      "limitation": "A demonstration can hide difficult tradeoffs if it becomes performance theatre; useful feedback requires showing uncertainties as well as polished results.",
-      "scenario": "Hypothetically, a community garden team could show its first irrigation prototype at a monthly gathering and ask other gardeners which beds and routines it overlooks.",
-      "aliases": [
-        "demo session",
-        "show and tell"
-      ],
-      "scale": "groups",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T018",
-    "title": "Workshops",
-    "slug": "workshops",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Participants learn through facilitated hands-on activity.",
-    "example": "Practice a method together before using it independently.",
-    "sources": [
-      "R-T018"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "hands-on workshop",
-      "skills workshop"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T018",
-      "title": "Workshops",
-      "source_title": "Instructors Handbook",
-      "url": "https://docs.carpentries.org/handbooks/instructors.html",
-      "publisher": "The Carpentries",
-      "source_type": "institutional guide",
-      "access": "page",
-      "finding": "A workshop concentrates organized learning into a bounded event with prepared material, instructors, and participant activity. The Carpentries handbook makes preparation and instructional responsibilities explicit rather than assuming that gathering people automatically creates learning.",
-      "limitation": "The source describes a particular training organization; workshop quality varies with curriculum, facilitation, available practice, and participants’ starting knowledge.",
-      "scenario": "Hypothetically, a repair club could run a two-hour workshop where participants bring a broken zipper, observe a demonstration, and practice repairs with instructor feedback.",
-      "aliases": [
-        "hands-on workshop",
-        "skills workshop"
-      ],
-      "scale": "groups",
       "reviewed_on": "2026-11-05"
     }
   },
@@ -1267,91 +1140,6 @@
     }
   },
   {
-    "id": "T041",
-    "title": "Troika Consulting",
-    "slug": "troika-consulting",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Three participants alternate receiving and offering help.",
-    "example": "Explore a challenge with peers.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T042",
-    "title": "Appreciative Interviews",
-    "slug": "appreciative-interviews",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Interview partners about successful experiences.",
-    "example": "Discover existing strengths.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T043",
-    "title": "What, So What, Now What",
-    "slug": "what-so-what-now-what",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Separate observations, interpretations, and next actions.",
-    "example": "Reflect after an event.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T047",
-    "title": "Unconferences",
-    "slug": "unconferences",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Attendees help determine the event's sessions.",
-    "example": "Match discussion topics to participants' actual interests.",
-    "sources": [
-      "R-T047"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "participant-led conference",
-      "unconference"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T047",
-      "title": "Unconferences",
-      "source_title": "Unconferencing: How to Prepare to Attend an Unconference",
-      "url": "https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/",
-      "publisher": "Unconference.net / Kaliya",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "An unconference lets participants propose and organize sessions rather than receiving a fully predetermined program. A shared theme and scheduling process turn attendees’ interests into parallel conversations that can range from practical workshops to informal discussion.",
-      "limitation": "Participant control does not remove the need for facilitation and logistics; confidence and familiarity with the format can affect whose sessions happen.",
-      "scenario": "Hypothetically, local makers could gather for a day, propose the problems they want help with, assemble a session grid, and choose which conversations to join.",
-      "aliases": [
-        "participant-led conference",
-        "unconference"
-      ],
-      "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
     "id": "T048",
     "title": "Delphi process",
     "slug": "delphi-process",
@@ -1423,43 +1211,6 @@
       ],
       "scale": "groups",
       "adaptation": true,
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T050",
-    "title": "Premortems",
-    "slug": "premortems",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Imagine a plan has failed and identify plausible causes.",
-    "example": "Surface reservations before execution.",
-    "sources": [
-      "R-T050"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "pre-mortem",
-      "prospective hindsight"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T050",
-      "title": "Premortems",
-      "source_title": "Premortem",
-      "url": "https://www.gary-klein.com/premortem",
-      "publisher": "Gary Klein",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "A premortem asks a team to imagine that its proposed plan has already failed and generate plausible reasons. This framing gives participants permission to surface reservations before commitments make them harder to voice.",
-      "limitation": "Imagined causes are hypotheses rather than predictions; the exercise needs follow-up to distinguish manageable risks from vivid but unlikely stories.",
-      "scenario": "Hypothetically, organizers planning a neighborhood dinner could imagine nobody enjoyed it, list possible reasons independently, and change the invitation and seating plan before sending invitations.",
-      "aliases": [
-        "pre-mortem",
-        "prospective hindsight"
-      ],
-      "scale": "groups",
       "reviewed_on": "2026-11-05"
     }
   },
@@ -1575,43 +1326,6 @@
     }
   },
   {
-    "id": "T310",
-    "title": "Knowledge fairs",
-    "slug": "knowledge-fairs",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Participants offer demonstrations and exchange expertise across stations.",
-    "example": "Discover capabilities across a large community.",
-    "sources": [
-      "R-T310"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "knowledge marketplace",
-      "learning fair"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T310",
-      "title": "Knowledge fairs",
-      "source_title": "The Art of Knowledge Exchange: Knowledge Fair",
-      "url": "https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf",
-      "publisher": "World Bank",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "A knowledge fair gathers demonstrations and accounts of participants’ work so visitors can discover practices and potential partners. The World Bank guide presents it as a way to share experience, increase visibility, and build connections across projects.",
-      "limitation": "Showcasing a practice does not establish its effectiveness; fairs need opportunities to question claims and follow up beyond an attractive presentation.",
-      "scenario": "Hypothetically, several neighborhood associations could each demonstrate one completed project at a shared fair, letting visitors compare approaches and arrange visits with relevant organizers.",
-      "aliases": [
-        "knowledge marketplace",
-        "learning fair"
-      ],
-      "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
     "id": "T051",
     "title": "Recurring open gatherings",
     "slug": "recurring-open-gatherings",
@@ -1693,38 +1407,6 @@
     ],
     "published": true,
     "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T055",
-    "title": "Protected unstructured time",
-    "slug": "protected-unstructured-time",
-    "kind": "P",
-    "category": "Belonging and relationships",
-    "description": "Leave room for participant-led interaction.",
-    "example": "Let conference conversations continue.",
-    "sources": [
-      "BSC"
-    ],
-    "published": true,
-    "adaptation": true,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T056",
-    "title": "Shared journeys",
-    "slug": "shared-journeys",
-    "kind": "P",
-    "category": "Belonging and relationships",
-    "description": "Travel together creates extended informal contact.",
-    "example": "Help a cohort meet before an event.",
-    "sources": [
-      "BSC"
-    ],
-    "published": true,
-    "adaptation": true,
     "aliases": [],
     "terms": []
   },
@@ -1903,43 +1585,6 @@
       "aliases": [
         "warm introduction",
         "network introduction"
-      ],
-      "scale": "everyday",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T064",
-    "title": "Listening pairs",
-    "slug": "listening-pairs",
-    "kind": "P",
-    "category": "Belonging and relationships",
-    "description": "Partners alternate speaking and attentive listening.",
-    "example": "Provide space for concerns outside a large meeting.",
-    "sources": [
-      "R-T064"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "paired listening",
-      "listening partners"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T064",
-      "title": "Listening pairs",
-      "source_title": "Active Listening",
-      "url": "https://www.seedsforchange.org.uk/downloads/activelistening.pdf",
-      "publisher": "Seeds for Change",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "Listening pairs allocate each person a turn to speak while the other listens. The speaker can choose silence, a summary, or follow-up questions, separating attention to their experience from the listener’s impulse to contribute their own story.",
-      "limitation": "The exercise structures listening but is not therapy or compulsory disclosure; participants need permission to choose what they share.",
-      "scenario": "Hypothetically, two project partners could each take five uninterrupted minutes to explain what has frustrated them, then summarize what they heard before proposing changes.",
-      "aliases": [
-        "paired listening",
-        "listening partners"
       ],
       "scale": "everyday",
       "reviewed_on": "2026-11-05"
@@ -2967,43 +2612,6 @@
         "participation payment"
       ],
       "scale": "institutions",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T096",
-    "title": "Accessibility arrangements",
-    "slug": "accessibility-arrangements",
-    "kind": "P",
-    "category": "Belonging and relationships",
-    "description": "Provide agreed supports for participation.",
-    "example": "Include people excluded by the default meeting setup.",
-    "sources": [
-      "R-T096"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "access accommodations",
-      "inclusive event access"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T096",
-      "title": "Accessibility arrangements",
-      "source_title": "Making Events Accessible",
-      "url": "https://www.w3.org/WAI/teach-advocate/accessible-presentations/",
-      "publisher": "World Wide Web Consortium Web Accessibility Initiative",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Accessibility arrangements change an event’s venue, communication, materials, and participation options to accommodate differing needs. W3C’s checklist treats physical access, remote platforms, captions, interpretation, and advance information as planning responsibilities rather than last-minute favors.",
-      "limitation": "No single checklist anticipates every participant’s needs; organizers must communicate, provide usable information, and respond when the planned arrangements prove insufficient.",
-      "scenario": "Hypothetically, a neighborhood assembly could publish accessible materials early, arrange captions and step-free access, and ask registrants which additional participation arrangements they need.",
-      "aliases": [
-        "access accommodations",
-        "inclusive event access"
-      ],
-      "scale": "groups",
       "reviewed_on": "2026-11-05"
     }
   },

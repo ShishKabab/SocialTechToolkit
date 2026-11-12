@@ -1,10 +1,6 @@
 {
   "T279": [
     {
-      "id": "T337",
-      "reason": "Peer juries supply the specialist judgment behind an award."
-    },
-    {
       "id": "T230",
       "reason": "Prize competitions promise a reward for a specified goal; awards recognize achievement."
     },
@@ -15,6 +11,10 @@
     {
       "id": "D020",
       "reason": "Status hierarchies help explain why recognition changes whose work gets attention."
+    },
+    {
+      "id": "T154",
+      "reason": "Recusal addresses close connections that could compromise a judge’s assessment of an award candidate."
     }
   ],
   "T001": [

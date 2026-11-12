@@ -576,7 +576,7 @@
     "id": "S028",
     "title": "Polycentric governance",
     "description": "Coordinate multiple centers of authority so local decisions and larger-scale problems can inform one another.",
-    "opening_html": "<p>A river passes through several towns. Each knows its own water needs, but none can manage flooding or pollution entirely alone. One central authority may miss local knowledge; disconnected local authorities may pass costs downstream.</p><p><a href=\"https://dlc.dlib.indiana.edu/dlc/items/ce7cf738-5200-46b4-8376-921914080e19\">Polycentric governance</a> works with multiple decision centers at different scales. They retain some autonomy while using agreements, <a href=\"/technologies/community-monitoring/\">monitoring</a>, and shared institutions to address dependencies. The idea is not simply to divide authority into ever smaller pieces.</p>",
+    "opening_html": "<p>A river passes through several towns. Each knows its own water needs, but none can manage flooding or pollution entirely alone. One central authority may miss local knowledge; disconnected local authorities may pass costs downstream.</p><p><a href=\"https://dlc.dlib.indiana.edu/dlc/items/ce7cf738-5200-46b4-8376-921914080e19\">Polycentric governance</a> works with multiple decision centers at different scales. They retain some autonomy while using agreements, <a href=\"/technologies/commons-governance/#monitoring-and-consequences\">monitoring</a>, and shared institutions to address dependencies. The idea is not simply to divide authority into ever smaller pieces.</p>",
     "sections": [
       {
         "id": "overlap",
@@ -619,35 +619,6 @@
         "url": "https://opensource.guide/leadership-and-governance/",
         "access": "existing-research-notes",
         "note": "Reviewed existing source registry and relevant manuscript/research notes; no claim of freshly reading original full text.  Contributor roles and governance models. Roles and actual powers vary by project."
-      }
-    ],
-    "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "S030",
-    "title": "Extitutional theory",
-    "description": "Look at how relationships, participation, and mutual recognition organize people alongside formal rules and roles.",
-    "opening_html": "<p>An organization chart tells you who holds office. It may not tell you who brings people together, whose judgment others seek, or why an unassigned task gets done. Those relationships can explain coordination that a diagram of formal authority leaves obscure.</p><p><a href=\"https://extitutions.org/about\">Extitutional theory</a> treats this as a different lens on the same social arrangement. It attends to people’s interactions and the ways <a href=\"/dynamics/participation-based-alignment/\">participation and recognition draw them into alignment</a>. It is not a proposal to replace every institution with an informal network.</p>",
-    "sections": [
-      {
-        "id": "two-views",
-        "title": "Look at the meeting—and what surrounds it",
-        "html": "<p>Imagine a neighborhood association. Its constitution gives members voting rights, but newcomers learn what matters through conversations with regular participants. <a href=\"/dynamics/network-brokerage/\">Someone who introduces people across factions</a> may keep the group functioning <a href=\"/dynamics/informal-authority/\">without holding any office</a>. Another person may formally chair meetings while having little influence outside them.</p><p>An <a href=\"https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53\">institutional and relational reading</a> can be used together. The first shows authorized decisions and responsibilities; the second helps investigate how attention, trust, and participation actually move.</p><p>The framework directs attention to relationships; it does not predict that informal arrangements will work better. Those relationships can carry knowledge and care, but also favoritism and exclusion. Following who is heard, helped, or overlooked makes these differences visible alongside the formal chart.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "About Extitutional Theory",
-        "url": "https://extitutions.org/about",
-        "access": "full-text",
-        "note": "Short original project explanation read directly; conceptual lens, not an outcome evaluation."
-      },
-      {
-        "title": "An Introduction to Extitutional Theory",
-        "url": "https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53",
-        "access": "sections",
-        "note": "Original introduction read on different lenses and institutional versus relational ordering."
       }
     ],
     "research_note": "Illustrations are hypothetical. This is a conceptual explanation with limits integrated into the narrative.",
@@ -726,7 +697,7 @@
     "id": "D001",
     "title": "Participation-based alignment",
     "description": "Notice how doing things together can align people’s expectations and actions without every agreement being formally stated.",
-    "opening_html": "<p>People assembling a neighborhood festival may begin with different assumptions about what matters. As they book performers, solve problems, and see what others reliably do, they develop shared expectations. Coordination grows through participation itself.</p><p><a href=\"https://extitutions.org/about\">Participation-based alignment</a> is an <a href=\"/technologies/extitutional-theory/\">extitutional lens</a> on that process. It directs attention to interactions through which people discover compatible purposes and adjust to one another, rather than looking only for a written mission or explicit order.</p>",
+    "opening_html": "<p>People assembling a neighborhood festival may begin with different assumptions about what matters. As they book performers, solve problems, and see what others reliably do, they develop shared expectations. Coordination grows through participation itself.</p><p><a href=\"https://extitutions.org/about\">Participation-based alignment</a> is an <a href=\"/guide/#lenses\">extitutional lens</a> on that process. It directs attention to interactions through which people discover compatible purposes and adjust to one another, rather than looking only for a written mission or explicit order.</p>",
     "sections": [
       {
         "id": "alignment",
@@ -800,7 +771,7 @@
       {
         "id": "entry",
         "title": "An invitation may not be enough",
-        "html": "<p>A newcomer can be formally welcome and still lack the context needed to participate. Jokes, unstated expectations, and assumptions about who is competent may signal that their contribution will not carry the same weight. They may leave without anyone deliberately deciding to exclude them.</p><p>Making decisions legible helps distinguish friendship from authority. People can remain friends while <a href=\"/technologies/public-decision-records/\">recording consequential agreements</a>, <a href=\"/technologies/nomination-with-reasons/\">explaining selection</a>, and creating routes into responsibility that do not require personal sponsorship from the same few members.</p><p>This does not mean every private conversation should become public. Groups need space for intimacy and discretion. The issue is whether private relationships quietly become a requirement for exercising rights or opportunities that the organization claims are available to everyone.</p>"
+        "html": "<p>A newcomer can be formally welcome and still lack the context needed to participate. Jokes, unstated expectations, and assumptions about who is competent may signal that their contribution will not carry the same weight. They may leave without anyone deliberately deciding to exclude them.</p><p>Making decisions legible helps distinguish friendship from authority. People can remain friends while <a href=\"/technologies/public-decision-records/\">recording consequential agreements</a>, <a href=\"/technologies/appointment/#nominations-and-selection\">explaining selection</a>, and creating routes into responsibility that do not require personal sponsorship from the same few members.</p><p>This does not mean every private conversation should become public. Groups need space for intimacy and discretion. The issue is whether private relationships quietly become a requirement for exercising rights or opportunities that the organization claims are available to everyone.</p>"
       }
     ],
     "sources": [
@@ -858,7 +829,7 @@
     "id": "D007",
     "title": "Learning through participation",
     "description": "Develop practical understanding by taking part in meaningful work with people who already know the practice.",
-    "opening_html": "<p>A new volunteer may understand the written instructions for running an event yet still not know which problems deserve immediate attention. <a href=\"/technologies/apprenticeship/\">Working alongside experienced people</a> lets them see priorities in action: what gets checked, what can wait, and when someone asks for help.</p><p><a href=\"https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf\">Learning through participation</a> treats knowledge as connected to doing the work with others. The learner gradually gains context, feedback, and <a href=\"/technologies/graduated-responsibility/\">increasing responsibility</a>, rather than receiving all the relevant understanding before beginning.</p><p>Participation has to provide access to meaningful activity. Someone assigned only repetitive errands may spend years near experts without seeing how important judgments are made. A person who can observe decisions but never attempt them may acquire familiarity without capability.</p><p>The arrangement depends on experienced participants having time to explain, tolerate mistakes, and make responsibility available. It also depends on the learner being able to ask questions without losing standing. Unspoken expectations can make the environment especially difficult for newcomers from unfamiliar backgrounds.</p><p>This lens helps distinguish genuine development from simple attendance. The question is whether involvement changes what the person can understand and undertake, and whether the community’s practices allow them to move beyond their initial <a href=\"/dynamics/core-and-peripheral-participation/\">peripheral role</a>.</p>",
+    "opening_html": "<p>A new volunteer may understand the written instructions for running an event yet still not know which problems deserve immediate attention. <a href=\"/technologies/apprenticeship/\">Working alongside experienced people</a> lets them see priorities in action: what gets checked, what can wait, and when someone asks for help.</p><p><a href=\"https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf\">Learning through participation</a> treats knowledge as connected to doing the work with others. The learner gradually gains context, feedback, and <a href=\"/technologies/succession-planning/#preparing-more-than-one-person\">increasing responsibility</a>, rather than receiving all the relevant understanding before beginning.</p><p>Participation has to provide access to meaningful activity. Someone assigned only repetitive errands may spend years near experts without seeing how important judgments are made. A person who can observe decisions but never attempt them may acquire familiarity without capability.</p><p>The arrangement depends on experienced participants having time to explain, tolerate mistakes, and make responsibility available. It also depends on the learner being able to ask questions without losing standing. Unspoken expectations can make the environment especially difficult for newcomers from unfamiliar backgrounds.</p><p>This lens helps distinguish genuine development from simple attendance. The question is whether involvement changes what the person can understand and undertake, and whether the community’s practices allow them to move beyond their initial <a href=\"/dynamics/core-and-peripheral-participation/\">peripheral role</a>.</p>",
     "sections": [],
     "sources": [
       {
@@ -880,7 +851,7 @@
       {
         "id": "movement",
         "title": "Can people move between roles?",
-        "html": "<p>The arrangement becomes fragile if the same few people must organize indefinitely. They may <a href=\"/dynamics/volunteer-burnout/\">burn out</a> or acquire control simply because nobody else knows how things work. Conversely, demanding equal effort from everyone can drive away people whose available time changes.</p><p>A healthy path inward requires more than an invitation. People need access to information, <a href=\"/technologies/graduated-responsibility/\">manageable responsibilities</a>, and some confidence that established members will share authority. A path outward matters too: someone should be able to reduce participation without being treated as disloyal.</p><p>The important dynamics are therefore movement and dependence. Who can become more involved, who can step back, and what knowledge must travel when they do? A lively edge and a reliable center can support one another, provided neither becomes a permanent category that fixes people’s standing.</p>"
+        "html": "<p>The arrangement becomes fragile if the same few people must organize indefinitely. They may <a href=\"/dynamics/volunteer-burnout/\">burn out</a> or acquire control simply because nobody else knows how things work. Conversely, demanding equal effort from everyone can drive away people whose available time changes.</p><p>A healthy path inward requires more than an invitation. People need access to information, <a href=\"/technologies/succession-planning/#preparing-more-than-one-person\">manageable responsibilities</a>, and some confidence that established members will share authority. A path outward matters too: someone should be able to reduce participation without being treated as disloyal.</p><p>The important dynamics are therefore movement and dependence. Who can become more involved, who can step back, and what knowledge must travel when they do? A lively edge and a reliable center can support one another, provided neither becomes a permanent category that fixes people’s standing.</p>"
       }
     ],
     "sources": [
@@ -949,7 +920,7 @@
       {
         "id": "continuity",
         "title": "The document and the practitioner do different work",
-        "html": "<p><a href=\"/technologies/standard-operating-procedures/\">Writing down procedures</a> can preserve steps and reduce avoidable mistakes. It may not preserve the ability to know when the usual procedure is inappropriate. Replacing experienced people with a manual can therefore leave the organization less capable even when every formal instruction survives.</p><p>Continuity often requires <a href=\"/technologies/overlapping-handovers/\">people to work together long enough</a> for judgment to become discussable through examples. A successor needs opportunities to try, receive feedback, and encounter unusual cases—not merely access to the predecessor’s files.</p><p>The danger is most visible during turnover, but the dependence already exists beforehand. Mapping who can interpret problems, and whether others are developing comparable understanding, reveals a different picture from counting how many tasks have written instructions.</p>"
+        "html": "<p><a href=\"/technologies/standard-operating-procedures/\">Writing down procedures</a> can preserve steps and reduce avoidable mistakes. It may not preserve the ability to know when the usual procedure is inappropriate. Replacing experienced people with a manual can therefore leave the organization less capable even when every formal instruction survives.</p><p>Continuity often requires <a href=\"/technologies/succession-planning/#working-through-the-handover\">people to work together long enough</a> for judgment to become discussable through examples. A successor needs opportunities to try, receive feedback, and encounter unusual cases—not merely access to the predecessor’s files.</p><p>The danger is most visible during turnover, but the dependence already exists beforehand. Mapping who can interpret problems, and whether others are developing comparable understanding, reveals a different picture from counting how many tasks have written instructions.</p>"
       }
     ],
     "sources": [
@@ -1104,7 +1075,7 @@
       {
         "id": "diagnosis",
         "title": "Low output can have several explanations",
-        "html": "<p>A planning committee may be waiting for a decision, missing information, or dividing work badly. Calling that social loafing would direct attention toward motivation while overlooking the actual obstacle. People may also withdraw because their suggestions are repeatedly ignored.</p><p>Making contributions identifiable can help, but excessive monitoring can replace cooperation with defensive self-presentation. A person may concentrate on visible tasks that earn credit while neglecting work that supports everyone else.</p><p>The useful distinction is whether effort has declined because participation feels dispensable, or whether effort is being lost through unclear responsibilities and blocked dependencies. A <a href=\"/technologies/responsibility-matrices/\">responsibility matrix</a> can clarify who owns the work; <a href=\"/technologies/what-i-need-from-you/\">What I Need From You</a> makes requests between contributors explicit. A shared purpose becomes more actionable when people can see how their contribution connects to the result, without treating every collective activity as a contest for individual credit.</p>"
+        "html": "<p>A planning committee may be waiting for a decision, missing information, or dividing work badly. Calling that social loafing would direct attention toward motivation while overlooking the actual obstacle. People may also withdraw because their suggestions are repeatedly ignored.</p><p>Making contributions identifiable can help, but excessive monitoring can replace cooperation with defensive self-presentation. A person may concentrate on visible tasks that earn credit while neglecting work that supports everyone else.</p><p>The useful distinction is whether effort has declined because participation feels dispensable, or whether effort is being lost through unclear responsibilities and blocked dependencies. A <a href=\"/technologies/responsibility-matrices/\">responsibility matrix</a> can clarify who owns the work; What I Need From You makes requests between contributors explicit. A shared purpose becomes more actionable when people can see how their contribution connects to the result, without treating every collective activity as a contest for individual credit.</p>"
       }
     ],
     "sources": [
@@ -1259,7 +1230,7 @@
       {
         "id": "rules",
         "title": "The rule may still be doing valuable work",
-        "html": "<p>Procedures can protect fairness, preserve memory, and limit arbitrary treatment. Abandoning them whenever someone invokes the larger purpose can create new problems. The issue is whether the connection between the procedure and its purpose remains open to examination.</p><p>An unusual case reveals that connection especially clearly. Can staff explain why the requirement matters? Is there a legitimate route for an exception? Does correcting a mistake threaten someone’s standing more than continuing it?</p><p>Organizations need ways to <a href=\"/technologies/policy-review-dates/\">revise rules</a> without requiring every participant to reinvent them. Otherwise, people may become highly skilled at satisfying the institution’s visible requirements while the activity those requirements were meant to support steadily deteriorates.</p>"
+        "html": "<p>Procedures can protect fairness, preserve memory, and limit arbitrary treatment. Abandoning them whenever someone invokes the larger purpose can create new problems. The issue is whether the connection between the procedure and its purpose remains open to examination.</p><p>An unusual case reveals that connection especially clearly. Can staff explain why the requirement matters? Is there a legitimate route for an exception? Does correcting a mistake threaten someone’s standing more than continuing it?</p><p>Organizations need ways to <a href=\"/technologies/sunset-clauses/#review-without-expiry\">revise rules</a> without requiring every participant to reinvent them. Otherwise, people may become highly skilled at satisfying the institution’s visible requirements while the activity those requirements were meant to support steadily deteriorates.</p>"
       }
     ],
     "sources": [

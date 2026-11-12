@@ -1307,7 +1307,7 @@
     "location": "Bangladesh",
     "scale": "institutions",
     "technology_ids": [
-      "T248",
+      "T267",
       "D029"
     ],
     "summary": "Grameen II introduced more flexible loan arrangements while retaining borrower groups and regular meetings. Its rules rejected making members repay another borrower’s debt. Yet early fieldwork found meeting practices that pressured members to cover shortfalls. Changing the written terms did not immediately change how staff secured repayment or how borrowers experienced responsibility.",
@@ -1393,7 +1393,7 @@
     "location": "Hyderabad, India",
     "scale": "communities",
     "technology_ids": [
-      "T168"
+      "T267"
     ],
     "summary": "Spandana expanded group-lending services into randomly selected Hyderabad neighborhoods, allowing researchers to compare earlier access with later access. Borrowing and some business investment increased. But greater access did not produce significant average improvements in several wider measures of household welfare: the step from more credit to a transformed livelihood was far from automatic.",
     "outcome": "mixed",

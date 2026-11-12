@@ -348,7 +348,6 @@
     "technology_ids": [
       "T293",
       "T294",
-      "T296",
       "S009"
     ],
     "summary": "Diocletian divided rule among senior and junior emperors, combining present authority with an intended succession path. The arrangement addressed a vast empire’s coordination problem, yet its succession mechanism did not endure intact after retirement. Administrative reforms and the four-ruler system must be evaluated separately.",
@@ -633,7 +632,7 @@
     "scale": "institutions",
     "technology_ids": [
       "T033",
-      "T304",
+      "T293",
       "T013",
       "D011"
     ],
@@ -1085,8 +1084,7 @@
     "location": "Nepal, multiple irrigation systems",
     "scale": "communities",
     "technology_ids": [
-      "T245",
-      "T248"
+      "T245"
     ],
     "summary": "In Nepal, farmer-managed irrigation systems often operated with simpler physical works than agency-managed systems while devising and enforcing their own rules. Yet they could perform better. Water delivery depended not only on engineering but on who maintained the works, how water was allocated, and whether users could make one another keep their commitments.",
     "outcome": "mixed",
@@ -1128,8 +1126,7 @@
     "location": "Törbel, Valais, Switzerland",
     "scale": "communities",
     "technology_ids": [
-      "T245",
-      "T248"
+      "T245"
     ],
     "summary": "Törbel's alpine economy combined private household land with collectively managed pasture, forest, and irrigation resources. Rules linked summer grazing to the animals households could support in winter and organized maintenance obligations. This was neither open access nor an entirely communal economy: belonging, property, and participation rights determined who could benefit and influence decisions.",
     "outcome": "mixed",
@@ -1259,7 +1256,7 @@
     "scale": "societies",
     "technology_ids": [
       "T229",
-      "T158"
+      "S013"
     ],
     "summary": "The Montreal Protocol connected controls on ozone-depleting substances with scientific assessment and financial assistance for eligible developing countries. Its social architecture includes differentiated obligations and a fund for compliance costs. Atmospheric measurements supplied an external check on reported activity, including evidence of unexpected emissions that complicated the otherwise strong record of reducing controlled substances.",
     "outcome": "success",
@@ -1422,7 +1419,7 @@
     "location": "110 villages, Uganda",
     "scale": "communities",
     "technology_ids": [
-      "T248"
+      "T245"
     ],
     "summary": "Community forest monitoring was introduced in a randomized trial across Ugandan villages. Resource use was measured inside and outside monitored areas, allowing changes beyond the intervention boundary to become visible. Watching particular forest areas did not necessarily reduce the pressure on forests overall.",
     "outcome": "failure",
@@ -1594,8 +1591,7 @@
     "location": "Andhra Pradesh, India, under the boundaries and program arrangements studied",
     "scale": "institutions",
     "technology_ids": [
-      "T324",
-      "T248"
+      "T324"
     ],
     "summary": "Andhra Pradesh institutionalized social audits of a rural employment program, allowing beneficiaries and auditors to inspect records and raise irregularities publicly. The audits made wrongdoing more visible, but exposure was not reliably connected to consequences. Officials could adapt to scrutiny, leaving a gap between detecting irregularities and deterring them.",
     "outcome": "mixed",
@@ -2188,7 +2184,7 @@
     "location": "Bangladesh",
     "scale": "institutions",
     "technology_ids": [
-      "T248",
+      "T267",
       "D029"
     ],
     "summary": "Grameen II introduced more flexible loan arrangements while retaining borrower groups and regular meetings. Its rules rejected making members repay another borrower’s debt. Yet early fieldwork found meeting practices that pressured members to cover shortfalls. Changing the written terms did not immediately change how staff secured repayment or how borrowers experienced responsibility.",
@@ -2226,7 +2222,7 @@
     "location": "Hyderabad, India",
     "scale": "communities",
     "technology_ids": [
-      "T168"
+      "T267"
     ],
     "summary": "Spandana expanded group-lending services into randomly selected Hyderabad neighborhoods, allowing researchers to compare earlier access with later access. Borrowing and some business investment increased. But greater access did not produce significant average improvements in several wider measures of household welfare: the step from more credit to a transformed livelihood was far from automatic.",
     "outcome": "mixed",
@@ -2241,7 +2237,7 @@
       {
         "id": "hypotheses",
         "title": "What might explain it",
-        "html": "<h3>Plausible</h3><p>Credit can relax a constraint for some existing entrepreneurs without making most households successful new business owners. <small><a href=\"https://economics.mit.edu/sites/default/files/publications/spandana_Mar14_final.pdf\">The Miracle of Microfinance? Evidence from a Randomized Evaluation</a> <a href=\"https://www.povertyactionlab.org/sites/default/files/research-paper/AEJ%20Banerjee%20Intro.pdf\">Six Randomized Evaluations of Microcredit: Introduction and Further Steps</a></small></p><p><strong>Alternative explanation:</strong> Demand, skills, risk, and repayment obligations may matter more than access to capital for many households.</p><h3>Supported in case</h3><p>Large universal poverty-reduction expectations were not supported by the outcomes and horizons evaluated here. <small><a href=\"https://economics.mit.edu/sites/default/files/publications/spandana_Mar14_final.pdf\">The Miracle of Microfinance? Evidence from a Randomized Evaluation</a> <a href=\"https://www.povertyactionlab.org/sites/default/files/research-paper/AEJ%20Banerjee%20Intro.pdf\">Six Randomized Evaluations of Microcredit: Introduction and Further Steps</a></small></p><p><strong>Alternative explanation:</strong> Longer-run effects or concentrated gains for particular borrowers may be obscured by average estimates and later control-group access.</p>"
+        "html": "<h3>Plausible</h3><p>Credit can relax a constraint for some existing entrepreneurs without making most households successful new business owners. <small><a href=\"https://economics.mit.edu/sites/default/files/publications/spandana_Mar14_final.pdf\">The Miracle of Microfinance? Evidence from a Randomized Evaluation</a> <a href=\"https://www.povertyactionlab.org/sites/default/files/research-paper/AEJ%20Banerjee%20Intro.pdf\">Six Randomized Evaluations of Microcredit: Introduction and Further Steps</a></small></p><p><strong>Alternative explanation:</strong> Demand, skills, risk, and <a href=\"/technologies/contracts/\">repayment obligations</a> may matter more than access to capital for many households.</p><h3>Supported in case</h3><p>Large universal poverty-reduction expectations were not supported by the outcomes and horizons evaluated here. <small><a href=\"https://economics.mit.edu/sites/default/files/publications/spandana_Mar14_final.pdf\">The Miracle of Microfinance? Evidence from a Randomized Evaluation</a> <a href=\"https://www.povertyactionlab.org/sites/default/files/research-paper/AEJ%20Banerjee%20Intro.pdf\">Six Randomized Evaluations of Microcredit: Introduction and Further Steps</a></small></p><p><strong>Alternative explanation:</strong> Longer-run effects or concentrated gains for particular borrowers may be obscured by average estimates and later control-group access.</p>"
       },
       {
         "id": "research",
@@ -2490,8 +2486,6 @@
     "scale": "groups",
     "technology_ids": [
       "T020",
-      "T064",
-      "T041",
       "T027",
       "T099",
       "T198"

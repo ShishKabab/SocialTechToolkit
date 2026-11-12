@@ -231,10 +231,6 @@
     {
       "id": "T203",
       "reason": "Coalitions combine capabilities around a shared strategic objective."
-    },
-    {
-      "id": "T210",
-      "reason": "Purpose-to-Practice connects an initiative’s aims to participants, authority, and recurring activities."
     }
   ],
   "S017": [
@@ -245,10 +241,6 @@
     {
       "id": "T271",
       "reason": "Credentials recognize learning and can become signals distinct from capability."
-    },
-    {
-      "id": "T010",
-      "reason": "Deliberate practice links effort with feedback that improves performance."
     }
   ],
   "S018": [
@@ -397,16 +389,12 @@
   ],
   "S028": [
     {
-      "id": "T248",
+      "id": "T245",
       "reason": "Community monitoring can provide information about shared-resource use."
     },
     {
       "id": "T116",
       "reason": "Subsidiarity addresses the level at which a decision should be made."
-    },
-    {
-      "id": "T245",
-      "reason": "Commons governance concerns the shared-resource problems that motivate many polycentric arrangements."
     }
   ],
   "S029": [
@@ -425,24 +413,6 @@
     {
       "id": "T183",
       "reason": "Maintainer delegation distributes practical responsibility for a project."
-    }
-  ],
-  "S030": [
-    {
-      "id": "D001",
-      "reason": "Participation-based alignment concerns coordination emerging through shared activity."
-    },
-    {
-      "id": "D031",
-      "reason": "Network brokerage connects participants across otherwise separated groups."
-    },
-    {
-      "id": "D003",
-      "reason": "Informal authority describes influence that does not depend on an official role."
-    },
-    {
-      "id": "D002",
-      "reason": "Mutual recognition concerns how participants become visible and valued to one another."
     }
   ],
   "S031": [
@@ -497,10 +467,6 @@
   ],
   "D001": [
     {
-      "id": "S030",
-      "reason": "Extitutional theory supplies the broader framework for participation-based alignment."
-    },
-    {
       "id": "D007",
       "reason": "Learning through participation explains how practice transmits context and judgment."
     },
@@ -517,10 +483,6 @@
     {
       "id": "D003",
       "reason": "Recognition can develop into authority without an official appointment."
-    },
-    {
-      "id": "S030",
-      "reason": "Extitutional theory treats recognition as part of relational coordination."
     }
   ],
   "D003": [
@@ -543,7 +505,7 @@
       "reason": "Public decision records make consequential choices visible outside private circles."
     },
     {
-      "id": "T111",
+      "id": "T110",
       "reason": "Nomination with reasons exposes the grounds for selecting someone."
     },
     {
@@ -585,7 +547,7 @@
       "reason": "Apprenticeship deliberately organizes learning within practical work."
     },
     {
-      "id": "T296",
+      "id": "T293",
       "reason": "Graduated responsibility gives learners increasing scope as their capability develops."
     },
     {
@@ -603,7 +565,7 @@
       "reason": "Volunteer burnout can result when core members cannot step back."
     },
     {
-      "id": "T296",
+      "id": "T293",
       "reason": "Graduated responsibility can provide a path toward fuller participation."
     },
     {
@@ -645,7 +607,7 @@
       "reason": "Standard operating procedures preserve explicit steps while leaving some judgment tacit."
     },
     {
-      "id": "T295",
+      "id": "T293",
       "reason": "Overlapping handovers let successors encounter judgment in the presence of the predecessor."
     },
     {
@@ -751,10 +713,6 @@
       "reason": "Responsibility matrices can expose ambiguities about who owns a task."
     },
     {
-      "id": "T209",
-      "reason": "What I Need From You makes dependencies between contributors concrete."
-    },
-    {
       "id": "D017",
       "reason": "Free riding concerns benefiting without contributing, a related but distinct mechanism."
     }
@@ -837,10 +795,6 @@
     {
       "id": "T049",
       "reason": "Red teams give challenge an explicit role in a decision process."
-    },
-    {
-      "id": "T050",
-      "reason": "Premortems invite people to explain how a proposal could fail before commitment."
     }
   ],
   "D025": [
@@ -849,7 +803,7 @@
       "reason": "Standard operating procedures are useful means that can become ends in themselves."
     },
     {
-      "id": "T158",
+      "id": "T157",
       "reason": "Policy review dates create a defined occasion to revisit a rule and its purpose."
     },
     {

@@ -312,25 +312,6 @@
     "adaptation": true
   },
   {
-    "id": "T130",
-    "title": "Dot voting",
-    "source_title": "Dot Voting",
-    "url": "https://gamestorming.com/dot-voting/",
-    "publisher": "Gamestorming",
-    "source_type": "practitioner method",
-    "access": "search excerpt",
-    "finding": "Dot voting gives participants a limited number of marks to distribute among visible options. Counting the marks reveals a group's expressed priorities and can narrow a long list for further discussion or selection.",
-    "limitation": "Visible voting can influence later participants, and prioritization does not substitute for examining feasibility, objections, or the reasons behind preferences.",
-    "scenario": "After generating twenty workshop ideas, a team could give everyone three dots and discuss the highest-ranked options before committing time or money.",
-    "aliases": [],
-    "scale": "groups",
-    "terms": [
-      "dotmocracy",
-      "sticker voting"
-    ],
-    "adaptation": false
-  },
-  {
     "id": "T131",
     "title": "Quadratic voting",
     "source_title": "Quadratic Voting: How Mechanism Design Can Radicalize Democracy",
@@ -385,24 +366,6 @@
     "scale": "institutions",
     "terms": [],
     "adaptation": true
-  },
-  {
-    "id": "T134",
-    "title": "Delegation poker",
-    "source_title": "Delegation Poker",
-    "url": "https://management30.com/practice/delegation-poker/",
-    "publisher": "Management 3.0",
-    "source_type": "practitioner method",
-    "access": "search excerpt",
-    "finding": "Delegation Poker makes expectations about decision authority discussable through seven levels ranging from managerial decisions to team delegation. Participants compare their chosen levels for a concrete decision and negotiate a shared understanding of authority.",
-    "limitation": "The exercise clarifies expectations but does not itself legally or operationally transfer authority; the resulting agreements need explicit application and review.",
-    "scenario": "A manager and team could play through hiring, purchasing, and scheduling decisions, then document which decisions require consultation and which the team can make independently.",
-    "aliases": [],
-    "scale": "groups",
-    "terms": [
-      "delegation levels"
-    ],
-    "adaptation": false
   },
   {
     "id": "T139",
@@ -924,24 +887,6 @@
     "scale": "groups",
     "terms": [],
     "adaptation": false
-  },
-  {
-    "id": "T168",
-    "title": "Independent microenterprises",
-    "source_title": "Extending social security to workers in micro and small enterprises",
-    "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf",
-    "publisher": "International Labour Organization",
-    "source_type": "institutional guide",
-    "access": "search excerpt",
-    "finding": "Microenterprises organize economic activity in very small firms rather than large managerial structures. The ILO brief uses an employee-based definition and examines how limited administrative and financial capacity affects workers' access to social protection.",
-    "limitation": "Definitions vary and may exclude self-employment; enterprise size alone does not establish independence, worker autonomy, profitability, or adequate employment protections.",
-    "scenario": "A few repair specialists could establish a small independent workshop, choosing how to share administration and customer relationships while accounting for their responsibilities toward employees.",
-    "aliases": [],
-    "scale": "institutions",
-    "terms": [
-      "micro-enterprises"
-    ],
-    "adaptation": true
   },
   {
     "id": "T169",

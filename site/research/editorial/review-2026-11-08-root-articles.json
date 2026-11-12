@@ -253,15 +253,6 @@
     ]
   },
   {
-    "id": "S030",
-    "type": "technology",
-    "title": "Extitutional theory",
-    "changed": true,
-    "findings": [
-      "Kept the framework’s explanatory scope while replacing generic recipe language with observable relational questions."
-    ]
-  },
-  {
     "id": "S031",
     "type": "technology",
     "title": "Assembly democracy",

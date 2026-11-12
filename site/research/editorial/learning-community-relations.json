@@ -1,7 +1,7 @@
 {
   "T002": [
     {
-      "id": "T296",
+      "id": "T293",
       "reason": "Apprenticeship develops independence by increasing responsibility as competence grows."
     },
     {
@@ -21,10 +21,6 @@
     {
       "id": "T200",
       "reason": "Accountability partners can complement a circle by supporting continuity between meetings."
-    },
-    {
-      "id": "T041",
-      "reason": "Troika Consulting provides a short rotating format for focused help within a group of peers."
     }
   ],
   "T004": [
@@ -81,7 +77,7 @@
       "reason": "Teach-back can check that a recipient understands what a handoff requires."
     },
     {
-      "id": "T010",
+      "id": "T002",
       "reason": "Repeated attempts and feedback develop competence beyond explaining an instruction correctly."
     },
     {
@@ -91,22 +87,12 @@
   ],
   "T009": [
     {
-      "id": "T018",
-      "reason": "A workshop can contain peer-instruction cycles within a larger learning event."
-    },
-    {
       "id": "T003",
       "reason": "Peer learning circles also organize learning among participants; peer instruction adds a focused cycle of individual answers, discussion, and reconsideration."
-    }
-  ],
-  "T010": [
-    {
-      "id": "T028",
-      "reason": "Peer review supplies a perspective the learner cannot produce through self-correction alone."
     },
     {
-      "id": "T001",
-      "reason": "Mentorship can help identify which component of a skill deserves targeted practice."
+      "id": "T008",
+      "reason": "Teach-back likewise makes a learner’s understanding visible, but asks for an explanation rather than a cycle of individual answers and peer discussion."
     }
   ],
   "T011": [
@@ -145,10 +131,6 @@
   ],
   "T014": [
     {
-      "id": "T096",
-      "reason": "Office hours require access arrangements if the invitation is to be practically usable."
-    },
-    {
       "id": "T001",
       "reason": "A specific office-hours conversation can become an entry point into a longer mentoring relationship."
     },
@@ -167,47 +149,9 @@
       "reason": "Communities of practice can use question sessions to share experience beyond a single guest encounter."
     }
   ],
-  "T016": [
-    {
-      "id": "T055",
-      "reason": "Unstructured time lets a short introduction become a longer conversation."
-    },
-    {
-      "id": "T062",
-      "reason": "Introductions can connect people who discover overlapping interests through the talks."
-    },
-    {
-      "id": "T310",
-      "reason": "Knowledge fairs make participants’ capabilities discoverable through displays and encounters rather than only short talks."
-    }
-  ],
-  "T017": [
-    {
-      "id": "T028",
-      "reason": "Peer review can turn responses to shown work into specific guidance for revision."
-    },
-    {
-      "id": "T181",
-      "reason": "Design reviews offer a more focused examination of choices than an open show-and-tell."
-    },
-    {
-      "id": "T016",
-      "reason": "Lightning talks use short presentations to reveal interests and invite later conversations."
-    }
-  ],
-  "T018": [
-    {
-      "id": "T010",
-      "reason": "Workshops can make space for targeted practice and feedback instead of only transmitting explanations."
-    },
-    {
-      "id": "T019",
-      "reason": "Train-the-trainer develops additional people able to deliver the workshop rather than only attend it."
-    }
-  ],
   "T019": [
     {
-      "id": "T010",
+      "id": "T002",
       "reason": "Preparing trainers requires attempts and feedback on teaching as well as knowledge of the subject."
     },
     {
@@ -245,7 +189,7 @@
       "reason": "Archives preserve interviews and contextual records so oral history can remain usable beyond the original conversation."
     },
     {
-      "id": "T301",
+      "id": "T293",
       "reason": "Institutional memory interviews narrow the oral-history pattern toward retaining an organization's practical knowledge."
     }
   ],
@@ -255,8 +199,8 @@
       "reason": "Origin stories apply storytelling to a group's beginnings and continuing identity."
     },
     {
-      "id": "T043",
-      "reason": "Structured reflection separates the events in a story from their meaning and proposed responses."
+      "id": "T022",
+      "reason": "Oral history preserves participants’ accounts for examination beyond a single telling."
     }
   ],
   "T024": [
@@ -295,15 +239,11 @@
       "reason": "After-action reviews center a particular event; retrospectives provide a regular rhythm of process reflection."
     },
     {
-      "id": "T158",
+      "id": "T157",
       "reason": "A planned review date can bring an agreed process change back for examination instead of letting it disappear."
     }
   ],
   "T028": [
-    {
-      "id": "T010",
-      "reason": "Deliberate practice uses feedback through repeated attempts; peer review alone does not ensure revision happens."
-    },
     {
       "id": "T290",
       "reason": "Blind review can reduce some identity cues when peer judgment risks favoring familiar people or approaches."
@@ -369,7 +309,7 @@
       "reason": "Public decision records extend a decision log's accountability beyond the collaborating group."
     },
     {
-      "id": "T158",
+      "id": "T157",
       "reason": "Review dates can specify when the assumptions recorded with a decision should be reconsidered."
     }
   ],
@@ -409,8 +349,8 @@
       "reason": "Peer review checks whether a translation works for its actual audience and context."
     },
     {
-      "id": "T096",
-      "reason": "Translation and subtitling can be components of wider arrangements for accessible participation."
+      "id": "T037",
+      "reason": "Open educational resources can permit translation and adaptation when their licenses grant the necessary rights."
     }
   ],
   "T039": [
@@ -421,46 +361,6 @@
     {
       "id": "T270",
       "reason": "Public provisioning can sustain shared access beyond individual purchases."
-    }
-  ],
-  "T041": [
-    {
-      "id": "T064",
-      "reason": "Protected listening changes the advice exchange by temporarily suspending immediate replies."
-    },
-    {
-      "id": "T118",
-      "reason": "The advice process similarly separates consultation from decision authority, but applies it to a decision rather than a rotating peer exercise."
-    }
-  ],
-  "T042": [
-    {
-      "id": "T023",
-      "reason": "Stories make the conditions behind a success available for collective examination."
-    },
-    {
-      "id": "T208",
-      "reason": "Discovery-and-Action Dialogue similarly investigates effective local practice, with a stronger focus on a specific recurring challenge."
-    }
-  ],
-  "T043": [
-    {
-      "id": "T026",
-      "reason": "After-action reviews can use the distinction between events, interpretations, and changes when examining an incident."
-    },
-    {
-      "id": "T027",
-      "reason": "Retrospectives provide a recurring setting in which this reflection sequence can be used."
-    }
-  ],
-  "T047": [
-    {
-      "id": "T004",
-      "reason": "Unconferences can connect practitioners whose exchanges continue in a community of practice."
-    },
-    {
-      "id": "T003",
-      "reason": "Peer learning circles provide a recurring setting for the mutual learning that an unconference concentrates into an event."
     }
   ],
   "T048": [
@@ -475,22 +375,12 @@
   ],
   "T049": [
     {
-      "id": "T050",
-      "reason": "Premortems provide a bounded exercise for surfacing failure possibilities before commitment hardens."
-    },
-    {
       "id": "D024",
       "reason": "A legitimate challenge role can interrupt groupthink around an accepted plan."
-    }
-  ],
-  "T050": [
-    {
-      "id": "T238",
-      "reason": "The example tests the maintenance and access assumptions behind a shared lending institution."
     },
     {
-      "id": "T049",
-      "reason": "Red teams create a continuing or separate challenge role, while a premortem is one structured opportunity for challenge."
+      "id": "T028",
+      "reason": "Peer review offers a complementary way to subject work to informed criticism without necessarily assigning an adversarial role."
     }
   ],
   "T307": [
@@ -535,16 +425,6 @@
       "reason": "Group polarization is a possible discussion dynamic to distinguish from informed reconsideration."
     }
   ],
-  "T310": [
-    {
-      "id": "T062",
-      "reason": "Connections made at a fair can become introductions into a continuing knowledge exchange."
-    },
-    {
-      "id": "T098",
-      "reason": "Cross-community visits deepen the brief encounters and demonstrations offered by a fair."
-    }
-  ],
   "T051": [
     {
       "id": "T072",
@@ -571,38 +451,18 @@
       "reason": "The potluck supplies a contribution arrangement for the wider social occasion of eating together."
     },
     {
-      "id": "T096",
-      "reason": "Flexible contributions help make participation accessible beyond people with the same resources."
+      "id": "T057",
+      "reason": "A host makes the invitation and contribution expectations intelligible to newcomers."
     }
   ],
   "T054": [
     {
-      "id": "T055",
+      "id": "T051",
       "reason": "Unstructured time permits conversations and collaborations beyond the retreat's formal program."
     },
     {
-      "id": "T096",
-      "reason": "Accessibility planning determines who can attend and participate in concentrated residential time."
-    }
-  ],
-  "T055": [
-    {
-      "id": "T054",
-      "reason": "Residential retreats can create extended time together but still need to protect space outside the program."
-    },
-    {
-      "id": "D004",
-      "reason": "Unstructured time can reproduce informal exclusion when only existing friends know how to join conversations."
-    }
-  ],
-  "T056": [
-    {
-      "id": "T098",
-      "reason": "A shared journey can support preparation and reflection around a cross-community exchange."
-    },
-    {
-      "id": "T312",
-      "reason": "Pilgrimage gives a shared journey a destination and significance within a particular tradition."
+      "id": "T057",
+      "reason": "Hosting gives a residential gathering people responsible for welcome, practical needs, and room for privacy."
     }
   ],
   "T057": [
@@ -671,16 +531,6 @@
     {
       "id": "D006",
       "reason": "Introductions beyond existing close connections can bridge opportunities across groups."
-    }
-  ],
-  "T064": [
-    {
-      "id": "T088",
-      "reason": "Conflict coaching can add goal-oriented preparation where protected listening reveals a difficult disagreement."
-    },
-    {
-      "id": "D015",
-      "reason": "Exchanging speaking and listening roles makes attention a mutual contribution rather than a permanent one-way obligation."
     }
   ],
   "T065": [
@@ -761,7 +611,7 @@
       "reason": "Booking arrangements can make a cohousing community's shared facilities usable without repeated negotiation."
     },
     {
-      "id": "T247",
+      "id": "T245",
       "reason": "Residents' participation in rulemaking connects shared property use to authority over its conditions."
     }
   ],
@@ -825,7 +675,7 @@
       "reason": "Rites of passage are rituals organized around a recognized change in social position."
     },
     {
-      "id": "T296",
+      "id": "T293",
       "reason": "A status transition can mark an increase in actual responsibility rather than only symbolic recognition."
     }
   ],
@@ -845,7 +695,7 @@
       "reason": "Public appreciation can make a departing person's otherwise overlooked contribution visible."
     },
     {
-      "id": "T295",
+      "id": "T293",
       "reason": "Overlapping handovers address the practical transfer that a farewell ceremony alone cannot accomplish."
     }
   ],
@@ -1001,22 +851,12 @@
   ],
   "T095": [
     {
-      "id": "T096",
-      "reason": "Stipends address the cost of time and complement arrangements for transport, care, communication, and physical access."
-    },
-    {
       "id": "T102",
       "reason": "Citizens' assemblies need practical participation support if recruited residents are to attend."
-    }
-  ],
-  "T096": [
-    {
-      "id": "T189",
-      "reason": "Checklists can support preparation but cannot substitute for whether participation is actually usable."
     },
     {
-      "id": "T038",
-      "reason": "Translation can form one component of an accessible invitation and event."
+      "id": "T105",
+      "reason": "Consultations can compensate participation costs to hear from people who otherwise could not contribute."
     }
   ],
   "T097": [
@@ -1049,10 +889,6 @@
       "reason": "Confidentiality expectations define what members may share while retaining honest limits on guarantees."
     },
     {
-      "id": "T064",
-      "reason": "Protected listening is one component of peer support and can provide space without demanding disclosure."
-    },
-    {
       "id": "S020",
       "reason": "Psychotherapy involves professional responsibilities and treatment goals distinct from peer support."
     }
@@ -1079,12 +915,12 @@
   ],
   "T312": [
     {
-      "id": "T056",
-      "reason": "Pilgrimage includes shared travel but adds destination and meaning within a particular tradition."
-    },
-    {
       "id": "T057",
       "reason": "Hospitality supports the journey through relationships with people receiving travelers."
+    },
+    {
+      "id": "S023",
+      "reason": "Ritual gives a pilgrimage’s journey and destination a shared symbolic meaning beyond travel itself."
     }
   ],
   "T313": [

@@ -21,10 +21,10 @@ Checks cover fuzzy and synonym ranking, invalid index data, generated links and 
 
 ## Content
 
-- `content/catalog.json`: 405 catalog records, publication flags, source codes, categories, descriptions, and use cases. All 405 entries have introductory source trails and are available in the local build.
+- `content/catalog.json`: 365 catalog records, publication flags, source codes, categories, descriptions, and use cases. All 365 entries have introductory source trails and are available in the local build.
 - `content/scales.json`: six homepage groups from societies to everyday interactions, explicit primary placements, featured entries, and additional scales. The build checks that every published entry appears exactly once.
 - `content/editorial.json`: expanded page content, aliases, and discovery terms for selected entries.
-- `research/editorial/`: 400 provisional expanded articles, their linked sources and access notes. These override descriptions and article bodies for the remaining catalog entries; the five previously developed pages retain their content in `content/editorial.json`. See [the editorial handoff](research/editorial/README.md).
+- `research/editorial/`: 360 provisional expanded articles, their linked sources and access notes. These override descriptions and article bodies for the remaining catalog entries; the five previously developed pages retain their content in `content/editorial.json`. See [the editorial handoff](research/editorial/README.md).
 - `content/sources.json`: source links and provenance notes used on individual pages. References link directly to originals, inline where appropriate or in a local Sources section; there is no separate sources directory.
 - `research/editorial/*-relations.json`: explicitly selected concept relationships and their editorial reasons. These drive “Explore alongside”; no alphabetical fallback is used. Internal links are written into the prose, not inserted through automatic keyword matching. `scripts/concept_links.py` validates coverage and ensures that every concept linked in an explanation also appears in its related list.
 - `content/cases/articles.json`: 72 public case drafts with explicit editorial status and authored sections.
@@ -32,9 +32,9 @@ Checks cover fuzzy and synonym ranking, invalid index data, generated links and 
 - `research/cases/BACKLOG.md`: explicitly unresearched leads and priority evidence gaps.
 - `scripts/cases.py`: validates a strict public schema and renders case articles with mandatory draft notices. It never reads or exports internal research dossiers. Cases link to technologies; matching technology pages link back.
 - `research/cases/`: internal dossiers and historical report; never copied to public output.
-- `research/README.md`: findings, limits, source access, and example situations for all 282 previously omitted entries.
+- `research/README.md`: findings, limits, source access, and example situations for the 256 retained entries from the original omission audit.
 - `research/baseline.json`: the retained entries from the original omission audit; the four topic files preserve the research records.
-- `scripts/apply_research.py`: validates all 279 retained research IDs and applies the research to the catalog, source registry, scale placements, and report.
+- `scripts/apply_research.py`: validates all 256 retained research IDs and applies the research to the catalog, source registry, scale placements, and report.
 - `templates/base.html`: shared page shell.
 - `scripts/build.py`: homepage, entry, case-study, guide, search index, and sitemap generation.
 - `assets/`: self-hosted CSS, SVG favicon, and dependency-free search.
@@ -61,4 +61,4 @@ Use an origin without a path prefix. Configuring DNS and attaching a custom doma
 
 ## Editorial scope
 
-Source-backed does not mean experimentally validated. Pages distinguish practitioner methods, theories, and editorial adaptations. The 400 autonomous drafts carry a visible notice that they need further editorial guidance, and the homepage explains that the project uses AI and will change over time. Source access and remaining uncertainties are recorded alongside each draft. These notices do not imply that the five previously developed pages have received independent fact checking. The collection can expand without changing its architecture.
+Source-backed does not mean experimentally validated. Pages distinguish practitioner methods, theories, and editorial adaptations. The 360 autonomous drafts carry a visible notice that they need further editorial guidance, and the homepage explains that the project uses AI and will change over time. Source access and remaining uncertainties are recorded alongside each draft. These notices do not imply that the five previously developed pages have received independent fact checking. The collection can expand without changing its architecture.

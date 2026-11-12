@@ -1,10 +1,10 @@
-# Research for the 282 previously unpublished entries
+# Research for retained entries from the original omission audit
 
-All 282 entries in the omission audit now have a research record. The local site contains all 404 inventory entries. This is an introductory source pass, not a systematic evidence review.
+The 256 retained entries in the omission audit have research records. The local site contains 365 catalog entries. This is an introductory source pass, not a systematic evidence review.
 
 Access labels distinguish pages or sections reviewed, abstracts, and search excerpts. A method description is not evidence of effectiveness. Scenarios are editorial examples, not documented case studies. Sources checked on 2026-11-05.
 
-## Learning and knowledge (40)
+## Learning and knowledge (33)
 
 ### T003 — Peer learning circles
 
@@ -66,16 +66,6 @@ Peer instruction makes learners compare reasoning before an instructor resolves 
 
 **Source:** [Incorporating Short Peer Discussion Activities for In-Class Collaborative Learning](https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/collaborative-learning/incorporating-short-peer) — Cornell University. institutional guide; **access:** page.
 
-### T010 — Deliberate practice with feedback
-
-Deliberate practice organizes effort around improving a specific aspect of performance, with informative feedback and opportunities to correct errors. Its mechanism differs from merely accumulating time doing familiar tasks without targeted revision.
-
-**Limit:** This influential account concerns expert performance; it does not establish that practice alone explains every difference in ability or achievement.
-
-**Example situation:** Hypothetically, a public speaker could rehearse only the opening minute, receive feedback on unclear sentences, revise them, and repeat before practicing the entire talk.
-
-**Source:** [The Role of Deliberate Practice in the Acquisition of Expert Performance](https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf) — Psychological Review / Ericsson, Krampe and Tesch-Römer. research paper; **access:** search excerpt.
-
 ### T011 — Job shadowing
 
 Job shadowing places a learner alongside someone doing their usual work for a defined period. Watching real decisions and routines exposes duties and approaches that are difficult to capture in a classroom description.
@@ -125,26 +115,6 @@ An ask-me-anything session temporarily concentrates audience questions around an
 **Example situation:** Hypothetically, a neighborhood organizer could host a scheduled online question session before a street festival, answering practical questions while marking unresolved issues for later follow-up.
 
 **Source:** [New Ways To AMA](https://redditinc.com/news/new-ways-to-ama?version=published) — Reddit. practitioner method; **access:** search excerpt.
-
-### T017 — Show-and-tell sessions
-
-Show-and-tell sessions make work in progress visible to people outside the immediate task. Demonstrating actual outputs and discussing learning creates an opportunity for questions and feedback before work becomes a finished announcement.
-
-**Limit:** A demonstration can hide difficult tradeoffs if it becomes performance theatre; useful feedback requires showing uncertainties as well as polished results.
-
-**Example situation:** Hypothetically, a community garden team could show its first irrigation prototype at a monthly gathering and ask other gardeners which beds and routines it overlooks.
-
-**Source:** [Agile Tools and Techniques](https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques) — UK Government Digital Service. institutional guide; **access:** search excerpt.
-
-### T018 — Workshops
-
-A workshop concentrates organized learning into a bounded event with prepared material, instructors, and participant activity. The Carpentries handbook makes preparation and instructional responsibilities explicit rather than assuming that gathering people automatically creates learning.
-
-**Limit:** The source describes a particular training organization; workshop quality varies with curriculum, facilitation, available practice, and participants’ starting knowledge.
-
-**Example situation:** Hypothetically, a repair club could run a two-hour workshop where participants bring a broken zipper, observe a demonstration, and practice repairs with instructor feedback.
-
-**Source:** [Instructors Handbook](https://docs.carpentries.org/handbooks/instructors.html) — The Carpentries. institutional guide; **access:** page.
 
 ### T019 — Train-the-trainer
 
@@ -316,26 +286,6 @@ Libraries organize shared access to collections, information services, and oppor
 
 **Source:** [IFLA-UNESCO Public Library Manifesto](https://www.ifla.org/public-library-manifesto/) — International Federation of Library Associations and Institutions / UNESCO. institutional guide; **access:** search excerpt.
 
-### T044 — Fishbowl discussion
-
-A fishbowl separates active discussion or practice in an inner circle from observation in an outer circle. Rotating participation makes conversational behavior available for reflection while limiting how many people speak at once.
-
-**Limit:** The format structures attention and participation; it does not itself ensure balanced representation or supply a rule for making decisions.
-
-**Example situation:** Hypothetically, facilitator trainees could observe four volunteers handling a difficult discussion, then rotate into the inner circle and compare which interventions changed the conversation.
-
-**Source:** [Communities Care: Training Facilitators](https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf) — UNICEF. institutional guide; **access:** search excerpt.
-
-### T047 — Unconferences
-
-An unconference lets participants propose and organize sessions rather than receiving a fully predetermined program. A shared theme and scheduling process turn attendees’ interests into parallel conversations that can range from practical workshops to informal discussion.
-
-**Limit:** Participant control does not remove the need for facilitation and logistics; confidence and familiarity with the format can affect whose sessions happen.
-
-**Example situation:** Hypothetically, local makers could gather for a day, propose the problems they want help with, assemble a session grid, and choose which conversations to join.
-
-**Source:** [Unconferencing: How to Prepare to Attend an Unconference](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/) — Unconference.net / Kaliya. practitioner method; **access:** search excerpt.
-
 ### T048 — Delphi process
 
 A Delphi process gathers judgments in repeated rounds and feeds back a summary so participants can reconsider their responses. The design makes convergence, continued disagreement, and reasons for changing judgments available for systematic examination.
@@ -355,16 +305,6 @@ Red teaming creates a deliberate role for challenging assumptions, plans, and in
 **Example situation:** Hypothetically, a nonprofit could ask colleagues uninvolved in a campaign plan to identify its weakest assumptions and explain how the intended audience might respond differently.
 
 **Source:** [A Guide to Red Teaming](https://www.gov.uk/government/publications/a-guide-to-red-teaming) — UK Ministry of Defence. institutional guide; **access:** search excerpt.
-
-### T050 — Premortems
-
-A premortem asks a team to imagine that its proposed plan has already failed and generate plausible reasons. This framing gives participants permission to surface reservations before commitments make them harder to voice.
-
-**Limit:** Imagined causes are hypotheses rather than predictions; the exercise needs follow-up to distinguish manageable risks from vivid but unlikely stories.
-
-**Example situation:** Hypothetically, organizers planning a neighborhood dinner could imagine nobody enjoyed it, list possible reasons independently, and change the invitation and seating plan before sending invitations.
-
-**Source:** [Premortem](https://www.gary-klein.com/premortem) — Gary Klein. practitioner method; **access:** search excerpt.
 
 ### T307 — Citizen science
 
@@ -396,17 +336,7 @@ Deliberative polling brings a sampled public into informed, facilitated discussi
 
 **Source:** [What Is Deliberative Polling?](https://deliberation.stanford.edu/what-deliberative-pollingr) — Stanford Deliberative Democracy Lab. practitioner method; **access:** search excerpt.
 
-### T310 — Knowledge fairs
-
-A knowledge fair gathers demonstrations and accounts of participants’ work so visitors can discover practices and potential partners. The World Bank guide presents it as a way to share experience, increase visibility, and build connections across projects.
-
-**Limit:** Showcasing a practice does not establish its effectiveness; fairs need opportunities to question claims and follow up beyond an attractive presentation.
-
-**Example situation:** Hypothetically, several neighborhood associations could each demonstrate one completed project at a shared fair, letting visitors compare approaches and arrange visits with relevant organizers.
-
-**Source:** [The Art of Knowledge Exchange: Knowledge Fair](https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf) — World Bank. institutional guide; **access:** search excerpt.
-
-## Belonging and relationships (39)
+## Belonging and relationships (37)
 
 ### T053 — Potlucks
 
@@ -457,16 +387,6 @@ A connector uses an existing relationship to introduce people who may benefit fr
 **Example situation:** Hypothetically, a librarian could ask a new resident and a local walking-group organizer whether they would welcome an introduction, then connect them with a short explanation.
 
 **Source:** [Organizing for Effective Advocacy: Introductions](https://ctb.ku.edu/en/book/export/html/994) — University of Kansas Community Tool Box. institutional guide; **access:** search excerpt.
-
-### T064 — Listening pairs
-
-Listening pairs allocate each person a turn to speak while the other listens. The speaker can choose silence, a summary, or follow-up questions, separating attention to their experience from the listener’s impulse to contribute their own story.
-
-**Limit:** The exercise structures listening but is not therapy or compulsory disclosure; participants need permission to choose what they share.
-
-**Example situation:** Hypothetically, two project partners could each take five uninterrupted minutes to explain what has frustrated them, then summarize what they heard before proposing changes.
-
-**Source:** [Active Listening](https://www.seedsforchange.org.uk/downloads/activelistening.pdf) — Seeds for Change. practitioner method; **access:** search excerpt.
 
 ### T065 — Mutual aid networks
 
@@ -718,16 +638,6 @@ Participation stipends compensate people for time they contribute to a public pr
 
 **Source:** [Citizens’ Assembly Frequently Asked Questions: Northern Ireland Edition](https://www.involve.org.uk/resource/frequently-asked-questions-citizens-assembly-ni-edition) — Involve. institutional guide; **access:** search excerpt.
 
-### T096 — Accessibility arrangements
-
-Accessibility arrangements change an event’s venue, communication, materials, and participation options to accommodate differing needs. W3C’s checklist treats physical access, remote platforms, captions, interpretation, and advance information as planning responsibilities rather than last-minute favors.
-
-**Limit:** No single checklist anticipates every participant’s needs; organizers must communicate, provide usable information, and respond when the planned arrangements prove insufficient.
-
-**Example situation:** Hypothetically, a neighborhood assembly could publish accessible materials early, arrange captions and step-free access, and ask registrants which additional participation arrangements they need.
-
-**Source:** [Making Events Accessible](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) — World Wide Web Consortium Web Accessibility Initiative. institutional guide; **access:** search excerpt.
-
 ### T097 — Confidentiality agreements
 
 Confidentiality agreements specify what participants may share after a conversation. The Chatham House Rule is a particular non-attribution arrangement: participants may use information while keeping speakers’ and participants’ identities and affiliations undisclosed.
@@ -798,7 +708,7 @@ Community sponsorship organizes local people to support refugees settling after 
 
 **Source:** [Sponsorship Programmes for Refugees](https://help.unhcr.org/global/sponsorship-programmes-for-refugees/) — UN Refugee Agency. institutional guide; **access:** page.
 
-## Decisions and authority (48)
+## Decisions and authority (44)
 
 ### T104 — Town halls
 
@@ -970,16 +880,6 @@ Score voting asks voters to rate candidates on a common numerical scale instead 
 
 **Source:** [A proposal for British Columbia](https://rangevoting.org/BC2018.html) — Center for Range Voting. practitioner method; **access:** search excerpt.
 
-### T130 — Dot voting
-
-Dot voting gives participants a limited number of marks to distribute among visible options. Counting the marks reveals a group's expressed priorities and can narrow a long list for further discussion or selection.
-
-**Limit:** Visible voting can influence later participants, and prioritization does not substitute for examining feasibility, objections, or the reasons behind preferences.
-
-**Example situation:** After generating twenty workshop ideas, a team could give everyone three dots and discuss the highest-ranked options before committing time or money.
-
-**Source:** [Dot Voting](https://gamestorming.com/dot-voting/) — Gamestorming. practitioner method; **access:** search excerpt.
-
 ### T131 — Quadratic voting
 
 Quadratic voting allows participants to express different intensities of preference by spending credits on votes whose cost grows quadratically. Additional influence on one question therefore consumes disproportionately more of a participant's available voting budget.
@@ -1009,16 +909,6 @@ Proxy voting authorizes another person to cast a vote on someone's behalf. The g
 **Example situation:** An association could allow an absent member to appoint an eligible proxy using its bylaws, recording the authorization before the meeting and checking its scope.
 
 **Source:** [Apply for a proxy vote](https://www.gov.uk/apply-proxy-vote) — UK Government. institutional guide; **access:** search excerpt.
-
-### T134 — Delegation poker
-
-Delegation Poker makes expectations about decision authority discussable through seven levels ranging from managerial decisions to team delegation. Participants compare their chosen levels for a concrete decision and negotiate a shared understanding of authority.
-
-**Limit:** The exercise clarifies expectations but does not itself legally or operationally transfer authority; the resulting agreements need explicit application and review.
-
-**Example situation:** A manager and team could play through hiring, purchasing, and scheduling decisions, then document which decisions require consultation and which the team can make independently.
-
-**Source:** [Delegation Poker](https://management30.com/practice/delegation-poker/) — Management 3.0. practitioner method; **access:** search excerpt.
 
 ### T139 — Boards of trustees
 
@@ -1089,26 +979,6 @@ A quorum specifies the minimum presence required for an assembly to conduct subs
 **Example situation:** A club could require one-third of members present before binding decisions, postponing votes when turnout falls below that threshold while allowing informal discussion.
 
 **Source:** [Frequently Asked Questions](https://robertsrules.com/frequently-asked-questions/) — Robert's Rules Association. reference; **access:** search excerpt.
-
-### T149 — Agenda-setting procedures
-
-Agenda-setting turns possible discussion topics into an agreed sequence with aims and time allocations. The facilitation guide recommends gathering issues, identifying priorities, and agreeing the agenda so participants know what the meeting must accomplish.
-
-**Limit:** The guide offers facilitation practice, not causal evidence; control of topic selection can still exclude concerns or privilege established participants.
-
-**Example situation:** A volunteer committee could collect agenda proposals beforehand, distinguish decisions from updates, and agree time allocations at the start so urgent issues receive adequate discussion.
-
-**Source:** [Facilitating Meetings](https://seedsforchange.org.uk/downloads/facilitationmeeting.pdf) — Seeds for Change. practitioner method; **access:** search excerpt.
-
-### T150 — Speaking queues
-
-Speaking queues allocate turns by recording who wants to contribute, reducing dependence on interruption or quickness. Facilitation tools can add agreed signals for urgent information or process suggestions while making exceptions to ordinary turn order visible.
-
-**Limit:** Strict arrival order can fragment discussion, and hand signals need explanation; a queue alone does not equalize confidence or influence.
-
-**Example situation:** A crowded assembly could use a visible speaker list, with clearly explained exceptions for urgent factual corrections, so quieter participants can request a predictable turn.
-
-**Source:** [Facilitation Tools for meetings and workshops](https://www.seedsforchange.org.uk/tools) — Seeds for Change. practitioner method; **access:** search excerpt.
 
 ### T152 — Anonymous ballots
 
@@ -1280,7 +1150,7 @@ Independent financial audits gather and evaluate evidence to support an opinion 
 
 **Source:** [AS 1000: General Responsibilities of the Auditor in Conducting an Audit](https://pcaobus.org/oversight/standards/auditing-standards/details/as-1000--general-responsibilities-of-the-auditor-in-conducting-an-audit) — Public Company Accounting Oversight Board. institutional guide; **access:** search excerpt.
 
-## Collaboration and production (45)
+## Collaboration and production (44)
 
 ### T162 — Commons-based peer production
 
@@ -1331,16 +1201,6 @@ Cross-functional teams bring together the skills needed to complete an outcome w
 **Example situation:** A service redesign team could include operations, design, engineering, and customer support so it can test a complete improvement rather than queue work across departments.
 
 **Source:** [The Scrum Guide (2020)](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf) — Ken Schwaber and Jeff Sutherland. practitioner method; **access:** search excerpt.
-
-### T168 — Independent microenterprises
-
-Microenterprises organize economic activity in very small firms rather than large managerial structures. The ILO brief uses an employee-based definition and examines how limited administrative and financial capacity affects workers' access to social protection.
-
-**Limit:** Definitions vary and may exclude self-employment; enterprise size alone does not establish independence, worker autonomy, profitability, or adequate employment protections.
-
-**Example situation:** A few repair specialists could establish a small independent workshop, choosing how to share administration and customer relationships while accounting for their responsibilities toward employees.
-
-**Source:** [Extending social security to workers in micro and small enterprises](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf) — International Labour Organization. institutional guide; **access:** search excerpt.
 
 ### T169 — Guilds across teams
 
@@ -1732,7 +1592,7 @@ Franchising lets a local operator use an established business's name and operati
 
 **Source:** [A Consumer's Guide to Buying a Franchise](https://www.ftc.gov/business-guidance/resources/consumers-guide-buying-franchise) — US Federal Trade Commission. institutional guide; **access:** page.
 
-## Resources and ownership (54)
+## Resources and ownership (50)
 
 ### T212 — Auctions
 
@@ -2044,46 +1904,6 @@ Tradable quotas divide a regulated allowance into rights that eligible holders c
 
 **Source:** [Glossary: Catch Shares](https://www.fisheries.noaa.gov/national/sustainable-fisheries/glossary-catch-shares) — NOAA Fisheries. institutional guide; **access:** search excerpt.
 
-### T246 — Resource boundaries
-
-Resource boundaries specify the shared resource and distinguish entitled users from others. Ostrom identifies locally understood boundaries as one component of durable commons governance, alongside other complementary institutional arrangements.
-
-**Limit:** Boundaries can exclude legitimate users or ignore ecological connections; clarity alone cannot resolve competing claims or establish sustainable use.
-
-**Example situation:** Imagine a community orchard recording which trees it manages and who may harvest, while negotiating access with neighboring residents before enforcing any restrictions.
-
-**Source:** [Beyond Markets and States: Polycentric Governance of Complex Economic Systems](https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf) — Nobel Prize; Elinor Ostrom. research paper; **access:** search excerpt.
-
-### T247 — User participation in rulemaking
-
-User participation in rulemaking lets people who use and maintain a resource help shape its operating rules. The IAD framework distinguishes this process from decisions imposed entirely by external authorities.
-
-**Limit:** Participation can be dominated by people with more time or influence; consultation without actual decision rights may change little.
-
-**Example situation:** Imagine gardeners revising shared watering rules together after a dry summer, including members who cannot attend evening meetings through advance proposals and written feedback.
-
-**Source:** [How to Use the IAD Framework](https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf) — Ostrom Workshop, Indiana University. institutional guide; **access:** page.
-
-### T248 — Community monitoring
-
-Community monitoring makes resource use and maintenance observable to participants or accountable monitors. The IAD framework separates observation from rulemaking and sanctions, highlighting how information reaches those who can act on it.
-
-**Limit:** Monitoring can become intrusive or selective; trustworthy records and a way to question observations matter as much as visibility.
-
-**Example situation:** Imagine a shared workshop rotating responsibility for checking tool condition, recording problems in a common log and letting borrowers correct mistaken reports before action follows.
-
-**Source:** [How to Use the IAD Framework](https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf) — Ostrom Workshop, Indiana University. institutional guide; **access:** page.
-
-### T249 — Graduated sanctions
-
-Graduated sanctions respond to violations with consequences that escalate rather than immediately imposing the harshest penalty. Ostrom's account connects this graduated response to sustaining cooperation in governed common resources over time.
-
-**Limit:** Escalation needs proportionality and review; repeated minor penalties can protect powerful offenders if serious misconduct is treated too leniently.
-
-**Example situation:** Imagine a shared kitchen responding to missed cleaning duties with a reminder, then a repair obligation, while reserving a separate process for dangerous behavior.
-
-**Source:** [Beyond Markets and States: Polycentric Governance of Complex Economic Systems](https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf) — Nobel Prize; Elinor Ostrom. research paper; **access:** search excerpt.
-
 ### T256 — Employee ownership
 
 Employee ownership gives workers an ownership stake in the enterprise employing them. The NCEO introduction illustrates one particular vehicle, the employee stock ownership plan, rather than equating every ownership arrangement with worker self-government.
@@ -2274,7 +2094,7 @@ Risk-sharing pools combine participants' exposures within a shared arrangement. 
 
 **Source:** [Strengthening Disaster Resilience and Response in Latin America and the Caribbean](https://www.worldbank.org/en/results/2025/06/30/strengthening-disaster-resilience-and-response-in-lac) — World Bank. institutional guide; **access:** search excerpt.
 
-## Recognition and succession (32)
+## Recognition and succession (24)
 
 ### T272 — Certification
 
@@ -2345,16 +2165,6 @@ Contribution records preserve traces of participation for later inspection. GitH
 **Example situation:** Imagine a volunteer project reviewing a person's documented contributions before offering responsibilities, examining the work itself and asking about important contributions that its tracking system missed.
 
 **Source:** [Contributions on your profile](https://docs.github.com/en/account-and-profile/concepts/contributions-on-your-profile) — GitHub Docs. institutional guide; **access:** search excerpt.
-
-### T280 — Peer nominations
-
-Peer nominations ask knowledgeable others to put a person forward for recognition. ACM's guidance emphasizes evidence matched to award criteria and relevant endorsements, making nomination a structured advocacy process rather than automatic selection.
-
-**Limit:** Strong networks affect who gets nominated; polished endorsements can overshadow less connected contributors unless nomination access and evaluation criteria receive attention.
-
-**Example situation:** Imagine a volunteer association inviting members to nominate overlooked contributors, asking for concrete examples and disclosing relationships before a separate panel reviews the submissions.
-
-**Source:** [Advice for Award Nominators and Endorsers](https://awards.acm.org/binaries/content/assets/awards/advice-for-award-nominators-and-endorsers_07-2025.pdf) — Association for Computing Machinery. institutional guide; **access:** search excerpt.
 
 ### T282 — Contributor credits
 
@@ -2466,36 +2276,6 @@ Deputy roles distribute leadership responsibilities and provide continuity when 
 
 **Source:** [Creating the COO Position](https://www.bridgespan.org/getmedia/c60187c0-f6b7-4019-bd32-53b8872ae283/CreatingCOOPosition.pdf?ext=.pdf) — The Bridgespan Group. institutional guide; **access:** search excerpt.
 
-### T295 — Overlapping handovers
-
-Overlapping handovers create direct contact between outgoing and incoming responsibility holders. HSE's account combines preparation, exchange of task-relevant information, and incoming cross-checking, showing why a document alone may miss unresolved questions.
-
-**Limit:** Overlap requires time and clear responsibility boundaries; conversation without verification can transmit misunderstandings as easily as useful tacit knowledge.
-
-**Example situation:** Imagine an outgoing volunteer treasurer working alongside the replacement for one reporting cycle, reviewing outstanding payments together and confirming exactly when responsibility transfers.
-
-**Source:** [Shift handover](https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm) — UK Health and Safety Executive. institutional guide; **access:** search excerpt.
-
-### T296 — Graduated responsibility
-
-Graduated responsibility increases autonomy as demonstrated capability develops. ACGME's supervision framework links responsibility to assessed competence and the circumstances of the task, rather than advancing everyone solely according to time served.
-
-**Limit:** The clinical example is not general permission to delegate risky tasks; supervision must reflect actual ability and consequences of error.
-
-**Example situation:** Imagine a new event volunteer first observing bookings, then managing routine requests with review, and finally handling them independently after demonstrating reliable judgment.
-
-**Source:** [Common Program Requirements FAQs](https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf) — Accreditation Council for Graduate Medical Education. institutional guide; **access:** search excerpt.
-
-### T297 — Leadership pipelines
-
-Leadership pipelines develop a pool of potential successors before vacancies arise. OPM's framework connects future organizational needs, identified competencies, and development opportunities, treating continuity as an ongoing process rather than emergency replacement.
-
-**Limit:** Early labels can entrench favorites and exclude late developers; a pipeline should not imply guaranteed promotion or a closed succession list.
-
-**Example situation:** Imagine a growing association offering several volunteers progressively broader responsibilities, reviewing future needs and keeping leadership opportunities open beyond the initial development cohort.
-
-**Source:** [Succession Planning Process](https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/) — U.S. Office of Personnel Management. institutional guide; **access:** search excerpt.
-
 ### T298 — Founder transition agreements
 
 Founder transition agreements clarify what a departing founder may continue doing and what passes to successors. INTRAC emphasizes board responsibility and explicit boundaries when founders remain involved, reducing ambiguity around continuing influence.
@@ -2526,16 +2306,6 @@ Exit interviews ask departing participants about their experience and reasons fo
 
 **Source:** [Exit Interviews](https://www.gla.ac.uk/myglasgow/pod/mgrs-admin/mgr-guidance/leaverguidance/exit-int/) — University of Glasgow. institutional guide; **access:** search excerpt.
 
-### T301 — Institutional memory interviews
-
-Institutional memory interviews preserve participants' accounts of how an organization worked and what they learned. NASA's oral history project includes people in many roles, capturing experience that formal project records may not convey.
-
-**Limit:** Recollections are selective and can conflict; interviews need consent, contextual records, and multiple perspectives rather than being treated as unquestionable institutional truth.
-
-**Example situation:** Imagine a neighborhood association interviewing longtime organizers about failed campaigns and turning points, archiving recordings with permission alongside documents that help later members assess the accounts.
-
-**Source:** [Johnson Space Center Oral History Project](https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html) — NASA. history; **access:** search excerpt.
-
 ### T302 — Backup ownership
 
 Backup ownership gives more than one trusted person the access needed to keep a shared project operating. The Open Source Guides recommend organizational accounts and a backup administrator to reduce dependence on one individual.
@@ -2545,16 +2315,6 @@ Backup ownership gives more than one trusted person the access needed to keep a 
 **Example situation:** Imagine a volunteer website adding a second authorized administrator, testing recovery access and documenting renewal responsibilities before the original maintainer leaves for several months.
 
 **Source:** [Leadership and Governance](https://opensource.guide/pcm/leadership-and-governance/) — GitHub Open Source Guides. institutional guide; **access:** search excerpt.
-
-### T303 — Stewardship terms
-
-Stewardship terms specify how long a person holds entrusted authority and whether renewal is possible. Wikimedia's trustee description illustrates fixed renewable terms, making duration and continuation explicit parts of institutional governance.
-
-**Limit:** Term limits can refresh leadership but also remove experience; duration alone does not establish accountability during a person's time in office.
-
-**Example situation:** Imagine a community land organization giving trustees fixed terms, scheduling staggered renewals and documenting handovers so leadership changes do not leave essential responsibilities unattended.
-
-**Source:** [Our 2026 Trustee Search](https://wikimediafoundation.org/our-2026-trustee-search/) — Wikimedia Foundation. institutional guide; **access:** search excerpt.
 
 ### T305 — Lineage recognition
 
@@ -2575,26 +2335,6 @@ Oaths of office mark entry into a role through an explicit commitment to its dut
 **Example situation:** Imagine a newly elected association board publicly affirming its responsibilities and conflict rules at the start of a term, while explaining the mechanisms members can use to challenge misconduct.
 
 **Source:** [Oath of Office](https://www.senate.gov/about/origins-foundations/senate-and-constitution/oath-of-office.htm) — United States Senate. history; **access:** search excerpt.
-
-### T337 — Peer juries for awards
-
-Peer juries assess submissions using relevant experience and stated criteria. The NEA process illustrates rotating, conflict-free advisory panels whose recommendations pass through further decision stages, distinguishing expert assessment from final award authority.
-
-**Limit:** Peer judgment can reproduce disciplinary preferences; conflict rules, varied perspectives, and clarity about final authority remain necessary even with experienced reviewers.
-
-**Example situation:** Imagine a local arts fund appointing a rotating panel of practitioners and community members, disclosing conflicts and recording how published criteria guide its recommendations.
-
-**Source:** [Grant Review Process](https://www.arts.gov/grants/grant-review-process) — National Endowment for the Arts. institutional guide; **access:** search excerpt.
-
-### T338 — Recallable stewardship
-
-Recallable stewardship makes continued authority conditional on review rather than permanent possession. Wikimedia stewards undergo community comment and steward deliberation, with defined procedures for removing access when continuation is no longer supported.
-
-**Limit:** This example combines community input with peer deliberation rather than direct popular recall; effective accountability depends on accessible evidence and fair procedures.
-
-**Example situation:** Imagine a community platform periodically reviewing administrators' use of permissions, allowing documented concerns and specifying who can suspend or remove access after a fair review.
-
-**Source:** [Stewards: Confirmations and Removal of Access](https://meta.wikimedia.org/wiki/Stewards) — Wikimedia community, Meta-Wiki. practitioner method; **access:** page.
 
 ## Systems and institutions (5)
 

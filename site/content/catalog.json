@@ -36,7 +36,14 @@
     "published": true,
     "adaptation": false,
     "aliases": [],
-    "terms": []
+    "terms": [
+      "Deliberate practice with feedback",
+      "deliberate practice",
+      "targeted practice",
+      "Workshops",
+      "hands-on workshop",
+      "skills workshop"
+    ]
   },
   {
     "id": "T003",
@@ -89,7 +96,14 @@
     "published": true,
     "adaptation": false,
     "aliases": [],
-    "terms": []
+    "terms": [
+      "Show-and-tell sessions",
+      "demo session",
+      "show and tell",
+      "Knowledge fairs",
+      "knowledge marketplace",
+      "learning fair"
+    ]
   },
   {
     "id": "T005",
@@ -278,43 +292,6 @@
     }
   },
   {
-    "id": "T010",
-    "title": "Deliberate practice with feedback",
-    "slug": "deliberate-practice-with-feedback",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Repeat targeted tasks with feedback on specific weaknesses.",
-    "example": "Improve a clearly defined component of a skill.",
-    "sources": [
-      "R-T010"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "deliberate practice",
-      "targeted practice"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T010",
-      "title": "Deliberate practice with feedback",
-      "source_title": "The Role of Deliberate Practice in the Acquisition of Expert Performance",
-      "url": "https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf",
-      "publisher": "Psychological Review / Ericsson, Krampe and Tesch-Römer",
-      "source_type": "research paper",
-      "access": "search excerpt",
-      "finding": "Deliberate practice organizes effort around improving a specific aspect of performance, with informative feedback and opportunities to correct errors. Its mechanism differs from merely accumulating time doing familiar tasks without targeted revision.",
-      "limitation": "This influential account concerns expert performance; it does not establish that practice alone explains every difference in ability or achievement.",
-      "scenario": "Hypothetically, a public speaker could rehearse only the opening minute, receive feedback on unclear sentences, revise them, and repeat before practicing the entire talk.",
-      "aliases": [
-        "deliberate practice",
-        "targeted practice"
-      ],
-      "scale": "everyday",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
     "id": "T011",
     "title": "Job shadowing",
     "slug": "job-shadowing",
@@ -498,96 +475,6 @@
         "ask me anything"
       ],
       "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T016",
-    "title": "Lightning talks",
-    "slug": "lightning-talks",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Short presentations expose a group to many interests.",
-    "example": "Discover fellow residents' skills.",
-    "sources": [
-      "SN-L"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T017",
-    "title": "Show-and-tell sessions",
-    "slug": "show-and-tell-sessions",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "People demonstrate work and explain choices.",
-    "example": "Share progress through concrete artifacts.",
-    "sources": [
-      "R-T017"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "demo session",
-      "show and tell"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T017",
-      "title": "Show-and-tell sessions",
-      "source_title": "Agile Tools and Techniques",
-      "url": "https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques",
-      "publisher": "UK Government Digital Service",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Show-and-tell sessions make work in progress visible to people outside the immediate task. Demonstrating actual outputs and discussing learning creates an opportunity for questions and feedback before work becomes a finished announcement.",
-      "limitation": "A demonstration can hide difficult tradeoffs if it becomes performance theatre; useful feedback requires showing uncertainties as well as polished results.",
-      "scenario": "Hypothetically, a community garden team could show its first irrigation prototype at a monthly gathering and ask other gardeners which beds and routines it overlooks.",
-      "aliases": [
-        "demo session",
-        "show and tell"
-      ],
-      "scale": "groups",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T018",
-    "title": "Workshops",
-    "slug": "workshops",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Participants learn through facilitated hands-on activity.",
-    "example": "Practice a method together before using it independently.",
-    "sources": [
-      "R-T018"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "hands-on workshop",
-      "skills workshop"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T018",
-      "title": "Workshops",
-      "source_title": "Instructors Handbook",
-      "url": "https://docs.carpentries.org/handbooks/instructors.html",
-      "publisher": "The Carpentries",
-      "source_type": "institutional guide",
-      "access": "page",
-      "finding": "A workshop concentrates organized learning into a bounded event with prepared material, instructors, and participant activity. The Carpentries handbook makes preparation and instructional responsibilities explicit rather than assuming that gathering people automatically creates learning.",
-      "limitation": "The source describes a particular training organization; workshop quality varies with curriculum, facilitation, available practice, and participants’ starting knowledge.",
-      "scenario": "Hypothetically, a repair club could run a two-hour workshop where participants bring a broken zipper, observe a demonstration, and practice repairs with instructor feedback.",
-      "aliases": [
-        "hands-on workshop",
-        "skills workshop"
-      ],
-      "scale": "groups",
       "reviewed_on": "2026-11-05"
     }
   },
@@ -1289,91 +1176,6 @@
     }
   },
   {
-    "id": "T041",
-    "title": "Troika Consulting",
-    "slug": "troika-consulting",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Three participants alternate receiving and offering help.",
-    "example": "Explore a challenge with peers.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T042",
-    "title": "Appreciative Interviews",
-    "slug": "appreciative-interviews",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Interview partners about successful experiences.",
-    "example": "Discover existing strengths.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T043",
-    "title": "What, So What, Now What",
-    "slug": "what-so-what-now-what",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Separate observations, interpretations, and next actions.",
-    "example": "Reflect after an event.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T047",
-    "title": "Unconferences",
-    "slug": "unconferences",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Attendees help determine the event's sessions.",
-    "example": "Match discussion topics to participants' actual interests.",
-    "sources": [
-      "R-T047"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "participant-led conference",
-      "unconference"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T047",
-      "title": "Unconferences",
-      "source_title": "Unconferencing: How to Prepare to Attend an Unconference",
-      "url": "https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/",
-      "publisher": "Unconference.net / Kaliya",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "An unconference lets participants propose and organize sessions rather than receiving a fully predetermined program. A shared theme and scheduling process turn attendees’ interests into parallel conversations that can range from practical workshops to informal discussion.",
-      "limitation": "Participant control does not remove the need for facilitation and logistics; confidence and familiarity with the format can affect whose sessions happen.",
-      "scenario": "Hypothetically, local makers could gather for a day, propose the problems they want help with, assemble a session grid, and choose which conversations to join.",
-      "aliases": [
-        "participant-led conference",
-        "unconference"
-      ],
-      "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
     "id": "T048",
     "title": "Delphi process",
     "slug": "delphi-process",
@@ -1445,43 +1247,6 @@
       ],
       "scale": "groups",
       "adaptation": true,
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T050",
-    "title": "Premortems",
-    "slug": "premortems",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Imagine a plan has failed and identify plausible causes.",
-    "example": "Surface reservations before execution.",
-    "sources": [
-      "R-T050"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "pre-mortem",
-      "prospective hindsight"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T050",
-      "title": "Premortems",
-      "source_title": "Premortem",
-      "url": "https://www.gary-klein.com/premortem",
-      "publisher": "Gary Klein",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "A premortem asks a team to imagine that its proposed plan has already failed and generate plausible reasons. This framing gives participants permission to surface reservations before commitments make them harder to voice.",
-      "limitation": "Imagined causes are hypotheses rather than predictions; the exercise needs follow-up to distinguish manageable risks from vivid but unlikely stories.",
-      "scenario": "Hypothetically, organizers planning a neighborhood dinner could imagine nobody enjoyed it, list possible reasons independently, and change the invitation and seating plan before sending invitations.",
-      "aliases": [
-        "pre-mortem",
-        "prospective hindsight"
-      ],
-      "scale": "groups",
       "reviewed_on": "2026-11-05"
     }
   },
@@ -1597,43 +1362,6 @@
     }
   },
   {
-    "id": "T310",
-    "title": "Knowledge fairs",
-    "slug": "knowledge-fairs",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Participants offer demonstrations and exchange expertise across stations.",
-    "example": "Discover capabilities across a large community.",
-    "sources": [
-      "R-T310"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "knowledge marketplace",
-      "learning fair"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T310",
-      "title": "Knowledge fairs",
-      "source_title": "The Art of Knowledge Exchange: Knowledge Fair",
-      "url": "https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf",
-      "publisher": "World Bank",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "A knowledge fair gathers demonstrations and accounts of participants’ work so visitors can discover practices and potential partners. The World Bank guide presents it as a way to share experience, increase visibility, and build connections across projects.",
-      "limitation": "Showcasing a practice does not establish its effectiveness; fairs need opportunities to question claims and follow up beyond an attractive presentation.",
-      "scenario": "Hypothetically, several neighborhood associations could each demonstrate one completed project at a shared fair, letting visitors compare approaches and arrange visits with relevant organizers.",
-      "aliases": [
-        "knowledge marketplace",
-        "learning fair"
-      ],
-      "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
     "id": "T051",
     "title": "Recurring open gatherings",
     "slug": "recurring-open-gatherings",
@@ -1647,7 +1375,15 @@
     "published": true,
     "adaptation": false,
     "aliases": [],
-    "terms": []
+    "terms": [
+      "Lightning talks",
+      "Unconferences",
+      "participant-led conference",
+      "unconference",
+      "Protected unstructured time",
+      "Shared journeys",
+      "short presentations"
+    ]
   },
   {
     "id": "T052",
@@ -1715,38 +1451,6 @@
     ],
     "published": true,
     "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T055",
-    "title": "Protected unstructured time",
-    "slug": "protected-unstructured-time",
-    "kind": "P",
-    "category": "Belonging and relationships",
-    "description": "Leave room for participant-led interaction.",
-    "example": "Let conference conversations continue.",
-    "sources": [
-      "BSC"
-    ],
-    "published": true,
-    "adaptation": true,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T056",
-    "title": "Shared journeys",
-    "slug": "shared-journeys",
-    "kind": "P",
-    "category": "Belonging and relationships",
-    "description": "Travel together creates extended informal contact.",
-    "example": "Help a cohort meet before an event.",
-    "sources": [
-      "BSC"
-    ],
-    "published": true,
-    "adaptation": true,
     "aliases": [],
     "terms": []
   },
@@ -1925,43 +1629,6 @@
       "aliases": [
         "warm introduction",
         "network introduction"
-      ],
-      "scale": "everyday",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T064",
-    "title": "Listening pairs",
-    "slug": "listening-pairs",
-    "kind": "P",
-    "category": "Belonging and relationships",
-    "description": "Partners alternate speaking and attentive listening.",
-    "example": "Provide space for concerns outside a large meeting.",
-    "sources": [
-      "R-T064"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "paired listening",
-      "listening partners"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T064",
-      "title": "Listening pairs",
-      "source_title": "Active Listening",
-      "url": "https://www.seedsforchange.org.uk/downloads/activelistening.pdf",
-      "publisher": "Seeds for Change",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "Listening pairs allocate each person a turn to speak while the other listens. The speaker can choose silence, a summary, or follow-up questions, separating attention to their experience from the listener’s impulse to contribute their own story.",
-      "limitation": "The exercise structures listening but is not therapy or compulsory disclosure; participants need permission to choose what they share.",
-      "scenario": "Hypothetically, two project partners could each take five uninterrupted minutes to explain what has frustrated them, then summarize what they heard before proposing changes.",
-      "aliases": [
-        "paired listening",
-        "listening partners"
       ],
       "scale": "everyday",
       "reviewed_on": "2026-11-05"
@@ -2993,43 +2660,6 @@
     }
   },
   {
-    "id": "T096",
-    "title": "Accessibility arrangements",
-    "slug": "accessibility-arrangements",
-    "kind": "P",
-    "category": "Belonging and relationships",
-    "description": "Provide agreed supports for participation.",
-    "example": "Include people excluded by the default meeting setup.",
-    "sources": [
-      "R-T096"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "access accommodations",
-      "inclusive event access"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T096",
-      "title": "Accessibility arrangements",
-      "source_title": "Making Events Accessible",
-      "url": "https://www.w3.org/WAI/teach-advocate/accessible-presentations/",
-      "publisher": "World Wide Web Consortium Web Accessibility Initiative",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Accessibility arrangements change an event’s venue, communication, materials, and participation options to accommodate differing needs. W3C’s checklist treats physical access, remote platforms, captions, interpretation, and advance information as planning responsibilities rather than last-minute favors.",
-      "limitation": "No single checklist anticipates every participant’s needs; organizers must communicate, provide usable information, and respond when the planned arrangements prove insufficient.",
-      "scenario": "Hypothetically, a neighborhood assembly could publish accessible materials early, arrange captions and step-free access, and ask registrants which additional participation arrangements they need.",
-      "aliases": [
-        "access accommodations",
-        "inclusive event access"
-      ],
-      "scale": "groups",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
     "id": "T097",
     "title": "Confidentiality agreements",
     "slug": "confidentiality-agreements",
@@ -3410,7 +3040,11 @@
     "published": true,
     "adaptation": false,
     "aliases": [],
-    "terms": []
+    "terms": [
+      "Accessibility arrangements",
+      "access accommodations",
+      "inclusive event access"
+    ]
   },
   {
     "id": "T106",
@@ -3554,7 +3188,8 @@
     "adaptation": true,
     "aliases": [],
     "terms": [
-      "appointed office"
+      "appointed office",
+      "Nomination with reasons"
     ],
     "research": {
       "id": "T110",
@@ -3577,22 +3212,6 @@
     }
   },
   {
-    "id": "T111",
-    "title": "Nomination with reasons",
-    "slug": "nomination-with-reasons",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Explain role nominations before selection.",
-    "example": "Make selection criteria discussable.",
-    "sources": [
-      "S3"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
     "id": "T112",
     "title": "Term limits",
     "slug": "term-limits",
@@ -3607,7 +3226,10 @@
     "adaptation": true,
     "aliases": [],
     "terms": [
-      "tenure limits"
+      "tenure limits",
+      "Stewardship terms",
+      "terms of office",
+      "fixed stewardship terms"
     ],
     "research": {
       "id": "T112",
@@ -3682,7 +3304,12 @@
     "aliases": [
       "recall elections"
     ],
-    "terms": [],
+    "terms": [
+      "Recallable stewardship",
+      "revocable delegation",
+      "steward recall",
+      "removable stewardship"
+    ],
     "research": {
       "id": "T114",
       "title": "Recall procedures",
@@ -4012,22 +3639,6 @@
     "terms": []
   },
   {
-    "id": "T126",
-    "title": "Fist-to-five checks",
-    "slug": "fist-to-five-checks",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Participants signal degrees of support with their hands.",
-    "example": "Locate reservations before deciding; specify binding rules separately.",
-    "sources": [
-      "SN-D"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
     "id": "T127",
     "title": "Approval voting",
     "slug": "approval-voting",
@@ -4137,45 +3748,6 @@
       "scale": "groups",
       "terms": [],
       "adaptation": true,
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T130",
-    "title": "Dot voting",
-    "slug": "dot-voting",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Participants allocate limited marks across options.",
-    "example": "Prioritize discussion topics; avoid treating it as full deliberation.",
-    "sources": [
-      "R-T130"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": [
-      "dotmocracy",
-      "sticker voting"
-    ],
-    "research": {
-      "id": "T130",
-      "title": "Dot voting",
-      "source_title": "Dot Voting",
-      "url": "https://gamestorming.com/dot-voting/",
-      "publisher": "Gamestorming",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "Dot voting gives participants a limited number of marks to distribute among visible options. Counting the marks reveals a group's expressed priorities and can narrow a long list for further discussion or selection.",
-      "limitation": "Visible voting can influence later participants, and prioritization does not substitute for examining feasibility, objections, or the reasons behind preferences.",
-      "scenario": "After generating twenty workshop ideas, a team could give everyone three dots and discuss the highest-ranked options before committing time or money.",
-      "aliases": [],
-      "scale": "groups",
-      "terms": [
-        "dotmocracy",
-        "sticker voting"
-      ],
-      "adaptation": false,
       "reviewed_on": "2026-11-05"
     }
   },
@@ -4291,43 +3863,6 @@
       "scale": "institutions",
       "terms": [],
       "adaptation": true,
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T134",
-    "title": "Delegation poker",
-    "slug": "delegation-poker",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Discuss and compare desired levels of delegated authority.",
-    "example": "Clarify how much autonomy a team has.",
-    "sources": [
-      "R-T134"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": [
-      "delegation levels"
-    ],
-    "research": {
-      "id": "T134",
-      "title": "Delegation poker",
-      "source_title": "Delegation Poker",
-      "url": "https://management30.com/practice/delegation-poker/",
-      "publisher": "Management 3.0",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "Delegation Poker makes expectations about decision authority discussable through seven levels ranging from managerial decisions to team delegation. Participants compare their chosen levels for a concrete decision and negotiate a shared understanding of authority.",
-      "limitation": "The exercise clarifies expectations but does not itself legally or operationally transfer authority; the resulting agreements need explicit application and review.",
-      "scenario": "A manager and team could play through hiring, purchasing, and scheduling decisions, then document which decisions require consultation and which the team can make independently.",
-      "aliases": [],
-      "scale": "groups",
-      "terms": [
-        "delegation levels"
-      ],
-      "adaptation": false,
       "reviewed_on": "2026-11-05"
     }
   },
@@ -4907,7 +4442,9 @@
     "aliases": [
       "expiry clauses"
     ],
-    "terms": [],
+    "terms": [
+      "Policy review dates"
+    ],
     "research": {
       "id": "T157",
       "title": "Sunset clauses",
@@ -4927,22 +4464,6 @@
       "adaptation": true,
       "reviewed_on": "2026-11-05"
     }
-  },
-  {
-    "id": "T158",
-    "title": "Policy review dates",
-    "slug": "policy-review-dates",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Schedule reconsideration of agreements.",
-    "example": "Adapt rules as circumstances change.",
-    "sources": [
-      "S3"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
   },
   {
     "id": "T159",
@@ -5593,43 +5114,6 @@
     "adaptation": false,
     "aliases": [],
     "terms": []
-  },
-  {
-    "id": "T168",
-    "title": "Independent microenterprises",
-    "slug": "independent-microenterprises",
-    "kind": "F",
-    "category": "Collaboration and production",
-    "description": "Very small businesses organize production and exchange.",
-    "example": "Provide local services with a small operating unit.",
-    "sources": [
-      "R-T168"
-    ],
-    "published": true,
-    "adaptation": true,
-    "aliases": [],
-    "terms": [
-      "micro-enterprises"
-    ],
-    "research": {
-      "id": "T168",
-      "title": "Independent microenterprises",
-      "source_title": "Extending social security to workers in micro and small enterprises",
-      "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf",
-      "publisher": "International Labour Organization",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Microenterprises organize economic activity in very small firms rather than large managerial structures. The ILO brief uses an employee-based definition and examines how limited administrative and financial capacity affects workers' access to social protection.",
-      "limitation": "Definitions vary and may exclude self-employment; enterprise size alone does not establish independence, worker autonomy, profitability, or adequate employment protections.",
-      "scenario": "A few repair specialists could establish a small independent workshop, choosing how to share administration and customer relationships while accounting for their responsibilities toward employees.",
-      "aliases": [],
-      "scale": "institutions",
-      "terms": [
-        "micro-enterprises"
-      ],
-      "adaptation": true,
-      "reviewed_on": "2026-11-05"
-    }
   },
   {
     "id": "T169",
@@ -6831,86 +6315,6 @@
       "adaptation": true,
       "reviewed_on": "2026-11-05"
     }
-  },
-  {
-    "id": "T206",
-    "title": "Minimum specifications",
-    "slug": "minimum-specifications",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Specify only essential constraints.",
-    "example": "Leave room for local methods.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T207",
-    "title": "15% Solutions",
-    "slug": "15-solutions",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Identify actions within existing discretion.",
-    "example": "Start without waiting for additional authority.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T208",
-    "title": "Discovery-and-Action Dialogue",
-    "slug": "discovery-and-action-dialogue",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Explore obstacles and locally successful behaviors.",
-    "example": "Find practical responses within a group.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T209",
-    "title": "What I Need From You",
-    "slug": "what-i-need-from-you",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Exchange concrete requests across groups.",
-    "example": "Clarify dependencies.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T210",
-    "title": "Purpose-to-Practice",
-    "slug": "purpose-to-practice",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Connect purpose with participants and working arrangements.",
-    "example": "Design a shared initiative.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
   },
   {
     "id": "T326",
@@ -8334,155 +7738,20 @@
     "published": true,
     "adaptation": false,
     "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T246",
-    "title": "Resource boundaries",
-    "slug": "resource-boundaries",
-    "kind": "P",
-    "category": "Resources and ownership",
-    "description": "Identify the resource and legitimate users.",
-    "example": "Clarify who participates in commons governance.",
-    "sources": [
-      "R-T246"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
+    "terms": [
+      "Resource boundaries",
       "commons boundaries",
-      "user boundaries"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T246",
-      "title": "Resource boundaries",
-      "source_title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
-      "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf",
-      "publisher": "Nobel Prize; Elinor Ostrom",
-      "source_type": "research paper",
-      "access": "search excerpt",
-      "finding": "Resource boundaries specify the shared resource and distinguish entitled users from others. Ostrom identifies locally understood boundaries as one component of durable commons governance, alongside other complementary institutional arrangements.",
-      "limitation": "Boundaries can exclude legitimate users or ignore ecological connections; clarity alone cannot resolve competing claims or establish sustainable use.",
-      "scenario": "Imagine a community orchard recording which trees it manages and who may harvest, while negotiating access with neighboring residents before enforcing any restrictions.",
-      "aliases": [
-        "commons boundaries",
-        "user boundaries"
-      ],
-      "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T247",
-    "title": "User participation in rulemaking",
-    "slug": "user-participation-in-rulemaking",
-    "kind": "P",
-    "category": "Resources and ownership",
-    "description": "Affected users help revise operational rules.",
-    "example": "Adapt management to local conditions.",
-    "sources": [
-      "R-T247"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
+      "user boundaries",
+      "User participation in rulemaking",
       "collective-choice arrangements",
-      "participatory rulemaking"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T247",
-      "title": "User participation in rulemaking",
-      "source_title": "How to Use the IAD Framework",
-      "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf",
-      "publisher": "Ostrom Workshop, Indiana University",
-      "source_type": "institutional guide",
-      "access": "page",
-      "finding": "User participation in rulemaking lets people who use and maintain a resource help shape its operating rules. The IAD framework distinguishes this process from decisions imposed entirely by external authorities.",
-      "limitation": "Participation can be dominated by people with more time or influence; consultation without actual decision rights may change little.",
-      "scenario": "Imagine gardeners revising shared watering rules together after a dry summer, including members who cannot attend evening meetings through advance proposals and written feedback.",
-      "aliases": [
-        "collective-choice arrangements",
-        "participatory rulemaking"
-      ],
-      "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T248",
-    "title": "Community monitoring",
-    "slug": "community-monitoring",
-    "kind": "P",
-    "category": "Resources and ownership",
-    "description": "Users or accountable monitors observe compliance.",
-    "example": "Make shared commitments observable.",
-    "sources": [
-      "R-T248"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
+      "participatory rulemaking",
+      "Community monitoring",
       "peer monitoring",
-      "commons monitoring"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T248",
-      "title": "Community monitoring",
-      "source_title": "How to Use the IAD Framework",
-      "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf",
-      "publisher": "Ostrom Workshop, Indiana University",
-      "source_type": "institutional guide",
-      "access": "page",
-      "finding": "Community monitoring makes resource use and maintenance observable to participants or accountable monitors. The IAD framework separates observation from rulemaking and sanctions, highlighting how information reaches those who can act on it.",
-      "limitation": "Monitoring can become intrusive or selective; trustworthy records and a way to question observations matter as much as visibility.",
-      "scenario": "Imagine a shared workshop rotating responsibility for checking tool condition, recording problems in a common log and letting borrowers correct mistaken reports before action follows.",
-      "aliases": [
-        "peer monitoring",
-        "commons monitoring"
-      ],
-      "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T249",
-    "title": "Graduated sanctions",
-    "slug": "graduated-sanctions",
-    "kind": "P",
-    "category": "Resources and ownership",
-    "description": "Responses escalate with severity or repetition.",
-    "example": "Address breaches without treating every case identically.",
-    "sources": [
-      "R-T249"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
+      "commons monitoring",
+      "Graduated sanctions",
       "escalating consequences",
       "proportionate sanctions"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T249",
-      "title": "Graduated sanctions",
-      "source_title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
-      "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf",
-      "publisher": "Nobel Prize; Elinor Ostrom",
-      "source_type": "research paper",
-      "access": "search excerpt",
-      "finding": "Graduated sanctions respond to violations with consequences that escalate rather than immediately imposing the harshest penalty. Ostrom's account connects this graduated response to sustaining cooperation in governed common resources over time.",
-      "limitation": "Escalation needs proportionality and review; repeated minor penalties can protect powerful offenders if serious misconduct is treated too leniently.",
-      "scenario": "Imagine a shared kitchen responding to missed cleaning duties with a reminder, then a repair obligation, while reserving a separate process for dangerous behavior.",
-      "aliases": [
-        "escalating consequences",
-        "proportionate sanctions"
-      ],
-      "scale": "communities",
-      "reviewed_on": "2026-11-05"
-    }
+    ]
   },
   {
     "id": "T250",
@@ -9610,47 +8879,17 @@
     "published": true,
     "adaptation": false,
     "aliases": [],
-    "terms": [],
+    "terms": [
+      "Peer nominations",
+      "peer endorsement",
+      "award nomination",
+      "Peer juries for awards",
+      "peer award panel",
+      "award jury"
+    ],
     "outline": {
       "What to explain": "Awards can direct the efforts of groups of people by making certain achievements worth striving for. A team can honor the people who help colleagues succeed; a professional community can celebrate work that advances its field; a national award can elevate contributions that a society wants more people to pursue. At each scale, recognition reaches beyond the recipient: it shows everyone watching what earns respect and what they might aspire to do. But announcing an award is not enough. Its influence depends on who gives it, whom they choose, and whether the people they hope to reach take it seriously.",
       "Source": "Samo Burja, Great Founder Theory, “Honors Fuel Achievement,” pp. 40–46, especially “Awards are better than prizes,” pp. 44–46."
-    }
-  },
-  {
-    "id": "T280",
-    "title": "Peer nominations",
-    "slug": "peer-nominations",
-    "kind": "P",
-    "category": "Recognition and succession",
-    "description": "Invite participants to identify others' contributions.",
-    "example": "Surface valuable work beyond managers' visibility.",
-    "sources": [
-      "R-T280"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "peer endorsement",
-      "award nomination"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T280",
-      "title": "Peer nominations",
-      "source_title": "Advice for Award Nominators and Endorsers",
-      "url": "https://awards.acm.org/binaries/content/assets/awards/advice-for-award-nominators-and-endorsers_07-2025.pdf",
-      "publisher": "Association for Computing Machinery",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Peer nominations ask knowledgeable others to put a person forward for recognition. ACM's guidance emphasizes evidence matched to award criteria and relevant endorsements, making nomination a structured advocacy process rather than automatic selection.",
-      "limitation": "Strong networks affect who gets nominated; polished endorsements can overshadow less connected contributors unless nomination access and evaluation criteria receive attention.",
-      "scenario": "Imagine a volunteer association inviting members to nominate overlooked contributors, asking for concrete examples and disclosing relationships before a separate panel reviews the submissions.",
-      "aliases": [
-        "peer endorsement",
-        "award nomination"
-      ],
-      "scale": "communities",
-      "reviewed_on": "2026-11-05"
     }
   },
   {
@@ -10075,7 +9314,21 @@
     "published": true,
     "adaptation": false,
     "aliases": [],
-    "terms": []
+    "terms": [
+      "Overlapping handovers",
+      "handover overlap",
+      "transition overlap",
+      "Graduated responsibility",
+      "progressive responsibility",
+      "progressive autonomy",
+      "Leadership pipelines",
+      "succession planning",
+      "leadership development pool",
+      "Institutional memory interviews",
+      "organizational oral history",
+      "memory interviews",
+      "Knowledge succession demonstrations"
+    ]
   },
   {
     "id": "T294",
@@ -10111,117 +9364,6 @@
         "second-in-command",
         "deputy leader",
         "backup leader"
-      ],
-      "scale": "institutions",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T295",
-    "title": "Overlapping handovers",
-    "slug": "overlapping-handovers",
-    "kind": "P",
-    "category": "Recognition and succession",
-    "description": "Incoming and outgoing role holders work together temporarily.",
-    "example": "Transfer judgment as well as documents.",
-    "sources": [
-      "R-T295"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "handover overlap",
-      "transition overlap"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T295",
-      "title": "Overlapping handovers",
-      "source_title": "Shift handover",
-      "url": "https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm",
-      "publisher": "UK Health and Safety Executive",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Overlapping handovers create direct contact between outgoing and incoming responsibility holders. HSE's account combines preparation, exchange of task-relevant information, and incoming cross-checking, showing why a document alone may miss unresolved questions.",
-      "limitation": "Overlap requires time and clear responsibility boundaries; conversation without verification can transmit misunderstandings as easily as useful tacit knowledge.",
-      "scenario": "Imagine an outgoing volunteer treasurer working alongside the replacement for one reporting cycle, reviewing outstanding payments together and confirming exactly when responsibility transfers.",
-      "aliases": [
-        "handover overlap",
-        "transition overlap"
-      ],
-      "scale": "institutions",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T296",
-    "title": "Graduated responsibility",
-    "slug": "graduated-responsibility",
-    "kind": "P",
-    "category": "Recognition and succession",
-    "description": "Increase authority as capability is demonstrated.",
-    "example": "Develop successors without transferring everything at once.",
-    "sources": [
-      "R-T296"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "progressive responsibility",
-      "progressive autonomy"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T296",
-      "title": "Graduated responsibility",
-      "source_title": "Common Program Requirements FAQs",
-      "url": "https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf",
-      "publisher": "Accreditation Council for Graduate Medical Education",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Graduated responsibility increases autonomy as demonstrated capability develops. ACGME's supervision framework links responsibility to assessed competence and the circumstances of the task, rather than advancing everyone solely according to time served.",
-      "limitation": "The clinical example is not general permission to delegate risky tasks; supervision must reflect actual ability and consequences of error.",
-      "scenario": "Imagine a new event volunteer first observing bookings, then managing routine requests with review, and finally handling them independently after demonstrating reliable judgment.",
-      "aliases": [
-        "progressive responsibility",
-        "progressive autonomy"
-      ],
-      "scale": "groups",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T297",
-    "title": "Leadership pipelines",
-    "slug": "leadership-pipelines",
-    "kind": "F",
-    "category": "Recognition and succession",
-    "description": "Connect development experiences to progressively demanding roles.",
-    "example": "Prepare future leaders across generations.",
-    "sources": [
-      "R-T297"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "succession planning",
-      "leadership development pool"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T297",
-      "title": "Leadership pipelines",
-      "source_title": "Succession Planning Process",
-      "url": "https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/",
-      "publisher": "U.S. Office of Personnel Management",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Leadership pipelines develop a pool of potential successors before vacancies arise. OPM's framework connects future organizational needs, identified competencies, and development opportunities, treating continuity as an ongoing process rather than emergency replacement.",
-      "limitation": "Early labels can entrench favorites and exclude late developers; a pipeline should not imply guaranteed promotion or a closed succession list.",
-      "scenario": "Imagine a growing association offering several volunteers progressively broader responsibilities, reviewing future needs and keeping leadership opportunities open beyond the initial development cohort.",
-      "aliases": [
-        "succession planning",
-        "leadership development pool"
       ],
       "scale": "institutions",
       "reviewed_on": "2026-11-05"
@@ -10342,43 +9484,6 @@
     }
   },
   {
-    "id": "T301",
-    "title": "Institutional memory interviews",
-    "slug": "institutional-memory-interviews",
-    "kind": "P",
-    "category": "Recognition and succession",
-    "description": "Capture a role holder's reasoning and relationships before departure.",
-    "example": "Transfer context absent from formal procedures.",
-    "sources": [
-      "R-T301"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "organizational oral history",
-      "memory interviews"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T301",
-      "title": "Institutional memory interviews",
-      "source_title": "Johnson Space Center Oral History Project",
-      "url": "https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html",
-      "publisher": "NASA",
-      "source_type": "history",
-      "access": "search excerpt",
-      "finding": "Institutional memory interviews preserve participants' accounts of how an organization worked and what they learned. NASA's oral history project includes people in many roles, capturing experience that formal project records may not convey.",
-      "limitation": "Recollections are selective and can conflict; interviews need consent, contextual records, and multiple perspectives rather than being treated as unquestionable institutional truth.",
-      "scenario": "Imagine a neighborhood association interviewing longtime organizers about failed campaigns and turning points, archiving recordings with permission alongside documents that help later members assess the accounts.",
-      "aliases": [
-        "organizational oral history",
-        "memory interviews"
-      ],
-      "scale": "institutions",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
     "id": "T302",
     "title": "Backup ownership",
     "slug": "backup-ownership",
@@ -10416,59 +9521,6 @@
       "scale": "communities",
       "reviewed_on": "2026-11-05"
     }
-  },
-  {
-    "id": "T303",
-    "title": "Stewardship terms",
-    "slug": "stewardship-terms",
-    "kind": "P",
-    "category": "Recognition and succession",
-    "description": "Assign responsibility for a defined period with review.",
-    "example": "Renew commitment without making positions permanent.",
-    "sources": [
-      "R-T303"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "terms of office",
-      "fixed stewardship terms"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T303",
-      "title": "Stewardship terms",
-      "source_title": "Our 2026 Trustee Search",
-      "url": "https://wikimediafoundation.org/our-2026-trustee-search/",
-      "publisher": "Wikimedia Foundation",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Stewardship terms specify how long a person holds entrusted authority and whether renewal is possible. Wikimedia's trustee description illustrates fixed renewable terms, making duration and continuation explicit parts of institutional governance.",
-      "limitation": "Term limits can refresh leadership but also remove experience; duration alone does not establish accountability during a person's time in office.",
-      "scenario": "Imagine a community land organization giving trustees fixed terms, scheduling staggered renewals and documenting handovers so leadership changes do not leave essential responsibilities unattended.",
-      "aliases": [
-        "terms of office",
-        "fixed stewardship terms"
-      ],
-      "scale": "institutions",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T304",
-    "title": "Knowledge succession demonstrations",
-    "slug": "knowledge-succession-demonstrations",
-    "kind": "P",
-    "category": "Recognition and succession",
-    "description": "Have successors perform critical work before handover.",
-    "example": "Check that competence transferred alongside authority.",
-    "sources": [
-      "GFT"
-    ],
-    "published": true,
-    "adaptation": true,
-    "aliases": [],
-    "terms": []
   },
   {
     "id": "T305",
@@ -10541,87 +9593,6 @@
         "public oath"
       ],
       "scale": "societies",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T337",
-    "title": "Peer juries for awards",
-    "slug": "peer-juries-for-awards",
-    "kind": "P",
-    "category": "Recognition and succession",
-    "description": "A selected panel evaluates submissions against stated criteria.",
-    "example": "Distribute recognition using deliberated judgments.",
-    "sources": [
-      "R-T337"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "peer award panel",
-      "award jury"
-    ],
-    "terms": [
-      "expert panel"
-    ],
-    "research": {
-      "id": "T337",
-      "title": "Peer juries for awards",
-      "source_title": "Grant Review Process",
-      "url": "https://www.arts.gov/grants/grant-review-process",
-      "publisher": "National Endowment for the Arts",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Peer juries assess submissions using relevant experience and stated criteria. The NEA process illustrates rotating, conflict-free advisory panels whose recommendations pass through further decision stages, distinguishing expert assessment from final award authority.",
-      "limitation": "Peer judgment can reproduce disciplinary preferences; conflict rules, varied perspectives, and clarity about final authority remain necessary even with experienced reviewers.",
-      "scenario": "Imagine a local arts fund appointing a rotating panel of practitioners and community members, disclosing conflicts and recording how published criteria guide its recommendations.",
-      "aliases": [
-        "peer award panel",
-        "award jury"
-      ],
-      "scale": "institutions",
-      "terms": [
-        "expert panel"
-      ],
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T338",
-    "title": "Recallable stewardship",
-    "slug": "recallable-stewardship",
-    "kind": "P",
-    "category": "Recognition and succession",
-    "description": "Grant stewardship with an explicit community removal process.",
-    "example": "Combine continuing responsibility with contestable authority.",
-    "sources": [
-      "R-T338"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "revocable delegation",
-      "steward recall",
-      "removable stewardship"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T338",
-      "title": "Recallable stewardship",
-      "source_title": "Stewards: Confirmations and Removal of Access",
-      "url": "https://meta.wikimedia.org/wiki/Stewards",
-      "publisher": "Wikimedia community, Meta-Wiki",
-      "source_type": "practitioner method",
-      "access": "page",
-      "finding": "Recallable stewardship makes continued authority conditional on review rather than permanent possession. Wikimedia stewards undergo community comment and steward deliberation, with defined procedures for removing access when continuation is no longer supported.",
-      "limitation": "This example combines community input with peer deliberation rather than direct popular recall; effective accountability depends on accessible evidence and fair procedures.",
-      "scenario": "Imagine a community platform periodically reviewing administrators' use of permissions, allowing documented concerns and specifying who can suspend or remove access after a fair review.",
-      "aliases": [
-        "revocable delegation",
-        "steward recall",
-        "removable stewardship"
-      ],
-      "scale": "communities",
       "reviewed_on": "2026-11-05"
     }
   },
@@ -11367,22 +10338,6 @@
     "sources": [
       "OSI",
       "OSS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "S030",
-    "title": "Extitutional theory",
-    "slug": "extitutional-theory",
-    "kind": "S",
-    "category": "Systems and institutions",
-    "description": "A relational analytical lens, not an organizational template.",
-    "example": "Study participation and mutual recognition alongside formal roles.",
-    "sources": [
-      "EXT"
     ],
     "published": true,
     "adaptation": false,
@@ -12408,7 +11363,10 @@
     ],
     "terms": [
       "innovation incentives",
-      "rewarding invention"
+      "rewarding invention",
+      "Earning from complementary capabilities",
+      "Complementary assets",
+      "Commercializing complementary capabilities"
     ]
   },
   {
@@ -12535,28 +11493,6 @@
     "adaptation": false,
     "aliases": [
       "Patent buy-outs"
-    ],
-    "terms": [
-      "innovation incentives",
-      "rewarding invention"
-    ]
-  },
-  {
-    "id": "T348",
-    "title": "Earning from complementary capabilities",
-    "slug": "earning-from-complementary-capabilities",
-    "kind": "P",
-    "category": "Resources and ownership",
-    "description": "Earn from the production, implementation, or service that makes an invention useful, even when others can reproduce the idea.",
-    "example": "A workshop shares a design but sells reliable manufacture, installation, and maintenance.",
-    "sources": [
-      "R-T348"
-    ],
-    "published": true,
-    "adaptation": true,
-    "aliases": [
-      "Complementary assets",
-      "Commercializing complementary capabilities"
     ],
     "terms": [
       "innovation incentives",

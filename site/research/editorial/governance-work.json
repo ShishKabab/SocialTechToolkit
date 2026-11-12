@@ -101,6 +101,11 @@
         "id": "what-is-still-open",
         "title": "What is still open?",
         "html": "<p>Consider a council redesigning a public square. Asking “What should this place make possible?” invites different contributions from asking “Which of these two paving materials do you prefer?” Both can be legitimate, but the second should not be presented as public control over the whole project.</p><p><a href=\"https://doi.org/10.1787/f765caf6-en\">Good participation design</a> makes this scope visible. People need to know what can change, what constraints are fixed, and how their responses will be considered. <a href=\"/technologies/public-decision-records/\">Publishing a response to the main arguments</a> makes the process inspectable without promising to accept every request.</p><p>Open invitations also favor people with time, expertise, and organized interests. A hundred identical submissions are evidence of mobilization, not automatically a hundred independent reasons. Consultation works best as a way to discover relevant knowledge and objections, with deliberate outreach to people unlikely to submit a polished response.</p>"
+      },
+      {
+        "id": "a-usable-invitation",
+        "title": "An invitation people can actually use",
+        "html": "<p>Outreach means little if someone cannot enter the venue, read the proposal, hear the discussion, or use the response channel. <a href=\"https://www.w3.org/WAI/teach-advocate/accessible-presentations/\">Accessible-event planning</a> connects advance information with practical provision such as readable materials, captions, and suitable venues. These supports address different barriers; a remote meeting alone does not make a process accessible.</p><p>For the square redesign, organizers could make drawings available beforehand, accept written or spoken responses, and offer a private route for requesting support. They should explain which needs they can meet and which limitations remain. The point is to make participation usable by the people affected, rather than treating those who can attend one meeting as the whole public.</p>"
       }
     ],
     "sources": [
@@ -109,9 +114,15 @@
         "url": "https://doi.org/10.1787/f765caf6-en",
         "access": "existing-research-notes",
         "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
+      },
+      {
+        "title": "Making Events Accessible",
+        "url": "https://www.w3.org/WAI/teach-advocate/accessible-presentations/",
+        "access": "existing-research-notes",
+        "note": "Reused the prior Accessibility arrangements article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed prior local research notes: Accessibility arrangements change an event’s venue, communication, materials, and participation options to accommodate differing needs. W3C’s checklist treats physical access, remote platforms, captions, interpretation, and advance information as planning responsibilities rather than last-minute favors. Original access: search excerpt."
       }
     ],
-    "research_note": "Procedural explanation and hypothetical illustration; no claim of demonstrated effectiveness.",
+    "research_note": "Procedural explanation and hypothetical illustration; no claim of demonstrated effectiveness. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -216,6 +227,11 @@
         "id": "judgment-that-can-be-examined",
         "title": "Making selection explainable",
         "html": "<p>A foundation appointing a director could publish the role's responsibilities, seek candidates beyond <a href=\"/dynamics/homophily/\">existing contacts</a>, and compare evidence against agreed criteria. A record of the reasons makes it easier to distinguish a considered judgment from a favor.</p><p>Appointment can <a href=\"https://www.gov.uk/government/publications/governance-code-for-public-appointments/governance-code-on-public-appointments-html\">combine a selector's judgment with assessment and independent oversight</a>, as in the UK public appointments process. A selector still makes a choice, but agreed criteria and scrutiny give others grounds to assess whether that choice serves the role.</p><p>Selection should also connect to what happens afterward. An excellent candidate can struggle in a role with contradictory expectations or insufficient authority. Conversely, a powerful appointee with no review or removal route may become difficult to challenge. The appointment is only the entrance to a relationship of responsibility, not proof that the relationship will work.</p>"
+      },
+      {
+        "id": "nominations-and-selection",
+        "title": "Who gets considered, and why?",
+        "html": "<p>Before a selector compares candidates, someone has to bring them into consideration. Nominations with reasons can reveal quiet work that an impressive title misses: who has maintained reliable records, handled a difficult repair, or helped others learn. A <a href=\"https://patterns.sociocracy30.org/role-selection.html\">role-selection process can invite and discuss those reasons</a> before choosing a person.</p><p>A nomination supplies evidence and advocacy; it does not itself confer the role. The candidate must be able to decline, and a process needs a way to handle sensitive concerns without turning the discussion into a public ranking of personal worth. Broadening who can nominate can improve the pool, but the appointing body remains responsible for assessing the reasons and making its decision.</p>"
       }
     ],
     "sources": [
@@ -224,32 +240,15 @@
         "url": "https://www.gov.uk/government/publications/governance-code-for-public-appointments/governance-code-on-public-appointments-html",
         "access": "existing-research-notes",
         "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
-      }
-    ],
-    "research_note": "This is a UK public appointments framework; other offices have different appointing authorities, eligibility rules, and oversight arrangements.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T111",
-    "title": "Nomination with reasons",
-    "description": "Nomination with reasons makes people's evidence about potential role-holders visible before a group chooses whom to trust with responsibility.",
-    "opening_html": "<p>A name on a ballot tells you whom someone prefers. A nomination with reasons can tell you something you did not know: that this person quietly resolves disputes, understands a difficult system, or reliably finishes work other people abandon.</p><p>The group first describes the role, then people nominate candidates and explain their reasons. Hearing those explanations can change nominations before a final choice. <a href=\"https://patterns.sociocracy30.org/role-selection.html\">Sociocracy 3.0's role-selection process</a> develops this into a structured method, including a check for objections and the proposed person's agreement.</p>",
-    "sections": [
-      {
-        "id": "making-hidden-qualities-visible",
-        "title": "Making hidden qualities visible",
-        "html": "<p>A volunteer association choosing a treasurer might initially favor its most confident speaker. During nominations, members could learn that another person has patiently maintained several projects' records and helped colleagues understand their budgets. Reasons, supported by <a href=\"/technologies/contribution-records/\">contribution records</a>, give less visible work a chance to count.</p><p>They also expose assumptions. “She is always available” may mean that the role is being assigned to someone already carrying too much unpaid work. “He knows everyone” might be useful for a convening role but irrelevant to careful financial administration.</p><p>The process needs room to pass, decline, or raise sensitive concerns appropriately. Public reasoning should not become a public ranking of everyone's worth. Its purpose is to match a person to a particular responsibility, with enough shared understanding that the chosen person can expect practical support rather than applause followed by abandonment.</p>"
-      }
-    ],
-    "sources": [
+      },
       {
         "title": "Role Selection",
         "url": "https://patterns.sociocracy30.org/role-selection.html",
-        "access": "search-excerpt",
-        "note": "Relevant search excerpts reviewed for the named procedural mechanism; hypothetical examples are editorial illustrations."
+        "access": "existing-research-notes",
+        "note": "Reused the prior Nomination with reasons article and its source notes during consolidation; original recorded access: search-excerpt. Relevant search excerpts reviewed for the named procedural mechanism; hypothetical examples are editorial illustrations."
       }
     ],
-    "research_note": "Procedural explanation and hypothetical illustration; no claim of demonstrated effectiveness.",
+    "research_note": "This is a UK public appointments framework; other offices have different appointing authorities, eligibility rules, and oversight arrangements. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -262,6 +261,11 @@
         "id": "an-opening-is-not-a-successor",
         "title": "An opening is not a successor",
         "html": "<p>Consider a community association whose chair has organized everything for twelve years. A two-term limit could create space for others, but only if records, relationships, and practical knowledge move with the office. Otherwise the association may replace the name on its website while the former chair continues <a href=\"/dynamics/informal-authority/\">making decisions behind the scenes</a>.</p><p>A limit also needs to say how partial service counts. Someone filling a vacancy might otherwise serve much longer than the limit appears to allow. The <a href=\"https://constitution.congress.gov/static/files/GPO-CONAN-2024-SUPP.pdf\">US presidential limit</a> explicitly addresses partial service; a club's rules would need to settle the same practical question for its own offices.</p><p>Term limits can also remove experienced people and create incentives to focus on a short remaining horizon. Their usefulness depends on the office around them: whether successors can prepare, whether former leaders retain unofficial control, and whether there are other ways to remove someone before a term ends. Rotation of names and renewal of authority are different achievements.</p>"
+      },
+      {
+        "id": "terms-and-renewal",
+        "title": "A term is not the same as a term limit",
+        "html": "<p>A stewardship term establishes when an appointment ends or comes up for renewal. A term limit restricts how often, or for how long, the same person may serve. An institution can have fixed terms without an overall service limit, or require periodic confirmation in addition to a limit. These choices create different routes for continuity and replacement.</p><p>Staggering terms on a <a href=\"/technologies/boards-of-trustees/\">board of trustees</a> can let incoming members learn alongside those who know its current commitments. Replacing everyone together creates a different handover problem. Renewal also needs a decision process; letting the calendar pass should not silently convert a temporary appointment into permanent authority.</p>"
       }
     ],
     "sources": [
@@ -270,9 +274,15 @@
         "url": "https://constitution.congress.gov/static/files/GPO-CONAN-2024-SUPP.pdf",
         "access": "existing-research-notes",
         "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
+      },
+      {
+        "title": "Our 2026 Trustee Search",
+        "url": "https://wikimediafoundation.org/our-2026-trustee-search/",
+        "note": "Reused the prior Stewardship terms article and its source notes during consolidation; original recorded access: sections. Freshly reviewed commitment section describing fixed renewable board terms. Specific limits omitted to avoid making them a universal prescription.",
+        "access": "existing-research-notes"
       }
     ],
-    "research_note": "The constitutional example supports the mechanism, not a universal limit; partial terms, consecutive service, and eligibility rules require explicit definitions.",
+    "research_note": "The constitutional example supports the mechanism, not a universal limit; partial terms, consecutive service, and eligibility rules require explicit definitions. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -308,6 +318,11 @@
         "id": "a-route-out-without-a-permanent-campaign",
         "title": "A route out without a permanent campaign",
         "html": "<p>A federation could allow members of a local chapter to recall their delegate. The rules would need to specify who can initiate the process, what support is required, how the delegate can respond, and who fills any vacancy.</p><p><a href=\"https://www.ncsl.org/elections-and-campaigns/recall-of-state-officials\">Recall arrangements across US states</a> differ over which officials can be recalled and what is needed to start the process. Those boundaries determine whether a dissatisfied electorate has an actionable removal power or must wait for the next election.</p><p>A recall route can make serious loss of confidence actionable. If triggering it is too easy, however, organized opponents can keep an officeholder in a permanent campaign, making unpopular but necessary decisions harder. If the threshold is unreachable, the right exists only on paper. The balance concerns both accountability and the working space voters granted when they elected someone—not an assumption that either uninterrupted tenure or constant reconsideration is always better.</p>"
+      },
+      {
+        "id": "other-removal-arrangements",
+        "title": "Other ways to reconsider entrusted authority",
+        "html": "<p>Institutions can also remove appointed stewards or decline to renew their authority. These arrangements should not all be called electoral recall. For example, <a href=\"https://meta.wikimedia.org/wiki/Stewards\">Wikimedia’s steward confirmation process</a> combines community comment with deliberation among stewards; it is not a direct popular recall vote.</p><p>The common design problem is making entrusted authority revisable. Members need a route to present evidence, the officeholder needs an opportunity to respond, and a specified body must be able to decide. The outcome must then change the relevant permissions and transfer unfinished responsibilities. A removal decision that leaves practical control untouched has not resolved the problem.</p>"
       }
     ],
     "sources": [
@@ -316,9 +331,15 @@
         "url": "https://www.ncsl.org/elections-and-campaigns/recall-of-state-officials",
         "access": "existing-research-notes",
         "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
+      },
+      {
+        "title": "Stewards: Confirmations and Removal of Access",
+        "url": "https://meta.wikimedia.org/wiki/Stewards",
+        "note": "Reused the prior Recallable stewardship article and its source notes during consolidation; original recorded access: sections. Freshly reviewed annual community-comment process, steward deliberation and removal, and inactivity provision.",
+        "access": "existing-research-notes"
       }
     ],
-    "research_note": "Availability, signature requirements, grounds, and replacement procedures vary by jurisdiction; recall is distinct from impeachment or a general dissatisfaction poll.",
+    "research_note": "Availability, signature requirements, grounds, and replacement procedures vary by jurisdiction; recall is distinct from impeachment or a general dissatisfaction poll. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -537,7 +558,7 @@
       {
         "id": "a-trial-needs-an-edge",
         "title": "A trial needs an edge",
-        "html": "<p>The booking proposal becomes easier to assess when it specifies who will administer it, what information it stores, how long the trial lasts, and what would trigger a change. A <a href=\"/technologies/policy-review-dates/\">policy review date</a> makes that return to the proposal explicit. Someone worried about excluding members without smartphones might identify a real flaw that can be addressed by keeping a telephone booking route.</p><p>Distinguishing objections from concerns requires judgment; it can become a source of power in itself. A confident facilitator must not simply dismiss an inconvenient risk as somebody's preference. Consent in organizational governance also does not replace an individual's consent over personal boundaries. The method concerns authority to make a defined collective decision, within limits the group is entitled to set.</p>"
+        "html": "<p>The booking proposal becomes easier to assess when it specifies who will administer it, what information it stores, how long the trial lasts, and what would trigger a change. A <a href=\"/technologies/sunset-clauses/#review-without-expiry\">policy review date</a> makes that return to the proposal explicit. Someone worried about excluding members without smartphones might identify a real flaw that can be addressed by keeping a telephone booking route.</p><p>Distinguishing objections from concerns requires judgment; it can become a source of power in itself. A confident facilitator must not simply dismiss an inconvenient risk as somebody's preference. Consent in organizational governance also does not replace an individual's consent over personal boundaries. The method concerns authority to make a defined collective decision, within limits the group is entitled to set.</p>"
       }
     ],
     "sources": [
@@ -569,29 +590,6 @@
         "url": "https://datatracker.ietf.org/doc/html/rfc7282",
         "access": "existing-research-notes",
         "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
-      }
-    ],
-    "research_note": "Procedural explanation and hypothetical illustration; no claim of demonstrated effectiveness.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T126",
-    "title": "Fist-to-five checks",
-    "description": "Make levels of support visible at once so a group can discover hesitation before mistaking silence for agreement.",
-    "opening_html": "<p>A project leader asks whether a deadline is realistic. Nobody speaks, so the meeting moves on; afterward, several people privately predict failure. A fist-to-five check creates a small interruption to that pattern. Participants simultaneously show a number of fingers representing their level of support or confidence, using meanings agreed beforehand.</p><p>The exact scale varies. A group might use a fist for a serious objection and five fingers for strong support, but it should not assume everyone already knows the convention. The invitation also has to make a low score acceptable: <a href=\"https://agilealliance.org/resources/experience-reports/cultivating-psychological-safety-in-agile-teams/\">a visible gesture alone cannot make disagreement safe</a>.</p>",
-    "sections": [
-      {
-        "id": "low-scores-are-information",
-        "title": "A low score opens a conversation",
-        "html": "<p>If several people show one or two fingers, the useful next step is to understand what would change their assessment. One person may need a smaller scope; another may know about an unavailable supplier. The check can reveal whether the apparent disagreement concerns the same problem at all.</p><p>Turning the gesture into a loyalty test defeats its purpose. People can <a href=\"/dynamics/preference-falsification/\">copy the manager's hand</a> or inflate their score to avoid being singled out. Simultaneous responses help reduce imitation, while <a href=\"/technologies/anonymous-ballots/\">anonymous feedback</a> may be preferable in a tense group. The technique is usually a diagnostic pause, not a complete decision rule: a group still needs to say whether a low score pauses, changes, or merely informs its decision.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Cultivating Psychological Safety in Agile Teams",
-        "url": "https://agilealliance.org/resources/experience-reports/cultivating-psychological-safety-in-agile-teams/",
-        "access": "search-excerpt",
-        "note": "Relevant search excerpts reviewed for the named procedural mechanism; hypothetical examples are editorial illustrations."
       }
     ],
     "research_note": "Procedural explanation and hypothetical illustration; no claim of demonstrated effectiveness.",
@@ -647,7 +645,7 @@
     "id": "T129",
     "title": "Score voting",
     "description": "Ask people to rate options on a shared scale, allowing them to express differences in enthusiasm rather than only order.",
-    "opening_html": "<p>Ranking three proposals tells us which one a person prefers, but not whether the first two are nearly tied or worlds apart. Score voting asks for ratings instead: perhaps zero to five points for each proposal. Those scores are aggregated using a rule announced before voting.</p><p>Unlike <a href=\"/technologies/dot-voting/\">a fixed budget of dots</a>, giving one option a high score need not leave fewer points for another. One possible rule is to <a href=\"https://rangevoting.org/BC2018.html\">compare average ratings, with a defined treatment of unrated candidates</a>. Leaving a candidate blank must have an agreed meaning; otherwise voters cannot know whether silence counts as rejection or simply as no assessment.</p>",
+    "opening_html": "<p>Ranking three proposals tells us which one a person prefers, but not whether the first two are nearly tied or worlds apart. Score voting asks for ratings instead: perhaps zero to five points for each proposal. Those scores are aggregated using a rule announced before voting.</p><p>Unlike a fixed budget of dots, giving one option a high score need not leave fewer points for another. One possible rule is to <a href=\"https://rangevoting.org/BC2018.html\">compare average ratings, with a defined treatment of unrated candidates</a>. Leaving a candidate blank must have an agreed meaning; otherwise voters cannot know whether silence counts as rejection or simply as no assessment.</p>",
     "sections": [
       {
         "id": "numbers-need-interpretation",
@@ -664,29 +662,6 @@
       }
     ],
     "research_note": "This is an advocacy proposal, not an effectiveness evaluation; blank ratings, aggregation, and strategic use of the scale need explicit rules.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T130",
-    "title": "Dot voting",
-    "description": "Use a small budget of visible marks to reveal priorities and narrow a crowded list of possibilities.",
-    "opening_html": "<p>A workshop produces thirty promising ideas and has time to develop only three. Dot voting gives each participant a limited number of stickers or digital marks to place beside preferred options. Counting the dots turns an unwieldy wall of suggestions into an initial picture of the group's priorities.</p><p>The <a href=\"https://gamestorming.com/dot-voting/\">basic facilitation method</a> is deliberately lightweight. The facilitator must still specify whether people may stack several dots on one idea, whether they may vote for their own proposal, and what the result will decide. A shortlist for discussion is a different commitment from a binding allocation of money.</p>",
-    "sections": [
-      {
-        "id": "a-map-of-attention",
-        "title": "A map of attention",
-        "html": "<p>Suppose a neighborhood group is selecting improvements to explore. Dots may show strong interest in lighting and a playground, while a quieter proposal for step-free access receives fewer marks. The count reveals enthusiasm among those present; it does not reveal the severity of needs among people who could not attend.</p><p>Visible votes can also accumulate momentum as later participants follow an emerging favorite. Similar ideas may split support unless the group combines them first. <a href=\"/technologies/anonymous-ballots/\">Voting simultaneously or privately</a> can reduce some of this influence. Dot voting is most informative when followed by a look at reasons, feasibility, and neglected concerns, so a convenient sorting device does not quietly become the group's entire theory of what matters.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Dot Voting",
-        "url": "https://gamestorming.com/dot-voting/",
-        "access": "existing-research-notes",
-        "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
-      }
-    ],
-    "research_note": "Visible voting can influence later participants, and prioritization does not substitute for examining feasibility, objections, or the reasons behind preferences.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -756,29 +731,6 @@
       }
     ],
     "research_note": "The source describes UK electoral arrangements; permitted reasons, deadlines, and proxy powers vary across elections and membership organizations.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T134",
-    "title": "Delegation poker",
-    "description": "Turn vague promises of autonomy into a concrete conversation about who decides which questions and how much consultation is required.",
-    "opening_html": "<p>A manager says the team owns its work. The team chooses a supplier, and the manager reverses the choice. Both sides feel betrayed because “ownership” meant different things. Delegation poker makes those expectations visible before the next decision turns into a dispute.</p><p>Participants consider a specific decision and select cards representing different levels of <a href=\"/technologies/delegated-authority/\">authority</a>. <a href=\"https://management30.com/practice/delegation-poker/\">The original Management 3.0 method</a> ranges from decisions made by a manager to decisions fully delegated to the team. Revealing choices and discussing the gaps exposes assumptions that ordinary reassurance can leave untouched.</p>",
-    "sections": [
-      {
-        "id": "play-the-real-decisions",
-        "title": "Use decisions people recognize",
-        "html": "<p>A museum team could compare expectations for ordering supplies, changing opening hours, and recruiting a colleague. They might agree that supplies below a <a href=\"/technologies/decision-thresholds-by-impact/\">budget limit</a> need no permission, opening hours require consultation, and hiring remains a shared decision. There is no need for every topic to receive the same level of delegation.</p><p>The cards do not transfer authority on their own. The resulting agreement must fit actual budgets, contracts, and reporting relationships. Nor is the highest delegation level automatically best: an inexperienced team may welcome advice, while a decision affecting several departments may need broader coordination. The useful result is a shared map of authority detailed enough that people can act without repeatedly guessing whether their initiative will be welcomed or overturned.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Delegation Poker",
-        "url": "https://management30.com/practice/delegation-poker/",
-        "access": "existing-research-notes",
-        "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
-      }
-    ],
-    "research_note": "The exercise clarifies expectations but does not itself legally or operationally transfer authority; the resulting agreements need explicit application and review.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -1020,7 +972,7 @@
       {
         "id": "independence-has-to-be-real",
         "title": "Independence has to be real",
-        "html": "<p>An association could adapt the principle by letting members <a href=\"/technologies/user-participation-in-rulemaking/\">adopt rules</a>, an executive apply them, and an independent panel hear <a href=\"/technologies/appeals-procedures/\">disciplinary appeals</a>. This gives a member challenging an executive decision someone else to hear the complaint.</p><p>The panel will not be meaningfully independent if the executive can dismiss its members whenever they disagree or controls all the information they receive. Appointment, funding, access to records, and protection from retaliation influence whether a formal division becomes an actual constraint.</p><p>Dividing power can also create deadlock and responsibility gaps. Each body may blame another for inaction. The design therefore needs ways to resolve conflicts without simply restoring unchecked control to one actor. The point is to make certain abuses harder, even when that makes some legitimate actions less convenient.</p>"
+        "html": "<p>An association could adapt the principle by letting members adopt rules, an executive apply them, and an independent panel hear <a href=\"/technologies/appeals-procedures/\">disciplinary appeals</a>. This gives a member challenging an executive decision someone else to hear the complaint.</p><p>The panel will not be meaningfully independent if the executive can dismiss its members whenever they disagree or controls all the information they receive. Appointment, funding, access to records, and protection from retaliation influence whether a formal division becomes an actual constraint.</p><p>Dividing power can also create deadlock and responsibility gaps. Each body may blame another for inaction. The design therefore needs ways to resolve conflicts without simply restoring unchecked control to one actor. The point is to make certain abuses harder, even when that makes some legitimate actions less convenient.</p>"
       }
     ],
     "sources": [
@@ -1089,7 +1041,7 @@
       {
         "id": "attendance-can-be-a-veto",
         "title": "Attendance can become a veto",
-        "html": "<p>A club might require a third of members at its annual meeting, with the exact threshold set in its governing rules. This protects absent members from decisions made by an unusually small group. It also creates a practical obligation to make attendance possible through adequate notice, <a href=\"/technologies/accessibility-arrangements/\">accessible times</a>, and permitted remote participation.</p><p>An excessively high quorum can immobilize an organization with many inactive members. Organized opponents may deliberately stay away to prevent business. A low quorum solves the attendance problem by weakening the protection. Some organizations provide different procedures for reconvened meetings, but these must come from their actual rules. The threshold is a compromise between making collective action possible and requiring a meaningful portion of the group to be there when it happens.</p>"
+        "html": "<p>A club might require a third of members at its annual meeting, with the exact threshold set in its governing rules. This protects absent members from decisions made by an unusually small group. It also creates a practical obligation to make attendance possible through adequate notice, accessible times, and permitted remote participation.</p><p>An excessively high quorum can immobilize an organization with many inactive members. Organized opponents may deliberately stay away to prevent business. A low quorum solves the attendance problem by weakening the protection. Some organizations provide different procedures for reconvened meetings, but these must come from their actual rules. The threshold is a compromise between making collective action possible and requiring a meaningful portion of the group to be there when it happens.</p>"
       }
     ],
     "sources": [
@@ -1227,7 +1179,12 @@
       {
         "id": "the-default-changes",
         "title": "The default changes",
-        "html": "<p>Suppose the repair exception lasts for six weeks. Anyone wanting to preserve the extra purchasing power must return and justify it. This shifts the burden from opponents having to organize repeal to supporters having to secure continuation.</p><p>Expiry alone does not produce learning. If the committee collects no information, renewal may become an automatic ritual. If nobody notices the deadline, a useful service can suddenly lose authorization. The original decision should therefore separate three questions: when it ends, who evaluates it, and what happens to work already underway.</p><p><a href=\"/technologies/policy-review-dates/\">A review date</a> asks people to reconsider a continuing policy. A sunset clause makes continuation conditional on another action. That sharper consequence is precisely why it can restrain exceptional authority—and why it requires more care than simply putting a reminder in a calendar.</p>"
+        "html": "<p>Suppose the repair exception lasts for six weeks. Anyone wanting to preserve the extra purchasing power must return and justify it. This shifts the burden from opponents having to organize repeal to supporters having to secure continuation.</p><p>Expiry alone does not produce learning. If the committee collects no information, renewal may become an automatic ritual. If nobody notices the deadline, a useful service can suddenly lose authorization. The original decision should therefore separate three questions: when it ends, who evaluates it, and what happens to work already underway.</p><p>A review date asks people to reconsider a continuing policy. A sunset clause makes continuation conditional on another action. That sharper consequence is precisely why it can restrain exceptional authority—and why it requires more care than simply putting a reminder in a calendar.</p>"
+      },
+      {
+        "id": "review-without-expiry",
+        "title": "Reconsideration does not have to mean expiry",
+        "html": "<p>A policy review date leaves a different default in place: the rule continues while people examine it. <a href=\"https://patterns.sociocracy30.org/evaluate-and-evolve-policies.html\">Scheduling evaluation</a> gives reconsideration a place in ordinary work rather than making someone organize a challenge to the policy from scratch.</p><p>A shared workspace might review a booking rule after two months using reservation records and accounts from people who could not obtain a slot. Someone needs responsibility for gathering that evidence and returning the decision to the right body. A calendar reminder without an owner may do nothing. The arrangement must say separately whether a missed review leaves the rule in force or lets it expire; those outcomes should not be hidden in the word “review.”</p>"
       }
     ],
     "sources": [
@@ -1236,32 +1193,15 @@
         "url": "https://www.legislation.gov.uk/ukdsi/2020/9780348213393/pdfs/ukdsiem_9780348213393_en.pdf",
         "access": "existing-research-notes",
         "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
-      }
-    ],
-    "research_note": "The source is a specific legislative example; expiry does not itself ensure evaluation, and replacement or renewal procedures must be specified separately.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T158",
-    "title": "Policy review dates",
-    "description": "Attach an explicit review appointment to a policy so reconsideration does not depend on someone first organizing a campaign against it.",
-    "opening_html": "<p>A shared workspace introduces a booking rule to solve overcrowding. Months later, attendance patterns have changed, but the rule remains because nobody feels responsible for reopening the discussion. A policy review date gives that responsibility a place in the calendar.</p><p>A useful review appointment includes <a href=\"https://patterns.sociocracy30.org/evaluate-and-evolve-policies.html\">a written purpose, evidence about outcomes, and someone responsible for bringing the matter back</a>. The date is useful because it makes reconsideration ordinary rather than an accusation that the original decision was foolish.</p>",
-    "sections": [
-      {
-        "id": "revisiting-with-something-to-learn",
-        "title": "Bring back the experience",
-        "html": "<p>The workspace could review its booking policy after two months using <a href=\"/technologies/resource-booking-systems/\">reservation records</a>, reports of unmet needs, and feedback from occasional users. It may discover that the problem was not the time limit but a confusing cancellation process. A review can preserve a policy, revise it, or retire it.</p><p>A reminder without an owner or time to discuss it is easily ignored. A metric without the experiences of affected people can miss the burden the policy creates. Review frequency should also fit the uncertainty and consequences: a new experiment may deserve early attention, while a stable routine needs less.</p><p>Unlike a <a href=\"/technologies/sunset-clauses/\">sunset clause</a>, a review date does not necessarily end the policy. It creates an obligation or expectation to look again; the arrangement must state separately what happens if the review is delayed.</p>"
-      }
-    ],
-    "sources": [
+      },
       {
         "title": "Evaluate and Evolve Policies",
         "url": "https://patterns.sociocracy30.org/evaluate-and-evolve-policies.html",
-        "access": "search-excerpt",
-        "note": "Relevant search excerpts reviewed for the named procedural mechanism; hypothetical examples are editorial illustrations."
+        "access": "existing-research-notes",
+        "note": "Reused the prior Policy review dates article and its source notes during consolidation; original recorded access: search-excerpt. Relevant search excerpts reviewed for the named procedural mechanism; hypothetical examples are editorial illustrations."
       }
     ],
-    "research_note": "Procedural explanation and hypothetical illustration; no claim of demonstrated effectiveness.",
+    "research_note": "The source is a specific legislative example; expiry does not itself ensure evaluation, and replacement or renewal procedures must be specified separately. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -1273,7 +1213,7 @@
       {
         "id": "enough-to-understand-the-choice",
         "title": "Enough to understand the choice",
-        "html": "<p>A cooperative could publish <a href=\"/technologies/decision-logs/\">a short decision log</a> with the adopted resolution, main reasons, and <a href=\"/technologies/policy-review-dates/\">a review date</a>. Someone affected by a decision would have a stable text to question rather than having to reconstruct a meeting through rumors.</p><p>A useful record is not necessarily a transcript. Recording every hesitant remark can discourage honest discussion and bury the actual decision. Personnel details, private information, and sensitive negotiations may need a fuller internal record and a carefully redacted public one.</p><p>Records also need correction procedures and an obvious location. A technically public archive that nobody can search is only partly accessible. The social change is continuity: decisions remain attributable and understandable after the meeting ends, the leadership changes, or the people who remember the original argument have left.</p>"
+        "html": "<p>A cooperative could publish <a href=\"/technologies/decision-logs/\">a short decision log</a> with the adopted resolution, main reasons, and <a href=\"/technologies/sunset-clauses/#review-without-expiry\">a review date</a>. Someone affected by a decision would have a stable text to question rather than having to reconstruct a meeting through rumors.</p><p>A useful record is not necessarily a transcript. Recording every hesitant remark can discourage honest discussion and bury the actual decision. Personnel details, private information, and sensitive negotiations may need a fuller internal record and a carefully redacted public one.</p><p>Records also need correction procedures and an obvious location. A technically public archive that nobody can search is only partly accessible. The social change is continuity: decisions remain attributable and understandable after the meeting ends, the leadership changes, or the people who remember the original argument have left.</p>"
       }
     ],
     "sources": [
@@ -1521,7 +1461,7 @@
     "id": "T324",
     "title": "Social audits",
     "description": "Bring official project records into contact with the experiences of affected people, creating a public process for checking what was promised and delivered.",
-    "opening_html": "<p>A funded water project appears complete in a report, but residents say several taps do not work. A social audit brings those two accounts into the same process. People examine records, check conditions on the ground, and ask those responsible to explain discrepancies.</p><p><a href=\"https://connect4impact.worldbank.org/system/files/2025-12/Social%20Audit%20Handbook%20for%20Constituency%20Devt%20Fund%20-%20Kenya.pdf\">Community scrutiny</a> extends beyond checking arithmetic to information access, responsibilities, participation, and whether spending produces the promised benefit. Combining documentary evidence with <a href=\"/technologies/community-monitoring/\">knowledge dispersed among affected people</a> makes discrepancies harder to hide.</p>",
+    "opening_html": "<p>A funded water project appears complete in a report, but residents say several taps do not work. A social audit brings those two accounts into the same process. People examine records, check conditions on the ground, and ask those responsible to explain discrepancies.</p><p><a href=\"https://connect4impact.worldbank.org/system/files/2025-12/Social%20Audit%20Handbook%20for%20Constituency%20Devt%20Fund%20-%20Kenya.pdf\">Community scrutiny</a> extends beyond checking arithmetic to information access, responsibilities, participation, and whether spending produces the promised benefit. Combining documentary evidence with <a href=\"/technologies/commons-governance/#monitoring-and-consequences\">knowledge dispersed among affected people</a> makes discrepancies harder to hide.</p>",
     "sections": [
       {
         "id": "from-a-meeting-to-an-answer",
@@ -1720,7 +1660,7 @@
       {
         "id": "autonomy-requires-an-operating-system",
         "title": "Autonomy requires an operating system",
-        "html": "<p>Imagine a manufacturer giving a small team responsibility for a specialized product line. The team might choose features, work with suppliers, and respond to users while drawing on shared manufacturing, finance, or technology services. The larger institution still defines constraints and supplies infrastructure the small unit could not build alone.</p><p>The meaningful questions are concrete: can the unit choose its partners, allocate its budget, recruit people, or change its offer? Who absorbs losses? Who decides whether the unit continues? Calling a team a microenterprise does not make it <a href=\"/technologies/independent-microenterprises/\">legally independent</a> or give workers <a href=\"/technologies/employee-ownership/\">ownership</a>.</p>"
+        "html": "<p>Imagine a manufacturer giving a small team responsibility for a specialized product line. The team might choose features, work with suppliers, and respond to users while drawing on shared manufacturing, finance, or technology services. The larger institution still defines constraints and supplies infrastructure the small unit could not build alone.</p><p>The meaningful questions are concrete: can the unit choose its partners, allocate its budget, recruit people, or change its offer? Who absorbs losses? Who decides whether the unit continues? Calling a team a microenterprise does not make it legally independent or give workers <a href=\"/technologies/employee-ownership/\">ownership</a>.</p>"
       },
       {
         "id": "internal-markets-have-politics",
@@ -1737,29 +1677,6 @@
       }
     ],
     "research_note": "Procedural explanation and hypothetical illustration; no claim of demonstrated effectiveness.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T168",
-    "title": "Independent microenterprises",
-    "description": "Organize livelihoods through very small independent businesses, keeping decisions close to the people doing the work while exposing them to market and administrative pressures.",
-    "opening_html": "<p>A few repair specialists can run their own workshop instead of becoming one department in a larger company. They can choose customers, divide work, and decide which opportunities to pursue without seeking permission from a distant management chain. The business becomes a small unit of economic initiative.</p><p>“Microenterprise” describes scale, with definitions varying by setting. Very small enterprises often face <a href=\"https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf\">limited administrative and financial capacity, including difficulties providing workers with social protection</a>. Small size alone says nothing about whether a firm is independent, cooperative, profitable, or a good employer.</p>",
-    "sections": [
-      {
-        "id": "small-enough-to-steer",
-        "title": "Small enough to steer, small enough to be exposed",
-        "html": "<p>The workshop could adapt quickly to local needs because the people receiving complaints also decide what changes. Yet those same people must find customers, buy equipment, handle records, and survive gaps in revenue. Freedom from an internal hierarchy can coexist with dependence on a landlord, lender, platform, or dominant customer.</p><p>Shared services can change the equation. Several businesses might arrange <a href=\"/technologies/pooled-procurement/\">pooled procurement</a>, shared administration, or training while retaining their separate operations. That preserves some local discretion without requiring each enterprise to reproduce every support function.</p><p>Independent microenterprises differ from <a href=\"/technologies/autonomous-microenterprise-units/\">small units inside a larger company</a>: they do not automatically inherit the company's capital, brand, infrastructure, or risk buffer. Their significance lies in allowing many people to initiate economic activity, while the surrounding institutions determine how costly and precarious that initiative becomes.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Extending social security to workers in micro and small enterprises",
-        "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf",
-        "access": "existing-research-notes",
-        "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
-      }
-    ],
-    "research_note": "Definitions vary and may exclude self-employment; enterprise size alone does not establish independence, worker autonomy, profitability, or adequate employment protections.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -1835,7 +1752,7 @@
     "id": "T172",
     "title": "Work parties",
     "description": "Bring people together for a defined block of practical work, making participation possible without asking everyone to accept a permanent responsibility.",
-    "opening_html": "<p>A neglected garden can feel like an endless obligation when one person faces it alone. A work party turns a portion of that work into a shared occasion: arrive at a known time, help with prepared tasks, and leave when the session ends.</p><p>An <a href=\"https://www2.tcv.org.uk/cgi-bin/volunteer/activity-details?id=42637%3Bdate%3D20261112\">organized conservation session</a> needs a meeting place, equipment, task guidance, and practical information for volunteers. Much of the organizing happens before anyone starts working.</p><p>A neighborhood group might prepare a Saturday session to clear paths and repair planters. Different tasks could suit <a href=\"/technologies/accessibility-arrangements/\">different abilities</a>, and experienced people could help newcomers begin safely. A visible result and time spent together can make the work more inviting than a general appeal for “more volunteers.”</p><p>The event still needs materials, permission, supervision where relevant, and someone to care for the result afterward. An enthusiastic group can otherwise create unfinished work or damage something it does not understand. The bounded invitation is the key: people can make a useful contribution without signing up to become the garden's <a href=\"/technologies/time-boxed-commitments/\">permanent manager</a>.</p>",
+    "opening_html": "<p>A neglected garden can feel like an endless obligation when one person faces it alone. A work party turns a portion of that work into a shared occasion: arrive at a known time, help with prepared tasks, and leave when the session ends.</p><p>An <a href=\"https://www2.tcv.org.uk/cgi-bin/volunteer/activity-details?id=42637%3Bdate%3D20261112\">organized conservation session</a> needs a meeting place, equipment, task guidance, and practical information for volunteers. Much of the organizing happens before anyone starts working.</p><p>A neighborhood group might prepare a Saturday session to clear paths and repair planters. Different tasks could suit different abilities, and experienced people could help newcomers begin safely. A visible result and time spent together can make the work more inviting than a general appeal for “more volunteers.”</p><p>The event still needs materials, permission, supervision where relevant, and someone to care for the result afterward. An enthusiastic group can otherwise create unfinished work or damage something it does not understand. The bounded invitation is the key: people can make a useful contribution without signing up to become the garden's <a href=\"/technologies/time-boxed-commitments/\">permanent manager</a>.</p>",
     "sections": [],
     "sources": [
       {
@@ -2023,7 +1940,7 @@
       {
         "id": "review-the-design-not-the-performance",
         "title": "Review the design, not the presentation",
-        "html": "<p>Imagine a group planning a community facility. Before commissioning detailed drawings, it could bring together future users, <a href=\"/technologies/accessibility-arrangements/\">accessibility</a> expertise, maintenance staff, and the designers to examine the proposal. A list of unresolved interfaces—such as the relationship between event access and neighboring homes—would be more useful than a vague declaration that the design looks good.</p><p>Reviews fail when they reward polished slides or become a late surprise attack on work nobody questioned earlier. Clear criteria and timely involvement let designers prepare real evidence and revise while alternatives remain available.</p><p>A review is also a decision point: proceed, proceed subject to specified work, or reconsider. Recording the <a href=\"/technologies/responsibility-matrices/\">outstanding issues and their owners</a> prevents conditional approval from being remembered later as unconditional endorsement. The value lies in exposing expensive mistakes while they are still comparatively cheap to change.</p>"
+        "html": "<p>Imagine a group planning a community facility. Before commissioning detailed drawings, it could bring together future users, accessibility expertise, maintenance staff, and the designers to examine the proposal. A list of unresolved interfaces—such as the relationship between event access and neighboring homes—would be more useful than a vague declaration that the design looks good.</p><p>Reviews fail when they reward polished slides or become a late surprise attack on work nobody questioned earlier. Clear criteria and timely involvement let designers prepare real evidence and revise while alternatives remain available.</p><p>A review is also a decision point: proceed, proceed subject to specified work, or reconsider. Recording the <a href=\"/technologies/responsibility-matrices/\">outstanding issues and their owners</a> prevents conditional approval from being remembered later as unconditional endorsement. The value lies in exposing expensive mistakes while they are still comparatively cheap to change.</p>"
       }
     ],
     "sources": [
@@ -2218,7 +2135,7 @@
     "id": "T190",
     "title": "Handoff protocols",
     "description": "Transfer responsibility as well as information when work moves between people, making it clear who has the next action.",
-    "opening_html": "<p>A volunteer finishes a shift and sends a long message about unfinished requests. The next volunteer sees it but assumes someone else is following up. Information moved; responsibility did not. A handoff protocol makes both parts of the transfer explicit.</p><p>A handoff needs <a href=\"https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/handoff.html\">a recognized transfer and an opportunity for questions and clarification</a>. The outgoing person cannot assume that sending information means the receiver understood it or accepted responsibility.</p><p>A community support team could end a shift by identifying unresolved cases, the next action for each, relevant deadlines, and the person accepting responsibility. The receiver can repeat back the critical points or ask about uncertainty before the outgoing person leaves. Longer <a href=\"/technologies/overlapping-handovers/\">overlapping handovers</a> provide time to work together when a brief exchange is insufficient.</p><p>Sending a form is not enough if nobody has accepted the work or has authority to carry it out. Too much detail can also bury the urgent issue in a wall of text. A useful handoff combines a structured minimum with room for unusual context. It protects continuity at a moment when work is especially likely to fall between people, even though everyone involved believes they have done their own part.</p>",
+    "opening_html": "<p>A volunteer finishes a shift and sends a long message about unfinished requests. The next volunteer sees it but assumes someone else is following up. Information moved; responsibility did not. A handoff protocol makes both parts of the transfer explicit.</p><p>A handoff needs <a href=\"https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/handoff.html\">a recognized transfer and an opportunity for questions and clarification</a>. The outgoing person cannot assume that sending information means the receiver understood it or accepted responsibility.</p><p>A community support team could end a shift by identifying unresolved cases, the next action for each, relevant deadlines, and the person accepting responsibility. The receiver can repeat back the critical points or ask about uncertainty before the outgoing person leaves. Longer <a href=\"/technologies/succession-planning/#working-through-the-handover\">overlapping handovers</a> provide time to work together when a brief exchange is insufficient.</p><p>Sending a form is not enough if nobody has accepted the work or has authority to carry it out. Too much detail can also bury the urgent issue in a wall of text. A useful handoff combines a structured minimum with room for unusual context. It protects continuity at a moment when work is especially likely to fall between people, even though everyone involved believes they have done their own part.</p>",
     "sections": [],
     "sources": [
       {
@@ -2534,109 +2451,6 @@
         "url": "https://journals.sagepub.com/doi/10.1177/1350507611401536",
         "access": "existing-research-notes",
         "note": "Prior catalog research reused."
-      }
-    ],
-    "research_note": "Examples without named historical attribution are illustrative. Practical implications are editorial interpretations, not established effects.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T206",
-    "title": "Minimum specifications",
-    "description": "Keep the constraints that make a shared purpose possible, and release people from unnecessary rules.",
-    "opening_html": "<p>A volunteer group can accumulate rules long after anyone remembers why they were introduced. Each new problem adds another instruction, until organizing a simple outing feels like applying for a permit. Minimum specifications asks which constraints actually need to survive.</p><p>The <a href=\"https://www.liberatingstructures.com/min-specs\">Min Specs exercise</a> begins with a shared purpose and a deliberately extensive list of requirements. Participants then test those requirements against the purpose, removing ones they judge unnecessary. The result should leave people room to choose their own methods. Essential constraints can function as <a href=\"/technologies/principle-based-norms/\">principle-based norms</a> rather than <a href=\"/technologies/standard-operating-procedures/\">detailed operating procedures</a>.</p>",
-    "sections": [
-      {
-        "id": "working-together",
-        "title": "Freedom depends on keeping the right constraints",
-        "html": "<p>Imagine a walking club reviewing its arrangements. Knowing who is responsible for checking everyone has returned may matter greatly. Requiring the same announcement format for every outing may not. Removing the latter can free organizers to adapt without abandoning the former.</p><p>The exercise depends on who understands the consequences. A rule that looks pointless to an experienced organizer may protect newcomers or preserve knowledge of a previous failure. People affected by its removal need a voice in assessing it.</p><p>Fewer rules are not automatically better. The aim is to make essential coordination clear enough that people can act freely within it. If a constraint protects safety, access, or an obligation the group cannot waive, its importance does not disappear because a workshop finds it inconvenient.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Minimum specifications — Liberating Structures",
-        "url": "https://www.liberatingstructures.com/min-specs",
-        "access": "sections",
-        "note": "Relevant method or institutional guidance passages reviewed during this writing pass."
-      }
-    ],
-    "research_note": "Examples without named historical attribution are illustrative. Practical implications are editorial interpretations, not established effects.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T207",
-    "title": "15% Solutions",
-    "description": "Find a meaningful next action that fits within the discretion and resources you already have.",
-    "opening_html": "<p>A large problem can make every useful action seem to depend on someone else: a budget, a new policy, a powerful ally. Yet some part of the situation may already be within reach. The point of 15% Solutions is to look carefully for that part.</p><p>In the <a href=\"https://www.liberatingstructures.com/15-percent-solutions\">15% Solutions exercise</a>, people identify actions they can take without <a href=\"/technologies/delegated-authority/\">additional permission</a> or resources, then help one another make those actions concrete. The percentage is a metaphor for available discretion, not a measurement of how much power everyone possesses.</p><p>Imagine a library worker who cannot redesign the building but can change how newcomers are welcomed. They might offer a short orientation during an existing quiet period, notice what visitors find confusing, and bring that experience into later discussions about larger changes.</p><p>The useful question is whether the proposed action really belongs to the person choosing it. A plan that requires three other people to volunteer has not yet escaped dependence on others. A small action can still need coordination, but that dependence should be visible.</p><p>This approach can create movement and learning. It can also be misused to tell people to compensate indefinitely for conditions they cannot fix. Acting within current discretion and organizing to change those conditions can support each other; the first should not erase the need for the second.</p>",
-    "sections": [],
-    "sources": [
-      {
-        "title": "15% Solutions — Liberating Structures",
-        "url": "https://www.liberatingstructures.com/15-percent-solutions",
-        "access": "sections",
-        "note": "Relevant method or institutional guidance passages reviewed during this writing pass."
-      }
-    ],
-    "research_note": "Examples without named historical attribution are illustrative. Practical implications are editorial interpretations, not established effects.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T208",
-    "title": "Discovery-and-Action Dialogue",
-    "description": "Find useful practices already present among people dealing with the same problem, then turn them into voluntary action.",
-    "opening_html": "<p>A group may have spent months discussing a problem while overlooking someone nearby who handles it differently. Discovery-and-Action Dialogue directs attention toward those local practices and the conditions that make them possible.</p><p>The <a href=\"https://www.liberatingstructures.com/discovery-and-action-dialogue\">structured conversation</a> explores how people recognize the problem, what they already do, what gets in the way, and whether anyone succeeds despite those barriers. It then asks about new possibilities, volunteers for action, and other people who should be involved.</p>",
-    "sections": [
-      {
-        "id": "working-together",
-        "title": "The exception is a clue, not yet a solution",
-        "html": "<p>Imagine volunteers struggling to keep a <a href=\"/technologies/tool-libraries/\">tool library</a> organized. One shift reliably returns equipment to the right place. A conversation could uncover a small habit that others can try, rather than immediately buying a new storage system or repeating a general appeal to be tidier.</p><p>The facilitator needs curiosity more than a preferred answer. If participants expect blame, they may describe the official procedure instead of what they actually do. If the conversation becomes advice from an expert, the local discovery that distinguishes the method can disappear.</p><p>A successful-looking exception also needs investigation. Perhaps that shift has fewer visitors or unusually experienced members. A practice becomes a promising experiment when the group understands enough about its conditions to try it honestly, observe the result, and revise its explanation.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Discovery-and-Action Dialogue — Liberating Structures",
-        "url": "https://www.liberatingstructures.com/discovery-and-action-dialogue",
-        "access": "sections",
-        "note": "Relevant method or institutional guidance passages reviewed during this writing pass."
-      }
-    ],
-    "research_note": "Examples without named historical attribution are illustrative. Practical implications are editorial interpretations, not established effects.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T209",
-    "title": "What I Need From You",
-    "description": "Turn vague complaints between teams into specific requests that the other team can answer.",
-    "opening_html": "<p>The event team says communications never helps in time. Communications says the event team never supplies usable information. Both may be describing a real dependency, but neither complaint tells the other side exactly what to do.</p><p><a href=\"https://liberatingstructures.be/en/structures/winfy\">What I Need From You</a> is a structured exchange in which groups formulate concrete requests and receive explicit responses. Making the dependency visible creates something more workable than asking everyone to collaborate better.</p><p>Imagine the event team requesting that a draft announcement be reviewed within two working days. Communications might agree if dates, location, and accessibility details arrive together. The exchange can reveal that the original frustration involved an <a href=\"/technologies/handoff-protocols/\">incomplete handover</a> rather than simple unwillingness. A recurring promise of this kind could become a <a href=\"/technologies/service-level-agreements/\">service-level agreement</a>.</p><p>A request needs to name an action the receiving group can understand and assess. An answer that sounds agreeable but leaves timing or responsibility unclear can preserve the original problem. A refusal or request for clarification may be more useful than polite assent.</p><p>The format does not create resources or settle priorities by itself. A team may understand the request perfectly and still lack the capacity to fulfill it. That information can make a real decision possible: change the timing, reduce the work, or involve whoever has authority to resolve the competing commitments.</p>",
-    "sections": [],
-    "sources": [
-      {
-        "title": "What I Need From You — Liberating Structures",
-        "url": "https://liberatingstructures.be/en/structures/winfy",
-        "access": "search-excerpt",
-        "note": "Relevant method or institutional guidance passages reviewed during this writing pass."
-      }
-    ],
-    "research_note": "Examples without named historical attribution are illustrative. Practical implications are editorial interpretations, not established effects.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T210",
-    "title": "Purpose-to-Practice",
-    "description": "Design the working arrangements of an initiative around its purpose, participants, and principles.",
-    "opening_html": "<p>A group can agree enthusiastically to create a neighborhood arts festival while imagining entirely different projects. One person expects a large public celebration, another a workshop series, and another a way for local artists to earn money. Agreement on the name conceals disagreement about the undertaking.</p><p><a href=\"https://www.liberatingstructures.com/purpose-to-practice\">Purpose-to-Practice</a> connects five design questions: why the initiative matters, which <a href=\"/technologies/principle-based-norms/\">principles</a> guide it, who needs to participate, <a href=\"/technologies/delegated-authority/\">how authority is arranged</a>, and what people will actually do. The questions are revisited together rather than treated as boxes to complete once.</p>",
-    "sections": [
-      {
-        "id": "working-together",
-        "title": "Make the purpose change the arrangements",
-        "html": "<p>For the festival, a commitment to local participation might change who chooses the program, how venues are selected, and whether entry is free. Discussing these implications makes the purpose consequential. It also exposes where two attractive commitments compete for the same limited resources.</p><p>The people present can only represent the perspectives they know. A planning session about a neighborhood can miss residents who cannot attend or who do not feel invited. Deciding who is missing is part of designing the initiative, not just a later publicity task.</p><p>The result is a working design to test. Once activities begin, participants can discover that a principle is unclear or an authority arrangement blocks necessary decisions. Returning to the connected questions makes revision possible without treating every difficulty as a reason to abandon the purpose.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Purpose-to-Practice — Liberating Structures",
-        "url": "https://www.liberatingstructures.com/purpose-to-practice",
-        "access": "sections",
-        "note": "Relevant method or institutional guidance passages reviewed during this writing pass."
       }
     ],
     "research_note": "Examples without named historical attribution are illustrative. Practical implications are editorial interpretations, not established effects.",

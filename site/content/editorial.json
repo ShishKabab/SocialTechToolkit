@@ -1,25 +1,4 @@
 {
-  "Lightning talks": {
-    "aliases": [
-      "Lightning talk"
-    ],
-    "terms": [
-      "short presentations",
-      "five-minute talks",
-      "knowledge sharing"
-    ],
-    "steps": [
-      "Invite people to share one idea, project, skill, or question in a short presentation.",
-      "Give every speaker the same clear time limit. Make preparation light enough that newcomers can participate.",
-      "Leave space for a few questions and informal conversation. Share links afterward so discoveries can become collaborations."
-    ],
-    "examples": [
-      "At a shared house, residents give five-minute introductions to a hobby or project. People discover interests that ordinary introductions missed.",
-      "At a team gathering, short demonstrations let several people share work without turning the whole meeting into one presentation."
-    ],
-    "limits": "Short talks trade depth for breadth. Explain the format beforehand, help first-time speakers prepare, and avoid selecting only confident presenters. Use a workshop when people need to practice a skill together.",
-    "use": "Use a lightning-talk evening when a community has more interests and capabilities than its members know about. Invite a varied first group of speakers, keep talks short, and watch for follow-up conversations or projects. If everyone remembers the presentations but no one connects afterward, create more informal time."
-  },
   "Apprenticeship": {
     "aliases": [
       "Apprenticeships"
@@ -27,7 +6,13 @@
     "terms": [
       "learning by doing",
       "craft training",
-      "supervised practice"
+      "supervised practice",
+      "Deliberate practice with feedback",
+      "deliberate practice",
+      "targeted practice",
+      "Workshops",
+      "hands-on workshop",
+      "skills workshop"
     ],
     "steps": [
       "Define the capability the learner is working toward and agree on the responsibilities of the learner and experienced practitioner.",
@@ -215,7 +200,14 @@
     "terms": [
       "meet neighbors",
       "community building",
-      "regular meetups"
+      "regular meetups",
+      "Lightning talks",
+      "Unconferences",
+      "participant-led conference",
+      "unconference",
+      "Protected unstructured time",
+      "Shared journeys",
+      "short presentations"
     ],
     "steps": [
       "Choose a predictable place and time and make the invitation easy to understand.",
@@ -389,6 +381,14 @@
         "title": "An award and a prize do different jobs",
         "file": "awards-prizes.html"
       }
+    ],
+    "terms": [
+      "Peer nominations",
+      "peer endorsement",
+      "award nomination",
+      "Peer juries for awards",
+      "peer award panel",
+      "award jury"
     ]
   },
   "Markets": {

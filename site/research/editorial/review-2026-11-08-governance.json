@@ -90,15 +90,6 @@
     ]
   },
   {
-    "id": "T111",
-    "type": "technology",
-    "title": "Nomination with reasons",
-    "changed": false,
-    "findings": [
-      "No change: attribution identifies a specific selection procedure; the treasurer example explains why nomination reasons can reveal overlooked work."
-    ]
-  },
-  {
     "id": "T112",
     "type": "technology",
     "title": "Term limits",
@@ -225,15 +216,6 @@
     ]
   },
   {
-    "id": "T126",
-    "type": "technology",
-    "title": "Fist-to-five checks",
-    "changed": true,
-    "findings": [
-      "Replaced a practitioner-experience summary with a direct account of why visible support does not establish safe disagreement."
-    ]
-  },
-  {
     "id": "T127",
     "type": "technology",
     "title": "Approval voting",
@@ -261,15 +243,6 @@
     ]
   },
   {
-    "id": "T130",
-    "type": "technology",
-    "title": "Dot voting",
-    "changed": false,
-    "findings": [
-      "No change: workshop prioritization, visible-vote momentum, and excluded access needs form a connected explanation."
-    ]
-  },
-  {
     "id": "T131",
     "type": "technology",
     "title": "Quadratic voting",
@@ -294,15 +267,6 @@
     "changed": true,
     "findings": [
       "Replaced a jurisdiction disclaimer with the specific authorization and eligibility checks that make a proxy valid."
-    ]
-  },
-  {
-    "id": "T134",
-    "type": "technology",
-    "title": "Delegation poker",
-    "changed": false,
-    "findings": [
-      "No change: naming the original card method identifies its scale; the text explains why playing the exercise does not itself transfer authority."
     ]
   },
   {
@@ -486,15 +450,6 @@
     ]
   },
   {
-    "id": "T158",
-    "type": "technology",
-    "title": "Policy review dates",
-    "changed": true,
-    "findings": [
-      "Replaced source-pattern narration with the components needed to make a review date actionable."
-    ]
-  },
-  {
     "id": "T159",
     "type": "technology",
     "title": "Public decision records",
@@ -672,15 +627,6 @@
     "changed": true,
     "findings": [
       "Replaced a practitioner-example/proof disclaimer with Haier's structural feature and the specific dependence of small units on shared services."
-    ]
-  },
-  {
-    "id": "T168",
-    "type": "technology",
-    "title": "Independent microenterprises",
-    "changed": true,
-    "findings": [
-      "Changed ILO-research narration into the administrative and protection problems faced by very small enterprises; removed hypothetical labeling."
     ]
   },
   {
@@ -1014,51 +960,6 @@
     "changed": true,
     "findings": [
       "Replaced research narration with the intermediary's actual powers to connect, filter, and partner."
-    ]
-  },
-  {
-    "id": "T206",
-    "type": "technology",
-    "title": "Minimum specifications",
-    "changed": false,
-    "findings": [
-      "No change: the Min Specs procedure, walking-club example, and risk of deleting protective knowledge form a connected explanation."
-    ]
-  },
-  {
-    "id": "T207",
-    "type": "technology",
-    "title": "15% Solutions",
-    "changed": false,
-    "findings": [
-      "No change: the percentage metaphor, limits of existing discretion, and danger of normalizing structural problems are explained in context."
-    ]
-  },
-  {
-    "id": "T208",
-    "type": "technology",
-    "title": "Discovery-and-Action Dialogue",
-    "changed": false,
-    "findings": [
-      "No change: the apparent successful exception is investigated through plausible local differences rather than treated as proof."
-    ]
-  },
-  {
-    "id": "T209",
-    "type": "technology",
-    "title": "What I Need From You",
-    "changed": false,
-    "findings": [
-      "No change: the communications example develops request clarity, handover, response, and capacity without a source diary."
-    ]
-  },
-  {
-    "id": "T210",
-    "type": "technology",
-    "title": "Purpose-to-Practice",
-    "changed": false,
-    "findings": [
-      "No change: the festival example makes the five design questions consequential and integrates missing participants and revision."
     ]
   },
   {

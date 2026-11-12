@@ -269,22 +269,6 @@
     }
   },
   {
-    "id": "T111",
-    "title": "Nomination with reasons",
-    "slug": "nomination-with-reasons",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Explain role nominations before selection.",
-    "example": "Make selection criteria discussable.",
-    "sources": [
-      "S3"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
     "id": "T112",
     "title": "Term limits",
     "slug": "term-limits",
@@ -704,22 +688,6 @@
     "terms": []
   },
   {
-    "id": "T126",
-    "title": "Fist-to-five checks",
-    "slug": "fist-to-five-checks",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Participants signal degrees of support with their hands.",
-    "example": "Locate reservations before deciding; specify binding rules separately.",
-    "sources": [
-      "SN-D"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
     "id": "T127",
     "title": "Approval voting",
     "slug": "approval-voting",
@@ -829,45 +797,6 @@
       "scale": "groups",
       "terms": [],
       "adaptation": true,
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T130",
-    "title": "Dot voting",
-    "slug": "dot-voting",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Participants allocate limited marks across options.",
-    "example": "Prioritize discussion topics; avoid treating it as full deliberation.",
-    "sources": [
-      "R-T130"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": [
-      "dotmocracy",
-      "sticker voting"
-    ],
-    "research": {
-      "id": "T130",
-      "title": "Dot voting",
-      "source_title": "Dot Voting",
-      "url": "https://gamestorming.com/dot-voting/",
-      "publisher": "Gamestorming",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "Dot voting gives participants a limited number of marks to distribute among visible options. Counting the marks reveals a group's expressed priorities and can narrow a long list for further discussion or selection.",
-      "limitation": "Visible voting can influence later participants, and prioritization does not substitute for examining feasibility, objections, or the reasons behind preferences.",
-      "scenario": "After generating twenty workshop ideas, a team could give everyone three dots and discuss the highest-ranked options before committing time or money.",
-      "aliases": [],
-      "scale": "groups",
-      "terms": [
-        "dotmocracy",
-        "sticker voting"
-      ],
-      "adaptation": false,
       "reviewed_on": "2026-11-05"
     }
   },
@@ -983,43 +912,6 @@
       "scale": "institutions",
       "terms": [],
       "adaptation": true,
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T134",
-    "title": "Delegation poker",
-    "slug": "delegation-poker",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Discuss and compare desired levels of delegated authority.",
-    "example": "Clarify how much autonomy a team has.",
-    "sources": [
-      "R-T134"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": [
-      "delegation levels"
-    ],
-    "research": {
-      "id": "T134",
-      "title": "Delegation poker",
-      "source_title": "Delegation Poker",
-      "url": "https://management30.com/practice/delegation-poker/",
-      "publisher": "Management 3.0",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "Delegation Poker makes expectations about decision authority discussable through seven levels ranging from managerial decisions to team delegation. Participants compare their chosen levels for a concrete decision and negotiate a shared understanding of authority.",
-      "limitation": "The exercise clarifies expectations but does not itself legally or operationally transfer authority; the resulting agreements need explicit application and review.",
-      "scenario": "A manager and team could play through hiring, purchasing, and scheduling decisions, then document which decisions require consultation and which the team can make independently.",
-      "aliases": [],
-      "scale": "groups",
-      "terms": [
-        "delegation levels"
-      ],
-      "adaptation": false,
       "reviewed_on": "2026-11-05"
     }
   },
@@ -1619,22 +1511,6 @@
       "adaptation": true,
       "reviewed_on": "2026-11-05"
     }
-  },
-  {
-    "id": "T158",
-    "title": "Policy review dates",
-    "slug": "policy-review-dates",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Schedule reconsideration of agreements.",
-    "example": "Adapt rules as circumstances change.",
-    "sources": [
-      "S3"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
   },
   {
     "id": "T159",
@@ -2285,43 +2161,6 @@
     "adaptation": false,
     "aliases": [],
     "terms": []
-  },
-  {
-    "id": "T168",
-    "title": "Independent microenterprises",
-    "slug": "independent-microenterprises",
-    "kind": "F",
-    "category": "Collaboration and production",
-    "description": "Very small businesses organize production and exchange.",
-    "example": "Provide local services with a small operating unit.",
-    "sources": [
-      "R-T168"
-    ],
-    "published": true,
-    "adaptation": true,
-    "aliases": [],
-    "terms": [
-      "micro-enterprises"
-    ],
-    "research": {
-      "id": "T168",
-      "title": "Independent microenterprises",
-      "source_title": "Extending social security to workers in micro and small enterprises",
-      "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf",
-      "publisher": "International Labour Organization",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "Microenterprises organize economic activity in very small firms rather than large managerial structures. The ILO brief uses an employee-based definition and examines how limited administrative and financial capacity affects workers' access to social protection.",
-      "limitation": "Definitions vary and may exclude self-employment; enterprise size alone does not establish independence, worker autonomy, profitability, or adequate employment protections.",
-      "scenario": "A few repair specialists could establish a small independent workshop, choosing how to share administration and customer relationships while accounting for their responsibilities toward employees.",
-      "aliases": [],
-      "scale": "institutions",
-      "terms": [
-        "micro-enterprises"
-      ],
-      "adaptation": true,
-      "reviewed_on": "2026-11-05"
-    }
   },
   {
     "id": "T169",
@@ -3523,86 +3362,6 @@
       "adaptation": true,
       "reviewed_on": "2026-11-05"
     }
-  },
-  {
-    "id": "T206",
-    "title": "Minimum specifications",
-    "slug": "minimum-specifications",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Specify only essential constraints.",
-    "example": "Leave room for local methods.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T207",
-    "title": "15% Solutions",
-    "slug": "15-solutions",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Identify actions within existing discretion.",
-    "example": "Start without waiting for additional authority.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T208",
-    "title": "Discovery-and-Action Dialogue",
-    "slug": "discovery-and-action-dialogue",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Explore obstacles and locally successful behaviors.",
-    "example": "Find practical responses within a group.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T209",
-    "title": "What I Need From You",
-    "slug": "what-i-need-from-you",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Exchange concrete requests across groups.",
-    "example": "Clarify dependencies.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T210",
-    "title": "Purpose-to-Practice",
-    "slug": "purpose-to-practice",
-    "kind": "P",
-    "category": "Collaboration and production",
-    "description": "Connect purpose with participants and working arrangements.",
-    "example": "Design a shared initiative.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
   },
   {
     "id": "T326",

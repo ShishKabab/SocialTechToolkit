@@ -139,23 +139,9 @@
       "reason": "Elections are an alternative route into authority."
     }
   ],
-  "T111": [
-    {
-      "id": "T278",
-      "reason": "Contribution records can make otherwise overlooked work available to nominators."
-    },
-    {
-      "id": "T280",
-      "reason": "Peer nominations gather judgments about candidates; reasons expose the basis of those judgments."
-    },
-    {
-      "id": "T124",
-      "reason": "The sociocratic selection method checks objections before assigning the role."
-    }
-  ],
   "T112": [
     {
-      "id": "T295",
+      "id": "T293",
       "reason": "Overlapping handovers preserve continuity when a term limit forces a change."
     },
     {
@@ -163,12 +149,12 @@
       "reason": "Informal authority may outlast a formal term limit."
     },
     {
-      "id": "T293",
-      "reason": "Succession planning prepares people to assume a time-limited office."
-    },
-    {
       "id": "T114",
       "reason": "Recall provides a separate removal route before the term ends."
+    },
+    {
+      "id": "T139",
+      "reason": "Staggered trustee terms combine renewal with continuity of institutional knowledge."
     }
   ],
   "T113": [
@@ -203,10 +189,6 @@
     {
       "id": "T190",
       "reason": "A handoff transfers the knowledge and responsibility needed to exercise authority."
-    },
-    {
-      "id": "T134",
-      "reason": "Delegation poker exposes mismatched expectations about decision rights."
     },
     {
       "id": "D028",
@@ -283,7 +265,7 @@
       "reason": "Plurality can select a winner who lacks the majority required by another rule."
     },
     {
-      "id": "T111",
+      "id": "T110",
       "reason": "Candidate nomination shapes the field before plurality votes are counted."
     },
     {
@@ -339,7 +321,7 @@
   ],
   "T124": [
     {
-      "id": "T158",
+      "id": "T157",
       "reason": "An agreed review makes a limited trial revisable."
     },
     {
@@ -353,10 +335,6 @@
     {
       "id": "S027",
       "reason": "Consent is a central decision procedure in sociocratic governance."
-    },
-    {
-      "id": "T126",
-      "reason": "Fist-to-five checks expose degrees of support but do not themselves resolve objections."
     }
   ],
   "T125": [
@@ -371,20 +349,6 @@
     {
       "id": "T122",
       "reason": "An unresolved individual disagreement need not create the veto found in unanimity."
-    }
-  ],
-  "T126": [
-    {
-      "id": "T152",
-      "reason": "Anonymous ballots can reduce pressure to display approval publicly."
-    },
-    {
-      "id": "D021",
-      "reason": "Visible agreement can conceal a person's actual preference."
-    },
-    {
-      "id": "T124",
-      "reason": "A consent process distinguishes a reasoned objection from a low level of enthusiasm."
     }
   ],
   "T127": [
@@ -413,26 +377,12 @@
   ],
   "T129": [
     {
-      "id": "T130",
-      "reason": "Dot voting distributes a limited budget, unlike independent scores for each option."
-    },
-    {
       "id": "T127",
       "reason": "Extreme score use can resemble approval voting."
     },
     {
       "id": "T131",
       "reason": "Quadratic voting adds an escalating cost to expressing stronger preferences, unlike ordinary score voting."
-    }
-  ],
-  "T130": [
-    {
-      "id": "T152",
-      "reason": "Private ballots reduce the social influence of visible earlier votes."
-    },
-    {
-      "id": "T129",
-      "reason": "Scores offer a different way to express support across multiple options."
     }
   ],
   "T131": [
@@ -469,19 +419,9 @@
       "reason": "Liquid democracy extends delegation beyond a single proxy appointment."
     }
   ],
-  "T134": [
-    {
-      "id": "T115",
-      "reason": "The exercise clarifies the decision rights that a real delegation must transfer."
-    },
-    {
-      "id": "T135",
-      "reason": "Impact thresholds can determine which delegation level applies."
-    }
-  ],
   "T135": [
     {
-      "id": "T158",
+      "id": "T157",
       "reason": "Review dates give reversible experiments a scheduled reconsideration."
     },
     {
@@ -498,10 +438,6 @@
     }
   ],
   "T136": [
-    {
-      "id": "T207",
-      "reason": "15% Solutions helps people identify work they already have discretion to begin."
-    },
     {
       "id": "D003",
       "reason": "Practical contribution can generate informal authority outside appointed roles."
@@ -641,10 +577,6 @@
       "reason": "An independent appeal separates review from the original exercise of authority."
     },
     {
-      "id": "T247",
-      "reason": "Member participation in rulemaking can be separated from executive enforcement."
-    },
-    {
       "id": "T146",
       "reason": "Constitutions establish the distribution of governing powers."
     }
@@ -681,10 +613,6 @@
     {
       "id": "T122",
       "reason": "Unanimity among attendees does not substitute for meeting the quorum."
-    },
-    {
-      "id": "T096",
-      "reason": "Accessibility affects whether eligible members can meet the participation threshold."
     },
     {
       "id": "T119",
@@ -755,26 +683,12 @@
   ],
   "T157": [
     {
-      "id": "T158",
-      "reason": "A review date calls for reconsideration; a sunset clause changes the default to expiry."
-    },
-    {
       "id": "T160",
       "reason": "Expiry limits help prevent exceptional authority from becoming permanent."
-    }
-  ],
-  "T158": [
-    {
-      "id": "T157",
-      "reason": "Expiry and scheduled review impose different consequences when no action is taken."
     },
     {
-      "id": "T239",
-      "reason": "Booking-system records can reveal how a shared-resource policy performs."
-    },
-    {
-      "id": "T034",
-      "reason": "Decision logs can retain a policy's purpose and review commitment."
+      "id": "T159",
+      "reason": "Public decision records preserve the reasons and commitments that a later policy review must examine."
     }
   ],
   "T159": [
@@ -783,7 +697,7 @@
       "reason": "Decision logs preserve reasoning; public decision records add an access and disclosure choice."
     },
     {
-      "id": "T158",
+      "id": "T157",
       "reason": "Recording review dates makes provisional decisions easier to revisit."
     },
     {
@@ -937,7 +851,7 @@
   ],
   "T324": [
     {
-      "id": "T248",
+      "id": "T245",
       "reason": "Community monitoring supplies observations against which official accounts can be checked."
     },
     {
@@ -1073,34 +987,12 @@
       "reason": "Internal agreements specify relationships and commitments among autonomous units."
     },
     {
-      "id": "T168",
-      "reason": "Internal microenterprise units do not necessarily have the independence of separate small businesses."
-    },
-    {
       "id": "T256",
       "reason": "Local decision authority is distinct from employees owning the enterprise."
     },
     {
       "id": "T187",
       "reason": "Shared interfaces help autonomous units coordinate interdependent work."
-    }
-  ],
-  "T168": [
-    {
-      "id": "T236",
-      "reason": "Pooled purchasing is one support function independent small firms can organize together."
-    },
-    {
-      "id": "T167",
-      "reason": "Internal microenterprises inherit a different infrastructure and risk relationship from independent firms."
-    },
-    {
-      "id": "T253",
-      "reason": "Producer cooperatives let independent producers share selected economic functions."
-    },
-    {
-      "id": "S025",
-      "reason": "Marketing connects an independent enterprise’s offer with people who might use it."
     }
   ],
   "T169": [
@@ -1131,7 +1023,7 @@
       "reason": "A bounded time commitment makes intensive participation and follow-up expectations explicit."
     },
     {
-      "id": "T017",
+      "id": "T004",
       "reason": "Demonstrations provide a way to share the resulting prototypes and learning."
     }
   ],
@@ -1139,10 +1031,6 @@
     {
       "id": "T027",
       "reason": "Retrospectives examine working practices as part of a sprint's learning cycle."
-    },
-    {
-      "id": "T010",
-      "reason": "Feedback on actual use informs the next period of work."
     },
     {
       "id": "T198",
@@ -1154,10 +1042,6 @@
     }
   ],
   "T172": [
-    {
-      "id": "T096",
-      "reason": "Accessible tasks and arrangements affect who can join a practical work session."
-    },
     {
       "id": "T198",
       "reason": "A defined ending lets volunteers contribute without accepting indefinite stewardship."
@@ -1293,20 +1177,12 @@
   ],
   "T181": [
     {
-      "id": "T096",
-      "reason": "Accessibility needs belong among the criteria reviewed before a design becomes costly to change."
-    },
-    {
       "id": "T191",
       "reason": "Responsibility mapping keeps conditional approval tied to actual follow-up work."
     },
     {
       "id": "T028",
       "reason": "Design reviews are a focused form of scrutiny against requirements."
-    },
-    {
-      "id": "T050",
-      "reason": "Premortems explore possible failure before implementation, complementing design review."
     }
   ],
   "T182": [
@@ -1337,7 +1213,7 @@
       "reason": "Delegation reduces reliance on a single founder to approve essential work."
     },
     {
-      "id": "T296",
+      "id": "T293",
       "reason": "Progressive responsibility lets contributors develop stewardship capability."
     },
     {
@@ -1447,7 +1323,7 @@
   ],
   "T190": [
     {
-      "id": "T295",
+      "id": "T293",
       "reason": "Overlapping handovers add shared time to a transfer of responsibility."
     },
     {
@@ -1677,76 +1553,6 @@
       "reason": "Common interfaces can reduce dependence on one person's translation."
     }
   ],
-  "T206": [
-    {
-      "id": "T085",
-      "reason": "Essential principles leave room for local judgment within shared boundaries."
-    },
-    {
-      "id": "T188",
-      "reason": "Operating procedures prescribe a sequence rather than only essential constraints."
-    }
-  ],
-  "T207": [
-    {
-      "id": "T115",
-      "reason": "Existing delegated authority determines what a person can begin without asking."
-    },
-    {
-      "id": "T136",
-      "reason": "Doocracy also creates room for initiative through doing useful work."
-    },
-    {
-      "id": "T209",
-      "reason": "Requests for help clarify dependencies beyond one's own discretion."
-    }
-  ],
-  "T208": [
-    {
-      "id": "T238",
-      "reason": "A shared lending resource provides a concrete setting for discovering better local practices."
-    },
-    {
-      "id": "T042",
-      "reason": "Appreciative interviews also investigate existing success, with a different conversational structure."
-    },
-    {
-      "id": "D011",
-      "reason": "Tacit knowledge may explain why a local practice succeeds but is hard to transfer."
-    }
-  ],
-  "T209": [
-    {
-      "id": "T190",
-      "reason": "Explicit transfers can resolve dependencies previously experienced as unhelpfulness."
-    },
-    {
-      "id": "T192",
-      "reason": "Recurring requests can become defined commitments between teams."
-    },
-    {
-      "id": "T205",
-      "reason": "Boundary spanners can maintain the cross-group relationships clarified in this exercise."
-    }
-  ],
-  "T210": [
-    {
-      "id": "T085",
-      "reason": "Principles turn an initiative's purpose into practical constraints on action."
-    },
-    {
-      "id": "T115",
-      "reason": "Purpose-to-Practice explicitly connects purpose with decision rights."
-    },
-    {
-      "id": "T206",
-      "reason": "Minimum specifications can help distinguish essential principles from unnecessary rules."
-    },
-    {
-      "id": "T203",
-      "reason": "Coalition partners can use the method to design a shared undertaking."
-    }
-  ],
   "T326": [
     {
       "id": "T315",
@@ -1781,7 +1587,7 @@
       "reason": "Independent scrutiny can help test evidence and distinctions before publication."
     },
     {
-      "id": "T248",
+      "id": "T245",
       "reason": "Community monitoring produces local observations that can become public reporting."
     },
     {
@@ -1829,10 +1635,6 @@
     {
       "id": "T188",
       "reason": "Operating procedures support replication of a recognizable service across locations."
-    },
-    {
-      "id": "T168",
-      "reason": "Franchise operators combine small-business responsibilities with constraints imposed by a wider system."
     }
   ]
 }

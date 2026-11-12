@@ -583,12 +583,12 @@
     "id": "T237",
     "title": "Buying clubs",
     "description": "Buying clubs let people or small enterprises combine purchases while remaining independent, sharing the work and advantages of ordering together.",
-    "opening_html": "<p>A group of <a href=\"/technologies/independent-microenterprises/\">independent makers</a> all need packaging, but each buys too little to obtain a useful bulk price. A buying club lets them combine orders without merging their businesses. Members remain responsible for their own work while cooperating on one recurring need.</p><p>Farmers can <a href=\"https://www.ers.usda.gov/sites/default/files/_laserfiche/publications/105388/EIB-247.pdf\">organize purchases through buying clubs</a> while continuing to run their own farms. The club can be much narrower than a full cooperative business.</p>",
+    "opening_html": "<p>A group of independent makers all need packaging, but each buys too little to obtain a useful bulk price. A buying club lets them <a href=\"/technologies/pooled-procurement/\">combine orders</a> without merging their businesses. Members remain responsible for their own work while cooperating on one recurring need.</p><p>Farmers can <a href=\"https://www.ers.usda.gov/sites/default/files/_laserfiche/publications/105388/EIB-247.pdf\">organize purchases through buying clubs</a> while continuing to run their own farms. The club can be much narrower than a full cooperative business.</p>",
     "sections": [
       {
         "id": "the-hidden-job-is-distribution",
         "title": "The hidden job is distribution",
-        "html": "<p>Imagine the makers placing one large order for boxes. Someone must collect quantities, receive payments, store the shipment, and divide it correctly. If that person quietly contributes several unpaid evenings each month, the apparent saving partly comes from their labor.</p><p>Minimum order sizes can also leave members purchasing more than they need. A cheap unit price is less attractive when excess stock fills a small workspace. Different members may prefer different suppliers or have incompatible cash-flow schedules.</p><p>A workable buying club makes those practical commitments visible. It can remain lightweight because its common purpose is bounded: buy these things together, under an agreed arrangement. That small piece of coordination can give independent participants access to purchasing conditions otherwise available mainly to larger organizations.</p>"
+        "html": "<p>Imagine the makers placing one large order for boxes. Someone must collect quantities, receive payments, store the shipment, and divide it correctly. If that person quietly contributes several unpaid evenings each month, the apparent saving partly comes from their labor.</p><p>Minimum order sizes can also leave members purchasing more than they need. A cheap unit price is less attractive when excess stock fills a small workspace. Different members may prefer different suppliers or have incompatible cash-flow schedules.</p><p>A workable buying club makes those practical commitments visible. It can remain lightweight because its common purpose is bounded: buy these things together, under an agreed arrangement. That small piece of coordination can give independent participants access to purchasing conditions otherwise available mainly to larger organizations.</p><p>A <a href=\"/technologies/producer-cooperatives/\">producer cooperative</a> can go further by giving producers shared ownership of processing or marketing facilities. A buying club need only organize the purchases its members have agreed to make together.</p>"
       }
     ],
     "sources": [
@@ -675,12 +675,12 @@
     "id": "T241",
     "title": "Allocation lotteries",
     "description": "Allocation lotteries use chance to choose among eligible applicants, avoiding fine-grained rankings when there is no agreed way to distinguish equally valid claims.",
-    "opening_html": "<p>A community arts course has twenty places and fifty applicants who meet its requirements. Organizers could invent a ranking of enthusiasm, reward the fastest applications, or draw names. A lottery makes selection random within the pool they have chosen to admit.</p><p>When school admissions use random allocation, <a href=\"https://www.rbkc.gov.uk/media/document/rbkc-secondary-school-admissions-brochure-2025\">the draw operates within an eligible group of applicants</a>. The random step does not decide who belongs in the pool; that decision has already been made.</p>",
+    "opening_html": "<p>A community arts course has twenty places and fifty applicants who meet its requirements. Organizers could invent a ranking of enthusiasm, reward the fastest applications, or draw names. A lottery makes selection random within the pool they have chosen to admit.</p><p>When school admissions use random allocation, <a href=\"https://www.rbkc.gov.uk/media/document/rbkc-secondary-school-admissions-brochure-2025\">the draw operates within an eligible group of applicants</a>. The random step does not decide who belongs in the pool; that decision has already been made.</p><p>The same random mechanism can serve a different purpose in <a href=\"/technologies/sortition/\">sortition</a>, which selects people for responsibilities rather than allocating a scarce benefit. Deciding what the draw distributes is as important as deciding how to conduct it.</p>",
     "sections": [
       {
         "id": "equal-chances-have-a-boundary",
         "title": "Equal chances have a boundary",
-        "html": "<p>Imagine the arts course requiring applications through a short online form. Even a perfectly conducted draw excludes people who never heard about it, <a href=\"/technologies/accessibility-arrangements/\">could not use the form</a>, or misunderstood the deadline. Randomness removes certain judgments from selection without removing the effects of the surrounding process.</p><p>The draw also needs understandable administration. A list of eligible applicants, a stated procedure, and a way to handle withdrawals make the result easier to trust. Otherwise, “chosen at random” can become a claim nobody can inspect.</p><p>A lottery can be a modest admission that the organizer lacks a defensible reason to rank one qualifying person above another. It gives each a chance while leaving the deeper scarcity untouched: thirty people still need another opportunity.</p>"
+        "html": "<p>Imagine the arts course requiring applications through a short online form. Even a perfectly conducted draw excludes people who never heard about it, could not use the form, or misunderstood the deadline. Randomness removes certain judgments from selection without removing the effects of the surrounding process.</p><p>The draw also needs understandable administration. A list of eligible applicants, a stated procedure, and a way to handle withdrawals make the result easier to trust. Otherwise, “chosen at random” can become a claim nobody can inspect.</p><p>A lottery can be a modest admission that the organizer lacks a defensible reason to rank one qualifying person above another. It gives each a chance while leaving the deeper scarcity untouched: thirty people still need another opportunity.</p>"
       }
     ],
     "sources": [
@@ -767,12 +767,22 @@
     "id": "T245",
     "title": "Commons governance",
     "description": "Commons governance lets people organize continuing use and care of a shared resource through rules they can understand, maintain, and revise together.",
-    "opening_html": "<p>A shared woodland can supply fuel, support wildlife, and remain useful for future generations. Each user may benefit from taking more today, while everyone depends on restraint and maintenance over time. Commons governance addresses that tension through an institution around the resource.</p><p>It is not simply permission for anyone to take anything. Communities <a href=\"https://dlc.dlib.indiana.edu/dlcrest/api/core/bitstreams/fe453645-ec0f-4a71-91ad-19abd9634dbc/content\">combine several governing arrangements</a>: <a href=\"/technologies/resource-boundaries/\">access rules</a>, <a href=\"/technologies/community-monitoring/\">monitoring</a>, participation, consequences, and ways to resolve disputes. The arrangements vary with the resource and the people involved.</p>",
+    "opening_html": "<p>A shared woodland can supply fuel, support wildlife, and remain useful for future generations. Each user may benefit from taking more today, while everyone depends on restraint and maintenance over time. Commons governance addresses that tension through an institution around the resource.</p><p>It is not simply permission for anyone to take anything. Communities <a href=\"https://dlc.dlib.indiana.edu/dlcrest/api/core/bitstreams/fe453645-ec0f-4a71-91ad-19abd9634dbc/content\">combine several governing arrangements</a>: access rules, monitoring, participation, consequences, and ways to resolve disputes. The arrangements vary with the resource and the people involved.</p>",
     "sections": [
       {
         "id": "the-common-resource-has-an-institution",
         "title": "The common resource has an institution",
-        "html": "<p>Imagine woodland users agreeing on collection areas and seasonal limits, while contributing labor to maintain paths. A storm changes the available supply. They now need a way to <a href=\"/technologies/user-participation-in-rulemaking/\">revise the rules</a>, recognize who has done maintenance, and settle a dispute about an apparent violation.</p><p>That work links material knowledge with social relationships. Someone must notice what is happening to the woodland, and people must have reasons to accept the resulting decisions. A rule imported from another place may fit neither the ecology nor local livelihoods.</p><p>The striking possibility is that users can be organizers of a resource's survival, not only competitors for its contents. Yet community is not automatically harmonious: differences in influence, dependence, and access remain inside it. Commons governance is a family of ways to handle those relationships, not a promise that sharing alone solves them.</p>"
+        "html": "<p>Imagine woodland users agreeing on collection areas and seasonal limits, while contributing labor to maintain paths. A storm changes the available supply. They now need a way to revise the rules, recognize who has done maintenance, and settle a dispute about an apparent violation.</p><p>That work links material knowledge with social relationships. Someone must notice what is happening to the woodland, and people must have reasons to accept the resulting decisions. A rule imported from another place may fit neither the ecology nor local livelihoods.</p>"
+      },
+      {
+        "id": "access-and-rulemaking",
+        "title": "Who may use it, and who may change the rules?",
+        "html": "<p>The woodland agreement needs to identify both the resource and the people with rights to use it. Does it include the meadow? May nearby residents gather fallen branches, or only members who maintain the paths? Boundaries need not be fences or identical rights for everyone, but incompatible understandings can turn ordinary use into an apparent violation.</p><p>Users also need a recognized way to revise rules as conditions change. A suggestion box can reveal a problem while leaving every decision elsewhere; participation in rulemaking gives users some authority over the response. Their knowledge of seasonal supply and maintenance can then shape the agreement. Meetings dominated by people with spare time may still exclude those most dependent on the resource.</p><p>A newly organized group cannot settle every claim simply by drawing a boundary. People who have gathered wood for years may have interests its membership list misses. Establishing access rules means addressing those histories as well as making future responsibilities clear.</p>"
+      },
+      {
+        "id": "monitoring-and-consequences",
+        "title": "Notice problems without making every mistake a rupture",
+        "html": "<p>Rules need information about both the woodland and its use. Accountable monitors can record damaged paths, changing supplies, and apparent breaches of collection limits. Observation does not automatically determine a penalty: a person needs a way to correct an inaccurate record or explain an unusual circumstance. Selectively recording newcomers’ mistakes while overlooking influential members makes monitoring an instrument of favoritism.</p><p>Graduated sanctions distinguish an accidental first breach from repeated disregard of the agreement. A conversation may resolve one problem; temporary restrictions may be needed for another. The purpose is to defend the shared terms while leaving room for correction. Serious harm need not pass through a ritual sequence of minor warnings, and well-connected people should not receive unlimited first chances.</p><p>These parts depend on one another. Monitoring a rule users cannot influence can feel like outside control; participation without reliable information can produce decisions detached from the resource. <a href=\"https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf\">Ostrom’s account of commons institutions</a> connects boundaries, participation, monitoring, and graduated responses with wider arrangements for resolving conflicts and governing across scales. They are design considerations to adapt, not a checklist that guarantees success.</p><p>A <a href=\"/technologies/tool-libraries/\">tool library</a> faces a smaller-scale version of these questions: who may borrow, who maintains the equipment, and what happens after a damaged or overdue return. Resources extending across several communities may instead need <a href=\"/technologies/polycentric-governance/\">several connected decision centers</a>, with local decisions nested in wider arrangements.</p><p>The striking possibility is that users can be organizers of a resource's survival, not only competitors for its contents. Yet community is not automatically harmonious: differences in influence, dependence, and access remain inside it. Commons governance is a family of ways to handle those relationships, not a promise that sharing alone solves them.</p>"
       }
     ],
     "sources": [
@@ -781,101 +791,21 @@
         "url": "https://dlc.dlib.indiana.edu/dlcrest/api/core/bitstreams/fe453645-ec0f-4a71-91ad-19abd9634dbc/content",
         "note": "Freshly reviewed abstract, introduction, and sections on boundaries, participation, and graduated sanctions. Comparative review, not universal causal recipe.",
         "access": "sections"
-      }
-    ],
-    "research_note": "Fresh comparative review supports institutional components and contextual variation. Woodland scenario is invented; no universal success claim or simple commons-versus-state dichotomy.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T246",
-    "title": "Resource boundaries",
-    "description": "Resource boundaries make clear what is being managed together and who has recognized access, giving shared rules an identifiable scope.",
-    "opening_html": "<p>A group says it manages a community orchard. Does that include the adjoining meadow? Can neighbors pick fruit, or only members who help maintain the trees? Without answers, people may follow different understandings while each believes the others are breaking the rules.</p><p><a href=\"https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf\">Resource and user boundaries</a> are one part of <a href=\"/technologies/commons-governance/\">commons governance</a>. They identify the scope of a shared arrangement. They do not require every boundary to be a fence or every right to be identical.</p>",
-    "sections": [
-      {
-        "id": "drawing-the-line-changes-the-group",
-        "title": "Drawing the line changes the group",
-        "html": "<p>Imagine the orchard group admitting anyone living nearby but reserving certain harvesting days for those who maintain the trees. That creates overlapping rights rather than a simple division between <a href=\"/dynamics/boundary-maintenance/\">insiders and outsiders</a>. People can understand those distinctions if the arrangement is explicit.</p><p>A rigid line can also conceal legitimate claims. A family that has collected fallen fruit for years may suddenly be called an outsider by a newly formed association. Naming a boundary does not resolve whether the group has treated that history fairly.</p><p>The practical purpose is to make responsibility and access discussable. People need to know which resource their commitments protect and whose actions affect it. Boundary decisions become useful when they clarify those relationships rather than merely giving the most organized group a convenient way to exclude everyone else.</p>"
-      }
-    ],
-    "sources": [
+      },
       {
         "title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
         "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf",
-        "note": "Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
+        "note": "Reused the prior Resource boundaries article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
         "access": "existing-research-notes"
-      }
-    ],
-    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T247",
-    "title": "User participation in rulemaking",
-    "description": "User participation in rulemaking brings the people living with a system’s everyday consequences into decisions about how its rules should change.",
-    "opening_html": "<p>A shared workshop prohibits evening use because its organizers assume nobody needs it. Members who work during the day know otherwise. If they can help change the rule, <a href=\"/dynamics/learning-through-participation/\">practical knowledge from using the space</a> can become part of governing it.</p><p>The relevant distinction is authority, not just feedback. <a href=\"https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf\">Participation in modifying operational rules</a> gives users a recognized role in shaping the arrangement. A suggestion box may reveal a problem while leaving every decision elsewhere.</p>",
-    "sections": [
-      {
-        "id": "experience-becomes-a-proposal",
-        "title": "Experience becomes a proposal",
-        "html": "<p>Imagine members proposing two supervised evening sessions instead of unrestricted late access. They know the demand, but also have to address noise, closing duties, and who can unlock the building. Participation turns a complaint into work on a rule others can live with.</p><p>Attendance itself can be unequal. Members with spare evenings may dominate the meeting precisely when shift workers are arguing for different opening hours. Written proposals, different meeting times, or representation can help, but each introduces its own arrangements and effort.</p><p>The mechanism matters because users encounter details that distant organizers may miss. It becomes substantive when their involvement can actually alter a rule and when less visible users have a route into the discussion. Inviting everyone while hearing only the usual speakers leaves much of that knowledge unused.</p>"
-      }
-    ],
-    "sources": [
+      },
       {
         "title": "How to Use the IAD Framework",
         "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf",
-        "note": "Reviewed existing research notes for mechanism and limitations; original access was page.",
+        "note": "Reused the prior User participation in rulemaking article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed existing research notes for mechanism and limitations; original access was page.",
         "access": "existing-research-notes"
       }
     ],
-    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T248",
-    "title": "Community monitoring",
-    "description": "Community monitoring gives participants usable information about shared resources and commitments, allowing problems to be noticed before trust rests entirely on suspicion.",
-    "opening_html": "<p>A group shares responsibility for a riverside path, but nobody knows which stretches were inspected after a storm. People either repeat the work or assume someone else has done it. A simple inspection record can turn scattered observations into information the group can act on.</p><p>Monitoring in <a href=\"/technologies/commons-governance/\">commons governance</a> <a href=\"https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf\">concerns both resource conditions and participants' activities</a>. Observation is distinct from <a href=\"/technologies/user-participation-in-rulemaking/\">deciding rules</a> or imposing consequences: noticing a problem does not by itself decide what should happen next.</p>",
-    "sections": [
-      {
-        "id": "being-seen-and-being-accountable",
-        "title": "Being seen and being accountable",
-        "html": "<p>Imagine volunteers recording damaged sections and completed repairs on <a href=\"/technologies/participatory-mapping/\">a common map</a>. A member can check the route before organizing a walk, and the maintenance group can direct effort toward an unresolved hazard. The record makes cooperation easier without requiring every person to know every inspector.</p><p>Monitoring can also become selective or intrusive. If one person's missed task is recorded while a powerful member's omission is ignored, the system produces an appearance of evidence rather than a trustworthy picture. Those being observed need a way to correct mistakes and explain circumstances.</p><p>The useful question is what information the group needs to sustain its shared work. Collecting everything about everyone creates a different institution. Good monitoring makes relevant conditions visible while keeping the observers themselves answerable for what they record.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "How to Use the IAD Framework",
-        "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf",
-        "note": "Reviewed existing research notes for mechanism and limitations; original access was page.",
-        "access": "existing-research-notes"
-      }
-    ],
-    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T249",
-    "title": "Graduated sanctions",
-    "description": "Graduated sanctions respond to violations with consequences proportionate to seriousness and repetition, preserving cooperation without treating every mistake as grounds for expulsion.",
-    "opening_html": "<p>A member returns borrowed equipment a day late. Another repeatedly takes it without recording a loan. Treating both cases identically can be unfair in either direction: immediate expulsion is excessive for the first, while endless reminders may leave the second behavior unchanged.</p><p><a href=\"https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf\">Graduated sanctions</a> provide a range of responses. The point is to make consequences sensitive to the violation and its history, rather than choosing between doing nothing and using the harshest available penalty.</p>",
-    "sections": [
-      {
-        "id": "a-path-back-and-a-real-boundary",
-        "title": "A path back and a real boundary",
-        "html": "<p>Imagine a <a href=\"/technologies/tool-libraries/\">tool-sharing group</a> beginning with a conversation about a late return, then limiting advance bookings after repeated problems. A person can correct their behavior without losing all connection to the group. Other members can see that their own reliability is not simply being taken for granted.</p><p>Graduation does not mean serious misconduct must pass through every minor warning. Nor should well-connected members receive an unlimited supply of “first chances.” The system needs a credible account of what happened and a way to <a href=\"/technologies/appeals-procedures/\">question a mistaken judgment</a>.</p><p>The social achievement is maintaining a relationship while defending its terms. Consequences communicate that shared rules matter; proportionality leaves room for error, explanation, and repair. Without both, a community can become either brittle or endlessly accommodating of those who impose costs on others.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
-        "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf",
-        "note": "Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
-        "access": "existing-research-notes"
-      }
-    ],
-    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation.",
+    "research_note": "Fresh comparative review supports institutional components and contextual variation. Woodland scenario is invented; no universal success claim or simple commons-versus-state dichotomy. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -957,12 +887,12 @@
     "id": "T253",
     "title": "Producer cooperatives",
     "description": "Producer cooperatives let independent producers share facilities, services, or market access, making larger-scale coordination possible without merging their entire livelihoods.",
-    "opening_html": "<p>Several small orchards can each grow excellent fruit yet struggle to reach buyers, afford storage, or operate packing equipment. A producer cooperative lets them own those shared functions together while keeping their <a href=\"/technologies/independent-microenterprises/\">individual farms</a>.</p><p><a href=\"https://resources.uwcc.wisc.edu/About%20Co-ops/Cooperatives_in_Wisconsin_FINAL_small.pdf\">Producer cooperatives</a> can organize processing, marketing, and access to inputs. The members cooperate where scale helps, rather than necessarily pooling all land, equipment, or daily work.</p>",
+    "opening_html": "<p>Several small orchards can each grow excellent fruit yet struggle to reach buyers, afford storage, or operate packing equipment. A producer cooperative lets them own those shared functions together while keeping their individual farms.</p><p><a href=\"https://resources.uwcc.wisc.edu/About%20Co-ops/Cooperatives_in_Wisconsin_FINAL_small.pdf\">Producer cooperatives</a> can organize processing, marketing, and access to inputs. The members cooperate where scale helps, rather than necessarily pooling all land, equipment, or daily work.</p>",
     "sections": [
       {
         "id": "one-shared-business-many-independent-ones",
         "title": "One shared business, many independent ones",
-        "html": "<p>Imagine the orchards operating a common packing facility. It gives a buyer one place to obtain a reliable shipment, but members must now agree on quality standards, delivery schedules, and how costs are divided. A shared label makes one producer's poor batch a problem for others too.</p><p>Large and small producers may value the facility differently. A member supplying most of the volume may expect influence proportional to that contribution, while smaller members may fear being reduced to minor suppliers of their own cooperative. Voting and payment rules decide how those interests meet.</p><p>The cooperative adds an institution between isolated producers and a fully integrated company. It can make independent production more viable, but the common services need professional competence and credible commitments from members. Owning a warehouse together helps only when it reliably turns separate output into something buyers can use.</p>"
+        "html": "<p>Imagine the orchards operating a common packing facility. It gives a buyer one place to obtain a reliable shipment, but members must now agree on quality standards, delivery schedules, and how costs are divided. A shared label makes one producer's poor batch a problem for others too.</p><p>Large and small producers may value the facility differently. A member supplying most of the volume may expect influence proportional to that contribution, while smaller members may fear being reduced to minor suppliers of their own cooperative. Voting and payment rules decide how those interests meet.</p><p>The cooperative adds an institution between isolated producers and a fully integrated company. It can make independent production more viable, but the common services need professional competence and credible commitments from members. Owning a warehouse together helps only when it reliably turns separate output into something buyers can use.</p><p>Where the shared need is only buying inputs, a <a href=\"/technologies/buying-clubs/\">buying club</a> may suffice. Joint ownership of a continuing enterprise adds responsibilities for governing assets and services beyond placing a common order.</p>"
       }
     ],
     "sources": [
@@ -1060,7 +990,7 @@
       {
         "id": "protecting-purpose-choosing-stewards",
         "title": "Protecting purpose, choosing stewards",
-        "html": "<p>Imagine a specialist publishing company whose stewards want to keep important but modest-selling books available. Restrictions on sale and profit extraction could protect that commitment from an owner seeking a quick exit. They would not determine which books deserve support or how to run the company well.</p><p>Those judgments still depend on people. A durable mission can become an excuse for unaccountable insiders if nobody can <a href=\"/technologies/recallable-stewardship/\">challenge or replace ineffective stewards</a>. Employees and customers also need not receive decision rights merely because conventional shareholders have been constrained.</p><p>Steward ownership makes the future sale or diversion of an enterprise harder in particular ways. Its accompanying governance must answer who may act in the purpose's name, <a href=\"/technologies/succession-planning/\">how successors are chosen</a>, and how the organization can adapt without making its stated purpose meaningless.</p>"
+        "html": "<p>Imagine a specialist publishing company whose stewards want to keep important but modest-selling books available. Restrictions on sale and profit extraction could protect that commitment from an owner seeking a quick exit. They would not determine which books deserve support or how to run the company well.</p><p>Those judgments still depend on people. A durable mission can become an excuse for unaccountable insiders if nobody can <a href=\"/technologies/recall-procedures/#other-removal-arrangements\">challenge or replace ineffective stewards</a>. Employees and customers also need not receive decision rights merely because conventional shareholders have been constrained.</p><p>Steward ownership makes the future sale or diversion of an enterprise harder in particular ways. Its accompanying governance must answer who may act in the purpose's name, <a href=\"/technologies/succession-planning/\">how successors are chosen</a>, and how the organization can adapt without making its stated purpose meaningless.</p>"
       }
     ],
     "sources": [
@@ -1175,7 +1105,7 @@
       {
         "id": "support-comes-with-authority",
         "title": "Support comes with authority",
-        "html": "<p>Imagine the educational group planning workshops. The sponsor might provide systems that let organizers concentrate on the program, but it also needs authority over funds and activities for which it is responsible. A project cannot reasonably expect the sponsor to carry obligations while treating all <a href=\"/dynamics/principal-agent-problems/\">oversight</a> as interference.</p><p>Fees, staffing, reporting, and the possibility of leaving the arrangement become important parts of the relationship. If the project later becomes independent, records, commitments, and remaining resources need <a href=\"/technologies/overlapping-handovers/\">a planned transition</a> rather than an improvised separation.</p><p>Sponsorship can make it possible to begin useful work without creating a complete institution from scratch. Its distinctive promise is shared organizational infrastructure. The benefit depends on a real fit between project and sponsor, and on both understanding where project initiative ends and the sponsor's responsibility begins.</p>"
+        "html": "<p>Imagine the educational group planning workshops. The sponsor might provide systems that let organizers concentrate on the program, but it also needs authority over funds and activities for which it is responsible. A project cannot reasonably expect the sponsor to carry obligations while treating all <a href=\"/dynamics/principal-agent-problems/\">oversight</a> as interference.</p><p>Fees, staffing, reporting, and the possibility of leaving the arrangement become important parts of the relationship. If the project later becomes independent, records, commitments, and remaining resources need <a href=\"/technologies/succession-planning/#working-through-the-handover\">a planned transition</a> rather than an improvised separation.</p><p>Sponsorship can make it possible to begin useful work without creating a complete institution from scratch. Its distinctive promise is shared organizational infrastructure. The benefit depends on a real fit between project and sponsor, and on both understanding where project initiative ends and the sponsor's responsibility begins.</p>"
       }
     ],
     "sources": [
@@ -1423,7 +1353,7 @@
       {
         "id": "a-memory-that-can-be-inspected",
         "title": "A memory that can be inspected",
-        "html": "<p>Imagine <a href=\"/technologies/overlapping-handovers/\">a new treasurer taking over</a> the club. A single list of bank payments may show amounts but leave uncertainty about unpaid bills, equipment, or money owed to the club. A coherent set of accounts gives the successor a more usable description of its position.</p><p>The discipline also helps people compare records and investigate inconsistencies. But fabricated entries can balance perfectly, and an expense can be placed in the wrong category without breaking the arithmetic. Documents, reconciliation, and <a href=\"/technologies/independent-audits/\">independent scrutiny</a> perform different work from the accounting structure itself.</p><p>The social significance is that financial memory becomes less dependent on one person's recollection. Members, managers, and successors can reason from a common record. That makes ongoing cooperation possible even when the people handling money change.</p>"
+        "html": "<p>Imagine <a href=\"/technologies/succession-planning/#working-through-the-handover\">a new treasurer taking over</a> the club. A single list of bank payments may show amounts but leave uncertainty about unpaid bills, equipment, or money owed to the club. A coherent set of accounts gives the successor a more usable description of its position.</p><p>The discipline also helps people compare records and investigate inconsistencies. But fabricated entries can balance perfectly, and an expense can be placed in the wrong category without breaking the arithmetic. Documents, reconciliation, and <a href=\"/technologies/independent-audits/\">independent scrutiny</a> perform different work from the accounting structure itself.</p><p>The social significance is that financial memory becomes less dependent on one person's recollection. Members, managers, and successors can reason from a common record. That makes ongoing cooperation possible even when the people handling money change.</p>"
       }
     ],
     "sources": [
@@ -1689,23 +1619,6 @@
     "reviewed_on": "2026-11-06"
   },
   {
-    "id": "T280",
-    "title": "Peer nominations",
-    "description": "Peer nominations let knowledgeable people bring someone’s work to wider attention, creating a bridge between quiet achievement and formal recognition.",
-    "opening_html": "<p>A restorer may be highly respected by colleagues yet unknown to the people selecting <a href=\"/technologies/awards/\">a major award</a>. A peer nomination gives someone familiar with the work a way to bring it forward, explain its significance, and supply evidence.</p><p>The nomination is an act of advocacy, not the award decision itself. A strong nomination <a href=\"https://awards.acm.org/binaries/content/assets/awards/advice-for-award-nominators-and-endorsers_07-2025.pdf\">connects concrete achievements to the award’s criteria and includes endorsements from people who know the work</a>.</p><p>Imagine a colleague nominating the restorer for an award recognizing preservation practice. Describing a difficult intervention, its results, and why it mattered is more informative than collecting impressive names that add only general praise.</p><p>The process also depends on who has advocates. A person doing excellent work outside a visible professional network may never be nominated. Busy colleagues may recognize their contribution privately but lack time to assemble the application.</p><p>Peer nomination can carry expert appreciation across an institutional boundary. Its blind spot is that absence from the candidate list can mean absence of sponsorship rather than absence of achievement. Open nomination routes and attention to overlooked work affect whose excellence the <a href=\"/technologies/peer-juries-for-awards/\">eventual jury</a> ever gets a chance to consider.</p>",
-    "sections": [],
-    "sources": [
-      {
-        "title": "Advice for Award Nominators and Endorsers",
-        "url": "https://awards.acm.org/binaries/content/assets/awards/advice-for-award-nominators-and-endorsers_07-2025.pdf",
-        "note": "Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
-        "access": "existing-research-notes"
-      }
-    ],
-    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
     "id": "T281",
     "title": "Public appreciation",
     "description": "Public appreciation makes a contribution visible to others, turning private gratitude into a shared account of what the group values.",
@@ -1714,7 +1627,7 @@
       {
         "id": "recognition-changes-the-room",
         "title": "Recognition changes the room",
-        "html": "<p><a href=\"/dynamics/mutual-recognition/\">Public recognition</a> can affect the audience as well as its recipient. In a <a href=\"https://www.iza.org/publications/dp/8311\">short data-entry field experiment</a>, unexpected recognition changed subsequent performance, with much of the increase coming from people who were not recognized. The experiment measured performance during a three-hour task, so it leaves open whether the response would persist in a continuing group. The immediate response nevertheless extended beyond the people praised.</p><p>Imagine repeatedly thanking event speakers while overlooking people who <a href=\"/technologies/accessibility-arrangements/\">arrange access</a> or clean the venue. Even sincere praise would tell an incomplete story about what makes the event possible. Appreciation can reproduce visibility inequalities unless someone notices the quieter work.</p><p>People also differ in whether public attention feels welcome. The point is to acknowledge a contribution in a form the person can receive, not to turn gratitude into an obligation to perform modesty before an audience. A brief, concrete acknowledgment can change what the group learns to notice.</p>"
+        "html": "<p><a href=\"/dynamics/mutual-recognition/\">Public recognition</a> can affect the audience as well as its recipient. In a <a href=\"https://www.iza.org/publications/dp/8311\">short data-entry field experiment</a>, unexpected recognition changed subsequent performance, with much of the increase coming from people who were not recognized. The experiment measured performance during a three-hour task, so it leaves open whether the response would persist in a continuing group. The immediate response nevertheless extended beyond the people praised.</p><p>Imagine repeatedly thanking event speakers while overlooking people who arrange access or clean the venue. Even sincere praise would tell an incomplete story about what makes the event possible. Appreciation can reproduce visibility inequalities unless someone notices the quieter work.</p><p>People also differ in whether public attention feels welcome. The point is to acknowledge a contribution in a form the person can receive, not to turn gratitude into an obligation to perform modesty before an audience. A brief, concrete acknowledgment can change what the group learns to notice.</p>"
       }
     ],
     "sources": [
@@ -1982,12 +1895,17 @@
       {
         "id": "the-role-is-larger-than-its-title",
         "title": "The role is larger than its title",
-        "html": "<p>Imagine a volunteer association whose treasurer also negotiates its venue, remembers grant commitments, and knows every payment deadline. Selecting a new treasurer does not transfer those capabilities automatically. Some need documentation, some need introductions, and some require <a href=\"/technologies/overlapping-handovers/\">practice while the predecessor can still answer questions</a>.</p><p>This makes succession different from merely announcing a successor. The organization has to create opportunities to learn and test responsibility before the transfer becomes urgent.</p>"
+        "html": "<p>Imagine a volunteer association whose treasurer also negotiates its venue, remembers grant commitments, and knows every payment deadline. Selecting a new treasurer does not transfer those capabilities automatically. Some need documentation, some need introductions, and some require practice while the predecessor can still answer questions.</p><p>This makes succession different from merely announcing a successor. The organization has to create opportunities to learn and test responsibility before the transfer becomes urgent.</p>"
       },
       {
-        "id": "continuity-without-a-closed-court",
-        "title": "Continuity without a closed court",
-        "html": "<p>Preparing candidates should not turn into a private promise that a favored person owns the next vacancy. Future needs may change, and someone outside the expected circle may be better suited. A pool of prepared people can preserve options as well as continuity.</p><p>Succession planning also reaches beyond leadership. A technician or administrator may hold knowledge whose loss would interrupt the institution more severely than a temporary vacancy at the top. The useful map follows critical work and relationships, wherever they sit in the hierarchy.</p>"
+        "id": "preparing-more-than-one-person",
+        "title": "Develop capability before a vacancy appears",
+        "html": "<p>A leadership pipeline is useful when it means real opportunities to carry responsibility, rather than a list of presumed heirs. Members might lead a bounded project, manage a budget, or assist with a negotiation while experienced people remain available. <a href=\"https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/\">Preparing a pool of potential successors</a> gives the institution options when its needs change.</p><p>Responsibility can grow as someone demonstrates readiness. A person may be ready to handle routine payments while still needing help with an unusual grant condition. Giving them genuine choices, feedback, and access to help makes this a learning arrangement; having the predecessor intervene in every decision does not. <a href=\"/technologies/apprenticeship/\">Apprenticeship</a> and <a href=\"/technologies/mentorship/\">mentorship</a> can support that development.</p><p>Opportunity distribution matters. If only familiar favorites receive demanding assignments, the institution may later describe everyone else as inexperienced. Development should enlarge the group of people who can carry its work, including those who do not want the most senior office.</p>"
+      },
+      {
+        "id": "working-through-the-handover",
+        "title": "Let the successor use the knowledge",
+        "html": "<p>An institutional memory interview can uncover why a procedure exists, which promise remains unresolved, or who needs a personal introduction. Recording the answers preserves context, but does not prove that someone else can act on it. An overlapping handover lets the incoming person try the work and ask questions while the predecessor is still present. <a href=\"https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm\">Handover guidance emphasizes preparation, two-way exchange, and cross-checking</a>.</p><p>The association’s next treasurer could prepare a payment run, identify uncertain cases, and explain how they would resolve them. A demonstration can reveal missing knowledge, outdated instructions, or absent permissions. One successful rehearsal still samples only part of the role; unfamiliar cases may require continued support.</p><p>The distinction between <a href=\"https://samoburja.com/gft/\">skill succession and power succession</a> explains why both preparation and transfer matter. Someone can know what to do without authority to do it, or hold the title without the needed judgment. The handover must specify when responsibility changes, transfer access and relationships, and give the successor room to make decisions. Otherwise two people may issue conflicting instructions, or the old leader may continue governing through an apparently completed transition.</p><p>This work reaches beyond leadership. A technician or administrator may hold knowledge whose loss would interrupt the institution more severely than a vacancy at the top. Preparing successors means following critical work and relationships wherever they sit in the hierarchy.</p>"
       }
     ],
     "sources": [
@@ -1996,9 +1914,45 @@
         "url": "https://www.usgs.gov/human-capital/succession-planning",
         "note": "Freshly reviewed talent pools, critical roles, knowledge loss and distinction between workforce planning and immediate knowledge capture.",
         "access": "sections"
+      },
+      {
+        "title": "Shift handover",
+        "url": "https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm",
+        "note": "Reused the prior Overlapping handovers article and its source notes during consolidation; original recorded access: sections. Freshly reviewed preparation, two-way communication, incoming cross-checking and adequate time.",
+        "access": "existing-research-notes"
+      },
+      {
+        "title": "Common Program Requirements FAQs",
+        "url": "https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf",
+        "note": "Reused the prior Graduated responsibility article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
+        "access": "existing-research-notes"
+      },
+      {
+        "title": "Succession Planning Process",
+        "url": "https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/",
+        "note": "Reused the prior Leadership pipelines article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
+        "access": "existing-research-notes"
+      },
+      {
+        "title": "Johnson Space Center Oral History Project",
+        "url": "https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html",
+        "note": "Reused the prior Institutional memory interviews article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
+        "access": "existing-research-notes"
+      },
+      {
+        "title": "Knowledge Management Methods and Tools: how to build, capture and share knowledge",
+        "url": "https://gnssn.iaea.org/main/ansn/Activity%20Documents%20%20Public/National%20Workshop%20on%20the%20Development%20of%20Nuclear%20Safety%20Knowledge%20Management%20Programme/IAEA%20presentation/2.3%20Knowledge%20Management%20Methods%20and%20Tools%202024.pdf",
+        "note": "Reused the prior Knowledge succession demonstrations article and its source notes during consolidation; original recorded access: sections. Freshly reviewed slides 40–42 via downloaded text after web excerpts/timeouts: observable outcomes and demonstrate-competency milestone.",
+        "access": "existing-research-notes"
+      },
+      {
+        "title": "Great Founder Theory: The Succession Problem",
+        "url": "https://samoburja.com/gft/",
+        "note": "Reused the prior Knowledge succession demonstrations article and its source notes during consolidation; original recorded access: sections. Freshly reviewed local user-supplied manuscript printed pages 77–78 on skill and power succession. Theory distinction, not causal validation.",
+        "access": "existing-research-notes"
       }
     ],
-    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation.",
+    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -2017,75 +1971,6 @@
       {
         "title": "Creating the COO Position",
         "url": "https://www.bridgespan.org/getmedia/c60187c0-f6b7-4019-bd32-53b8872ae283/CreatingCOOPosition.pdf?ext=.pdf",
-        "note": "Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
-        "access": "existing-research-notes"
-      }
-    ],
-    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T295",
-    "title": "Overlapping handovers",
-    "description": "Overlapping handovers create a period when outgoing and incoming responsibility holders can exchange information, question assumptions, and check understanding directly.",
-    "opening_html": "<p>A set of files says what the last coordinator recorded. It may not explain which promise is still unresolved, why a supplier needs a phone call, or what has changed since the notes were written. An overlapping handover gives the next person access to someone who can answer those questions.</p><p><a href=\"https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm\">Effective handover</a> combines preparation, exchange, and cross-checking by the incoming person. It is a two-way process, not simply the outgoing person delivering a final speech.</p>",
-    "sections": [
-      {
-        "id": "the-next-person-has-to-use-the-information",
-        "title": "The next person has to use the information",
-        "html": "<p>Imagine two festival coordinators working together for a week before one leaves. The incoming coordinator reviews upcoming commitments, contacts key partners, and asks about confusing entries. Trying to use the information exposes gaps that passive reading might leave hidden.</p><p>The overlap also needs a clear point at which responsibility changes. Otherwise both may assume the other has replied to a request, or each may issue different instructions. Continuing access to a predecessor is helpful only if it does not leave everyone unsure who now decides.</p><p>The cost is time from both people, often when the outgoing person is busy finishing work. That time can be easy to cut because a handover produces fewer visible outputs than normal operations. Its output is continuity: the next person can understand the live situation rather than <a href=\"/dynamics/tacit-knowledge-dependence/\">reconstruct it after the knowledgeable person has gone</a>.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Shift handover",
-        "url": "https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm",
-        "note": "Freshly reviewed preparation, two-way communication, incoming cross-checking and adequate time.",
-        "access": "sections"
-      }
-    ],
-    "research_note": "Industrial handover principles adapted to a hypothetical festival role; no safety-critical operational guidance.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T296",
-    "title": "Graduated responsibility",
-    "description": "Graduated responsibility increases someone’s autonomy as their demonstrated capability grows, making learning and delegation part of the same continuing relationship.",
-    "opening_html": "<p>A new volunteer at a community radio station first <a href=\"/technologies/job-shadowing/\">observes a broadcast</a>, then handles a short segment with support, and later runs a program independently. Responsibility grows through experience rather than changing all at once from no authority to full authority.</p><p>The underlying principle is to connect autonomy with assessed readiness and the circumstances of the task. In medical training, supervision <a href=\"https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf\">depends on assessed competence and the circumstances of the task</a>, rather than time served alone.</p>",
-    "sections": [
-      {
-        "id": "enough-room-to-act",
-        "title": "Enough room to act",
-        "html": "<p>In the radio example, a newcomer needs genuine decisions to make. If a supervisor immediately corrects every choice, the person cannot develop judgment or show what they can handle. But disappearing entirely before they understand the equipment creates avoidable difficulty for everyone.</p><p>The right next step can differ by task. Someone may be ready to conduct an interview yet need help with a live technical failure. Responsibility is therefore more informative when described in concrete activities than as a single label such as “experienced.”</p><p>A gradual transfer also makes learning visible to the group. People can see why the person receives more authority and where support remains available. The mechanism is a sequence of <a href=\"/dynamics/learning-through-participation/\">meaningful opportunities to act</a>, with enough feedback to distinguish growing competence from merely growing familiarity.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Common Program Requirements FAQs",
-        "url": "https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf",
-        "note": "Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
-        "access": "existing-research-notes"
-      }
-    ],
-    "research_note": "Clinical supervision source reused only for general competence-linked autonomy principle; radio example is explicit cross-context illustration, not medical training advice.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T297",
-    "title": "Leadership pipelines",
-    "description": "Leadership pipelines develop several people for future responsibility, making continuity less dependent on finding a ready-made replacement at the moment someone leaves.",
-    "opening_html": "<p>An organization that waits for a vacancy before developing leaders has already lost much of its preparation time. A leadership pipeline creates opportunities for people to learn relevant responsibilities while current leaders are still available to help.</p><p>This developmental side of <a href=\"/technologies/succession-planning/\">succession planning</a> <a href=\"https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/\">connects anticipated needs with competencies and development opportunities</a>. The “pipeline” is best understood as a pool of growing capability, not a conveyor belt guaranteeing particular people particular jobs.</p>",
-    "sections": [
-      {
-        "id": "opportunities-create-readiness",
-        "title": "Opportunities create readiness",
-        "html": "<p>Imagine a regional association letting several members lead limited projects, manage small budgets, and observe board decisions. Each experience gives them more than a training certificate: they encounter the judgments and relationships the larger role would require.</p><p>The opportunities themselves can be unevenly distributed. If only <a href=\"/dynamics/cliques-and-informal-exclusion/\">familiar favorites</a> receive demanding assignments, the organization may later call them the only experienced candidates. The pipeline has helped create the scarcity it then uses to justify selection.</p><p>Different people also develop at different speeds and may want different kinds of responsibility. A person excellent at leading a project need not want a permanent executive role. Allowing movement into, out of, and across development paths can preserve useful capacity without turning early labels into destiny.</p><p>The institution gains resilience when more people can understand and carry important work. Filling the next top job is one benefit, but a wider base of capable participants can matter long before that vacancy appears.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Succession Planning Process",
-        "url": "https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/",
         "note": "Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
         "access": "existing-research-notes"
       }
@@ -2162,34 +2047,6 @@
     "reviewed_on": "2026-11-06"
   },
   {
-    "id": "T301",
-    "title": "Institutional memory interviews",
-    "description": "Institutional memory interviews preserve people’s accounts of decisions and working practices, keeping experience accessible after those who lived it are no longer available.",
-    "opening_html": "<p>A file records that a project changed direction. The person who was there may remember the failed experiment, the disagreement, and the small discovery that made the change possible. An institutional memory interview preserves that perspective alongside the formal record.</p><p><a href=\"https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html\">NASA's Johnson Space Center oral histories</a> include participants across different roles. That breadth matters: institutional memory is not only the story leaders tell about their own decisions.</p>",
-    "sections": [
-      {
-        "id": "remembering-from-more-than-one-position",
-        "title": "Remembering from more than one position",
-        "html": "<p>Imagine a community theatre interviewing its former stage manager, treasurer, and accessibility volunteer. Each can explain work others barely noticed. Their accounts may reveal why a procedure exists, which relationships mattered, or what almost went wrong during a successful production.</p><p>Memories are nevertheless selective. People reconstruct motives, forget sequences, and interpret the same event differently. An interview becomes stronger evidence when its date and perspective are clear and it can be compared with other accounts and records.</p>"
-      },
-      {
-        "id": "a-record-someone-can-find",
-        "title": "A record someone can find",
-        "html": "<p>Recording is only the beginning. Consent, usable descriptions, and an <a href=\"/technologies/institutional-archives/\">accessible archive</a> determine whether future members can actually benefit. A folder of unlabeled audio files can preserve voices while losing the ability to locate the knowledge inside them.</p><p>These interviews are not a substitute for teaching someone to do the work. They preserve experience and context that later readers or listeners can examine. Their particular contribution is keeping the institution's past more complex and usable than a succession of official announcements.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Johnson Space Center Oral History Project",
-        "url": "https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html",
-        "note": "Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
-        "access": "existing-research-notes"
-      }
-    ],
-    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
     "id": "T302",
     "title": "Backup ownership",
     "description": "Backup ownership gives another trusted person the access and knowledge needed to keep a shared project operating when its usual administrator is unavailable.",
@@ -2210,63 +2067,6 @@
       }
     ],
     "research_note": "Backup ownership is used operationally, not as a claim to legal ownership. No platform-specific security instructions or shared-password recommendation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T303",
-    "title": "Stewardship terms",
-    "description": "Stewardship terms give entrusted authority a defined duration, making continuation an explicit decision rather than an assumption of permanent office.",
-    "opening_html": "<p>A group appoints someone to care for a shared institution. Without an agreed term, the role can persist simply because replacing the person feels awkward. A term establishes when the appointment ends or comes up for renewal.</p><p>Wikimedia Foundation trustees <a href=\"https://wikimediafoundation.org/our-2026-trustee-search/\">serve fixed, renewable terms</a>. Duration, renewal, and an overall limit are separate choices; specifying one does not automatically settle the others.</p>",
-    "sections": [
-      {
-        "id": "time-can-protect-and-constrain",
-        "title": "Time can protect and constrain",
-        "html": "<p>Imagine a community foundation appointing trustees for staggered periods. New members can join while others retain knowledge of current commitments. If everyone leaves together, the same <a href=\"/technologies/term-limits/\">term limit</a> could instead create a sudden loss of experience.</p><p>Terms also shape what officeholders can attempt. A short appointment may create urgency but discourage work whose results arrive later. A long one may support continuity while allowing poor performance to persist if no other accountability process exists.</p><p>Renewal should therefore mean more than waiting for a calendar date. The institution needs a route for assessing whether continuation serves its purpose and for <a href=\"/technologies/succession-planning/\">preparing a successor</a> when it does not.</p><p>The mechanism makes authority temporary in an intelligible way. It gives both the steward and the group a known horizon, while leaving the quality of stewardship and accountability during the term to additional arrangements.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Our 2026 Trustee Search",
-        "url": "https://wikimediafoundation.org/our-2026-trustee-search/",
-        "note": "Freshly reviewed commitment section describing fixed renewable board terms. Specific limits omitted to avoid making them a universal prescription.",
-        "access": "sections"
-      }
-    ],
-    "research_note": "Conceptual explanation with explicitly hypothetical illustration; no comparative effectiveness claim. Prior evidence supports the mechanism, not every possible implementation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T304",
-    "title": "Knowledge succession demonstrations",
-    "description": "Knowledge succession demonstrations ask a successor to perform important work before the predecessor leaves, checking whether capability has transferred alongside documents and authority.",
-    "opening_html": "<p>A departing coordinator has written instructions and explained every step. The successor nods along. That is encouraging, but the organization still does not know whether the next person can actually do the work. A demonstration closes part of that gap by having the successor perform a meaningful task while help is still available.</p><p>Knowledge-transfer planning can specify <a href=\"https://gnssn.iaea.org/main/ansn/Activity%20Documents%20%20Public/National%20Workshop%20on%20the%20Development%20of%20Nuclear%20Safety%20Knowledge%20Management%20Programme/IAEA%20presentation/2.3%20Knowledge%20Management%20Methods%20and%20Tools%202024.pdf\">observable learning outcomes and a point when the learner must demonstrate competence</a>. During a handover, this turns an assurance that someone has learned into an opportunity to see what they can do.</p>",
-    "sections": [
-      {
-        "id": "let-the-successor-drive",
-        "title": "Let the successor drive",
-        "html": "<p>Imagine an association transferring responsibility for its annual membership renewal. The successor prepares <a href=\"/technologies/simulation-exercises/\">a small test run</a>, identifies uncertain cases, and explains how they would resolve them. The predecessor observes and responds when needed instead of completing each difficult step on their behalf.</p><p>The demonstration reveals different kinds of gaps. Perhaps the instructions omit a task everyone assumed was obvious. Perhaps the successor understands the procedure but lacks access to a required system. Performing the work distinguishes those problems from a vague impression that “more training” is needed.</p>"
-      },
-      {
-        "id": "capability-and-authority-must-meet",
-        "title": "Capability and authority must meet",
-        "html": "<p>The <a href=\"https://samoburja.com/gft/\">distinction</a> between skill succession and power succession is useful in <a href=\"/technologies/succession-planning/\">succession planning</a>: someone can know what to do without having authority to do it, or hold the title without having the required capability. A handover has to connect both.</p><p>One successful rehearsal still samples only part of the role. Unusual cases and judgment developed over time may need further support. The purpose is to discover important gaps while the institution can still repair them, rather than treating the final farewell as evidence that learning has finished.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Knowledge Management Methods and Tools: how to build, capture and share knowledge",
-        "url": "https://gnssn.iaea.org/main/ansn/Activity%20Documents%20%20Public/National%20Workshop%20on%20the%20Development%20of%20Nuclear%20Safety%20Knowledge%20Management%20Programme/IAEA%20presentation/2.3%20Knowledge%20Management%20Methods%20and%20Tools%202024.pdf",
-        "note": "Freshly reviewed slides 40–42 via downloaded text after web excerpts/timeouts: observable outcomes and demonstrate-competency milestone.",
-        "access": "sections"
-      },
-      {
-        "title": "Great Founder Theory: The Succession Problem",
-        "url": "https://samoburja.com/gft/",
-        "note": "Freshly reviewed local user-supplied manuscript printed pages 77–78 on skill and power succession. Theory distinction, not causal validation.",
-        "access": "sections"
-      }
-    ],
-    "research_note": "Explicitly an editorial practice label, not an established named method. Institutional knowledge-transfer principles adapted to a low-risk association scenario; no nuclear operational guidance.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -2316,52 +2116,6 @@
     "reviewed_on": "2026-11-06"
   },
   {
-    "id": "T337",
-    "title": "Peer juries for awards",
-    "description": "Peer juries bring knowledgeable people together to judge work for recognition, combining specialist understanding with a defined collective selection process.",
-    "opening_html": "<p>The significance of a technical achievement or artistic work may be difficult for a general audience to assess. A peer jury assembles people with relevant experience to compare submissions and explain which deserve recognition under the award's criteria.</p><p>The jury's authority needs a defined scope. In the <a href=\"https://www.arts.gov/grants/grant-review-process\">NEA grant-review process</a>, peer panels make recommendations within a larger decision structure. An expert assessment and the final power to award resources are not necessarily held by the same people.</p>",
-    "sections": [
-      {
-        "id": "different-expertise-in-the-same-room",
-        "title": "Different expertise in the same room",
-        "html": "<p>Imagine <a href=\"/technologies/awards/\">a design award</a> whose panel includes practitioners with different specialties. One notices an elegant construction detail, another understands accessibility, and a third questions whether the result is usable outside the exhibition photograph. Their discussion can reveal dimensions a single judge would miss.</p><p>Peers also share professional fashions, networks, and blind spots. A panel can reproduce a field's existing hierarchy while describing the result as pure expertise. <a href=\"/technologies/conflict-of-interest-disclosure/\">Disclosing conflicts of interest</a> makes those relationships visible; the range of perspectives represented and the evidence requested also shape the judgment.</p><p>The jury converts specialized appreciation into an institutional decision others can recognize. Its credibility comes from relevant understanding and a process people have reason to trust. Neither a famous name on the panel nor a unanimous verdict eliminates the need to know what the award is actually recognizing.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Grant Review Process",
-        "url": "https://www.arts.gov/grants/grant-review-process",
-        "note": "Reviewed existing research notes for mechanism and limitations; original access was search excerpt.",
-        "access": "existing-research-notes"
-      }
-    ],
-    "research_note": "NEA grant panel used as explicit example of peer assessment, not mislabeled a final prize jury. Awards application is an editorial adaptation of the mechanism.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T338",
-    "title": "Recallable stewardship",
-    "description": "Recallable stewardship makes continued authority conditional on ongoing trust and review, giving a community a route to end a role without waiting for permanent withdrawal.",
-    "opening_html": "<p>A community gives someone important permissions because they are trusted to use them responsibly. If that trust later breaks down, the original appointment should not be the end of the conversation. Recallable stewardship makes removal or non-confirmation part of the governing arrangement.</p><p>The process can take different forms. <a href=\"https://meta.wikimedia.org/wiki/Stewards\">Wikimedia stewards</a> undergo community comment followed by deliberation among stewards; this is not <a href=\"/technologies/recall-procedures/\">a direct popular recall vote</a>. The broader mechanism is a defined route for reconsidering entrusted authority.</p>",
-    "sections": [
-      {
-        "id": "review-needs-more-than-discontent",
-        "title": "Review needs more than discontent",
-        "html": "<p>Imagine a shared archive whose steward repeatedly uses access privileges to block legitimate contributors. Members need somewhere to bring evidence, an opportunity for the steward to respond, and a body authorized to decide what happens. Otherwise “accountable to the community” may mean little in practice.</p><p>Removal procedures can themselves be abused. A coordinated faction may try to punish an unpopular but justified decision, while insiders may protect a colleague despite credible concerns. Fair review requires distinguishing disagreement over a decision from misuse of the role.</p><p>The practical endpoint matters too: a decision to remove authority must actually change permissions and transfer responsibilities. Recallable stewardship keeps the office separate from its holder. Its value lies in making trust revisable through a process, rather than forcing a community to choose between tolerating failure indefinitely and breaking the institution apart.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Stewards: Confirmations and Removal of Access",
-        "url": "https://meta.wikimedia.org/wiki/Stewards",
-        "note": "Freshly reviewed annual community-comment process, steward deliberation and removal, and inactivity provision.",
-        "access": "sections"
-      }
-    ],
-    "research_note": "Explicitly distinguishes Wikimedia confirmation/peer-removal process from direct popular recall; archive example is hypothetical adaptation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
     "id": "T340",
     "title": "Private ownership",
     "description": "Give people or private organizations recognized rights over resources, shaping who can use them, make decisions, and transfer control.",
@@ -2394,6 +2148,11 @@
         "id": "permission-and-payment",
         "title": "Permission and payment are separate choices",
         "html": "<p>Imagine a designer publishing an illustrated manual for a new repair device. Rights in the text and drawings do not automatically provide rights over the device’s working principle. Someone seeking to reproduce the manual and someone seeking to manufacture a device are asking different questions.</p><p>Rights can create bargaining power, but they do not supply customers or finance development by themselves. <a href=\"/technologies/open-licensing/\">Open licensing</a> uses rights to grant permissions in advance; <a href=\"/technologies/grants/\">grants</a> can pay for work without depending on later permission fees. Public access and compensation depend on how these arrangements are combined.</p><p>The interesting design choices concern what is protected, for how long, with which exceptions, and who can enforce the rights. Expanding control may make one investment easier to recover while making later learning and invention more expensive. The label alone does not settle that balance.</p>"
+      },
+      {
+        "id": "earning-without-exclusion",
+        "title": "An invention can earn money without exclusive control",
+        "html": "<p>A workshop may publish a pump design while customers still pay its team to manufacture reliably, install the equipment, and maintain it. The advantage lies in complementary capabilities rather than permission to copy. <a href=\"https://www.nber.org/papers/w7552\">A survey of US manufacturing firms reported manufacturing and marketing capabilities among the ways firms captured returns from invention</a>; that does not establish the same route for every industry.</p><p>The social arrangements around those capabilities still matter. <a href=\"/technologies/contracts/\">Contracts</a> organize paid production or support, <a href=\"/technologies/open-licensing/\">licenses</a> set reuse permissions, and <a href=\"/technologies/joint-ventures/\">partnerships</a> can connect an inventor to a producer. A <a href=\"/technologies/subscriptions/\">subscription</a> may fund genuinely continuing service. None follows automatically from publishing a design.</p><p>This route is weaker when rivals can reproduce the whole offering cheaply. It may also reward the distributor more than the inventor. The relevant question is who controls the capabilities that customers need, and what agreement lets the people doing the inventive work share in the returns.</p>"
       }
     ],
     "sources": [
@@ -2402,9 +2161,15 @@
         "url": "https://www.wipo.int/en/web/about-ip",
         "access": "search-excerpt",
         "note": "WIPO overview and linked definitions reviewed; comparison of payment arrangements is editorial synthesis."
+      },
+      {
+        "title": "Protecting Their Intellectual Assets",
+        "url": "https://www.nber.org/papers/w7552",
+        "access": "existing-research-notes",
+        "note": "Reused the prior Earning from complementary capabilities article and its source notes during consolidation; original recorded access: abstract. Indexed abstract reviewed; direct page returned 403. 1994 US manufacturing R&D survey, published 2000; no claim of universal or current sector-wide effectiveness."
       }
     ],
-    "research_note": "Conceptual explanation with illustrative examples. Rights vary by jurisdiction; no claim of guaranteed returns or universal effectiveness. ",
+    "research_note": "Conceptual explanation with illustrative examples. Rights vary by jurisdiction; no claim of guaranteed returns or universal effectiveness.  Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-08"
   },
   {
@@ -2416,7 +2181,7 @@
       {
         "id": "paying-for-discovery",
         "title": "Other ways to pay for discovery",
-        "html": "<p>The goal of rewarding invention does not require every payment to come from restricting its use. <a href=\"/technologies/commissioned-research-and-development/\">Commissioned research and development</a> and <a href=\"/technologies/grants/\">grants</a> can fund the attempt. <a href=\"/technologies/prize-competitions/\">Prize competitions</a> reward a defined achievement. <a href=\"/technologies/advance-market-commitments/\">Advance market commitments</a> make demand for a qualifying product more credible. These arrangements differ in who bears the risk and when money arrives.</p><p>A <a href=\"/technologies/patent-buyouts/\">patent buyout</a> can compensate a holder and release rights for wider use. Alternatively, <a href=\"/technologies/trade-secrets/\">trade secrets</a> retain an advantage through confidentiality, while <a href=\"/technologies/earning-from-complementary-capabilities/\">complementary capabilities</a> can earn revenue from production, installation, or service even when the idea is available to others.</p><p>Each route has a different bottleneck: defining success, financing unsuccessful attempts, maintaining a secret, valuing rights, or delivering something customers continue to need. <a href=\"/technologies/copyright/\">Copyright</a> does a different job again: protecting a description of the pump would not, by itself, protect its working principle.</p>"
+        "html": "<p>The goal of rewarding invention does not require every payment to come from restricting its use. <a href=\"/technologies/commissioned-research-and-development/\">Commissioned research and development</a> and <a href=\"/technologies/grants/\">grants</a> can fund the attempt. <a href=\"/technologies/prize-competitions/\">Prize competitions</a> reward a defined achievement. <a href=\"/technologies/advance-market-commitments/\">Advance market commitments</a> make demand for a qualifying product more credible. These arrangements differ in who bears the risk and when money arrives.</p><p>A <a href=\"/technologies/patent-buyouts/\">patent buyout</a> can compensate a holder and release rights for wider use. Alternatively, <a href=\"/technologies/trade-secrets/\">trade secrets</a> retain an advantage through confidentiality, while <a href=\"/technologies/intellectual-property/#earning-without-exclusion\">complementary capabilities</a> can earn revenue from production, installation, or service even when the idea is available to others.</p><p>Each route has a different bottleneck: defining success, financing unsuccessful attempts, maintaining a secret, valuing rights, or delivering something customers continue to need. <a href=\"/technologies/copyright/\">Copyright</a> does a different job again: protecting a description of the pump would not, by itself, protect its working principle.</p>"
       }
     ],
     "sources": [
@@ -2543,29 +2308,6 @@
       }
     ],
     "research_note": "Conceptual explanation with illustrative examples. Rights vary by jurisdiction; no claim of guaranteed returns or universal effectiveness. ",
-    "reviewed_on": "2026-11-08"
-  },
-  {
-    "id": "T348",
-    "title": "Earning from complementary capabilities",
-    "description": "Earn from the production, implementation, or service that makes an invention useful, even when others can reproduce the idea.",
-    "opening_html": "<p>A workshop publishes the design of a small wind-powered pump. Another workshop can copy the drawings, but a customer may still prefer the original team because it can build reliably, install the equipment, and keep it working. The sale concerns more than possession of the design.</p><p>US manufacturing firms <a href=\"https://www.nber.org/papers/w7552\">reported using manufacturing and marketing capabilities to capture returns from invention</a>, alongside secrecy, lead time, and patents. Owning a discovery and having the capacity to earn from it can be quite different advantages.</p>",
-    "sections": [
-      {
-        "id": "what-remains-worth-buying",
-        "title": "What remains worth buying?",
-        "html": "<p>The useful question is what stays valuable after the information spreads. It may be hard-to-reproduce production skill, dependable distribution, or a continuing service. <a href=\"/technologies/open-licensing/\">Open licensing</a> can make the design reusable while <a href=\"/technologies/contracts/\">contracts</a> organize paid work around it. <a href=\"/technologies/subscriptions/\">Subscriptions</a> can support a genuinely continuing service, rather than merely renaming a one-off sale.</p><p>This route is weaker when rivals can reproduce the entire offering quickly and cheaply. It can also reward a well-equipped distributor more than the person who made the discovery. An inventor may need a partnership or a share of the enterprise to benefit from capabilities they do not personally own.</p><p>These strategies offer an alternative or complement to <a href=\"/technologies/patents/\">patent</a> income: earning from making knowledge useful, without assuming that publishing knowledge automatically creates a sustainable business.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Protecting Their Intellectual Assets",
-        "url": "https://www.nber.org/papers/w7552",
-        "access": "abstract",
-        "note": "Indexed abstract reviewed; direct page returned 403. 1994 US manufacturing R&D survey, published 2000; no claim of universal or current sector-wide effectiveness."
-      }
-    ],
-    "research_note": "Conceptual explanation with illustrative examples. Rights vary by jurisdiction; no claim of guaranteed returns or universal effectiveness. This is an editorial grouping of business strategies, not a standard legal instrument.",
     "reviewed_on": "2026-11-08"
   }
 ]

@@ -77,13 +77,6 @@
     "findings": "AMA explanation integrates audience control, boundaries, and selective answering."
   },
   {
-    "id": "T017",
-    "type": "article",
-    "title": "Show-and-tell sessions",
-    "changed": false,
-    "findings": "Show-and-tell uses an exhibition example to explain unfinished work and feedback responsibility."
-  },
-  {
     "id": "T019",
     "type": "article",
     "title": "Train-the-trainer",
@@ -105,13 +98,6 @@
     "findings": "Salon explanation gives reading-aloud and newcomer examples; no source narration or unintroduced caveats."
   },
   {
-    "id": "T010",
-    "type": "article",
-    "title": "Deliberate practice with feedback",
-    "changed": true,
-    "findings": "Replaced research narration with a direct explanation of focused practice; retained citation and achievement limits."
-  },
-  {
     "id": "T013",
     "type": "article",
     "title": "Cross-training",
@@ -124,20 +110,6 @@
     "title": "Office hours",
     "changed": true,
     "findings": "Made accessibility claim direct while preserving both citations and the concrete scheduling difficulty."
-  },
-  {
-    "id": "T016",
-    "type": "article",
-    "title": "Lightning talks",
-    "changed": true,
-    "findings": "Replaced narration of a hosting account with the social purpose of lightning talks."
-  },
-  {
-    "id": "T018",
-    "type": "article",
-    "title": "Workshops",
-    "changed": true,
-    "findings": "Replaced instructor-guide narration with the preparation work it supports."
   },
   {
     "id": "T022",
@@ -252,13 +224,6 @@
     "findings": "Library mission attribution grounds public purpose; subsequent paragraphs explain selection and continuity."
   },
   {
-    "id": "T041",
-    "type": "article",
-    "title": "Troika Consulting",
-    "changed": false,
-    "findings": "Troika names its originating format; advice boundaries follow directly from the rotating roles."
-  },
-  {
     "id": "T025",
     "type": "article",
     "title": "Simulation exercises",
@@ -273,27 +238,6 @@
     "findings": "Replaced narration about what a translation-community source shows with a direct explanation of complementary skills."
   },
   {
-    "id": "T042",
-    "type": "article",
-    "title": "Appreciative Interviews",
-    "changed": false,
-    "findings": "Appreciative interviewing explicitly examines possible causes rather than equating a shared feature with proof."
-  },
-  {
-    "id": "T043",
-    "type": "article",
-    "title": "What, So What, Now What",
-    "changed": false,
-    "findings": "Reflection stages use attendance to introduce observations, interpretations, and action coherently."
-  },
-  {
-    "id": "T047",
-    "type": "article",
-    "title": "Unconferences",
-    "changed": false,
-    "findings": "Unconference explains participant agenda setting and infrastructure without detached source caveats."
-  },
-  {
     "id": "T048",
     "type": "article",
     "title": "Delphi process",
@@ -306,13 +250,6 @@
     "title": "Red teams",
     "changed": false,
     "findings": "Red-team explanation connects assigned dissent to consequential responses."
-  },
-  {
-    "id": "T050",
-    "type": "article",
-    "title": "Premortems",
-    "changed": false,
-    "findings": "Premortem explains vividness versus likelihood through equipment-library failure scenarios."
   },
   {
     "id": "T307",
@@ -334,13 +271,6 @@
     "title": "Deliberative polling",
     "changed": false,
     "findings": "Deliberative polling explains sampling and briefing limitations in the transport example."
-  },
-  {
-    "id": "T310",
-    "type": "article",
-    "title": "Knowledge fairs",
-    "changed": false,
-    "findings": "Knowledge fair explains demonstration, attention distortions, and follow-up relationships."
   },
   {
     "id": "T051",
@@ -369,20 +299,6 @@
     "title": "Residential retreats",
     "changed": true,
     "findings": "Removed a detached evidence disclaimer and described the conference example with explicit participant perspective."
-  },
-  {
-    "id": "T055",
-    "type": "article",
-    "title": "Protected unstructured time",
-    "changed": true,
-    "findings": "Replaced narration of an account with its concrete example of informal conversation."
-  },
-  {
-    "id": "T056",
-    "type": "article",
-    "title": "Shared journeys",
-    "changed": true,
-    "findings": "Introduced the conference journey as an event rather than a source description."
   },
   {
     "id": "T057",
@@ -418,13 +334,6 @@
     "title": "Introductions by a connector",
     "changed": false,
     "findings": "Connector explains permission, reputation, and unequal access through a librarian introduction."
-  },
-  {
-    "id": "T064",
-    "type": "article",
-    "title": "Listening pairs",
-    "changed": false,
-    "findings": "Listening pairs distinguish attentive support from agreement and clinical responsibility in context."
   },
   {
     "id": "T065",
@@ -642,13 +551,6 @@
     "title": "Participation stipends",
     "changed": false,
     "findings": "Stipends distinguish time from expenses and explain remaining barriers to participation."
-  },
-  {
-    "id": "T096",
-    "type": "article",
-    "title": "Accessibility arrangements",
-    "changed": false,
-    "findings": "Accessibility follows advance information through concrete requests and multiple participation routes."
   },
   {
     "id": "T097",

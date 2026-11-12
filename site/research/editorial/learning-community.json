@@ -3,7 +3,7 @@
     "id": "T002",
     "title": "Apprenticeship",
     "description": "Bring newcomers into real work with supervision, increasing responsibility, and a path toward independent competence.",
-    "opening_html": "<p>A manual can tell you the steps of repairing a bicycle. It is harder to explain <a href=\"/dynamics/tacit-knowledge-dependence/\">the feel of a part that is almost loose</a>, or the sound that suggests the obvious diagnosis is wrong. Apprenticeship puts a learner beside someone who can notice these differences while the work is happening.</p><p>The learner contributes before they can perform the whole job independently. The experienced worker demonstrates, watches attempts, corrects mistakes, and <a href=\"/technologies/graduated-responsibility/\">gradually hands over responsibility</a>. Knowledge travels through a continuing working relationship.</p>",
+    "opening_html": "<p>A manual can tell you the steps of repairing a bicycle. It is harder to explain <a href=\"/dynamics/tacit-knowledge-dependence/\">the feel of a part that is almost loose</a>, or the sound that suggests the obvious diagnosis is wrong. Apprenticeship puts a learner beside someone who can notice these differences while the work is happening.</p><p>The learner contributes before they can perform the whole job independently. The experienced worker demonstrates, watches attempts, corrects mistakes, and <a href=\"/technologies/succession-planning/#preparing-more-than-one-person\">gradually hands over responsibility</a>. Knowledge travels through a continuing working relationship.</p>",
     "sections": [
       {
         "id": "more-than-inexpensive-help",
@@ -14,6 +14,11 @@
         "id": "teaching-a-future-colleague",
         "title": "Teaching a future colleague",
         "html": "<p>The relationship also gives the experienced person something: a future colleague who can carry work forward. That creates a reason to teach judgment rather than keep every difficult decision personally controlled. Its achievement becomes visible when the apprentice can handle a new problem without waiting for the master.</p>"
+      },
+      {
+        "id": "practice-and-feedback",
+        "title": "Time to try, feedback to act on",
+        "html": "<p>Within that relationship, deliberate practice makes a difficult part of the work small enough to improve. A restoration apprentice might practice a joint on scrap material, receive a correction, and try again before working on an irreplaceable object. The teacher supplies feedback the learner cannot yet generate alone. Repeating a familiar task without that correction may produce speed without better judgment.</p><p>A short workshop can provide prepared materials, demonstrations, and supervised attempts; the <a href=\"https://docs.carpentries.org/handbooks/instructors.html\">Carpentries instructor handbook</a> describes the preparation such teaching requires. But a workshop does not by itself establish an apprenticeship. The continuing relationship creates opportunities to encounter unfamiliar problems, take on consequential work, and return for help after the lesson ends.</p>"
       }
     ],
     "sources": [
@@ -22,9 +27,21 @@
         "url": "https://www.ilo.org/resource/other/ilc/111/recommendation-concerning-quality-apprenticeships",
         "access": "existing-research-notes",
         "note": "Reviewed existing source registry: **ILO-A — [Quality Apprenticeships Recommendation, 2023 (No. 208)](https://www.ilo.org/resource/other/ilc/111/recommendation-concerning-quality-apprenticeships) and [policymaker guide](https://www.ilo.org/publications/guide-policymakers-quality-apprenticeships-recommendation-2023-no-208).** Adds a contemporary institutional definition to the broader historical concept: structured learning, agreed responsibilities, compensation, and recognized qualifications."
+      },
+      {
+        "title": "The Role of Deliberate Practice in the Acquisition of Expert Performance",
+        "url": "https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf",
+        "access": "existing-research-notes",
+        "note": "Reused the prior Deliberate practice with feedback article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed prior local research notes: Deliberate practice organizes effort around improving a specific aspect of performance, with informative feedback and opportunities to correct errors. Its mechanism differs from merely accumulating time doing familiar tasks without targeted revision. Original access: search excerpt."
+      },
+      {
+        "title": "Instructors Handbook",
+        "url": "https://docs.carpentries.org/handbooks/instructors.html",
+        "access": "existing-research-notes",
+        "note": "Reused the prior Workshops article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed prior local research notes: A workshop concentrates organized learning into a bounded event with prepared material, instructors, and participant activity. The Carpentries handbook makes preparation and instructional responsibilities explicit rather than assuming that gathering people automatically creates learning. Original access: page."
       }
     ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
+    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -65,6 +82,11 @@
         "id": "a-community-has-edges",
         "title": "A community has edges",
         "html": "<p><a href=\"/dynamics/core-and-peripheral-participation/\">Participation need not be identical</a>. A newcomer might mostly listen before bringing a useful example. Someone experienced may contribute intensely during a particular project and then become less active. Treating every quieter member as a failure can destroy this flexibility.</p><p>The group still needs attention: someone introduces people, draws out neglected questions, and prevents the same respected voices from defining every answer. A strong shared practice can otherwise become an orthodoxy. The valuable result is more people able to exercise judgment in their own circumstances, including when established habits need changing.</p>"
+      },
+      {
+        "id": "making-experience-visible",
+        "title": "Give people something they can examine",
+        "html": "<p>Exchange becomes more useful when members can inspect the work behind an account. In a show-and-tell, a librarian could bring the signs used in a new reading room and explain which ones visitors misunderstood. Others can ask about a particular choice rather than respond to a general claim of success. <a href=\"https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques\">Demonstrations of work in progress</a> make questions possible before the work becomes a finished announcement.</p><p>A knowledge fair can give several members space to demonstrate methods and find people facing similar problems. Such events are ways to sustain the exchange, not substitutes for a shared practice. If nobody can return with questions, compare later results, or revise what the group knows, a busy program may leave little continuing community behind.</p>"
       }
     ],
     "sources": [
@@ -73,9 +95,21 @@
         "url": "https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf",
         "access": "existing-research-notes",
         "note": "Reviewed existing source registry: **COP — Wenger-Trayner, [Introduction to communities of practice](https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf), and [forms of participation](https://blogarchive.wenger-trayner.com/2011/12/29/slide-forms-of-participation/).** Conceptual resources on shared practice and varying involvement."
+      },
+      {
+        "title": "Agile Tools and Techniques",
+        "url": "https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques",
+        "access": "existing-research-notes",
+        "note": "Reused the prior Show-and-tell sessions article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed prior local research notes: Show-and-tell sessions make work in progress visible to people outside the immediate task. Demonstrating actual outputs and discussing learning creates an opportunity for questions and feedback before work becomes a finished announcement. Original access: search excerpt."
+      },
+      {
+        "title": "The Art of Knowledge Exchange: Knowledge Fair",
+        "url": "https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf",
+        "access": "existing-research-notes",
+        "note": "Reused the prior Knowledge fairs article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed prior local research notes: A knowledge fair gathers demonstrations and accounts of participants’ work so visitors can discover practices and potential partners. The World Bank guide presents it as a way to share experience, increase visibility, and build connections across projects. Original access: search excerpt."
       }
     ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
+    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -151,7 +185,7 @@
     "id": "T008",
     "title": "Teach-back",
     "description": "Ask someone to explain an instruction in their own words so misunderstandings become visible while there is still time to correct them.",
-    "opening_html": "<p>“Does that make sense?” is easy to answer with a nod. It tells an explainer very little about what the other person understood. Teach-back replaces that vague reassurance with an account of what the person thinks they have heard or will do next.</p><p>The question is not a surprise examination. It is a check on whether the explanation worked. In <a href=\"https://www.ahrq.gov/patient-safety/reports/engage/interventions/teachback.html\">healthcare teach-back guidance</a>, responsibility stays with the communicator to explain clearly and try again when something has not landed.</p><p>Outside healthcare, the same pattern can help with <a href=\"/technologies/handoff-protocols/\">an ordinary handoff</a>. Imagine showing a new volunteer how to open an exhibition. Asking them to describe the sequence might reveal that they think the alarm must be disabled after opening a side door. The error can be corrected before their first solo shift.</p><p>The wording changes the social situation. “I want to check that I explained this clearly” makes it easier to reveal confusion than “Tell me whether you were paying attention.” An impatient or mocking response defeats the purpose by teaching people to hide uncertainty.</p><p>Being able to repeat instructions still differs from carrying them out. Physical skills may need a demonstration, and complex decisions require <a href=\"/technologies/deliberate-practice-with-feedback/\">practice with unfamiliar cases</a>. Teach-back exposes one particular gap: the distance between the message someone intended to send and the meaning another person took away.</p>",
+    "opening_html": "<p>“Does that make sense?” is easy to answer with a nod. It tells an explainer very little about what the other person understood. Teach-back replaces that vague reassurance with an account of what the person thinks they have heard or will do next.</p><p>The question is not a surprise examination. It is a check on whether the explanation worked. In <a href=\"https://www.ahrq.gov/patient-safety/reports/engage/interventions/teachback.html\">healthcare teach-back guidance</a>, responsibility stays with the communicator to explain clearly and try again when something has not landed.</p><p>Outside healthcare, the same pattern can help with <a href=\"/technologies/handoff-protocols/\">an ordinary handoff</a>. Imagine showing a new volunteer how to open an exhibition. Asking them to describe the sequence might reveal that they think the alarm must be disabled after opening a side door. The error can be corrected before their first solo shift.</p><p>The wording changes the social situation. “I want to check that I explained this clearly” makes it easier to reveal confusion than “Tell me whether you were paying attention.” An impatient or mocking response defeats the purpose by teaching people to hide uncertainty.</p><p>Being able to repeat instructions still differs from carrying them out. Physical skills may need a demonstration, and complex decisions require <a href=\"/technologies/apprenticeship/#practice-and-feedback\">practice with unfamiliar cases</a>. Teach-back exposes one particular gap: the distance between the message someone intended to send and the meaning another person took away.</p>",
     "sections": [],
     "sources": [
       {
@@ -168,12 +202,12 @@
     "id": "T009",
     "title": "Peer instruction",
     "description": "Let learners commit to an answer, compare their reasoning with peers, and reconsider before an instructor explains the result.",
-    "opening_html": "<p>When a teacher asks a question and one confident person answers, everyone else can remain invisible. Peer instruction makes more people think before the answer becomes public. Each learner chooses an answer, discusses it with someone nearby, and answers again.</p><p>The <a href=\"https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/collaborative-learning/incorporating-short-peer\">individual–discussion–individual sequence</a> matters. It gives people an initial position to examine and a reason to explain their thinking, rather than merely copying whoever speaks first.</p>",
+    "opening_html": "<p>When a teacher asks a question and one confident person answers, everyone else can remain invisible. Peer instruction makes more people think before the answer becomes public. Each learner chooses an answer, discusses it with someone nearby, and answers again.</p><p>The <a href=\"https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/collaborative-learning/incorporating-short-peer\">individual–discussion–individual sequence</a> matters. It gives people an initial position to examine and a reason to explain their thinking, rather than merely copying whoever speaks first.</p><p>Like <a href=\"/technologies/teach-back/\">teach-back</a>, the sequence makes understanding visible through explanation. Its distinctive step is asking learners to compare their reasoning with one another before answering again.</p>",
     "sections": [
       {
         "id": "the-disagreement-is-the-lesson",
         "title": "The disagreement is the lesson",
-        "html": "<p>Imagine <a href=\"/technologies/workshops/\">a workshop</a> asking which of two proposed surveys would better answer a particular question. Neighbors who choose differently have something precise to discuss. One may notice a biased sample; the other may have spotted that the apparently better survey asks about the wrong outcome.</p><p>The instructor then examines the reasoning, including common mistakes. A change in the vote is informative, but agreement alone does not establish understanding: the most persuasive person could also be wrong. Asking why answers changed exposes more than counting the new totals.</p><p>Question design carries much of the work. If a question only asks for a fact someone either remembers or does not, discussion may add little. If it is incomprehensible, peers have nothing useful to compare. A well-chosen conceptual question creates a small, manageable disagreement that learners have enough knowledge to investigate together.</p>"
+        "html": "<p>Imagine a workshop asking which of two proposed surveys would better answer a particular question. Neighbors who choose differently have something precise to discuss. One may notice a biased sample; the other may have spotted that the apparently better survey asks about the wrong outcome.</p><p>The instructor then examines the reasoning, including common mistakes. A change in the vote is informative, but agreement alone does not establish understanding: the most persuasive person could also be wrong. Asking why answers changed exposes more than counting the new totals.</p><p>Question design carries much of the work. If a question only asks for a fact someone either remembers or does not, discussion may add little. If it is incomprehensible, peers have nothing useful to compare. A well-chosen conceptual question creates a small, manageable disagreement that learners have enough knowledge to investigate together.</p>"
       }
     ],
     "sources": [
@@ -185,34 +219,6 @@
       }
     ],
     "research_note": "Peer discussion can circulate mistakes as well as insights; question design and subsequent clarification remain important parts of the method.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T010",
-    "title": "Deliberate practice with feedback",
-    "description": "Improve a specific part of a skill through demanding attempts, informative feedback, and repeated correction rather than repetition alone.",
-    "opening_html": "<p>You can do something for years without getting much better at its hardest parts. Familiar routines let you stay within what already works. Deliberate practice interrupts that comfort by isolating a weakness and arranging attempts that reveal whether it is improving.</p><p><a href=\"https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf\">Focused work on a skill differs from simply accumulating experience</a>. Feedback has to identify something the learner can change, and there must be another opportunity to try.</p>",
-    "sections": [
-      {
-        "id": "make-the-error-small-enough-to-work-on",
-        "title": "Make the error small enough to work on",
-        "html": "<p>A violinist struggling with a transition might slow down four bars rather than repeatedly perform an entire piece. A community organizer could rehearse explaining a disputed proposal, ask a partner where the explanation became unclear, and revise that passage. These are different domains, but the practical move is similar: make the problem observable and the next attempt manageable.</p><p>Other people can supply what self-correction lacks. A coach notices a pattern the learner cannot yet hear; <a href=\"/technologies/peer-review-of-work/\">a peer provides the audience reaction</a> the learner cannot generate alone. Vague praise or criticism offers much less to work with.</p>"
-      },
-      {
-        "id": "practice-is-one-part-of-achievement",
-        "title": "Practice is one part of achievement",
-        "html": "<p>Practice is not an explanation for every difference in achievement. Opportunities, instruction, health, and the demands of the particular activity still matter. Its practical value is narrower and more useful: it changes an ambition to improve into a sequence of attempts from which someone can learn.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "The Role of Deliberate Practice in the Acquisition of Expert Performance",
-        "url": "https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf",
-        "access": "existing-research-notes",
-        "note": "Reviewed prior local research notes: Deliberate practice organizes effort around improving a specific aspect of performance, with informative feedback and opportunities to correct errors. Its mechanism differs from merely accumulating time doing familiar tasks without targeted revision. Original access: search excerpt."
-      }
-    ],
-    "research_note": "This influential account concerns expert performance; it does not establish that practice alone explains every difference in ability or achievement.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -288,7 +294,7 @@
     "id": "T014",
     "title": "Office hours",
     "description": "Set aside a predictable time when people can bring questions to someone whose attention would otherwise be difficult to access.",
-    "opening_html": "<p>A person can be willing to help while remaining practically unreachable. Office hours create a known opening in their schedule. Instead of negotiating a special meeting or interrupting other work, someone can bring a question to a time already reserved for that purpose.</p><p>The arrangement is familiar in teaching, but it can also suit a volunteer coordinator, experienced practitioner, or project lead. Its value is making access less dependent on confidence or an existing personal relationship.</p><p>For a first-time student, “office hours” may sound like the hours when a professor is busy working. Explaining what people may bring is therefore part of the arrangement. <a href=\"/technologies/accessibility-arrangements/\">Usable times and ways of participating</a> help <a href=\"https://teaching.cornell.edu/teaching-resources/inclusion-belonging-accessibility/universal-design-learning\">make teaching accessible</a>; a calendar entry alone may not reach everyone.</p><p>A repair-club organizer might offer an hour for volunteers to discuss unfamiliar tasks or propose an activity. Saying that unfinished ideas are welcome makes the invitation different from a final approval meeting.</p><p>The schedule can still exclude the people who most need help. A single afternoon slot may be impossible for someone working shifts; an open group room may be unsuitable for a private concern. Alternative ways to contact the host keep the published time from becoming a new barrier. Office hours work by lowering the cost of an approach, not by restricting all access to one window.</p>",
+    "opening_html": "<p>A person can be willing to help while remaining practically unreachable. Office hours create a known opening in their schedule. Instead of negotiating a special meeting or interrupting other work, someone can bring a question to a time already reserved for that purpose.</p><p>The arrangement is familiar in teaching, but it can also suit a volunteer coordinator, experienced practitioner, or project lead. Its value is making access less dependent on confidence or an existing personal relationship.</p><p>For a first-time student, “office hours” may sound like the hours when a professor is busy working. Explaining what people may bring is therefore part of the arrangement. Usable times and ways of participating help <a href=\"https://teaching.cornell.edu/teaching-resources/inclusion-belonging-accessibility/universal-design-learning\">make teaching accessible</a>; a calendar entry alone may not reach everyone.</p><p>A repair-club organizer might offer an hour for volunteers to discuss unfamiliar tasks or propose an activity. Saying that unfinished ideas are welcome makes the invitation different from a final approval meeting.</p><p>The schedule can still exclude the people who most need help. A single afternoon slot may be impossible for someone working shifts; an open group room may be unsuitable for a private concern. Alternative ways to contact the host keep the published time from becoming a new barrier. Office hours work by lowering the cost of an approach, not by restricting all access to one window.</p><p>A useful conversation can become the beginning of <a href=\"/technologies/mentorship/\">mentorship</a> if advice grows into continuing involvement. The initial appointment makes contact possible without requiring either person to promise that longer relationship.</p>",
     "sections": [],
     "sources": [
       {
@@ -319,79 +325,10 @@
     "reviewed_on": "2026-11-06"
   },
   {
-    "id": "T016",
-    "title": "Lightning talks",
-    "description": "Give many people a short turn to share an interest or idea, making unfamiliar expertise visible and starting later conversations.",
-    "opening_html": "<p>You may spend months around someone without discovering what they know. A lightning-talk evening creates a quick way for people to reveal an interest: restoring old maps, tracking birds, designing accessible games, or a puzzle they cannot stop thinking about.</p><p>The short time limit changes the invitation. A speaker does not need to prepare a full lecture, and the audience can encounter several unexpected subjects in one sitting. The talks can <a href=\"https://supernuclear.substack.com/p/how-to-host-lightning-talks\">make a social occasion out of sharing knowledge</a>.</p>",
-    "sections": [
-      {
-        "id": "an-opening-for-a-longer-conversation",
-        "title": "An opening for a longer conversation",
-        "html": "<p>A five-minute introduction cannot teach an entire subject. It can give someone enough context to recognize a shared interest and approach the speaker afterward. <a href=\"/technologies/protected-unstructured-time/\">Leaving time between or after talks</a> is therefore part of the design, rather than wasted space around the content.</p><p>The host can lower the threshold by inviting first-time speakers personally, explaining the time limit, and making slides optional. Otherwise a casual event may quietly become a showcase for people already comfortable performing.</p><p>Brevity also needs enforcement. When one person takes twice their allotted time, later speakers and informal conversation pay the cost. A visible timer and a consistent stopping rule let the host protect everyone’s turn without turning it into a personal judgment. The achievement is a room that knows more about its own members.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "How to Host Lightning Talks",
-        "url": "https://supernuclear.substack.com/p/how-to-host-lightning-talks",
-        "access": "sections",
-        "note": "Freshly reviewed practitioner hosting account; short talks and social follow-up, not comparative outcome research."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T017",
-    "title": "Show-and-tell sessions",
-    "description": "Show unfinished work to others so questions, misunderstandings, and useful connections emerge before the result is fixed.",
-    "opening_html": "<p>People outside a project often hear about it when it is too late to influence it. A show-and-tell creates an earlier encounter. The team brings something visible—a prototype, draft, demonstration, or experiment—and lets others respond to the work itself.</p><p>The <a href=\"https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques\">show-and-tell approach</a> replaces some abstract progress reporting with an object people can examine. It is easier to notice a missing feature in a demonstration than in a statement that everything is proceeding well.</p>",
-    "sections": [
-      {
-        "id": "let-the-rough-edges-do-some-work",
-        "title": "Let the rough edges do some work",
-        "html": "<p>Suppose a volunteer group is designing an exhibition about local history. Showing a sample display might reveal that residents recognize an unnamed person in a photograph, cannot read the lettering, or understand the story differently. These are opportunities that a finished launch would make expensive to act on.</p><p>The social difficulty is presenting work that is not yet impressive. If audiences treat every rough edge as incompetence, presenters learn to show only polished successes. Explaining what is provisional and which questions are open makes the session more useful.</p><p><a href=\"/technologies/peer-review-of-work/\">Feedback</a> also needs a destination. The team can distinguish a misunderstanding to fix, an interesting suggestion to investigate, and a request outside the project’s purpose. A show-and-tell opens the work to other people’s knowledge without transferring every decision to whoever happens to attend.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Agile Tools and Techniques",
-        "url": "https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques",
-        "access": "existing-research-notes",
-        "note": "Reviewed prior local research notes: Show-and-tell sessions make work in progress visible to people outside the immediate task. Demonstrating actual outputs and discussing learning creates an opportunity for questions and feedback before work becomes a finished announcement. Original access: search excerpt."
-      }
-    ],
-    "research_note": "A demonstration can hide difficult tradeoffs if it becomes performance theatre; useful feedback requires showing uncertainties as well as polished results.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T018",
-    "title": "Workshops",
-    "description": "Bring people together for concentrated learning through explanation, attempts, feedback, and interaction around a defined subject or task.",
-    "opening_html": "<p>A workshop can turn an intention to learn into time actually spent trying something. People arrive together, encounter prepared material, and work through tasks while help is available. The event gives learning a place, a pace, and other people who can notice where it breaks down.</p><p>But a workshop is a broad container. Calling a long presentation interactive does not create the same experience as <a href=\"/technologies/deliberate-practice-with-feedback/\">practicing, comparing attempts, and revising work</a>.</p>",
-    "sections": [
-      {
-        "id": "what-participants-get-to-attempt",
-        "title": "What participants get to attempt",
-        "html": "<p>Imagine an introductory mapmaking workshop for a neighborhood group. A short demonstration could be followed by participants mapping a familiar route, comparing choices, and revising symbols that others misread. The teacher sees misunderstandings while they can still respond to them.</p><p>Preparation makes that possible. <a href=\"https://docs.carpentries.org/handbooks/instructors.html\">Materials, helpers, accessibility, and teaching responsibilities all need organizing</a>. If half the session disappears into missing equipment or unexplained prerequisites, the advertised topic is not what participants spend their time learning.</p><p>A bounded event also has a bounded achievement. Participants might leave able to make a first attempt, not independently handle every difficult case. A reference they can use later, an unfinished exercise to continue, or a way to ask follow-up questions gives the event a connection to subsequent practice. The useful unit is the learner’s next capability, not simply hours of content delivered.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Instructors Handbook",
-        "url": "https://docs.carpentries.org/handbooks/instructors.html",
-        "access": "existing-research-notes",
-        "note": "Reviewed prior local research notes: A workshop concentrates organized learning into a bounded event with prepared material, instructors, and participant activity. The Carpentries handbook makes preparation and instructional responsibilities explicit rather than assuming that gathering people automatically creates learning. Original access: page."
-      }
-    ],
-    "research_note": "The source describes a particular training organization; workshop quality varies with curriculum, facilitation, available practice, and participants’ starting knowledge.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
     "id": "T019",
     "title": "Train-the-trainer",
     "description": "Prepare people to teach a method to others, multiplying teaching capacity while making room to practice and receive feedback.",
-    "opening_html": "<p>One capable instructor can reach only so many people. Train-the-trainer creates more people who can carry the teaching forward. Participants learn the subject, observe how it is taught, and <a href=\"/technologies/deliberate-practice-with-feedback/\">practice teaching it themselves</a>.</p><p>That last step changes the task. Knowing an answer differs from noticing why another person cannot follow it. <a href=\"https://www.cdc.gov/healthy-schools-training/php/tot/\">Trainer preparation</a> needs opportunities to rehearse explanations, handle questions, and receive feedback on delivery.</p>",
+    "opening_html": "<p>One capable instructor can reach only so many people. Train-the-trainer creates more people who can carry the teaching forward. Participants learn the subject, observe how it is taught, and <a href=\"/technologies/apprenticeship/#practice-and-feedback\">practice teaching it themselves</a>.</p><p>That last step changes the task. Knowing an answer differs from noticing why another person cannot follow it. <a href=\"https://www.cdc.gov/healthy-schools-training/php/tot/\">Trainer preparation</a> needs opportunities to rehearse explanations, handle questions, and receive feedback on delivery.</p>",
     "sections": [
       {
         "id": "copy-the-capability-not-just-the-slides",
@@ -487,7 +424,7 @@
       {
         "id": "the-story-opens-a-discussion",
         "title": "The story opens a discussion",
-        "html": "<p>Imagine a volunteer describing the evening a new member nearly left because everyone assumed someone else had greeted them. The account gives a group something concrete to investigate. Who noticed? What made intervening awkward? What could have changed the encounter? A <a href=\"https://www.betterevaluation.org/sites/default/files/Toolkit_2014.pdf\">story-dialogue process</a> can <a href=\"/technologies/what-so-what-now-what/\">move from an experience into interpretation and possible action</a>.</p><p>The narrator’s perspective still matters. The newcomer may remember a different problem, while someone omitted from the story may have done important work. Inviting additional accounts can turn a compelling narrative into a fuller inquiry.</p><p>Stories can also make a rare event feel typical. A memorable success does not reveal how often the same approach failed, and an elegant ending can conceal uncertainty. Their strength is helping people imagine a situation and care about its consequences. They become more trustworthy when that imaginative force remains connected to questions and other evidence.</p>"
+        "html": "<p>Imagine a volunteer describing the evening a new member nearly left because everyone assumed someone else had greeted them. The account gives a group something concrete to investigate. Who noticed? What made intervening awkward? What could have changed the encounter? A <a href=\"https://www.betterevaluation.org/sites/default/files/Toolkit_2014.pdf\">story-dialogue process</a> can move from an experience into interpretation and possible action.</p><p>The narrator’s perspective still matters. The newcomer may remember a different problem, while someone omitted from the story may have done important work. Inviting additional accounts can turn a compelling narrative into a fuller inquiry.</p><p>Stories can also make a rare event feel typical. A memorable success does not reveal how often the same approach failed, and an elegant ending can conceal uncertainty. Their strength is helping people imagine a situation and care about its consequences. They become more trustworthy when that imaginative force remains connected to questions and other evidence.</p><p><a href=\"/technologies/origin-stories/\">Origin stories</a> use this narrative power to explain a group’s beginnings and identity. <a href=\"/technologies/oral-history/\">Oral history</a> records participants’ accounts so later readers can examine perspectives that an official narrative might omit.</p>"
       }
     ],
     "sources": [
@@ -597,12 +534,12 @@
     "id": "T028",
     "title": "Peer review of work",
     "description": "Let people examine one another’s work against shared expectations, supplying perspectives the creator cannot easily provide alone.",
-    "opening_html": "<p>When you know what you meant, it is easy to overlook what another person actually sees. Peer review introduces that other perspective before—or sometimes after—work is accepted. A colleague reads a draft, tests an explanation, or examines a design and identifies what needs attention.</p><p>The <a href=\"https://teaching.cornell.edu/teaching-resources/assessing-student-learning/peer-assessment\">peer-assessment approach</a> also makes standards visible. Explaining why a passage is unclear or an argument unsupported teaches something to the reviewer as well as the author.</p>",
+    "opening_html": "<p>When you know what you meant, it is easy to overlook what another person actually sees. Peer review introduces that other perspective before—or sometimes after—work is accepted. A colleague reads a draft, tests an explanation, or examines a design and identifies what needs attention.</p><p>The <a href=\"https://teaching.cornell.edu/teaching-resources/assessing-student-learning/peer-assessment\">peer-assessment approach</a> also makes standards visible. Explaining why a passage is unclear or an argument unsupported teaches something to the reviewer as well as the author.</p><p><a href=\"/technologies/blind-review/\">Blind review</a> can conceal specified identity information when familiarity or reputation would distract from the work. It changes what reviewers see, while leaving the need for relevant expertise and substantive reasons intact.</p>",
     "sections": [
       {
         "id": "feedback-someone-can-use",
         "title": "Feedback someone can use",
-        "html": "<p>Suppose members of a neighborhood group review one another’s grant applications. “This is weak” gives little direction. “I cannot find who will maintain the equipment after the grant ends” identifies a question the author can answer. Shared criteria help keep the feedback connected to the work’s purpose.</p><p>Being a peer does not guarantee relevant expertise or freedom from rivalry. Reviewers may disagree, miss an error together, or reward familiar approaches. Multiple views and clear responsibility for the final decision can prevent a review from masquerading as an objective verdict.</p><p>The timing matters too. When feedback feeds into repeated attempts, review can support <a href=\"/technologies/deliberate-practice-with-feedback/\">deliberate practice</a>. Early feedback can change the structure of a project; late feedback may only correct details. Saying which kinds of changes are still possible lets reviewers concentrate their attention. Useful review makes revision more informed rather than merely adding another approval hurdle.</p>"
+        "html": "<p>Suppose members of a neighborhood group review one another’s grant applications. “This is weak” gives little direction. “I cannot find who will maintain the equipment after the grant ends” identifies a question the author can answer. Shared criteria help keep the feedback connected to the work’s purpose.</p><p>Being a peer does not guarantee relevant expertise or freedom from rivalry. Reviewers may disagree, miss an error together, or reward familiar approaches. Multiple views and clear responsibility for the final decision can prevent a review from masquerading as an objective verdict.</p><p>The timing matters too. When feedback feeds into repeated attempts, review can support deliberate practice. Early feedback can change the structure of a project; late feedback may only correct details. Saying which kinds of changes are still possible lets reviewers concentrate their attention. Useful review makes revision more informed rather than merely adding another approval hurdle.</p>"
       }
     ],
     "sources": [
@@ -755,7 +692,7 @@
       {
         "id": "remembering-without-becoming-stuck",
         "title": "Remembering without becoming stuck",
-        "html": "<p>Imagine a community venue deciding not to open on Sundays because it lacks volunteer coverage. A short record prevents newcomers from interpreting the closure as an unchangeable principle. When more volunteers arrive, the reason for the old decision supplies a clear basis for reconsideration. A <a href=\"/technologies/policy-review-dates/\">review date</a> can give that reconsideration a place on the calendar.</p><p>The log is particularly valuable for people who were absent. They can distinguish an idea someone mentioned from an adopted agreement. Recording when a decision replaces an earlier one prevents two contradictory instructions from remaining equally plausible.</p><p>Writing can also conceal disagreement. A tidy summary should not erase a material uncertainty or imply unanimous support where none existed. Nor should a public log expose private information simply to demonstrate transparency. The useful record is brief enough to maintain and rich enough to explain what the group is committed to, under which assumptions, and until what changes.</p>"
+        "html": "<p>Imagine a community venue deciding not to open on Sundays because it lacks volunteer coverage. A short record prevents newcomers from interpreting the closure as an unchangeable principle. When more volunteers arrive, the reason for the old decision supplies a clear basis for reconsideration. A <a href=\"/technologies/sunset-clauses/#review-without-expiry\">review date</a> can give that reconsideration a place on the calendar.</p><p>The log is particularly valuable for people who were absent. They can distinguish an idea someone mentioned from an adopted agreement. Recording when a decision replaces an earlier one prevents two contradictory instructions from remaining equally plausible.</p><p>Writing can also conceal disagreement. A tidy summary should not erase a material uncertainty or imply unanimous support where none existed. Nor should a public log expose private information simply to demonstrate transparency. The useful record is brief enough to maintain and rich enough to explain what the group is committed to, under which assumptions, and until what changes.</p>"
       }
     ],
     "sources": [
@@ -847,7 +784,7 @@
     "id": "T038",
     "title": "Translation networks",
     "description": "Coordinate people with different language skills so information and participation can cross boundaries that would otherwise keep audiences apart.",
-    "opening_html": "<p>A useful document can be effectively unavailable to someone who cannot understand its language. Translation networks organize the people who can cross that boundary. Tasks may include translating text, reviewing it, producing subtitles, or <a href=\"/technologies/accessibility-arrangements/\">making spoken material accessible</a>.</p><p><a href=\"https://translatorswithoutborders.org/join-the-twb-community/\">Translation communities bring together several kinds of work</a>, so coordination involves more than finding one bilingual volunteer. Different media and subjects require different combinations of skill and review.</p>",
+    "opening_html": "<p>A useful document can be effectively unavailable to someone who cannot understand its language. Translation networks organize the people who can cross that boundary. Tasks may include translating text, reviewing it, producing subtitles, or making spoken material accessible.</p><p><a href=\"https://translatorswithoutborders.org/join-the-twb-community/\">Translation communities bring together several kinds of work</a>, so coordination involves more than finding one bilingual volunteer. Different media and subjects require different combinations of skill and review.</p>",
     "sections": [
       {
         "id": "whose-meaning-survives-the-journey",
@@ -887,86 +824,6 @@
       }
     ],
     "research_note": "The manifesto states an institutional mission, not measured outcomes; budgets, collection choices, opening hours, and access conditions shape actual provision.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T041",
-    "title": "Troika Consulting",
-    "description": "Use rotating groups of three to give each person focused help on a real challenge while practicing how to offer useful advice.",
-    "opening_html": "<p>People often have relevant experience that never reaches the colleague who needs it. Troika Consulting creates a small, temporary advice circle: one person brings a challenge, while two others help them examine it. Roles rotate so everyone receives and offers help.</p><p>In the <a href=\"https://www.liberatingstructures.com/8-troika-consulting/\">Liberating Structures format</a>, the person seeking help spends part of the exchange listening while the other two discuss the challenge. This interrupts the familiar pattern of immediately defending every objection.</p>",
-    "sections": [
-      {
-        "id": "advice-without-an-obligation-to-obey",
-        "title": "Advice without an obligation to obey",
-        "html": "<p>Suppose three volunteers are preparing different community events. One is struggling to recruit helpers. After clarifying questions, the other two might explore whether the invitation asks for too much commitment or leaves the actual task unclear. Listening without responding can let the volunteer hear a possibility they would otherwise dismiss too quickly.</p><p>The consultants do not acquire authority over the decision. They see only part of the situation, and their suggestions are material for the person to consider. The <a href=\"/technologies/advice-process/\">advice process</a> makes a similar distinction between receiving input and holding decision authority. Keeping the challenge specific makes their limited time more useful.</p><p>Advice can easily become a display of cleverness. Asking what kind of help is wanted, staying with the person’s actual problem, and leaving room for them to identify what was useful keeps the exchange grounded. The rotation matters socially: being helped is an ordinary part of participation, rather than a sign that one member is uniquely deficient.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Troika Consulting",
-        "url": "https://www.liberatingstructures.com/8-troika-consulting/",
-        "access": "sections",
-        "note": "Freshly reviewed roles, rotating consultations, listening phase, and variations."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T042",
-    "title": "Appreciative Interviews",
-    "description": "Investigate concrete moments when collaboration went well to uncover conditions a group might deliberately recreate.",
-    "opening_html": "<p>Groups can become experts on what is wrong while overlooking the arrangements that already help them succeed. Appreciative Interviews begin with a specific successful experience and ask what made it possible. A partner listens closely enough to distinguish useful conditions from a vague claim that everyone worked hard.</p><p>The <a href=\"https://www.liberatingstructures.com/5-appreciative-interviews-ai/\">interview format</a> then brings stories together so the group can look for recurring supports: timely help, freedom to act, a well-designed handoff, or someone making an introduction.</p>",
-    "sections": [
-      {
-        "id": "success-as-something-to-investigate",
-        "title": "Success as something to investigate",
-        "html": "<p>Imagine volunteers recalling occasions when a newcomer became meaningfully involved. One story might reveal a small task with a clear finish; another, an experienced member who stayed available afterward. Those details suggest things the group could provide deliberately rather than attribute to a naturally welcoming atmosphere.</p><p><a href=\"/technologies/storytelling/\">Retelling a partner’s account</a> can reveal what the listener understood and what was easily missed. The storyteller has a chance to correct the interpretation before a neat organizational lesson is built on it.</p><p>Focusing on success is a choice of attention, not proof that harmful experiences are unimportant. Nor does finding a common feature establish that it caused the success. The exercise produces possibilities worth examining and trying. It is most useful when appreciation leads to a more precise account of the work and support behind an achievement.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Appreciative Interviews",
-        "url": "https://www.liberatingstructures.com/5-appreciative-interviews-ai/",
-        "access": "sections",
-        "note": "Freshly read interviewing, partner retelling, and pattern-identification sequence; causal claims kept provisional."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T043",
-    "title": "What, So What, Now What",
-    "description": "Separate what happened, what it might mean, and what to do next so a group can examine its reasoning instead of jumping to action.",
-    "opening_html": "<p>A group can move from one observation to a confident solution in seconds. Someone says attendance fell, someone else decides people are bored, and a new program is announced. “What, So What, Now What” slows that chain into three different conversations.</p><p>The <a href=\"https://www.liberatingstructures.com/9-what-so-what-now-what-w/\">structured reflection</a> begins with observations, proceeds to interpretations, and then considers action. Each stage gives people a chance to notice what the next stage assumes. The sequence can give an <a href=\"/technologies/after-action-reviews/\">after-action review</a> a useful structure without replacing its wider work of gathering perspectives and following up.</p><p>Consider a public lecture with many registrations but few arrivals. “Forty people registered and twelve came” is an observation. “The reminder arrived too late” is an interpretation that needs examination. “Send an earlier reminder next time” is a proposed response. Keeping these apart makes competing explanations easier to see.</p><p>Participants may have observed different things. Someone at the entrance noticed people unable to find the room; the organizer saw only the registration numbers. A shared account can change the interpretation before a remedy is chosen.</p><p>The stages should not imply that facts are always simple or agreed. Uncertainty belongs in the record too. The benefit is an inspectable path from experience to action: people can disagree with a proposed change by showing which observation or inference they understand differently, rather than arguing over conclusions alone.</p>",
-    "sections": [],
-    "sources": [
-      {
-        "title": "What, So What, Now What?",
-        "url": "https://www.liberatingstructures.com/9-what-so-what-now-what-w/",
-        "access": "sections",
-        "note": "Freshly reviewed three-stage sequence and distinction between observation, meaning, and action."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T047",
-    "title": "Unconferences",
-    "description": "Build a gathering’s sessions from participants’ questions and offers rather than requiring a completely predetermined program of speakers.",
-    "opening_html": "<p>At many conferences, the most useful exchange happens when someone discovers another attendee working on the same problem. An unconference brings that possibility into the program itself. Participants propose sessions and help create an agenda responsive to who has actually arrived.</p><p>An <a href=\"https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/\">unconference invitation</a> can be a question, a demonstration, a workshop, or a conversation. Proposing a session need not mean claiming to be its expert.</p><p>Imagine a gathering of independent museums. Someone could offer a demonstration of a cataloging approach; someone else could ask for help welcoming school groups. Participants choose according to the knowledge they can contribute or the problem they want to explore.</p><p>The freedom still needs infrastructure. A visible schedule, usable rooms, time boundaries, and a way to handle overlapping topics keep initiative from becoming confusion. People unfamiliar with the format may need examples and encouragement before they realize that they can propose something.</p><p>Popular sessions are not necessarily the only valuable ones. A small discussion among three people facing an unusual constraint may be more productive than a crowded talk. Judging the event only by audience size can recreate the incentives of a conventional conference. The distinctive opportunity is to connect particular needs and capabilities, including ones the organizers could not have known in advance.</p><p>The exchange can continue through <a href=\"/technologies/communities-of-practice/\">communities of practice</a>, where practitioners return to shared problems over time. <a href=\"/technologies/peer-learning-circles/\">Peer learning circles</a> offer a smaller, recurring setting for participants who want to keep learning together after the event.</p>",
-    "sections": [],
-    "sources": [
-      {
-        "title": "Unconferencing: How to Prepare to Attend an Unconference",
-        "url": "https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/",
-        "access": "existing-research-notes",
-        "note": "Reviewed prior local research notes: An unconference lets participants propose and organize sessions rather than receiving a fully predetermined program. A shared theme and scheduling process turn attendees’ interests into parallel conversations that can range from practical workshops to informal discussion. Original access: search excerpt."
-      }
-    ],
-    "research_note": "Participant control does not remove the need for facilitation and logistics; confidence and familiarity with the format can affect whose sessions happen.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -1013,29 +870,6 @@
       }
     ],
     "research_note": "Challenge can become ritualized opposition unless decision makers engage with it; the military guide requires adaptation for other organizational settings.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T050",
-    "title": "Premortems",
-    "description": "Imagine that a proposed plan has already failed, then identify plausible causes while the group can still change its approach.",
-    "opening_html": "<p>It can be difficult to voice doubt when everyone is excited about a plan. A premortem changes the social permission: participants are told to imagine that the plan has failed and explain how that could have happened. Concern becomes the requested contribution.</p><p>The <a href=\"https://www.gary-klein.com/premortem\">prospective-hindsight exercise</a> is especially useful before people have publicly committed themselves to defending the plan. It asks for possible explanations, not predictions of inevitable disaster.</p>",
-    "sections": [
-      {
-        "id": "borrowing-a-future-failure",
-        "title": "Borrowing a future failure",
-        "html": "<p>Suppose a group plans to launch a <a href=\"/technologies/tool-libraries/\">neighborhood equipment library</a>. Imagining its closure a year later might produce several stories: nobody maintains the equipment, borrowing hours exclude working residents, or the group spends its budget on items few people need. Each story points toward an assumption that can be examined now.</p><p>Writing reasons individually before discussion can keep the first dramatic explanation from capturing everyone’s attention. The group can then distinguish issues it can address from uncertainties it needs to investigate.</p><p>Vividness is not likelihood. An entertaining disaster scenario may distract from a mundane but probable bottleneck. The useful next step is to connect a plausible concern to an action, test, or contingency. A premortem earns its place when it makes a plan more robust, not when participants leave impressed by how many ways they managed to imagine failure.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Premortem",
-        "url": "https://www.gary-klein.com/premortem",
-        "access": "existing-research-notes",
-        "note": "Reviewed prior local research notes: A premortem asks a team to imagine that its proposed plan has already failed and generate plausible reasons. This framing gives participants permission to surface reservations before commitments make them harder to voice. Original access: search excerpt."
-      }
-    ],
-    "research_note": "Imagined causes are hypotheses rather than predictions; the exercise needs follow-up to distinguish manageable risks from vivid but unlikely stories.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -1108,29 +942,6 @@
     "reviewed_on": "2026-11-06"
   },
   {
-    "id": "T310",
-    "title": "Knowledge fairs",
-    "description": "Gather demonstrations and practical experience in one place so people can discover useful approaches and the people who know how to carry them out.",
-    "opening_html": "<p>A large network may contain remarkable practical knowledge that remains invisible outside individual projects. A knowledge fair creates opportunities to encounter that work. Participants offer demonstrations, displays, or short exchanges, while visitors seek ideas relevant to their own situations.</p><p>The <a href=\"https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf\">knowledge-fair format</a> combines discovery with connection. A useful outcome may be <a href=\"/technologies/introductions-by-a-connector/\">finding the person who can explain a method later</a>, rather than learning the whole method during a brief visit.</p>",
-    "sections": [
-      {
-        "id": "beyond-the-attractive-display",
-        "title": "Beyond the attractive display",
-        "html": "<p>Suppose neighborhood associations each present one project: a street garden, an equipment-sharing scheme, or a local archive. Visitors can compare what was attempted and arrange a deeper conversation with organizers facing similar constraints. A physical demonstration may reveal more than a polished summary.</p><p>Presentation skill can distort attention. The most visually impressive stand may hide a fragile project, while an experienced organizer with modest materials has more useful knowledge. Inviting details about costs, failures, and continuing maintenance makes comparison more meaningful.</p><p>The fair needs a bridge to later work. Contact details shared with permission, records of questions, and opportunities for <a href=\"/technologies/cross-community-exchanges/\">follow-up visits</a> keep the exchange from ending with collected brochures. Its value is not the amount of information displayed but the new routes through which practical knowledge can travel.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "The Art of Knowledge Exchange: Knowledge Fair",
-        "url": "https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf",
-        "access": "existing-research-notes",
-        "note": "Reviewed prior local research notes: A knowledge fair gathers demonstrations and accounts of participants’ work so visitors can discover practices and potential partners. The World Bank guide presents it as a way to share experience, increase visibility, and build connections across projects. Original access: search excerpt."
-      }
-    ],
-    "research_note": "Showcasing a practice does not establish its effectiveness; fairs need opportunities to question claims and follow up beyond an attractive presentation.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
     "id": "T051",
     "title": "Recurring open gatherings",
     "description": "Offer a predictable, easy-to-join occasion where repeated encounters can turn unfamiliar faces into people who know one another.",
@@ -1140,6 +951,11 @@
         "id": "make-returning-easier-than-arranging",
         "title": "Make returning easier than arranging",
         "html": "<p>Imagine a resident announcing that they will be at the park entrance every Saturday morning for a gentle walk. Someone can try it once, miss a week, and return without renegotiating membership. Familiarity can develop while the formal commitment stays small.</p><p>“Open” still needs to be legible. A passerby may see a friendly cluster and assume it is a private group. A clear invitation and someone who notices newcomers make a difference that a public announcement alone cannot.</p><p>The arrangement also depends on a person or small group reliably showing up. With <a href=\"/technologies/rotating-hosts/\">rotating hosts</a>, that commitment can be shared. Keeping the activity manageable helps it survive weeks with few attendees. As regulars develop their own friendships, leaving room for new arrivals preserves the original route in. Its power comes from creating repeated possibilities, not requiring every encounter to become a relationship.</p>"
+      },
+      {
+        "id": "occasions-for-conversation",
+        "title": "A program should leave room for people",
+        "html": "<p>A regular gathering can offer a small shared activity without scripting every encounter. <a href=\"https://supernuclear.substack.com/p/how-to-host-lightning-talks\">Short lightning talks</a> let people reveal interests that introductions miss; time afterward lets someone pursue a conversation. An unconference goes further by <a href=\"https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/\">letting participants propose sessions</a>. Either format can give people a reason to approach one another, though a one-off event does not provide the repeated opportunities of a recurring gathering.</p><p>Leaving unstructured time is part of hosting. Filling every break can prevent people from following up, while leaving newcomers alone among established friends can make an apparently open event feel closed. A host can make introductions and offer an obvious place to linger without assigning everyone another exercise.</p><p>A shared walk or journey to a venue can also provide a beginning to a conversation. It is an occasion for contact, not a guarantee of friendship. Keeping the main gathering accessible to people who travel separately, need quiet, or cannot stay afterward prevents these optional moments from becoming hidden conditions of belonging.</p>"
       }
     ],
     "sources": [
@@ -1148,9 +964,27 @@
         "url": "https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed",
         "access": "existing-research-notes",
         "note": "Reviewed existing source registry: **SN-S — Supernuclear, [Stoop Coffee](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed).** A recurring neighborhood gathering and relationship-building account."
+      },
+      {
+        "title": "How to Host Lightning Talks",
+        "url": "https://supernuclear.substack.com/p/how-to-host-lightning-talks",
+        "access": "existing-research-notes",
+        "note": "Reused the prior Lightning talks article and its source notes during consolidation; original recorded access: sections. Freshly reviewed practitioner hosting account; short talks and social follow-up, not comparative outcome research."
+      },
+      {
+        "title": "Unconferencing: How to Prepare to Attend an Unconference",
+        "url": "https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/",
+        "access": "existing-research-notes",
+        "note": "Reused the prior Unconferences article and its source notes during consolidation; original recorded access: existing-research-notes. Reviewed prior local research notes: An unconference lets participants propose and organize sessions rather than receiving a fully predetermined program. A shared theme and scheduling process turn attendees’ interests into parallel conversations that can range from practical workshops to informal discussion. Original access: search excerpt."
+      },
+      {
+        "title": "The Magic of the Better Software Conference",
+        "url": "https://www.dgtlgrove.com/p/the-magic-of-the-better-software",
+        "access": "existing-research-notes",
+        "note": "Reused the prior Protected unstructured time article and its source notes during consolidation; original recorded access: sections. Freshly reviewed flexible schedule and informal conversation example; broader explanation is an editorial design inference."
       }
     ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
+    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence. Consolidated related entries on 2026-11-12 using existing article text and source notes; linked originals were not newly read in this pass.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -1185,7 +1019,7 @@
       {
         "id": "generosity-needs-a-little-coordination",
         "title": "Generosity needs a little coordination",
-        "html": "<p>Imagine an apartment building holding a courtyard gathering. A simple list can show what is already coming and leave room for people to contribute drinks, setup, or cleanup instead of a dish. That flexibility matters for <a href=\"/technologies/accessibility-arrangements/\">someone short of money, time, or access to a kitchen</a>.</p><p>A contribution should not become an entrance fee disguised as generosity. Saying clearly that people can attend without bringing something prevents the format from excluding the neighbor who could most use company.</p><p>Food events still require attention to ingredients, preferences, and handling. <a href=\"https://4-h-volunteer.extension.umn.edu/keep-youth-safe/policies-practices/food\">The host still needs to coordinate food arrangements</a>, even when participants supply the dishes. The social benefit is sharing both the meal and some responsibility for making it possible. It is diminished when everyone enjoys the gathering while the same person remains responsible for everything left afterward.</p>"
+        "html": "<p>Imagine an apartment building holding a courtyard gathering. A simple list can show what is already coming and leave room for people to contribute drinks, setup, or cleanup instead of a dish. That flexibility matters for someone short of money, time, or access to a kitchen.</p><p>A contribution should not become an entrance fee disguised as generosity. Saying clearly that people can attend without bringing something prevents the format from excluding the neighbor who could most use company.</p><p>Food events still require attention to ingredients, preferences, and handling. <a href=\"https://4-h-volunteer.extension.umn.edu/keep-youth-safe/policies-practices/food\">The host still needs to coordinate food arrangements</a>, even when participants supply the dishes. The social benefit is sharing both the meal and some responsibility for making it possible. It is diminished when everyone enjoys the gathering while the same person remains responsible for everything left afterward.</p>"
       }
     ],
     "sources": [
@@ -1208,7 +1042,7 @@
       {
         "id": "the-hours-outside-the-program",
         "title": "The hours outside the program",
-        "html": "<p>At the <a href=\"https://www.dgtlgrove.com/p/the-magic-of-the-better-software\">Better Software Conference</a>, shared accommodation allowed informal encounters to continue beyond scheduled sessions. One participant remembered these extended conversations as a central part of the gathering.</p><p>Imagine a distributed association spending a weekend together to plan its next year. <a href=\"/technologies/protected-unstructured-time/\">Leaving some time unassigned</a> could let members resolve a misunderstanding or discover a collaboration that was absent from the official agenda. Filling every hour with presentations would sacrifice that possibility.</p><p>Residential time is also expensive and unevenly accessible. <a href=\"/technologies/accessibility-arrangements/\">Care responsibilities, travel costs, privacy needs, and fatigue</a> affect who can attend and participate. People should be able to rest or decline an activity without appearing uncommitted. A retreat creates unusually concentrated proximity; it still needs thoughtful boundaries and a way to carry useful commitments back into ordinary life.</p>"
+        "html": "<p>At the <a href=\"https://www.dgtlgrove.com/p/the-magic-of-the-better-software\">Better Software Conference</a>, shared accommodation allowed informal encounters to continue beyond scheduled sessions. One participant remembered these extended conversations as a central part of the gathering.</p><p>Imagine a distributed association spending a weekend together to plan its next year. <a href=\"/technologies/recurring-open-gatherings/#occasions-for-conversation\">Leaving some time unassigned</a> could let members resolve a misunderstanding or discover a collaboration that was absent from the official agenda. Filling every hour with presentations would sacrifice that possibility.</p><p>Residential time is also expensive and unevenly accessible. Care responsibilities, travel costs, privacy needs, and fatigue affect who can attend and participate. People should be able to rest or decline an activity without appearing uncommitted. A retreat creates unusually concentrated proximity; it still needs thoughtful boundaries and a way to carry useful commitments back into ordinary life.</p>"
       }
     ],
     "sources": [
@@ -1217,52 +1051,6 @@
         "url": "https://www.dgtlgrove.com/p/the-magic-of-the-better-software",
         "access": "sections",
         "note": "Freshly read event account; only the residential and extended-conversation example is used, not claims of inevitable organizational decline."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T055",
-    "title": "Protected unstructured time",
-    "description": "Leave genuine room in a gathering for people to choose their own conversations, rest, and discover connections outside the planned agenda.",
-    "opening_html": "<p>A gathering can contain excellent sessions while leaving no time for participants to speak to one another. Protected unstructured time means deliberately resisting the temptation to fill every gap. The space has a purpose even though its contents are not assigned.</p><p>People can follow an unfinished conversation, approach someone whose work interests them, or take the pause they need to participate well later.</p>",
-    "sections": [
-      {
-        "id": "empty-on-the-schedule-useful-in-the-room",
-        "title": "Empty on the schedule, useful in the room",
-        "html": "<p>A conference might leave a long afternoon break after several talks. One group starts comparing projects; two people discover a shared problem; someone else goes for a quiet walk. These outcomes differ, but none requires the organizer to predict the most valuable interaction. At the <a href=\"https://www.dgtlgrove.com/p/the-magic-of-the-better-software\">Better Software Conference</a>, extended informal conversations developed around a flexible program.</p><p>Unstructured time is easier to use when participants have somewhere comfortable to gather and some idea of who is present. Otherwise <a href=\"/dynamics/cliques-and-informal-exclusion/\">established friends may disappear into private groups</a> while newcomers remain stranded. Optional invitations and visible meeting places can help without turning the whole period into another mandatory activity.</p><p>The protection must be real. If the break is routinely consumed by overrunning sessions or urgent work, it exists only on paper. Leaving space is an allocation of attention: the organizer gives up some control so participants can discover purposes of their own.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "The Magic of the Better Software Conference",
-        "url": "https://www.dgtlgrove.com/p/the-magic-of-the-better-software",
-        "access": "sections",
-        "note": "Freshly reviewed flexible schedule and informal conversation example; broader explanation is an editorial design inference."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T056",
-    "title": "Shared journeys",
-    "description": "Turn travel into shared time, allowing people to meet, cooperate, and accumulate experiences before reaching a destination together.",
-    "opening_html": "<p>Travel can be treated as a logistical interval before an event. A shared journey makes it part of the social experience. People have time beside one another, a common destination, and small practical occasions to cooperate before a formal program begins.</p><p>A train carriage, walking route, or coordinated trip can create encounters different from a reception where everyone must choose whom to approach.</p>",
-    "sections": [
-      {
-        "id": "arriving-with-a-shared-beginning",
-        "title": "Arriving with a shared beginning",
-        "html": "<p>At the <a href=\"https://www.dgtlgrove.com/p/the-magic-of-the-better-software\">Better Software Conference</a>, some conversations began on the journey to the venue. The broader possibility is simple: people can arrive with a small shared history rather than start every relationship at the registration desk.</p><p>Imagine a group <a href=\"/technologies/cross-community-exchanges/\">visiting a neighboring town’s community project</a>. Traveling together gives participants a chance to explain what they hope to learn; the return trip lets them compare what they noticed while it is fresh. The journey connects preparation and reflection to the visit itself.</p><p>Togetherness should remain a possibility rather than a demand for constant interaction. Mobility needs, cost, fatigue, and a wish for privacy can make a common route difficult. Providing a clear meeting point and allowing people to travel separately preserves access to the main event. A shared journey adds social time; it should not become a hidden test of who is sufficiently adventurous or available.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "The Magic of the Better Software Conference",
-        "url": "https://www.dgtlgrove.com/p/the-magic-of-the-better-software",
-        "access": "sections",
-        "note": "Freshly read the train-journey episode. Only that brief reported example is attributed; visit scenario and limitations are editorial."
       }
     ],
     "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
@@ -1397,23 +1185,6 @@
       }
     ],
     "research_note": "A mutual contact cannot guarantee trust or cooperation; consent and a clear purpose matter more than merely possessing someone’s contact details.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T064",
-    "title": "Listening pairs",
-    "description": "Give two people protected turns to speak and listen, interrupting the habit of turning every concern into advice or another person’s story.",
-    "opening_html": "<p>Ordinary conversation often involves preparing your reply while someone else is still talking. Listening pairs temporarily change that pattern. One person has a turn to speak; the other concentrates on understanding rather than competing for the floor. Then they exchange roles.</p><p>The <a href=\"https://www.seedsforchange.org.uk/downloads/activelistening.pdf\">active-listening format</a> can include a summary or questions if the speaker wants them. Silence can also be part of the turn rather than an opening that must immediately be filled.</p><p>Suppose two volunteers are reflecting on a demanding event. One may need to explain a difficult moment before deciding what they think about it. A partner who immediately offers solutions can unintentionally close that exploration. Listening first leaves the speaker room to formulate the concern.</p><p>A brief time boundary helps the exchange <a href=\"/dynamics/reciprocity/\">remain reciprocal</a>. It also makes the commitment manageable: neither person is agreeing to become permanently available. The speaker can choose a modest topic and does not have to disclose something private to make the exercise count.</p><p>Good listening does not mean agreeing with every interpretation or assuming responsibility for fixing the problem. Nor does the format make a peer into a therapist. Its contribution is more ordinary: arranging a few minutes in which someone can finish a thought and experience another person making a serious effort to understand it.</p>",
-    "sections": [],
-    "sources": [
-      {
-        "title": "Active Listening",
-        "url": "https://www.seedsforchange.org.uk/downloads/activelistening.pdf",
-        "access": "existing-research-notes",
-        "note": "Reviewed prior local research notes: Listening pairs allocate each person a turn to speak while the other listens. The speaker can choose silence, a summary, or follow-up questions, separating attention to their experience from the listener’s impulse to contribute their own story. Original access: search excerpt."
-      }
-    ],
-    "research_note": "The exercise structures listening but is not therapy or compulsory disclosure; participants need permission to choose what they share.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -1567,7 +1338,7 @@
       {
         "id": "the-neighborhood-is-something-residents-do",
         "title": "The neighborhood is something residents do",
-        "html": "<p>Imagine homes arranged around a shared garden with a common room nearby. Crossing the garden can create casual encounters; a regular activity can give someone a reason to stay. Residents may also share tools or organize practical assistance. The arrangement makes some forms of cooperation easier without requiring every relationship to be intimate.</p><p><a href=\"/technologies/user-participation-in-rulemaking/\">Governing the shared parts</a> is continuing work. Maintenance budgets, noise, guest use, and uneven participation still create disagreements. The design can encourage contact, but it cannot decide which obligations are fair.</p>"
+        "html": "<p>Imagine homes arranged around a shared garden with a common room nearby. Crossing the garden can create casual encounters; a regular activity can give someone a reason to stay. Residents may also share tools or organize practical assistance. The arrangement makes some forms of cooperation easier without requiring every relationship to be intimate.</p><p><a href=\"/technologies/commons-governance/#access-and-rulemaking\">Governing the shared parts</a> is continuing work. Maintenance budgets, noise, guest use, and uneven participation still create disagreements. The design can encourage contact, but it cannot decide which obligations are fair.</p>"
       },
       {
         "id": "who-can-afford-to-join",
@@ -1710,7 +1481,7 @@
       {
         "id": "a-change-others-must-recognize",
         "title": "A change others must recognize",
-        "html": "<p>Imagine a youth organization giving experienced members <a href=\"/technologies/graduated-responsibility/\">responsibility for guiding a new group</a>. A public transition could acknowledge what they have learned and make their new obligations intelligible to younger participants. The ritual connects a personal development to expectations others can recognize.</p><p>The ceremony has little force if nothing changes afterward. If the new role carries no actual responsibility or recognition, participants may reasonably experience it as theater. Conversely, an informal status change without acknowledgment can leave people unsure how to relate to one another.</p><p>Rites can also impose demands people do not freely choose. Belonging should not depend on humiliation, danger, or compulsory disclosure. The meaningful question is what transition the community is recognizing and whether the person can genuinely inhabit the new position. Symbolic action is powerful when it corresponds to a real social change.</p>"
+        "html": "<p>Imagine a youth organization giving experienced members <a href=\"/technologies/succession-planning/#preparing-more-than-one-person\">responsibility for guiding a new group</a>. A public transition could acknowledge what they have learned and make their new obligations intelligible to younger participants. The ritual connects a personal development to expectations others can recognize.</p><p>The ceremony has little force if nothing changes afterward. If the new role carries no actual responsibility or recognition, participants may reasonably experience it as theater. Conversely, an informal status change without acknowledgment can leave people unsure how to relate to one another.</p><p>Rites can also impose demands people do not freely choose. Belonging should not depend on humiliation, danger, or compulsory disclosure. The meaningful question is what transition the community is recognizing and whether the person can genuinely inhabit the new position. Symbolic action is powerful when it corresponds to a real social change.</p>"
       }
     ],
     "sources": [
@@ -2093,7 +1864,7 @@
     "id": "T095",
     "title": "Participation stipends",
     "description": "Pay people for time spent participating so a public process does not rely entirely on those who can afford to contribute unpaid labor.",
-    "opening_html": "<p>An invitation to participate can be formally open while practically excluding someone who cannot miss paid work. A participation stipend recognizes that deliberation, preparation, and attendance take time with a real cost. It makes the process less dependent on unpaid availability.</p><p><a href=\"https://www.involve.org.uk/resource/frequently-asked-questions-citizens-assembly-ni-edition\">Payment for time differs from reimbursing expenses</a>. A person may need both compensation and help with transport, childcare, or <a href=\"/technologies/accessibility-arrangements/\">other access needs</a>. Covering a train ticket does not replace lost earnings.</p>",
+    "opening_html": "<p>An invitation to participate can be formally open while practically excluding someone who cannot miss paid work. A participation stipend recognizes that deliberation, preparation, and attendance take time with a real cost. It makes the process less dependent on unpaid availability.</p><p><a href=\"https://www.involve.org.uk/resource/frequently-asked-questions-citizens-assembly-ni-edition\">Payment for time differs from reimbursing expenses</a>. A person may need both compensation and help with transport, childcare, or other access needs. Covering a train ticket does not replace lost earnings.</p>",
     "sections": [
       {
         "id": "the-payment-changes-who-can-say-yes",
@@ -2110,29 +1881,6 @@
       }
     ],
     "research_note": "Payment can reduce some barriers but cannot guarantee representative participation; care responsibilities, scheduling, and trust also affect who can attend.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T096",
-    "title": "Accessibility arrangements",
-    "description": "Design participation around different access needs so people can understand, enter, and contribute to an event instead of merely being invited.",
-    "opening_html": "<p>An invitation is not usable if someone cannot enter the room, hear the discussion, read the material, or follow the platform. Accessibility arrangements turn an abstract welcome into practical conditions for participation. They concern the venue, communication, timing, materials, and available ways to contribute.</p><p><a href=\"https://www.w3.org/WAI/teach-advocate/accessible-presentations/\">Accessible-event planning</a> starts before the event. Advance information lets someone judge whether an arrangement will work and communicate a need without discovering the barrier at the door.</p>",
-    "sections": [
-      {
-        "id": "different-routes-to-the-same-participation",
-        "title": "Different routes to the same participation",
-        "html": "<p>Imagine a community meeting offering readable material beforehand, captions for remote participants, clear microphone use, and a way to submit comments without speaking publicly. These provisions address different obstacles; one cannot stand in for all the others.</p><p>Organizers also need a route for requests that their plan did not anticipate. Asking about requirements privately is more useful than asking someone to announce a personal condition to the whole group. The response should explain what can be provided and where a limitation remains.</p><p>Accessibility is not a separate audience’s special interest. Conditions change: someone is temporarily injured, joining from a noisy place, unfamiliar with the language, or balancing care responsibilities. <a href=\"/technologies/translation-networks/\">Translation support</a>, for example, can address a language barrier. Offering more than one workable route makes participation less fragile. The relevant result is whether people can exercise their role in the event, not whether the organizer has completed <a href=\"/technologies/checklists/\">a checklist</a>.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Making Events Accessible",
-        "url": "https://www.w3.org/WAI/teach-advocate/accessible-presentations/",
-        "access": "existing-research-notes",
-        "note": "Reviewed prior local research notes: Accessibility arrangements change an event’s venue, communication, materials, and participation options to accommodate differing needs. W3C’s checklist treats physical access, remote platforms, captions, interpretation, and advance information as planning responsibilities rather than last-minute favors. Original access: search excerpt."
-      }
-    ],
-    "research_note": "No single checklist anticipates every participant’s needs; organizers must communicate, provide usable information, and respond when the planned arrangements prove insufficient.",
     "reviewed_on": "2026-11-06"
   },
   {
@@ -2263,7 +2011,7 @@
     "id": "T312",
     "title": "Pilgrimage",
     "description": "Organize a journey toward a meaningful destination, joining travel, shared practice, and encounters that connect participants to a wider tradition.",
-    "opening_html": "<p>A pilgrimage makes reaching a place part of a meaningful undertaking. The journey can involve preparation, hardship, ritual, hospitality, and time among people who share a destination. Its significance is not exhausted by <a href=\"/technologies/shared-journeys/\">the practical act of traveling there</a>.</p><p>In <a href=\"https://ich.unesco.org/en/RL/pilgrimage-to-the-st-thaddeus-apostle-monastery-01571?RL=01571\">the pilgrimage to St. Thaddeus Apostle Monastery</a>, gathering, worship, procession, and time together form part of an Armenian Christian heritage practice. Other pilgrimages belong to different histories and should not be collapsed into one universal experience.</p>",
+    "opening_html": "<p>A pilgrimage makes reaching a place part of a meaningful undertaking. The journey can involve preparation, hardship, ritual, hospitality, and time among people who share a destination. Its significance is not exhausted by the practical act of traveling there.</p><p>In <a href=\"https://ich.unesco.org/en/RL/pilgrimage-to-the-st-thaddeus-apostle-monastery-01571?RL=01571\">the pilgrimage to St. Thaddeus Apostle Monastery</a>, gathering, worship, procession, and time together form part of an Armenian Christian heritage practice. Other pilgrimages belong to different histories and should not be collapsed into one universal experience.</p>",
     "sections": [
       {
         "id": "a-temporary-community-on-the-road",

@@ -474,15 +474,6 @@
       }
     ]
   },
-  "R-T010": {
-    "text": "**R-T010 — Deliberate practice with feedback.** [The Role of Deliberate Practice in the Acquisition of Expert Performance](https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf) — Psychological Review / Ericsson, Krampe and Tesch-Römer. research paper; access: search excerpt.",
-    "links": [
-      {
-        "title": "The Role of Deliberate Practice in the Acquisition of Expert Performance",
-        "url": "https://blogs.ischool.berkeley.edu/i225s14/files/2014/04/Ericsson-1993-article.pdf"
-      }
-    ]
-  },
   "R-T011": {
     "text": "**R-T011 — Job shadowing.** [Federal Leadership Development Programs: Shadowing Assignments](https://www.opm.gov/policy-data-oversight/training-and-development/federal-leadership-development-programs/) — US Office of Personnel Management. institutional guide; access: search excerpt.",
     "links": [
@@ -525,24 +516,6 @@
       {
         "title": "New Ways To AMA",
         "url": "https://redditinc.com/news/new-ways-to-ama?version=published"
-      }
-    ]
-  },
-  "R-T017": {
-    "text": "**R-T017 — Show-and-tell sessions.** [Agile Tools and Techniques](https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques) — UK Government Digital Service. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Agile Tools and Techniques",
-        "url": "https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques"
-      }
-    ]
-  },
-  "R-T018": {
-    "text": "**R-T018 — Workshops.** [Instructors Handbook](https://docs.carpentries.org/handbooks/instructors.html) — The Carpentries. institutional guide; access: page.",
-    "links": [
-      {
-        "title": "Instructors Handbook",
-        "url": "https://docs.carpentries.org/handbooks/instructors.html"
       }
     ]
   },
@@ -699,24 +672,6 @@
       }
     ]
   },
-  "R-T044": {
-    "text": "**R-T044 — Fishbowl discussion.** [Communities Care: Training Facilitators](https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf) — UNICEF. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Communities Care: Training Facilitators",
-        "url": "https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf"
-      }
-    ]
-  },
-  "R-T047": {
-    "text": "**R-T047 — Unconferences.** [Unconferencing: How to Prepare to Attend an Unconference](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/) — Unconference.net / Kaliya. practitioner method; access: search excerpt.",
-    "links": [
-      {
-        "title": "Unconferencing: How to Prepare to Attend an Unconference",
-        "url": "https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/"
-      }
-    ]
-  },
   "R-T048": {
     "text": "**R-T048 — Delphi process.** [Methodological Guidance for Conducting and Critically Appraising Delphi Panels](https://www.rand.org/content/dam/rand/pubs/tools/TLA3000/TLA3082-1/RAND_TLA3082-1.pdf) — RAND. institutional guide; access: search excerpt.",
     "links": [
@@ -732,15 +687,6 @@
       {
         "title": "A Guide to Red Teaming",
         "url": "https://www.gov.uk/government/publications/a-guide-to-red-teaming"
-      }
-    ]
-  },
-  "R-T050": {
-    "text": "**R-T050 — Premortems.** [Premortem](https://www.gary-klein.com/premortem) — Gary Klein. practitioner method; access: search excerpt.",
-    "links": [
-      {
-        "title": "Premortem",
-        "url": "https://www.gary-klein.com/premortem"
       }
     ]
   },
@@ -768,15 +714,6 @@
       {
         "title": "What Is Deliberative Polling?",
         "url": "https://deliberation.stanford.edu/what-deliberative-pollingr"
-      }
-    ]
-  },
-  "R-T310": {
-    "text": "**R-T310 — Knowledge fairs.** [The Art of Knowledge Exchange: Knowledge Fair](https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf) — World Bank. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "The Art of Knowledge Exchange: Knowledge Fair",
-        "url": "https://documents1.worldbank.org/curated/en/922981470418822804/pdf/The-art-of-knowledge-exchange-a-results-focused-planning-guide-for-development-practitioners-in-the-water-sector.pdf"
       }
     ]
   },
@@ -822,15 +759,6 @@
       {
         "title": "Organizing for Effective Advocacy: Introductions",
         "url": "https://ctb.ku.edu/en/book/export/html/994"
-      }
-    ]
-  },
-  "R-T064": {
-    "text": "**R-T064 — Listening pairs.** [Active Listening](https://www.seedsforchange.org.uk/downloads/activelistening.pdf) — Seeds for Change. practitioner method; access: search excerpt.",
-    "links": [
-      {
-        "title": "Active Listening",
-        "url": "https://www.seedsforchange.org.uk/downloads/activelistening.pdf"
       }
     ]
   },
@@ -1059,15 +987,6 @@
       }
     ]
   },
-  "R-T096": {
-    "text": "**R-T096 — Accessibility arrangements.** [Making Events Accessible](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) — World Wide Web Consortium Web Accessibility Initiative. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Making Events Accessible",
-        "url": "https://www.w3.org/WAI/teach-advocate/accessible-presentations/"
-      }
-    ]
-  },
   "R-T097": {
     "text": "**R-T097 — Confidentiality agreements.** [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) — Chatham House. practitioner method; access: page.",
     "links": [
@@ -1284,15 +1203,6 @@
       }
     ]
   },
-  "R-T130": {
-    "text": "**R-T130 — Dot voting.** [Dot Voting](https://gamestorming.com/dot-voting/) — Gamestorming. practitioner method; access: search excerpt.",
-    "links": [
-      {
-        "title": "Dot Voting",
-        "url": "https://gamestorming.com/dot-voting/"
-      }
-    ]
-  },
   "R-T131": {
     "text": "**R-T131 — Quadratic voting.** [Quadratic Voting: How Mechanism Design Can Radicalize Democracy](https://www.aeaweb.org/articles?id=10.1257/pandp.20181002) — American Economic Association. research paper; access: abstract.",
     "links": [
@@ -1317,15 +1227,6 @@
       {
         "title": "Apply for a proxy vote",
         "url": "https://www.gov.uk/apply-proxy-vote"
-      }
-    ]
-  },
-  "R-T134": {
-    "text": "**R-T134 — Delegation poker.** [Delegation Poker](https://management30.com/practice/delegation-poker/) — Management 3.0. practitioner method; access: search excerpt.",
-    "links": [
-      {
-        "title": "Delegation Poker",
-        "url": "https://management30.com/practice/delegation-poker/"
       }
     ]
   },
@@ -1389,24 +1290,6 @@
       {
         "title": "Frequently Asked Questions",
         "url": "https://robertsrules.com/frequently-asked-questions/"
-      }
-    ]
-  },
-  "R-T149": {
-    "text": "**R-T149 — Agenda-setting procedures.** [Facilitating Meetings](https://seedsforchange.org.uk/downloads/facilitationmeeting.pdf) — Seeds for Change. practitioner method; access: search excerpt.",
-    "links": [
-      {
-        "title": "Facilitating Meetings",
-        "url": "https://seedsforchange.org.uk/downloads/facilitationmeeting.pdf"
-      }
-    ]
-  },
-  "R-T150": {
-    "text": "**R-T150 — Speaking queues.** [Facilitation Tools for meetings and workshops](https://www.seedsforchange.org.uk/tools) — Seeds for Change. practitioner method; access: search excerpt.",
-    "links": [
-      {
-        "title": "Facilitation Tools for meetings and workshops",
-        "url": "https://www.seedsforchange.org.uk/tools"
       }
     ]
   },
@@ -1605,15 +1488,6 @@
       {
         "title": "The Scrum Guide (2020)",
         "url": "https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf"
-      }
-    ]
-  },
-  "R-T168": {
-    "text": "**R-T168 — Independent microenterprises.** [Extending social security to workers in micro and small enterprises](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf) — International Labour Organization. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Extending social security to workers in micro and small enterprises",
-        "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40soc_sec/documents/publication/wcms_749431.pdf"
       }
     ]
   },
@@ -2247,42 +2121,6 @@
       }
     ]
   },
-  "R-T246": {
-    "text": "**R-T246 — Resource boundaries.** [Beyond Markets and States: Polycentric Governance of Complex Economic Systems](https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf) — Nobel Prize; Elinor Ostrom. research paper; access: search excerpt.",
-    "links": [
-      {
-        "title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
-        "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
-      }
-    ]
-  },
-  "R-T247": {
-    "text": "**R-T247 — User participation in rulemaking.** [How to Use the IAD Framework](https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf) — Ostrom Workshop, Indiana University. institutional guide; access: page.",
-    "links": [
-      {
-        "title": "How to Use the IAD Framework",
-        "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf"
-      }
-    ]
-  },
-  "R-T248": {
-    "text": "**R-T248 — Community monitoring.** [How to Use the IAD Framework](https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf) — Ostrom Workshop, Indiana University. institutional guide; access: page.",
-    "links": [
-      {
-        "title": "How to Use the IAD Framework",
-        "url": "https://ostromworkshop.indiana.edu/doc/teaching/how-to-use--iad-framework-slides.pdf"
-      }
-    ]
-  },
-  "R-T249": {
-    "text": "**R-T249 — Graduated sanctions.** [Beyond Markets and States: Polycentric Governance of Complex Economic Systems](https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf) — Nobel Prize; Elinor Ostrom. research paper; access: search excerpt.",
-    "links": [
-      {
-        "title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
-        "url": "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
-      }
-    ]
-  },
   "R-T256": {
     "text": "**R-T256 — Employee ownership.** [An Introduction to ESOPs](https://www.nceo.org/hubfs/assets/pdf/samples/An-Introduction-to-ESOPs-21st-full-cover-preview.pdf) — National Center for Employee Ownership. institutional guide; access: search excerpt.",
     "links": [
@@ -2517,15 +2355,6 @@
       }
     ]
   },
-  "R-T280": {
-    "text": "**R-T280 — Peer nominations.** [Advice for Award Nominators and Endorsers](https://awards.acm.org/binaries/content/assets/awards/advice-for-award-nominators-and-endorsers_07-2025.pdf) — Association for Computing Machinery. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Advice for Award Nominators and Endorsers",
-        "url": "https://awards.acm.org/binaries/content/assets/awards/advice-for-award-nominators-and-endorsers_07-2025.pdf"
-      }
-    ]
-  },
   "R-T282": {
     "text": "**R-T282 — Contributor credits.** [All Contributors Specification](https://allcontributors.org/en/reference/specification/) — All Contributors. practitioner method; access: search excerpt.",
     "links": [
@@ -2625,33 +2454,6 @@
       }
     ]
   },
-  "R-T295": {
-    "text": "**R-T295 — Overlapping handovers.** [Shift handover](https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm) — UK Health and Safety Executive. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Shift handover",
-        "url": "https://www.hse.gov.uk/humanfactors/topics/shift-handover.htm"
-      }
-    ]
-  },
-  "R-T296": {
-    "text": "**R-T296 — Graduated responsibility.** [Common Program Requirements FAQs](https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf) — Accreditation Council for Graduate Medical Education. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Common Program Requirements FAQs",
-        "url": "https://prod2.acgme.org/globalassets/pdfs/faq/common-program-requirements-faqs.pdf"
-      }
-    ]
-  },
-  "R-T297": {
-    "text": "**R-T297 — Leadership pipelines.** [Succession Planning Process](https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/) — U.S. Office of Personnel Management. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Succession Planning Process",
-        "url": "https://www.opm.gov/policy-data-oversight/human-capital-framework/reference-materials/leadership-knowledge-management/successionplanning/"
-      }
-    ]
-  },
   "R-T298": {
     "text": "**R-T298 — Founder transition agreements.** [Leadership Transition: Overcoming the Threat of Founder's Syndrome](https://www.intrac.org/app/uploads/2024/12/Praxis-Series-Paper-No-9-Leadership-Transition-Overcoming-the-Threat-of-Founders-Syndrome.pdf) — INTRAC. institutional guide; access: search excerpt.",
     "links": [
@@ -2679,30 +2481,12 @@
       }
     ]
   },
-  "R-T301": {
-    "text": "**R-T301 — Institutional memory interviews.** [Johnson Space Center Oral History Project](https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html) — NASA. history; access: search excerpt.",
-    "links": [
-      {
-        "title": "Johnson Space Center Oral History Project",
-        "url": "https://history.nasa.gov/wp-content/uploads/static/history/alsj/JSC-OralHist.html"
-      }
-    ]
-  },
   "R-T302": {
     "text": "**R-T302 — Backup ownership.** [Leadership and Governance](https://opensource.guide/pcm/leadership-and-governance/) — GitHub Open Source Guides. institutional guide; access: search excerpt.",
     "links": [
       {
         "title": "Leadership and Governance",
         "url": "https://opensource.guide/pcm/leadership-and-governance/"
-      }
-    ]
-  },
-  "R-T303": {
-    "text": "**R-T303 — Stewardship terms.** [Our 2026 Trustee Search](https://wikimediafoundation.org/our-2026-trustee-search/) — Wikimedia Foundation. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Our 2026 Trustee Search",
-        "url": "https://wikimediafoundation.org/our-2026-trustee-search/"
       }
     ]
   },
@@ -2721,24 +2505,6 @@
       {
         "title": "Oath of Office",
         "url": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/oath-of-office.htm"
-      }
-    ]
-  },
-  "R-T337": {
-    "text": "**R-T337 — Peer juries for awards.** [Grant Review Process](https://www.arts.gov/grants/grant-review-process) — National Endowment for the Arts. institutional guide; access: search excerpt.",
-    "links": [
-      {
-        "title": "Grant Review Process",
-        "url": "https://www.arts.gov/grants/grant-review-process"
-      }
-    ]
-  },
-  "R-T338": {
-    "text": "**R-T338 — Recallable stewardship.** [Stewards: Confirmations and Removal of Access](https://meta.wikimedia.org/wiki/Stewards) — Wikimedia community, Meta-Wiki. practitioner method; access: page.",
-    "links": [
-      {
-        "title": "Stewards: Confirmations and Removal of Access",
-        "url": "https://meta.wikimedia.org/wiki/Stewards"
       }
     ]
   },
@@ -3107,15 +2873,6 @@
       {
         "title": "Patent Buy-Outs: A Mechanism for Encouraging Innovation",
         "url": "https://www.nber.org/papers/w6304"
-      }
-    ]
-  },
-  "R-T348": {
-    "text": "Protecting Their Intellectual Assets. Indexed abstract reviewed; direct page returned 403. 1994 US manufacturing R&D survey, published 2000; no claim of universal or current sector-wide effectiveness.",
-    "links": [
-      {
-        "title": "Protecting Their Intellectual Assets",
-        "url": "https://www.nber.org/papers/w7552"
       }
     ]
   }

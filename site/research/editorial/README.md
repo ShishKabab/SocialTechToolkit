@@ -1,5 +1,7 @@
 # Expanded editorial drafts
 
+Current scope after the 12 November consolidation: 360 autonomous articles and five closely developed pages. The counts in the historical pass notes below describe earlier versions.
+
 This pass develops the 400 remaining catalog entries, including practices, organizational forms, systems, and social dynamics. Awards, Mentorship, Aristocracy, Markets, and Lobbying retain the text developed with the user. The 72 case studies are outside this writing pass.
 
 Every new draft displays: **“AI-assisted draft — this page needs further editorial guidance.”** The homepage also identifies the project as developed with AI and subject to restructuring and editorial revision.
@@ -49,8 +51,12 @@ The four batch `*-relations.json` files and `reviewed-relations.json` record a r
 
 ## Intellectual property and innovation incentives — 8 November 2026
 
-Added eight entries (T341–T348): Intellectual property, Patents, Copyright, Trade secrets, Advance market commitments, Commissioned research and development, Patent buyouts, and Earning from complementary capabilities. The catalog now has 405 entries, including 400 explicitly provisional drafts. Open licensing, Copyleft, and Prize competitions were updated to connect the new concepts; existing grants, contracts, confidentiality, and ownership relationships provide routes into the cluster.
+The innovation cluster covers Intellectual property, Patents, Copyright, Trade secrets, Advance market commitments, Commissioned research and development, and Patent buyouts. Earning from complementary production and services is now explained within Intellectual property. Open licensing, Copyleft, and Prize competitions connect these concepts with grants, contracts, confidentiality, and ownership.
 
 The pages distinguish funding development, rewarding an achievement, supporting future purchases, and earning revenue after disclosure. AMCs can coexist with patents; grants do not inherently confer entrepreneurial upside; prizes do not automatically fund unsuccessful attempts or provide open access; and patent buyouts use existing rights before releasing them. Copyright is not presented as protection for an underlying technical idea.
 
 WIPO supplies definitions and institutional distinctions. The Gavi AMC is an implemented example within the general explanation, not a newly added case dossier or a claim that all AMCs succeed. Patent buyouts are presented as a proposed mechanism with valuation difficulties. Complementary-capability evidence comes from a historical US manufacturing survey and is not generalized into a guaranteed business model. Direct NBER page access returned 403; available indexed abstracts/excerpts were used and recorded accordingly. The eight entries retain the editorial-guidance notice.
+
+## Scope consolidation — 12 November 2026
+
+Forty entries were removed as standalone pages. Facilitation exercises were retired under the owner’s editorial boundary. Components of commons governance, succession, recognition, and institutional review were integrated into broader articles; event formats and supporting practices appear only where they explain those arrangements. Extitutional theory moved into the conceptual guide. Existing source notes were reused with provenance recorded; this pass did not independently verify the linked external sources. The supplied 2020 Great Founder Theory manuscript, especially printed pages 21–30 and 77–88, informed the distinction between arrangements and their components. Its broad definition does not itself exclude all workshop techniques.

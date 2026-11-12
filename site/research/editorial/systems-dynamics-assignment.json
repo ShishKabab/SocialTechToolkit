@@ -729,22 +729,6 @@
     "terms": []
   },
   {
-    "id": "S030",
-    "title": "Extitutional theory",
-    "slug": "extitutional-theory",
-    "kind": "S",
-    "category": "Systems and institutions",
-    "description": "A relational analytical lens, not an organizational template.",
-    "example": "Study participation and mutual recognition alongside formal roles.",
-    "sources": [
-      "EXT"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
     "id": "S031",
     "title": "Assembly democracy",
     "slug": "assembly-democracy",

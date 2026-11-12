@@ -207,10 +207,6 @@
       "reason": "Subscriptions depend on recurring customer support; grants can finance work lacking that revenue base."
     },
     {
-      "id": "T337",
-      "reason": "Peer juries are one component through which funders can assess proposed work."
-    },
-    {
       "id": "T235",
       "reason": "Endowments can provide a continuing financial base for making grants."
     },
@@ -319,12 +315,12 @@
   ],
   "T237": [
     {
-      "id": "T168",
-      "reason": "Small independent enterprises can cooperate on purchasing without merging their businesses."
-    },
-    {
       "id": "T236",
       "reason": "Pooled procurement formalizes shared orders, specifications, financing and delivery."
+    },
+    {
+      "id": "T253",
+      "reason": "Producer cooperatives add joint ownership of services or facilities beyond a buying club’s shared orders."
     }
   ],
   "T238": [
@@ -367,12 +363,12 @@
   ],
   "T241": [
     {
-      "id": "T096",
-      "reason": "Accessible application arrangements determine who can enter the lottery before random selection happens."
-    },
-    {
       "id": "T108",
       "reason": "Both use random selection, but allocation lotteries distribute resources while sortition selects people for roles."
+    },
+    {
+      "id": "T242",
+      "reason": "Needs-based allocation is an alternative when differing needs should determine priority rather than a random draw."
     }
   ],
   "T242": [
@@ -411,68 +407,12 @@
   ],
   "T245": [
     {
-      "id": "T246",
-      "reason": "Boundaries define the resource and the users to whom commons rules apply."
-    },
-    {
-      "id": "T248",
-      "reason": "Observation makes resource conditions and compliance visible to users."
-    },
-    {
-      "id": "T247",
-      "reason": "User participation can adapt operational rules as conditions change."
-    },
-    {
-      "id": "T249",
-      "reason": "Graduated consequences can preserve cooperation while responding to violations."
-    }
-  ],
-  "T246": [
-    {
-      "id": "T245",
-      "reason": "Boundaries are a component of a larger institution for shared resource care."
-    },
-    {
-      "id": "D032",
-      "reason": "Drawing access boundaries also shapes group membership and contested exclusion."
-    }
-  ],
-  "T247": [
-    {
-      "id": "D007",
-      "reason": "Participation in use produces knowledge that can improve the rules governing it."
-    },
-    {
-      "id": "T105",
-      "reason": "Consultation gathers input without necessarily transferring authority to modify rules."
-    },
-    {
-      "id": "T245",
-      "reason": "User rulemaking is one component of commons governance."
-    }
-  ],
-  "T248": [
-    {
-      "id": "T247",
-      "reason": "Monitoring supplies information, while participation in rulemaking determines the operating rules."
-    },
-    {
-      "id": "T308",
-      "reason": "Participatory mapping can collect and make shared observations usable."
-    },
-    {
-      "id": "T245",
-      "reason": "Commons governance combines observation with access rules, decisions and responses to violations."
-    }
-  ],
-  "T249": [
-    {
       "id": "T238",
-      "reason": "Shared equipment creates concrete obligations that graduated sanctions can help enforce."
+      "reason": "Tool libraries make commons access, maintenance, monitoring, and consequences concrete in a shared collection."
     },
     {
-      "id": "T155",
-      "reason": "Appeals let participants challenge errors in the application of sanctions."
+      "id": "S028",
+      "reason": "Polycentric governance connects local resource rules with decisions spanning several communities."
     }
   ],
   "T250": [
@@ -514,10 +454,6 @@
     }
   ],
   "T253": [
-    {
-      "id": "T168",
-      "reason": "Independent producers can share services while retaining separate enterprises."
-    },
     {
       "id": "T237",
       "reason": "Shared purchasing can be one bounded function of a producer cooperative."
@@ -563,7 +499,7 @@
       "reason": "Mission continuity depends on preparing and selecting capable future stewards."
     },
     {
-      "id": "T338",
+      "id": "T114",
       "reason": "Recallable authority can address accountability gaps that purpose restrictions do not resolve."
     }
   ],
@@ -613,7 +549,7 @@
       "reason": "Sponsors need authority and information to oversee activity for which they carry responsibility."
     },
     {
-      "id": "T295",
+      "id": "T293",
       "reason": "Leaving a sponsor requires handover of records and live commitments."
     }
   ],
@@ -693,7 +629,7 @@
       "reason": "Copyright supplies rights used to grant permissions over creative expression."
     },
     {
-      "id": "T348",
+      "id": "T341",
       "reason": "Open permissions can coexist with paid complementary production or services."
     }
   ],
@@ -741,7 +677,7 @@
   ],
   "T333": [
     {
-      "id": "T295",
+      "id": "T293",
       "reason": "Coherent accounts support a handover by making the organization’s financial position reconstructible."
     },
     {
@@ -867,24 +803,10 @@
       "reason": "Contributor credits translate selected participation into public acknowledgment; records support but do not determine credit."
     }
   ],
-  "T280": [
-    {
-      "id": "T279",
-      "reason": "Nominations bring achievements into consideration for an award but do not decide the winner."
-    },
-    {
-      "id": "T337",
-      "reason": "A peer jury evaluates the candidates that nominations make visible."
-    }
-  ],
   "T281": [
     {
       "id": "D002",
       "reason": "Appreciation makes a contribution recognizable to the group, not only privately valued by the recipient."
-    },
-    {
-      "id": "T096",
-      "reason": "Accessibility work can be necessary yet less visible than public-facing roles."
     },
     {
       "id": "T282",
@@ -953,10 +875,6 @@
     {
       "id": "T025",
       "reason": "A simulation recreates relevant tasks so behavior can be observed before assigning the real role."
-    },
-    {
-      "id": "T096",
-      "reason": "Assessment arrangements affect whether candidates with different circumstances can participate."
     },
     {
       "id": "T289",
@@ -1035,12 +953,12 @@
       "reason": "Succession becomes fragile when practical knowledge remains concentrated in one person."
     },
     {
-      "id": "T295",
-      "reason": "Overlap gives a successor access to live context and feedback before the predecessor leaves."
+      "id": "T002",
+      "reason": "Apprenticeship develops practical judgment through supervised work before independent responsibility."
     },
     {
-      "id": "T304",
-      "reason": "Demonstrations test whether capability has transferred rather than assuming documents are enough."
+      "id": "T001",
+      "reason": "Mentorship can develop successors through advice, introductions, and support for independent judgment."
     }
   ],
   "T294": [
@@ -1051,44 +969,6 @@
     {
       "id": "T293",
       "reason": "Deputy capacity supports continuity without determining the permanent successor."
-    }
-  ],
-  "T295": [
-    {
-      "id": "T190",
-      "reason": "Handoff protocols identify the information and live obligations that must cross a responsibility boundary."
-    },
-    {
-      "id": "D011",
-      "reason": "Overlap helps surface tacit context before access to its holder disappears."
-    }
-  ],
-  "T296": [
-    {
-      "id": "T011",
-      "reason": "Shadowing can precede responsibility by showing a newcomer the work in context."
-    },
-    {
-      "id": "D007",
-      "reason": "Capability develops through participation, not merely through receiving a title."
-    },
-    {
-      "id": "T115",
-      "reason": "Graduation changes the scope of delegated authority as readiness develops."
-    },
-    {
-      "id": "T297",
-      "reason": "Leadership pipelines connect growing responsibility to preparation for future leadership roles."
-    }
-  ],
-  "T297": [
-    {
-      "id": "T293",
-      "reason": "Pipelines prepare potential successors before a departure makes replacement urgent."
-    },
-    {
-      "id": "D004",
-      "reason": "A closed circle can monopolize development opportunities and then appear uniquely qualified."
     }
   ],
   "T298": [
@@ -1133,24 +1013,6 @@
       "reason": "Exit interviews can feed organizational reflection, while retrospectives examine shared work with current participants."
     }
   ],
-  "T301": [
-    {
-      "id": "T033",
-      "reason": "An institutional archive makes recorded memories findable and usable later."
-    },
-    {
-      "id": "T034",
-      "reason": "Decision logs preserve contemporaneous reasoning that can complement retrospective memories."
-    },
-    {
-      "id": "T022",
-      "reason": "Institutional memory interviews are an organization-focused application of oral history."
-    },
-    {
-      "id": "T300",
-      "reason": "Exit interviews use a departure as an occasion to gather experience and feedback."
-    }
-  ],
   "T302": [
     {
       "id": "T115",
@@ -1173,34 +1035,6 @@
       "reason": "Deputy roles give a named person continuing responsibilities that may also provide backup."
     }
   ],
-  "T303": [
-    {
-      "id": "T112",
-      "reason": "A duration and a cap on repeated service are related but distinct restrictions."
-    },
-    {
-      "id": "T293",
-      "reason": "Predictable endings allow succession preparation before a term expires."
-    },
-    {
-      "id": "T338",
-      "reason": "Removal or non-confirmation provides accountability beyond the mere passage of a fixed term."
-    }
-  ],
-  "T304": [
-    {
-      "id": "T025",
-      "reason": "A rehearsal or simulation can expose gaps before real responsibility transfers."
-    },
-    {
-      "id": "T295",
-      "reason": "Demonstrating work during overlap lets a predecessor answer questions while they remain available."
-    },
-    {
-      "id": "T293",
-      "reason": "Demonstrations verify the capability component of a succession plan."
-    }
-  ],
   "T305": [
     {
       "id": "T274",
@@ -1219,34 +1053,6 @@
     {
       "id": "T146",
       "reason": "The governing charter supplies duties to which an officeholder’s promise can refer."
-    }
-  ],
-  "T337": [
-    {
-      "id": "T153",
-      "reason": "Disclosure helps reveal relationships that could distort a jury’s judgment."
-    },
-    {
-      "id": "T279",
-      "reason": "A jury is one component through which an award recognizes selected achievements."
-    },
-    {
-      "id": "T280",
-      "reason": "Peer nominations determine which candidates a jury is given the opportunity to assess."
-    }
-  ],
-  "T338": [
-    {
-      "id": "T114",
-      "reason": "Popular recall is one removal procedure, distinct from peer confirmation after community input."
-    },
-    {
-      "id": "T295",
-      "reason": "Removing authority needs a practical handover so the shared work continues."
-    },
-    {
-      "id": "T303",
-      "reason": "Fixed terms define the horizon of an appointment; recallability supplies a route to reconsider continued trust."
     }
   ],
   "T340": [
@@ -1287,6 +1093,18 @@
     {
       "id": "T229",
       "reason": "Grants fund creation without requiring later exclusivity."
+    },
+    {
+      "id": "T267",
+      "reason": "Contracts organize paid production and support when income does not depend on exclusive rights."
+    },
+    {
+      "id": "T330",
+      "reason": "A joint venture can connect inventive work with the production and distribution needed to earn from it."
+    },
+    {
+      "id": "T226",
+      "reason": "Subscriptions can sustain continuing service around a reusable design."
     }
   ],
   "T342": [
@@ -1315,16 +1133,12 @@
       "reason": "Trade secrets rely on confidentiality rather than patent disclosure."
     },
     {
-      "id": "T348",
+      "id": "T341",
       "reason": "Complementary capabilities can generate revenue without exclusive control of an invention."
     },
     {
       "id": "T343",
       "reason": "Copyright protects expression and is not a substitute for protecting a technical invention."
-    },
-    {
-      "id": "T341",
-      "reason": "Intellectual property is the broader family containing patents."
     }
   ],
   "T343": [
@@ -1423,28 +1237,6 @@
     {
       "id": "T229",
       "reason": "Grants can finance the attempt rather than purchase rights afterward."
-    }
-  ],
-  "T348": [
-    {
-      "id": "T268",
-      "reason": "Open licensing can permit reuse while other capabilities earn revenue."
-    },
-    {
-      "id": "T267",
-      "reason": "Contracts define paid production, implementation, and service commitments."
-    },
-    {
-      "id": "T226",
-      "reason": "Subscriptions can pay for continuing services."
-    },
-    {
-      "id": "T342",
-      "reason": "Complementary capabilities may substitute for or coexist with patent-based income."
-    },
-    {
-      "id": "T330",
-      "reason": "Joint ventures can combine an invention with another participant’s production or distribution capabilities."
     }
   ]
 }

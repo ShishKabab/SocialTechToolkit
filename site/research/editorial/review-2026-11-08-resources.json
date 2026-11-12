@@ -238,34 +238,6 @@
     "findings": "Replaced research narration with the institutional combination; retained variation and the specific risk of importing rules that do not fit local livelihoods."
   },
   {
-    "id": "T246",
-    "type": "technology",
-    "title": "Resource boundaries",
-    "changed": false,
-    "findings": "The orchard example distinguishes resource scope, overlapping access and exclusion; citation supports the mechanism without a source diary."
-  },
-  {
-    "id": "T247",
-    "type": "technology",
-    "title": "User participation in rulemaking",
-    "changed": false,
-    "findings": "Workshop users develop a rule and confront unequal attendance; the authority-versus-feedback distinction is explained through the situation."
-  },
-  {
-    "id": "T248",
-    "type": "technology",
-    "title": "Community monitoring",
-    "changed": false,
-    "findings": "Path inspections connect observations to action and selective monitoring; source attribution is already attached to a direct claim."
-  },
-  {
-    "id": "T249",
-    "type": "technology",
-    "title": "Graduated sanctions",
-    "changed": false,
-    "findings": "Equipment-return examples explain proportional consequences and appeals; serious-misconduct qualification addresses a specific misreading, not a generic warning."
-  },
-  {
     "id": "T250",
     "type": "technology",
     "title": "Community land trusts",
@@ -504,13 +476,6 @@
     "findings": "Explained what the contribution profile displays instead of presenting a software-specific example as a research finding."
   },
   {
-    "id": "T280",
-    "type": "technology",
-    "title": "Peer nominations",
-    "changed": true,
-    "findings": "Replaced guidance narration with the work of constructing a nomination; preserved the difference between advocacy and selection."
-  },
-  {
     "id": "T281",
     "type": "technology",
     "title": "Public appreciation",
@@ -609,27 +574,6 @@
     "findings": "Replaced narration of role accounts with the continuity function; retained deputy-versus-successor distinction."
   },
   {
-    "id": "T295",
-    "type": "technology",
-    "title": "Overlapping handovers",
-    "changed": false,
-    "findings": "Live questions, cross-checking and the transfer point follow the festival example; time costs directly explain why overlap can fail."
-  },
-  {
-    "id": "T296",
-    "type": "technology",
-    "title": "Graduated responsibility",
-    "changed": true,
-    "findings": "Replaced vague framework narration with its actual medical-training context, avoiding an unsupported universal prescription while preserving the radio illustration."
-  },
-  {
-    "id": "T297",
-    "type": "technology",
-    "title": "Leadership pipelines",
-    "changed": false,
-    "findings": "Development opportunities and favoritism connect directly to readiness; the pipeline metaphor is clarified without narrating its source."
-  },
-  {
     "id": "T298",
     "type": "technology",
     "title": "Founder transition agreements",
@@ -651,32 +595,11 @@
     "findings": "Replaced guidance narration with the purpose of interview questions; preserved reference-related pressure and the right to decline."
   },
   {
-    "id": "T301",
-    "type": "technology",
-    "title": "Institutional memory interviews",
-    "changed": false,
-    "findings": "Multiple perspectives, selective memory and findable recordings belong to the interview mechanism; NASA is described as an actual archive, not a research process."
-  },
-  {
     "id": "T302",
     "type": "technology",
     "title": "Backup ownership",
     "changed": true,
     "findings": "Recast open-source guidance as the access arrangement itself; retained permission boundaries and the need for practical readiness."
-  },
-  {
-    "id": "T303",
-    "type": "technology",
-    "title": "Stewardship terms",
-    "changed": true,
-    "findings": "Replaced the recruitment-page narration with trustees serving renewable terms; preserved distinct choices about duration, renewal and staggered succession."
-  },
-  {
-    "id": "T304",
-    "type": "technology",
-    "title": "Knowledge succession demonstrations",
-    "changed": true,
-    "findings": "Removed the editorial explanation of the catalog label. The handover now moves directly from observable learning to testing capability; limited rehearsal coverage remains explicit."
   },
   {
     "id": "T305",
@@ -691,20 +614,6 @@
     "title": "Oaths of office",
     "changed": true,
     "findings": "Made changing Senate oath wording the subject rather than a history page; retained the gap between public commitment and enforcement."
-  },
-  {
-    "id": "T337",
-    "type": "technology",
-    "title": "Peer juries for awards",
-    "changed": false,
-    "findings": "The NEA example directly explains advisory versus final authority. Professional blind spots and conflicts follow from the peer-selection mechanism."
-  },
-  {
-    "id": "T338",
-    "type": "technology",
-    "title": "Recallable stewardship",
-    "changed": false,
-    "findings": "The distinction between steward confirmation and a popular recall vote prevents a substantive conflation; the archive example and fair-review difficulties are connected."
   },
   {
     "id": "T340",
@@ -761,13 +670,6 @@
     "title": "Patent buyouts",
     "changed": true,
     "findings": "Replaced a detached validation disclaimer with the proposal’s dependence on useful bids and resistance to inflation. Its status as an economic proposal remains explicit."
-  },
-  {
-    "id": "T348",
-    "type": "technology",
-    "title": "Earning from complementary capabilities",
-    "changed": true,
-    "findings": "Recast research narration around what surveyed firms reported, preserving the observational status. Removed the page’s self-description and connected the conclusion to revenue strategies."
   },
   {
     "id": "google-lunar-xprize-no-winner",
