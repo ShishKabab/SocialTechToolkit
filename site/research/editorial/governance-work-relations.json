@@ -9,10 +9,6 @@
       "reason": "Town halls can hear concerns without granting the binding authority an assembly may hold."
     },
     {
-      "id": "T149",
-      "reason": "Agenda rules determine which proposals members can consider."
-    },
-    {
       "id": "T148",
       "reason": "Quorum rules limit when those attending may decide for the whole membership."
     }
@@ -41,19 +37,11 @@
       "reason": "Citizens' juries borrow lay deliberation while serving a different purpose from legal verdicts."
     },
     {
-      "id": "T151",
-      "reason": "Structured rounds can help a small panel hear every participant."
-    },
-    {
       "id": "T102",
       "reason": "Citizens' assemblies provide a related public deliberation format with different scale and design."
     }
   ],
   "T104": [
-    {
-      "id": "T150",
-      "reason": "Speaking queues make access to the floor less dependent on interruption."
-    },
     {
       "id": "T105",
       "reason": "Consultation channels supplement a town hall for people unable to attend."
@@ -83,10 +71,6 @@
       "reason": "A petition can reveal potential volunteers who need concrete opportunities to contribute."
     },
     {
-      "id": "T149",
-      "reason": "Petition rules can give supporters a route onto an institution's agenda."
-    },
-    {
       "id": "T114",
       "reason": "A petition can trigger a recall process rather than merely request a policy change."
     }
@@ -95,10 +79,6 @@
     {
       "id": "T109",
       "reason": "Elections select officeholders while referendums put a specified issue to voters."
-    },
-    {
-      "id": "T149",
-      "reason": "Agenda control shapes which alternatives ever reach a referendum."
     },
     {
       "id": "S032",
@@ -192,10 +172,6 @@
     }
   ],
   "T113": [
-    {
-      "id": "T149",
-      "reason": "The chair influences the questions and time allocated to discussion."
-    },
     {
       "id": "T190",
       "reason": "A structured handoff preserves continuity as the chair rotates."
@@ -297,10 +273,6 @@
       "reason": "Quorum determines whether the body may act, separately from the voting threshold."
     },
     {
-      "id": "T149",
-      "reason": "Agenda setting influences which choice a majority gets to make."
-    },
-    {
       "id": "T121",
       "reason": "Supermajority voting raises the adoption threshold above a simple majority."
     }
@@ -359,10 +331,6 @@
     {
       "id": "T124",
       "reason": "Consent also examines objections, but uses a different threshold from building consensus."
-    },
-    {
-      "id": "T150",
-      "reason": "Speaking queues can protect access to discussion during consensus work."
     },
     {
       "id": "T125",
@@ -458,10 +426,6 @@
     }
   ],
   "T130": [
-    {
-      "id": "T151",
-      "reason": "Structured rounds can surface perspectives before a workshop narrows ideas by voting."
-    },
     {
       "id": "T152",
       "reason": "Private ballots reduce the social influence of visible earlier votes."
@@ -727,44 +691,6 @@
       "reason": "Quorum and a majority threshold answer different procedural questions."
     }
   ],
-  "T149": [
-    {
-      "id": "T115",
-      "reason": "The agenda should identify whether participants have decision authority or are only advising."
-    },
-    {
-      "id": "T320",
-      "reason": "Parliamentary procedure gives members explicit ways to revise proposed business."
-    }
-  ],
-  "T150": [
-    {
-      "id": "T240",
-      "reason": "A speaker list applies queueing to a scarce shared resource: the floor."
-    },
-    {
-      "id": "D020",
-      "reason": "Turn allocation alone cannot remove status differences in whose contribution carries weight."
-    },
-    {
-      "id": "T151",
-      "reason": "Rounds invite every participant, whereas a queue orders those who request a turn."
-    }
-  ],
-  "T151": [
-    {
-      "id": "T063",
-      "reason": "Check-in rounds use a related invitation to speak without forcing disclosure."
-    },
-    {
-      "id": "T150",
-      "reason": "A round differs from a queue by offering each participant a turn."
-    },
-    {
-      "id": "T044",
-      "reason": "Fishbowl discussion separates active discussion from observation while allowing participation to rotate."
-    }
-  ],
   "T152": [
     {
       "id": "D021",
@@ -955,16 +881,8 @@
   ],
   "T320": [
     {
-      "id": "T150",
-      "reason": "Speaking queues help the chair allocate access to debate."
-    },
-    {
       "id": "T227",
       "reason": "Membership dues are an example of substantive business decided through formal motions."
-    },
-    {
-      "id": "T149",
-      "reason": "Agenda rules determine which motions an assembly considers."
     },
     {
       "id": "T148",
@@ -1714,10 +1632,6 @@
     }
   ],
   "T203": [
-    {
-      "id": "T149",
-      "reason": "Agenda-setting power affects whose priorities a coalition takes up."
-    },
     {
       "id": "D028",
       "reason": "Representatives must reconcile the coalition's commitments with obligations to their own organizations."

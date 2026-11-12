@@ -104,7 +104,6 @@
     "location": "Wellington, New Zealand, with international participants",
     "scale": "communities",
     "technology_ids": [
-      "T063",
       "T058",
       "T032",
       "T164",
@@ -206,8 +205,7 @@
       "T232",
       "T258",
       "T227",
-      "T198",
-      "T149"
+      "T198"
     ],
     "summary": "Enspiral developed collaborative funding after a small support crew became overwhelmed by coordination. Members could propose funding buckets, while contributors allocated discretionary money after core costs. Later experience revealed that continuous proposal flows, scattered attention, and idle balances did not automatically produce a coherent shared budget, prompting facilitated rounds and strategic conversations.",
     "outcome": "mixed",
@@ -1285,8 +1283,7 @@
       "T101",
       "T123",
       "T164",
-      "T321",
-      "T150"
+      "T321"
     ],
     "summary": "Occupy Wall Street made a general assembly central to its political practice, using modified consensus and public discussion. Working groups carried out practical tasks, and organizers later introduced a spokescouncil to coordinate them. This was both a way to organize a protest and an attempt to enact the more participatory society participants wanted.",
     "outcome": "mixed",

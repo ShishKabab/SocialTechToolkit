@@ -71,8 +71,8 @@
       "reason": "Reading salons share the use of a text but may emphasize responses rather than disciplined questioning."
     },
     {
-      "id": "T150",
-      "reason": "Speaking queues can support participation when a seminar's open discussion becomes dominated by a few voices."
+      "id": "T003",
+      "reason": "Peer learning circles also make participants responsible for learning together, without requiring a shared text."
     }
   ],
   "T008": [
@@ -95,8 +95,8 @@
       "reason": "A workshop can contain peer-instruction cycles within a larger learning event."
     },
     {
-      "id": "T040",
-      "reason": "Both formats begin with individual thinking before peer exchange, but 1-2-4-All develops ideas rather than testing a concept question."
+      "id": "T003",
+      "reason": "Peer learning circles also organize learning among participants; peer instruction adds a focused cycle of individual answers, discussion, and reconsideration."
     }
   ],
   "T010": [
@@ -159,12 +159,12 @@
   ],
   "T015": [
     {
-      "id": "T149",
-      "reason": "AMAs give participants influence over which questions receive attention."
-    },
-    {
       "id": "T090",
       "reason": "Moderation shapes which questions can be asked and how the exchange remains usable."
+    },
+    {
+      "id": "T004",
+      "reason": "Communities of practice can use question sessions to share experience beyond a single guest encounter."
     }
   ],
   "T016": [
@@ -423,20 +423,6 @@
       "reason": "Public provisioning can sustain shared access beyond individual purchases."
     }
   ],
-  "T040": [
-    {
-      "id": "T151",
-      "reason": "Facilitated rounds provide another way to distribute turns before discussion is dominated by a few speakers."
-    },
-    {
-      "id": "T123",
-      "reason": "Developing contributions in small groups should not be confused with agreement on a decision."
-    },
-    {
-      "id": "T045",
-      "reason": "World Café connects small-group conversations through table changes and shared themes."
-    }
-  ],
   "T041": [
     {
       "id": "T064",
@@ -467,44 +453,14 @@
       "reason": "Retrospectives provide a recurring setting in which this reflection sequence can be used."
     }
   ],
-  "T044": [
-    {
-      "id": "T151",
-      "reason": "Facilitated rounds offer another mechanism for distributing speaking opportunities instead of keeping the same people in the inner circle."
-    },
-    {
-      "id": "T007",
-      "reason": "A Socratic seminar can supply the inquiry inside a fishbowl; the fishbowl itself only arranges speaking and observation."
-    }
-  ],
-  "T045": [
-    {
-      "id": "T149",
-      "reason": "Choosing the questions shapes the agenda even when participants freely develop the conversation."
-    },
-    {
-      "id": "T123",
-      "reason": "Consensus procedures address disagreement explicitly; a summary of dialogue should not imply that agreement has already occurred."
-    }
-  ],
-  "T046": [
-    {
-      "id": "T149",
-      "reason": "Open Space shifts agenda-setting toward participants willing to convene a topic."
-    },
-    {
-      "id": "T047",
-      "reason": "Unconferences are a broader family of participant-programmed gatherings that can borrow Open Space practices."
-    }
-  ],
   "T047": [
     {
-      "id": "T149",
-      "reason": "The schedule is constructed from participant proposals rather than assigned entirely by organizers."
+      "id": "T004",
+      "reason": "Unconferences can connect practitioners whose exchanges continue in a community of practice."
     },
     {
-      "id": "T046",
-      "reason": "Open Space offers a particular protocol for participant-generated sessions within the broader unconference family."
+      "id": "T003",
+      "reason": "Peer learning circles provide a recurring setting for the mutual learning that an unconference concentrates into an event."
     }
   ],
   "T048": [
@@ -715,16 +671,6 @@
     {
       "id": "D006",
       "reason": "Introductions beyond existing close connections can bridge opportunities across groups."
-    }
-  ],
-  "T063": [
-    {
-      "id": "T151",
-      "reason": "The check-in uses a round to distribute a brief opening opportunity."
-    },
-    {
-      "id": "T088",
-      "reason": "Conflict coaching can help someone prepare to address a concern that surfaces but cannot be resolved during a check-in."
     }
   ],
   "T064": [
@@ -939,8 +885,8 @@
       "reason": "Community agreements make some otherwise implicit social norms discussable."
     },
     {
-      "id": "T151",
-      "reason": "Facilitated rounds can give a practical structure to an agreement about inclusive participation."
+      "id": "T090",
+      "reason": "Community moderation applies shared expectations when participation leads to conflict or exclusion."
     }
   ],
   "T084": [

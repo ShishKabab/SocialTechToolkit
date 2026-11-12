@@ -77,7 +77,7 @@
       {
         "id": "more-than-a-microphone",
         "title": "More than a microphone",
-        "html": "<p>Imagine a transport agency proposing to close several stops. A useful town hall would make the proposal understandable, allow residents to explain journeys the planners missed, and record questions that need follow-up. An inaccessible technical presentation followed by ten minutes of questions offers a very different kind of participation.</p><p><a href=\"https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-public-forums/main\">Public-forum facilitation</a> helps manage the gap between an open invitation and a discussion people can actually enter. <a href=\"/technologies/speaking-queues/\">Speaking order</a>, smaller conversations, <a href=\"/technologies/public-consultations/\">written submissions</a>, and a credible facilitator can prevent a few practiced speakers from taking the whole meeting.</p><p>Turnout still is not a representative sample. The absence of objections may mean that affected people were working, lacked transport, or never heard about the event. A town hall becomes more useful when its visible conversation is connected to other ways of listening—and when unanswered questions receive answers afterward.</p>"
+        "html": "<p>Imagine a transport agency proposing to close several stops. A useful town hall would make the proposal understandable, allow residents to explain journeys the planners missed, and record questions that need follow-up. An inaccessible technical presentation followed by ten minutes of questions offers a very different kind of participation.</p><p><a href=\"https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-public-forums/main\">Public-forum facilitation</a> helps manage the gap between an open invitation and a discussion people can actually enter. Speaking order, smaller conversations, <a href=\"/technologies/public-consultations/\">written submissions</a>, and a credible facilitator can prevent a few practiced speakers from taking the whole meeting.</p><p>Turnout still is not a representative sample. The absence of objections may mean that affected people were working, lacked transport, or never heard about the event. A town hall becomes more useful when its visible conversation is connected to other ways of listening—and when unanswered questions receive answers afterward.</p>"
       }
     ],
     "sources": [
@@ -123,7 +123,7 @@
       {
         "id": "support-and-authority",
         "title": "Support does not travel automatically into power",
-        "html": "<p>A group of residents could gather signatures for a safer crossing near a school. The list may help demonstrate demand, recruit volunteers, and secure a meeting. A <a href=\"/technologies/agenda-setting-procedures/\">formal petition system</a> can add a required response or another procedural step, as in <a href=\"https://petition.parliament.uk/help\">the UK Parliament's petition process</a>. Those arrangements differ between institutions.</p><p>Signing is also a relatively small commitment. A petition with many supporters does not reveal how strongly they care, what alternatives they considered, or whether people affected by the proposal were reached. The wording can hide tradeoffs that appear only when implementation begins.</p><p>Its strength is making a request and its constituency legible. Organizers can then use the response to decide whether they have won a change, need a more specific proposal, or have found people willing to do more than sign.</p>"
+        "html": "<p>A group of residents could gather signatures for a safer crossing near a school. The list may help demonstrate demand, <a href=\"/technologies/volunteer-matching/\">recruit volunteers</a>, and secure a meeting. A formal petition system can add a required response or another procedural step, as in <a href=\"https://petition.parliament.uk/help\">the UK Parliament's petition process</a>. Those arrangements differ between institutions.</p><p>Signing is also a relatively small commitment. A petition with many supporters does not reveal how strongly they care, what alternatives they considered, or whether people affected by the proposal were reached. The wording can hide tradeoffs that appear only when implementation begins.</p><p>Its strength is making a request and its constituency legible. Organizers can then use the response to decide whether they have won a change, need a more specific proposal, or have found people willing to do more than sign.</p>"
       }
     ],
     "sources": [
@@ -146,7 +146,7 @@
       {
         "id": "the-question-before-the-answer",
         "title": "Someone still writes the question",
-        "html": "<p>Suppose an association asks members whether to merge with a larger organization. “Do you support more resources for our work?” is not equivalent to presenting the actual merger agreement. A clear ballot needs to make the consequential choice visible, including what happens if voters reject it.</p><p>Binary questions simplify counting but can compress several disagreements into one answer. Someone may support a merger in principle while opposing the proposed terms. A vote cannot recover distinctions that the question never allowed people to express.</p><p>Preparation therefore matters: accessible explanations, scrutiny of claims, enough time to debate, and clarity about implementation. A referendum gives the electorate a final say only over the options placed before it. It does not remove the influence of whoever <a href=\"/technologies/agenda-setting-procedures/\">controls the agenda</a>, drafts the proposal, or decides which alternatives never reach a ballot.</p>"
+        "html": "<p>Suppose an association asks members whether to merge with a larger organization. “Do you support more resources for our work?” is not equivalent to presenting the actual merger agreement. A clear ballot needs to make the consequential choice visible, including what happens if voters reject it.</p><p>Binary questions simplify counting but can compress several disagreements into one answer. Someone may support a merger in principle while opposing the proposed terms. A vote cannot recover distinctions that the question never allowed people to express.</p><p>Preparation therefore matters: accessible explanations, scrutiny of claims, enough time to debate, and clarity about implementation. A referendum gives the electorate a final say only over the options placed before it. It does not remove the influence of whoever controls the agenda, drafts the proposal, or decides which alternatives never reach a ballot.</p>"
       }
     ],
     "sources": [
@@ -279,7 +279,7 @@
     "id": "T113",
     "title": "Rotating chairmanship",
     "description": "Rotating chairmanship shares responsibility for convening and guiding a group's meetings instead of leaving that position permanently with one member.",
-    "opening_html": "<p>The person who chairs a meeting influences more than who speaks next. They help <a href=\"/technologies/agenda-setting-procedures/\">set the agenda</a>, judge when discussion is complete, and become the contact others approach between meetings. Rotating that responsibility prevents it from quietly settling into one person's permanent territory.</p><p>A group might rotate every meeting, every quarter, or across a longer planning cycle. Frequent rotation distributes experience quickly; longer terms give the chair more time to learn the work and maintain continuity.</p>",
+    "opening_html": "<p>The person who chairs a meeting influences more than who speaks next. They help set the agenda, judge when discussion is complete, and become the contact others approach between meetings. Rotating that responsibility prevents it from quietly settling into one person's permanent territory.</p><p>A group might rotate every meeting, every quarter, or across a longer planning cycle. Frequent rotation distributes experience quickly; longer terms give the chair more time to learn the work and maintain continuity.</p>",
     "sections": [
       {
         "id": "passing-on-the-unseen-work",
@@ -422,7 +422,7 @@
       {
         "id": "what-a-majority-settles",
         "title": "What the vote settles",
-        "html": "<p>A majority settles which option will be adopted; it does not establish that the option is wise or that everyone bore an equal burden. If the same small group repeatedly loses votes about its own access needs, a formally fair count can preserve an unfair situation. Protected rights, accommodations, and limits on what can be voted away sit alongside the counting rule.</p><p>The agenda is just as consequential. Choosing between two dates is not the same as deciding whether repairs should happen at all. <a href=\"/technologies/agenda-setting-procedures/\">Whoever frames the motion</a> can narrow the available future before anybody raises a hand. <a href=\"/technologies/quorum-rules/\">Quorum rules</a> address how many people must participate; they do not change what a majority means.</p>"
+        "html": "<p>A majority settles which option will be adopted; it does not establish that the option is wise or that everyone bore an equal burden. If the same small group repeatedly loses votes about its own access needs, a formally fair count can preserve an unfair situation. Protected rights, accommodations, and limits on what can be voted away sit alongside the counting rule.</p><p>The agenda is just as consequential. Choosing between two dates is not the same as deciding whether repairs should happen at all. Whoever frames the motion can narrow the available future before anybody raises a hand. <a href=\"/technologies/quorum-rules/\">Quorum rules</a> address how many people must participate; they do not change what a majority means.</p>"
       }
     ],
     "sources": [
@@ -1104,75 +1104,6 @@
     "reviewed_on": "2026-11-06"
   },
   {
-    "id": "T149",
-    "title": "Agenda-setting procedures",
-    "description": "Decide which questions reach collective attention, in what order, and with enough clarity for people to prepare and participate.",
-    "opening_html": "<p>A meeting can be democratic in its voting and still tightly controlled by whoever chooses the agenda. If a concern never reaches discussion, no majority can support it. Agenda-setting procedures make the path from “someone has an issue” to “the group considers it” more explicit.</p><p>Preparing an agenda means <a href=\"https://seedsforchange.org.uk/downloads/facilitationmeeting.pdf\">gathering topics, identifying their purpose, and agreeing priorities and time allocations</a>. An update, an exploration, and a binding decision demand different preparation. Labeling them prevents an apparently casual conversation from unexpectedly becoming a decision.</p>",
-    "sections": [
-      {
-        "id": "attention-is-a-scarce-resource",
-        "title": "Attention is a scarce resource",
-        "html": "<p>A volunteer committee could invite proposals before a meeting, circulate the draft agenda, and let members <a href=\"/technologies/parliamentary-procedure/\">amend it at the start</a>. An item requesting a budget decision would include the amount and alternatives, giving people who cannot improvise quickly a fairer chance to contribute.</p><p>Order matters too. Placing a contentious issue last can ensure it is considered only after people are tired or have left. Giving every item equal time can bury an urgent problem among routine reports. The person preparing an agenda inevitably exercises judgment; the safeguard is to make that judgment open to challenge. A visible route for adding topics turns control of attention into a governable responsibility rather than an invisible privilege.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Facilitating Meetings",
-        "url": "https://seedsforchange.org.uk/downloads/facilitationmeeting.pdf",
-        "access": "existing-research-notes",
-        "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
-      }
-    ],
-    "research_note": "The guide offers facilitation practice, not causal evidence; control of topic selection can still exclude concerns or privilege established participants.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T150",
-    "title": "Speaking queues",
-    "description": "Allocate turns explicitly so participation depends less on interruption, speed, or the confidence to seize the floor.",
-    "opening_html": "<p>In a crowded discussion, several people begin speaking at once while others give up trying. A speaking queue records who wants to contribute and gives them <a href=\"/technologies/queues/\">a predictable turn</a>. Someone can raise a hand, be acknowledged, and then listen without having to fight continuously for an opening.</p><p><a href=\"https://www.seedsforchange.org.uk/tools\">Facilitation tools such as speaker lists and agreed signals</a> make turn-taking visible. A facilitator may need clearly defined exceptions for urgent process problems or essential clarification. Unexplained exceptions, however, quickly recreate the same informal hierarchy the queue was meant to reduce.</p>",
-    "sections": [
-      {
-        "id": "fair-turns-and-a-coherent-conversation",
-        "title": "Fair turns, coherent conversation",
-        "html": "<p>A neighborhood meeting could display a list of waiting speakers and ask each person to keep their contribution brief. That makes it harder for a few regulars to occupy every gap. Allowing people to pass avoids forcing someone to repeat a point already made.</p><p>A rigid queue has its own costs. By the time a person's turn arrives, the discussion may have moved elsewhere; a sequence of unrelated speeches can replace actual exchange. A facilitator can summarize the current question or close one round before moving on. Equal access to a turn also does not equal equal influence: confidence, language, <a href=\"/dynamics/status-hierarchies/\">status</a>, and preparation still matter. The queue solves the narrower problem of who gets the floor next.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Facilitation Tools for meetings and workshops",
-        "url": "https://www.seedsforchange.org.uk/tools",
-        "access": "existing-research-notes",
-        "note": "Prior local research notes reviewed; original source was not newly opened for this editorial draft."
-      }
-    ],
-    "research_note": "Strict arrival order can fragment discussion, and hand signals need explanation; a queue alone does not equalize confidence or influence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T151",
-    "title": "Facilitated rounds",
-    "description": "Invite each person to speak in turn around a shared question, making room for contributions that open discussion may miss.",
-    "opening_html": "<p>When a facilitator asks an open question, the first confident answer can set the direction for everything that follows. A facilitated round changes the rhythm: each person receives a turn to respond to the same prompt, usually with permission to pass.</p><p>Rounds <a href=\"https://seedsforchange.org.uk/tools\">distribute an opportunity to contribute without requiring people to compete for it</a>. They are especially useful when the group needs to hear everyone's starting point before debating a solution. Unlike a <a href=\"/technologies/speaking-queues/\">speaking queue</a>, a round offers a turn to each person rather than ordering only those who request one.</p>",
-    "sections": [
-      {
-        "id": "a-turn-is-an-invitation",
-        "title": "A turn is an invitation",
-        "html": "<p>A newly formed volunteer team might begin by asking what each person hopes to contribute and what would make participation difficult. The round can reveal a transport problem or a hidden skill that an unstructured conversation would have missed. Listening without immediate rebuttal helps keep early contributions from becoming arguments.</p><p>But equal turns can become uncomfortable compulsory disclosure. People should be able to pass, answer briefly, or contribute another way, especially when the prompt touches on personal experience. Large groups also make rounds slow; a narrowly framed question or smaller circles may be more suitable. The point is not to make everyone speak for the same number of seconds, but to ensure that silence reflects a choice rather than a failure to win attention.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Facilitation Tools for Meetings and Workshops",
-        "url": "https://seedsforchange.org.uk/tools",
-        "access": "search-excerpt",
-        "note": "Relevant search excerpts reviewed for the named procedural mechanism; hypothetical examples are editorial illustrations."
-      }
-    ],
-    "research_note": "Procedural explanation and hypothetical illustration; no claim of demonstrated effectiveness.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
     "id": "T152",
     "title": "Anonymous ballots",
     "description": "Separate a person's identity from their recorded choice so they can vote without having to reveal or defend it to others.",
@@ -1498,7 +1429,7 @@
     "id": "T320",
     "title": "Parliamentary procedure",
     "description": "Give assemblies a shared grammar for proposals, amendments, debate, and votes so large meetings can produce traceable decisions.",
-    "opening_html": "<p>A hundred-person meeting cannot reliably make decisions through ordinary conversation. People need to know what proposal is currently under discussion, how it can be changed, and when the group has actually decided. Parliamentary procedure supplies a shared sequence for those actions.</p><p>A motion puts a proposal before the assembly; amendments modify it; a chair recognizes speakers and applies the adopted rules. When participants meet online, <a href=\"https://robertsrules.com/wp-content/uploads/2020/08/electronic-meeting-sample-rules.pdf\">written motions</a> and <a href=\"/technologies/speaking-queues/\">recognized turns</a> can preserve that structure.</p>",
+    "opening_html": "<p>A hundred-person meeting cannot reliably make decisions through ordinary conversation. People need to know what proposal is currently under discussion, how it can be changed, and when the group has actually decided. Parliamentary procedure supplies a shared sequence for those actions.</p><p>A motion puts a proposal before the assembly; amendments modify it; a chair recognizes speakers and applies the adopted rules. When participants meet online, <a href=\"https://robertsrules.com/wp-content/uploads/2020/08/electronic-meeting-sample-rules.pdf\">written motions</a> and recognized turns can preserve that structure.</p>",
     "sections": [
       {
         "id": "procedure-can-protect-or-obscure",
@@ -2554,7 +2485,7 @@
       {
         "id": "working-together",
         "title": "Agree on what you are joining together to do",
-        "html": "<p>Those differences also put a limit on what everyone can promise. A narrowly shared demand may unite groups whose wider political positions conflict. Expanding the coalition’s platform can therefore weaken the agreement that made cooperation possible.</p><p>Imagine the partners agreeing to campaign for a specific change in housing inspections. They would need to decide who negotiates, how a proposed compromise returns to members, and whether one partner can publicly claim to speak for all. These arrangements become important precisely when the campaign starts to gain influence.</p><p>A large partner can provide staff and visibility while quietly <a href=\"/technologies/agenda-setting-procedures/\">setting the agenda</a>. Smaller partners may contribute community legitimacy without gaining an equivalent voice. A coalition remains useful when shared action offers each participant something meaningful and the terms of cooperation can be discussed openly.</p>"
+        "html": "<p>Those differences also put a limit on what everyone can promise. A narrowly shared demand may unite groups whose wider political positions conflict. Expanding the coalition’s platform can therefore weaken the agreement that made cooperation possible.</p><p>Imagine the partners agreeing to campaign for a specific change in housing inspections. They would need to decide who negotiates, how a proposed compromise returns to members, and whether one partner can publicly claim to speak for all. These arrangements become important precisely when the campaign starts to gain influence.</p><p>A large partner can provide staff and visibility while quietly setting the agenda. Smaller partners may contribute community legitimacy without gaining an equivalent voice. A coalition remains useful when shared action offers each participant something meaningful and the terms of cooperation can be discussed openly.</p><p>A shared <a href=\"/technologies/strategy/\">strategy</a> connects the coalition’s objective to decisions about which actions to take, in what order, and with whose resources.</p>"
       }
     ],
     "sources": [

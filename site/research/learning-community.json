@@ -534,23 +534,6 @@
     "scale": "institutions"
   },
   {
-    "id": "T044",
-    "title": "Fishbowl discussion",
-    "source_title": "Communities Care: Training Facilitators",
-    "url": "https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf",
-    "publisher": "UNICEF",
-    "source_type": "institutional guide",
-    "access": "search excerpt",
-    "finding": "A fishbowl separates active discussion or practice in an inner circle from observation in an outer circle. Rotating participation makes conversational behavior available for reflection while limiting how many people speak at once.",
-    "limitation": "The format structures attention and participation; it does not itself ensure balanced representation or supply a rule for making decisions.",
-    "scenario": "Hypothetically, facilitator trainees could observe four volunteers handling a difficult discussion, then rotate into the inner circle and compare which interventions changed the conversation.",
-    "aliases": [
-      "fishbowl",
-      "inner-outer circle"
-    ],
-    "scale": "groups"
-  },
-  {
     "id": "T047",
     "title": "Unconferences",
     "source_title": "Unconferencing: How to Prepare to Attend an Unconference",

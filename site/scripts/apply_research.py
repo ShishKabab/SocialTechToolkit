@@ -4,7 +4,7 @@ from collections import Counter
 import json
 
 ROOT = Path(__file__).resolve().parents[1]
-FILES = {'learning-community': 79, 'governance-work': 93,
+FILES = {'learning-community': 78, 'governance-work': 91,
          'resources-succession': 86, 'systems-dynamics': 24}
 
 def read(path):
@@ -19,7 +19,7 @@ for name, count in FILES.items():
     assert len(batch) == count, (name, len(batch), count)
     research.extend(batch)
 baseline = {e['id']: e for e in read('research/baseline.json')}
-assert len(research) == len({r['id'] for r in research}) == len(baseline) == 282
+assert len(research) == len({r['id'] for r in research}) == len(baseline) == 279
 assert {r['id'] for r in research} == set(baseline)
 catalog = read('content/catalog.json')
 sources = read('content/sources.json')
@@ -64,8 +64,8 @@ write('content/sources.json', sources)
 write('content/scales.json', scales)
 write('research/remaining-entries.json', sorted(research, key=lambda r: r['id']))
 
-report = ['# Research for the 282 previously unpublished entries', '',
-          'All 282 entries in the omission audit now have a research record. The local site contains all 404 inventory entries. This is an introductory source pass, not a systematic evidence review.', '',
+report = ['# Research for the 279 previously unpublished entries', '',
+          'All 279 entries in the omission audit now have a research record. The local site contains 405 catalog entries. This is an introductory source pass, not a systematic evidence review.', '',
           'Access labels distinguish pages or sections reviewed, abstracts, and search excerpts. A method description is not evidence of effectiveness. Scenarios are editorial examples, not documented case studies. Sources checked on 2026-11-05.', '']
 for category in dict.fromkeys(e['category'] for e in baseline.values()):
     subset = [r for r in research if baseline[r['id']]['category'] == category]

@@ -55,6 +55,8 @@ Before adding or retaining an entry, ask:
 - What arrangement produces that change: a promise, rule, role, incentive, relationship, or shared practice?
 - Does the mechanism deserve its own explanation, or is this better treated as a component or example within another page?
 
+Named facilitation formats and basic meeting mechanics do not warrant standalone entries. This excludes World Café, Fishbowl discussion, Open Space Technology, 1-2-4-All, check-in rounds, agenda-setting procedures, speaking queues, and facilitated rounds. They may appear as components or examples within broader explanations when relevant. Changing how people coordinate is not, by itself, sufficient for inclusion.
+
 Ordinary practices can reveal powerful coordination mechanisms; grand scale is not a requirement. Prefer richer connected explanations over a growing inventory of names. Merge or nest overlapping entries when they do not warrant distinct explanations, updating links and discovery data together. Do not treat every commercial feature as a social technology merely because it has customers.
 
 Subscriptions sit near this boundary. Explain them as one form of recurring funding: commitments can sustain work over time, but their duration, cancellation terms, and concentration determine how much planning they support. Distinguish customer subscriptions from membership dues, patronage, and the explicit sharing of production risk in some community-supported agriculture arrangements. A recurring charge alone does not imply membership, shared governance, or shared risk.

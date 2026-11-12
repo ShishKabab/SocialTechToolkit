@@ -461,10 +461,6 @@
     {
       "id": "T107",
       "reason": "Referendums offer direct decisions without requiring a common meeting."
-    },
-    {
-      "id": "T149",
-      "reason": "Agenda-setting determines which proposals reach the assembly."
     }
   ],
   "S032": [
@@ -475,10 +471,6 @@
     {
       "id": "S031",
       "reason": "Assembly democracy combines direct authority with deliberation in a meeting."
-    },
-    {
-      "id": "T149",
-      "reason": "Agenda-setting shapes a direct vote before the ballot is cast."
     },
     {
       "id": "S033",

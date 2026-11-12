@@ -432,33 +432,6 @@
     ]
   },
   {
-    "id": "T149",
-    "type": "technology",
-    "title": "Agenda-setting procedures",
-    "changed": true,
-    "findings": [
-      "Replaced facilitation-guide narration with the actual agenda-preparation sequence."
-    ]
-  },
-  {
-    "id": "T150",
-    "type": "technology",
-    "title": "Speaking queues",
-    "changed": false,
-    "findings": [
-      "No change: the source supports visible turn-taking; the discussion develops the tension between orderly turns and a coherent conversation."
-    ]
-  },
-  {
-    "id": "T151",
-    "type": "technology",
-    "title": "Facilitated rounds",
-    "changed": true,
-    "findings": [
-      "Removed the claim that rounds are established tools and stated their participation mechanism directly."
-    ]
-  },
-  {
     "id": "T152",
     "type": "technology",
     "title": "Anonymous ballots",

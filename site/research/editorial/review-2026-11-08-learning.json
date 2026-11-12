@@ -252,13 +252,6 @@
     "findings": "Library mission attribution grounds public purpose; subsequent paragraphs explain selection and continuity."
   },
   {
-    "id": "T040",
-    "type": "article",
-    "title": "1-2-4-All",
-    "changed": false,
-    "findings": "1-2-4-All attribution identifies method origin and distinguishes participation from decision authority."
-  },
-  {
     "id": "T041",
     "type": "article",
     "title": "Troika Consulting",
@@ -292,27 +285,6 @@
     "title": "What, So What, Now What",
     "changed": false,
     "findings": "Reflection stages use attendance to introduce observations, interpretations, and action coherently."
-  },
-  {
-    "id": "T044",
-    "type": "article",
-    "title": "Fishbowl discussion",
-    "changed": false,
-    "findings": "Fishbowl explains audience roles, prestige, and consent with a volunteer handoff example."
-  },
-  {
-    "id": "T045",
-    "type": "article",
-    "title": "World Café",
-    "changed": false,
-    "findings": "World Café explains how ideas move and why a synthesis is not a binding decision."
-  },
-  {
-    "id": "T046",
-    "type": "article",
-    "title": "Open Space Technology",
-    "changed": false,
-    "findings": "Owen attribution identifies the method origin; authority boundaries are introduced through the invitation."
   },
   {
     "id": "T047",
@@ -446,13 +418,6 @@
     "title": "Introductions by a connector",
     "changed": false,
     "findings": "Connector explains permission, reputation, and unequal access through a librarian introduction."
-  },
-  {
-    "id": "T063",
-    "type": "article",
-    "title": "Check-in rounds",
-    "changed": false,
-    "findings": "Check-in rounds describe passing and privacy as parts of the invitation."
   },
   {
     "id": "T064",

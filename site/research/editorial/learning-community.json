@@ -305,7 +305,7 @@
     "id": "T015",
     "title": "Ask-me-anything sessions",
     "description": "Give an audience a defined opportunity to question a guest directly, revealing interests that a prepared presentation might overlook.",
-    "opening_html": "<p>A presentation answers questions the speaker has chosen. An ask-me-anything session <a href=\"/technologies/agenda-setting-procedures/\">lets the audience propose the agenda</a>. People can ask about an awkward decision, a practical detail, or an experience that would never appear in a polished talk.</p><p>A bounded session concentrates attention: a known guest is available, questions accumulate, and the exchange has a recognizable end. <a href=\"https://redditinc.com/news/new-ways-to-ama?version=published\">Scheduled online AMAs</a> can also make answered questions easier to find afterward.</p><p>Imagine residents questioning the organizer of a successful neighborhood repair project. They might care less about the opening celebration than about where the tools are stored, who handles complaints, or how the organizer persuaded a property owner to help. The audience can pull useful detail out of an otherwise broad success story.</p><p>“Anything” describes permission to ask, not an obligation to answer. Privacy, expertise, limited time, and <a href=\"/technologies/community-moderation/\">moderation</a> still shape the exchange. Stating those boundaries early avoids promising access the guest cannot provide.</p><p>Selection also matters. Answering only the easiest or most complimentary questions can turn apparent openness into publicity. A moderator can group duplicates and surface substantive unanswered questions without demanding disclosure of private information. The resulting record is strongest when readers can see both the questions and the limits of the answers, rather than only a curated list of favorable remarks.</p>",
+    "opening_html": "<p>A presentation answers questions the speaker has chosen. An ask-me-anything session lets the audience propose the agenda. People can ask about an awkward decision, a practical detail, or an experience that would never appear in a polished talk.</p><p>A bounded session concentrates attention: a known guest is available, questions accumulate, and the exchange has a recognizable end. <a href=\"https://redditinc.com/news/new-ways-to-ama?version=published\">Scheduled online AMAs</a> can also make answered questions easier to find afterward.</p><p>Imagine residents questioning the organizer of a successful neighborhood repair project. They might care less about the opening celebration than about where the tools are stored, who handles complaints, or how the organizer persuaded a property owner to help. The audience can pull useful detail out of an otherwise broad success story.</p><p>“Anything” describes permission to ask, not an obligation to answer. Privacy, expertise, limited time, and <a href=\"/technologies/community-moderation/\">moderation</a> still shape the exchange. Stating those boundaries early avoids promising access the guest cannot provide.</p><p>Selection also matters. Answering only the easiest or most complimentary questions can turn apparent openness into publicity. A moderator can group duplicates and surface substantive unanswered questions without demanding disclosure of private information. The resulting record is strongest when readers can see both the questions and the limits of the answers, rather than only a curated list of favorable remarks.</p>",
     "sections": [],
     "sources": [
       {
@@ -890,23 +890,6 @@
     "reviewed_on": "2026-11-06"
   },
   {
-    "id": "T040",
-    "title": "1-2-4-All",
-    "description": "Move from private reflection to pairs, groups of four, and the whole room so more people can develop and contribute ideas.",
-    "opening_html": "<p>“Any ideas?” often produces the fastest answer from the most comfortable speaker. 1-2-4-All changes what happens before the room hears a proposal. Everyone thinks alone, compares ideas with a partner, joins another pair, and only then brings selected insights to the larger group.</p><p>The <a href=\"https://www.liberatingstructures.com/1-1-2-4-all/\">sequence developed within Liberating Structures</a> gives ideas a chance to form before public competition for attention begins.</p><p>Imagine a neighborhood meeting considering uses for an empty building. Someone reluctant to address fifty people might nevertheless explain an idea clearly to one neighbor. That partner can help develop it, and a group of four can identify a practical question before it reaches the room.</p><p>The quiet beginning matters. If the facilitator introduces their preferred answer first, subsequent discussion can orbit around it. A clear question and a genuinely independent pause make room for different starting points.</p><p>The final report also needs care. Choosing one spokesperson can erase disagreement within a quartet, so participants should be able to preserve a distinctive concern rather than <a href=\"/technologies/consensus-process/\">manufacture consensus</a>. The format generates and develops contributions; it does not decide which proposal has authority. A separate decision process may follow once the room has heard more of what its members know.</p>",
-    "sections": [],
-    "sources": [
-      {
-        "title": "1-2-4-All",
-        "url": "https://www.liberatingstructures.com/1-1-2-4-all/",
-        "access": "sections",
-        "note": "Freshly read sequence and facilitation guidance; outcome promises are not treated as established effects."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
     "id": "T041",
     "title": "Troika Consulting",
     "description": "Use rotating groups of three to give each person focused help on a real challenge while practicing how to offer useful advice.",
@@ -970,89 +953,10 @@
     "reviewed_on": "2026-11-06"
   },
   {
-    "id": "T044",
-    "title": "Fishbowl discussion",
-    "description": "Place a small conversation inside a larger observing group so people can follow an exchange closely and, where designed, rotate into it.",
-    "opening_html": "<p>When everyone in a large room can speak at once, a conversation can become difficult to follow. A fishbowl separates a small speaking circle from a larger observing circle. The group can watch an exchange develop without every comment immediately redirecting it.</p><p><a href=\"https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf\">Fishbowl formats</a> can support discussion, demonstration, or reflection on conversational behavior. Some rotate participants or leave a chair available; others use an agreed inner group for a particular purpose.</p>",
-    "sections": [
-      {
-        "id": "watching-changes-the-conversation",
-        "title": "Watching changes the conversation",
-        "html": "<p>Imagine experienced volunteers discussing a difficult handoff while newcomers observe. The outer circle can notice assumptions that the speakers take for granted. A later exchange gives observers a chance to ask about those moments, turning an ordinary conversation into something others can learn from.</p><p>Who sits inside matters. If the same prestigious people always speak while others watch, the format can reinforce the hierarchy it appears to make visible. Rotation and a clear route into the discussion can make participation more permeable. By comparison, <a href=\"/technologies/facilitated-rounds/\">facilitated rounds</a> distribute speaking turns without separating the room into speakers and observers.</p><p>Observation can also feel exposing. People should know whether the focus is the issue being discussed or the way they communicate. A fishbowl is a way to organize attention, not an automatic method for reaching a decision or representing everyone present. Its value depends on what the outer circle is invited to do with what it notices.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "Communities Care: Training Facilitators",
-        "url": "https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf",
-        "access": "existing-research-notes",
-        "note": "Reviewed prior local research notes: A fishbowl separates active discussion or practice in an inner circle from observation in an outer circle. Rotating participation makes conversational behavior available for reflection while limiting how many people speak at once. Original access: search excerpt."
-      }
-    ],
-    "research_note": "The format structures attention and participation; it does not itself ensure balanced representation or supply a rule for making decisions.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T045",
-    "title": "World Café",
-    "description": "Connect successive small-group conversations so ideas travel across a larger gathering without requiring everyone to speak in one room-wide discussion.",
-    "opening_html": "<p>A lively conversation at one table may never reach the people across the room. World Café organizes several rounds of small-group dialogue, with participants changing tables and carrying ideas into new conversations. The room gradually develops connections between perspectives that began separately.</p><p>The <a href=\"https://theworldcafe.com/key-concepts-resources/world-cafe-method/\">World Café method</a> combines <a href=\"/technologies/agenda-setting-procedures/\">carefully chosen questions</a>, a welcoming setting, rounds of conversation, and a way to collect patterns afterward. The informal atmosphere is supported by deliberate structure.</p>",
-    "sections": [
-      {
-        "id": "ideas-with-more-than-one-home",
-        "title": "Ideas with more than one home",
-        "html": "<p>Suppose a town is discussing what makes its center welcoming. At one table, people focus on seating; at another, opening hours; at another, feeling comfortable without buying anything. As participants move, those ideas can combine into a more useful picture than three disconnected lists.</p><p>A table host may remain to help incoming participants understand what was discussed. That role should preserve questions and disagreement, not turn the previous conversation into an official answer the next group must accept.</p>"
-      },
-      {
-        "id": "dialogue-and-authority",
-        "title": "Dialogue and authority",
-        "html": "<p>The final collection of insights also shapes the result. A polished summary can erase unusual concerns if it reports only the most repeated ideas. The method is good at generating connections and shared understanding; a binding decision still needs an explicit process. People should know whether their conversation will inform a proposal, launch further work, or directly influence someone with authority.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "World Café Method",
-        "url": "https://theworldcafe.com/key-concepts-resources/world-cafe-method/",
-        "access": "sections",
-        "note": "Freshly read small-group rounds, questions, table movement, and harvesting components."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T046",
-    "title": "Open Space Technology",
-    "description": "Let participants create and convene the agenda around a shared theme, with freedom to move toward conversations where they can contribute.",
-    "opening_html": "<p>The people attending a gathering may know more about its useful agenda than the people planning it. Open Space Technology starts from that possibility. Participants <a href=\"/technologies/agenda-setting-procedures/\">propose topics</a> they care about, take responsibility for convening sessions, and choose where to contribute.</p><p>In <a href=\"https://openspaceworld.org/wp2/hho/papers/brief-users-guide-open-space-technology/\">Harrison Owen’s account</a>, the organizer supplies the common theme and conditions for self-organization rather than prescribing every discussion. The freedom includes leaving a session when participation is no longer useful.</p>",
-    "sections": [
-      {
-        "id": "responsibility-follows-interest",
-        "title": "Responsibility follows interest",
-        "html": "<p>Imagine a regional gathering of community organizers. One person proposes a conversation about empty buildings; another wants to compare volunteer recruitment; another offers to work through a stalled project. A shared schedule makes these invitations visible and lets people assemble around actual concerns.</p><p>Proposing a topic is more than suggesting that somebody else discuss it. The convenor gives the session a place, welcomes participants, and helps preserve what emerges. Notes and closing exchanges can connect parallel work without forcing it into one conversation.</p>"
-      },
-      {
-        "id": "the-invitation-has-to-be-genuine",
-        "title": "The invitation has to be genuine",
-        "html": "<p>This is a poor invitation if the real decisions have already been made and organizers want participants to endorse them. It also does not make access equal: confidence, prior relationships, and accessibility affect who proposes and attends. Genuine openness means making the boundaries honest while allowing the agenda inside them to develop in ways the host did not predict.</p>"
-      }
-    ],
-    "sources": [
-      {
-        "title": "A Brief User’s Guide to Open Space Technology",
-        "url": "https://openspaceworld.org/wp2/hho/papers/brief-users-guide-open-space-technology/",
-        "access": "sections",
-        "note": "Freshly reviewed participant agenda, convenor responsibility, movement between sessions, and unsuitable uses."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
     "id": "T047",
     "title": "Unconferences",
     "description": "Build a gathering’s sessions from participants’ questions and offers rather than requiring a completely predetermined program of speakers.",
-    "opening_html": "<p>At many conferences, the most useful exchange happens when someone discovers another attendee working on the same problem. An unconference brings that possibility into the program itself. Participants propose sessions and help <a href=\"/technologies/agenda-setting-procedures/\">create an agenda</a> responsive to who has actually arrived.</p><p>An <a href=\"https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/\">unconference invitation</a> can be a question, a demonstration, a workshop, or a conversation. Proposing a session need not mean claiming to be its expert.</p><p>Imagine a gathering of independent museums. Someone could offer a demonstration of a cataloging approach; someone else could ask for help welcoming school groups. Participants choose according to the knowledge they can contribute or the problem they want to explore.</p><p>The freedom still needs infrastructure. A visible schedule, usable rooms, time boundaries, and a way to handle overlapping topics keep initiative from becoming confusion. People unfamiliar with the format may need examples and encouragement before they realize that they can propose something.</p><p>Popular sessions are not necessarily the only valuable ones. A small discussion among three people facing an unusual constraint may be more productive than a crowded talk. Judging the event only by audience size can recreate the incentives of a conventional conference. The distinctive opportunity is to connect particular needs and capabilities, including ones the organizers could not have known in advance.</p>",
+    "opening_html": "<p>At many conferences, the most useful exchange happens when someone discovers another attendee working on the same problem. An unconference brings that possibility into the program itself. Participants propose sessions and help create an agenda responsive to who has actually arrived.</p><p>An <a href=\"https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/\">unconference invitation</a> can be a question, a demonstration, a workshop, or a conversation. Proposing a session need not mean claiming to be its expert.</p><p>Imagine a gathering of independent museums. Someone could offer a demonstration of a cataloging approach; someone else could ask for help welcoming school groups. Participants choose according to the knowledge they can contribute or the problem they want to explore.</p><p>The freedom still needs infrastructure. A visible schedule, usable rooms, time boundaries, and a way to handle overlapping topics keep initiative from becoming confusion. People unfamiliar with the format may need examples and encouragement before they realize that they can propose something.</p><p>Popular sessions are not necessarily the only valuable ones. A small discussion among three people facing an unusual constraint may be more productive than a crowded talk. Judging the event only by audience size can recreate the incentives of a conventional conference. The distinctive opportunity is to connect particular needs and capabilities, including ones the organizers could not have known in advance.</p><p>The exchange can continue through <a href=\"/technologies/communities-of-practice/\">communities of practice</a>, where practitioners return to shared problems over time. <a href=\"/technologies/peer-learning-circles/\">Peer learning circles</a> offer a smaller, recurring setting for participants who want to keep learning together after the event.</p>",
     "sections": [],
     "sources": [
       {
@@ -1493,23 +1397,6 @@
       }
     ],
     "research_note": "A mutual contact cannot guarantee trust or cooperation; consent and a clear purpose matter more than merely possessing someone’s contact details.",
-    "reviewed_on": "2026-11-06"
-  },
-  {
-    "id": "T063",
-    "title": "Check-in rounds",
-    "description": "Give everyone a brief opening turn so the group can notice relevant circumstances before beginning its shared work.",
-    "opening_html": "<p>Someone arrives distracted, someone has important news, and someone must leave early. Without a check-in, the meeting may interpret these circumstances as disinterest or obstruction. A short opening round lets people share what others need to know before getting to the agenda.</p><p>The <a href=\"https://patterns.sociocracy30.org/check-in.html\">check-in practice</a> <a href=\"/technologies/facilitated-rounds/\">gives each person a turn</a> and allows them to pass. The point is to make participation easier, not require a personal disclosure from everyone present.</p><p>Imagine a planning group where one member says they have only half an hour and another mentions that a recent disagreement remains unresolved. The group can adjust the order of business or arrange a separate conversation instead of discovering the problem halfway through a decision.</p><p>The invitation should fit the setting. Asking for a name and one practical need is different from requesting an intimate emotional account. People should understand how much time is available and whether others will respond.</p><p>A round can become burdensome when every statement opens a new discussion or when passing is treated with suspicion. Keeping it brief preserves its purpose. A check-in offers a little shared context at the beginning; it does not replace the substantive conversation needed when something serious has surfaced.</p>",
-    "sections": [],
-    "sources": [
-      {
-        "title": "Check In",
-        "url": "https://patterns.sociocracy30.org/check-in.html",
-        "access": "sections",
-        "note": "Freshly reviewed purpose, group-round form, and explicit permission to pass."
-      }
-    ],
-    "research_note": "Conceptual explanation grounded in practitioner guidance; illustrative situations are hypothetical, not outcome evidence.",
     "reviewed_on": "2026-11-06"
   },
   {

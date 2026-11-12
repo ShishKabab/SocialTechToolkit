@@ -49,7 +49,7 @@ The four batch `*-relations.json` files and `reviewed-relations.json` record a r
 
 ## Intellectual property and innovation incentives — 8 November 2026
 
-Added eight entries (T341–T348): Intellectual property, Patents, Copyright, Trade secrets, Advance market commitments, Commissioned research and development, Patent buyouts, and Earning from complementary capabilities. The catalog now has 413 entries, including 408 explicitly provisional drafts. Open licensing, Copyleft, and Prize competitions were updated to connect the new concepts; existing grants, contracts, confidentiality, and ownership relationships provide routes into the cluster.
+Added eight entries (T341–T348): Intellectual property, Patents, Copyright, Trade secrets, Advance market commitments, Commissioned research and development, Patent buyouts, and Earning from complementary capabilities. The catalog now has 405 entries, including 400 explicitly provisional drafts. Open licensing, Copyleft, and Prize competitions were updated to connect the new concepts; existing grants, contracts, confidentiality, and ownership relationships provide routes into the cluster.
 
 The pages distinguish funding development, rewarding an achievement, supporting future purchases, and earning revenue after disclosure. AMCs can coexist with patents; grants do not inherently confer entrepreneurial upside; prizes do not automatically fund unsuccessful attempts or provide open access; and patent buyouts use existing rights before releasing them. Copyright is not presented as protection for an underlying technical idea.
 

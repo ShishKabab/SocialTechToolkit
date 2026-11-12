@@ -1289,22 +1289,6 @@
     }
   },
   {
-    "id": "T040",
-    "title": "1-2-4-All",
-    "slug": "1-2-4-all",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Move from individual reflection to pairs, fours, and plenary.",
-    "example": "Broaden participation in idea generation.",
-    "sources": [
-      "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
     "id": "T041",
     "title": "Troika Consulting",
     "slug": "troika-consulting",
@@ -1346,75 +1330,6 @@
     "example": "Reflect after an event.",
     "sources": [
       "LS"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T044",
-    "title": "Fishbowl discussion",
-    "slug": "fishbowl-discussion",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "A small visible conversation is observed by a larger group.",
-    "example": "Let others learn from practitioner dialogue.",
-    "sources": [
-      "R-T044"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [
-      "fishbowl",
-      "inner-outer circle"
-    ],
-    "terms": [],
-    "research": {
-      "id": "T044",
-      "title": "Fishbowl discussion",
-      "source_title": "Communities Care: Training Facilitators",
-      "url": "https://www.unicef.org/media/103896/file/Communities-Care-Part-4-Facilitating-Community-Discussions-Training-Facilitators-Manual-2021.pdf",
-      "publisher": "UNICEF",
-      "source_type": "institutional guide",
-      "access": "search excerpt",
-      "finding": "A fishbowl separates active discussion or practice in an inner circle from observation in an outer circle. Rotating participation makes conversational behavior available for reflection while limiting how many people speak at once.",
-      "limitation": "The format structures attention and participation; it does not itself ensure balanced representation or supply a rule for making decisions.",
-      "scenario": "Hypothetically, facilitator trainees could observe four volunteers handling a difficult discussion, then rotate into the inner circle and compare which interventions changed the conversation.",
-      "aliases": [
-        "fishbowl",
-        "inner-outer circle"
-      ],
-      "scale": "groups",
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T045",
-    "title": "World Café",
-    "slug": "world-cafe",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Rotate small-table conversations and share emerging insights.",
-    "example": "Explore a common question across a large gathering.",
-    "sources": [
-      "WC"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
-  },
-  {
-    "id": "T046",
-    "title": "Open Space Technology",
-    "slug": "open-space-technology",
-    "kind": "P",
-    "category": "Learning and knowledge",
-    "description": "Participants propose sessions and choose where to contribute.",
-    "example": "Convene around a shared concern without a fixed agenda.",
-    "sources": [
-      "OS"
     ],
     "published": true,
     "adaptation": false,
@@ -2014,22 +1929,6 @@
       "scale": "everyday",
       "reviewed_on": "2026-11-05"
     }
-  },
-  {
-    "id": "T063",
-    "title": "Check-in rounds",
-    "slug": "check-in-rounds",
-    "kind": "P",
-    "category": "Belonging and relationships",
-    "description": "Invite each person to share their current state.",
-    "example": "Begin a meeting with awareness of participants.",
-    "sources": [
-      "S3"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
   },
   {
     "id": "T064",
@@ -4806,98 +4705,6 @@
       "adaptation": false,
       "reviewed_on": "2026-11-05"
     }
-  },
-  {
-    "id": "T149",
-    "title": "Agenda-setting procedures",
-    "slug": "agenda-setting-procedures",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Specify how issues reach a decision forum.",
-    "example": "Make control of discussion visible and contestable.",
-    "sources": [
-      "R-T149"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": [
-      "meeting agendas"
-    ],
-    "research": {
-      "id": "T149",
-      "title": "Agenda-setting procedures",
-      "source_title": "Facilitating Meetings",
-      "url": "https://seedsforchange.org.uk/downloads/facilitationmeeting.pdf",
-      "publisher": "Seeds for Change",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "Agenda-setting turns possible discussion topics into an agreed sequence with aims and time allocations. The facilitation guide recommends gathering issues, identifying priorities, and agreeing the agenda so participants know what the meeting must accomplish.",
-      "limitation": "The guide offers facilitation practice, not causal evidence; control of topic selection can still exclude concerns or privilege established participants.",
-      "scenario": "A volunteer committee could collect agenda proposals beforehand, distinguish decisions from updates, and agree time allocations at the start so urgent issues receive adequate discussion.",
-      "aliases": [],
-      "scale": "groups",
-      "terms": [
-        "meeting agendas"
-      ],
-      "adaptation": false,
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T150",
-    "title": "Speaking queues",
-    "slug": "speaking-queues",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Maintain an explicit order for contributions.",
-    "example": "Reduce competition for attention in a meeting.",
-    "sources": [
-      "R-T150"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": [
-      "speaker lists",
-      "speaking stacks"
-    ],
-    "research": {
-      "id": "T150",
-      "title": "Speaking queues",
-      "source_title": "Facilitation Tools for meetings and workshops",
-      "url": "https://www.seedsforchange.org.uk/tools",
-      "publisher": "Seeds for Change",
-      "source_type": "practitioner method",
-      "access": "search excerpt",
-      "finding": "Speaking queues allocate turns by recording who wants to contribute, reducing dependence on interruption or quickness. Facilitation tools can add agreed signals for urgent information or process suggestions while making exceptions to ordinary turn order visible.",
-      "limitation": "Strict arrival order can fragment discussion, and hand signals need explanation; a queue alone does not equalize confidence or influence.",
-      "scenario": "A crowded assembly could use a visible speaker list, with clearly explained exceptions for urgent factual corrections, so quieter participants can request a predictable turn.",
-      "aliases": [],
-      "scale": "groups",
-      "terms": [
-        "speaker lists",
-        "speaking stacks"
-      ],
-      "adaptation": false,
-      "reviewed_on": "2026-11-05"
-    }
-  },
-  {
-    "id": "T151",
-    "title": "Facilitated rounds",
-    "slug": "facilitated-rounds",
-    "kind": "P",
-    "category": "Decisions and authority",
-    "description": "Offer each participant a turn.",
-    "example": "Hear voices beyond frequent speakers.",
-    "sources": [
-      "S3"
-    ],
-    "published": true,
-    "adaptation": false,
-    "aliases": [],
-    "terms": []
   },
   {
     "id": "T152",
